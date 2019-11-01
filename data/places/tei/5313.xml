@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a" xml:lang="en">Ḥuwār - <foreign xml:lang="ar">حوار</foreign>
+        </title>
+        <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <funder>Qatar National Research Foundation</funder>
+        <principal>Haya Al Thani</principal>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif al-Murikhi</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman Chamseddine</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
+        <respStmt>
+          <resp>Yaqūt b. ʿAbdallah al-Ḥamawī data collection by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif Al-Murikhi</name>
+        </respStmt>
+        <respStmt>
+          <resp>al-Bakri data collection by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif Al-Murikhi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Data merging and XML by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Beth Mardutho: The Syriac Institute</authority>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5313/tei</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/3.0/">
+            <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+          </licence>
+        </availability>
+        <date>2019-11-01-05:00</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>This record created following the guidelines for TEI encoding established by Syriaca.org. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+        <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning monastery or church, an administrative province).  Natural features always in existence have no <gi>state</gi> element of @type="existence".</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="srophe-headword">
+            <catDesc>The name used by the Srophé App for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at: 
+                  <ref target="http://syriaca.org/documentation/langusage.xml">http://syriaca.org/documentation/langusage.xml</ref>
+        </p>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+        <place type="region">
+          <placeName xml:id="name5313-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥuwār</placeName>
+          <placeName xml:id="name5313-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">حوار</placeName>
+          <placeName xml:id="name5313-3" xml:lang="en">Ḥiwār</placeName>
+          <placeName xml:id="name5313-4" xml:lang="en">Ḥuwārīn</placeName>
+          <placeName xml:id="name5313-5" xml:lang="ar">حوارين</placeName>
+          <placeName xml:id="name5313-6" xml:lang="ar" source="#bib5313-1">حوار</placeName>
+          <placeName xml:id="name5313-7" xml:lang="ar" source="#bib5313-2">حوارين</placeName>
+          <placeName xml:id="name5313-8" xml:lang="ar" source="#bib5313-3">حوارين</placeName>
+          <desc type="abstract" xml:id="abstract5313-1" xml:lang="en">A region in Baḥrain that is part of Hajar and was conquered by Ziyād b. ʿAmrū b. al-Mandhur b. ʿAṣar.</desc>
+          <desc xml:lang="ar">
+            <quote source="#bib5313-1">وحوار : ناحية من نواحي هجر؛ ويقال لها حوارين أيضا كما نذكره بعد.</quote>
+          </desc>
+          <desc xml:lang="ar">
+            <quote source="#bib5313-2">حوارين : [...] بلدة بالبحرين افتتحها زياد فكان يقال له زياد حوارين، وهو زياد ابن عمرو بن المنذر بن عصر وأخوه خلاس بن عمرو، وكان فقيها من أصحاب علي، رضي الله عنه؛ قاله السمعاني، وقال الحفصي : حوارين، بلفظ التثنية وكسر أوله، والجيار قريتان بالبحرين، كأنه ضم الجيار إلى حوار وسماهما حوارين نحو قولهم القمران</quote>
+          </desc>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5313</idno>
+          <idno type="URI">http://syriaca.org/place/5313</idno>
+          <bibl xml:id="bib5313-1">
+            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <citedRange unit="pp">vol. 2, pp. 314</citedRange>
+          </bibl>
+          <bibl xml:id="bib5313-2">
+            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <citedRange unit="pp">vol. 2, pp. 315</citedRange>
+          </bibl>
+          <bibl xml:id="bib5313-3">
+            <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+            <citedRange unit="pp">vol. 1, 371</citedRange>
+          </bibl>
+        </place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>
