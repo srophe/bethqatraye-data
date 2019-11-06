@@ -73,11 +73,11 @@
   <text>
     <body>
       <listPlace>
-        <place type="unknown">
+        <place type="valley">
           <placeName xml:id="name5458-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Shabā</placeName>
           <placeName xml:id="name5458-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">شَّبَا</placeName>
           <placeName xml:id="name5458-3" xml:lang="ar" source="#bib5458-1">شبا</placeName>
-          <desc type="abstract" xml:id="abstract5458-1" xml:lang="en">ِA valley within the vicinity of Medina [?].</desc>
+          <desc type="abstract" xml:id="abstract5458-1" xml:lang="en">ِA valley within the vicinity of Medina</desc>
           <desc xml:lang="ar">
             <quote source="#bib5458-1">وقال أبو الحسن المهلبي : شبا واد بالأثيل من أعراض المدينة فيه عين يقال لها خيف الشبا لبني جعفر بن إبراهيم من بني جعفر بن أبي طالب</quote>
           </desc>
