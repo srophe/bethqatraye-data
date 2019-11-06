@@ -83,7 +83,6 @@
           </desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5116</idno>
           <idno type="URI">http://syriaca.org/place/5116</idno>
-          <idno type="URI">[but: https://ar.wikipedia.org/wiki/الصمان]</idno>
           <bibl xml:id="bib5116-1">
             <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 2, p. 274</citedRange>

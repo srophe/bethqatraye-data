@@ -83,7 +83,6 @@
           </desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5237</idno>
           <idno type="URI">http://syriaca.org/place/5237</idno>
-          <idno type="URI">'apparently close to 24°1''48"N 53°2''18"E'</idno>
           <bibl xml:id="bib5237-1">
             <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 1, p. 536</citedRange>
