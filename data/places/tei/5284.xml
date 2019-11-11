@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">Ḥadramaut - <foreign xml:lang="ar">حضرموت</foreign>
+        <title level="a" xml:lang="en">Ḥaḍramawt - <foreign xml:lang="ar">حضرموت</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
@@ -77,8 +77,8 @@
   <text>
     <body>
       <listPlace>
-        <place type="unknown">
-          <placeName xml:id="name5284-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥadramaut</placeName>
+        <place type="region">
+          <placeName xml:id="name5284-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥaḍramawt</placeName>
           <placeName xml:id="name5284-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">حضرموت</placeName>
           <placeName xml:id="name5284-3" xml:lang="ar" source="#bib5284-1">حضرموت</placeName>
           <desc type="abstract" xml:id="abstract5284-1" xml:lang="en">A “deep valley running parallel to the southern coast of Arabia from roughly 48° E. to 50° E., between precipitous walls rising to a high plateau (the Djol), which on the south separates it from the narrow coastal plain and on the north from an arid tract merging into the sand desert of the Empty Quarter of Arabia.” (Beeston)</desc>

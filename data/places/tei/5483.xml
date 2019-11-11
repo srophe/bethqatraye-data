@@ -77,7 +77,7 @@
   <text>
     <body>
       <listPlace>
-        <place type="province">
+        <place type="region">
           <placeName xml:id="name5483-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Syria</placeName>
           <placeName xml:id="name5483-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الشام</placeName>
           <placeName xml:id="name5483-3" xml:lang="en">al-Shām</placeName>

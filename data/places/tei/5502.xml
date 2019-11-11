@@ -77,14 +77,14 @@
   <text>
     <body>
       <listPlace>
-        <place type="province">
+        <place type="region">
           <placeName xml:id="name5502-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Trabzon</placeName>
           <placeName xml:id="name5502-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">طرابزون</placeName>
           <placeName xml:id="name5502-3" xml:lang="en">Ṭarabzun</placeName>
           <placeName xml:id="name5502-4" xml:lang="en">Ṭrābzun</placeName>
           <placeName xml:id="name5502-5" xml:lang="en">Trebizond</placeName>
           <placeName xml:id="name5502-6" xml:lang="ar" source="#bib5502-1">اطرابيزندة</placeName>
-          <desc type="abstract" xml:id="abstract5502-1" xml:lang="en">A province whose northern border touches the Black Sea.</desc>
+          <desc type="abstract" xml:id="abstract5502-1" xml:lang="en">A region whose northern border touches the Black Sea.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5502-1">ومن اعظم جباياتها واكثر اموالها ضريبة بلد أطرابيزندة وأنطالية</quote>
           </desc>

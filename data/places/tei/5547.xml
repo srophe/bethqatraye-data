@@ -77,11 +77,11 @@
   <text>
     <body>
       <listPlace>
-        <place type="settlement">
+        <place type="region">
           <placeName xml:id="name5547-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ʿAqabat al-Ṣuwwān</placeName>
           <placeName xml:id="name5547-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">عقبة الصوان</placeName>
           <placeName xml:id="name5547-3" xml:lang="ar" source="#bib5547-1">عقبة الصوان</placeName>
-          <desc type="abstract" xml:id="abstract5547-1" xml:lang="en">A town in north Jordan.</desc>
+          <desc type="abstract" xml:id="abstract5547-1" xml:lang="en">A mountainous region in north Jordan.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5547</idno>
           <idno type="URI">http://syriaca.org/place/5547</idno>
           <idno type="URI">https://ar.wikipedia.org/wiki/فوهة_جبل_وقف_الصوان</idno>

@@ -73,7 +73,7 @@
   <text>
     <body>
       <listPlace>
-        <place type="region">
+        <place type="province">
           <placeName xml:id="name5385-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Mazun</placeName>
           <placeName xml:id="name5385-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مَزون</placeName>
           <placeName xml:id="name5385-3" xml:lang="en">Beth Mazunaye</placeName>
