@@ -85,7 +85,7 @@
           <idno type="URI">http://syriaca.org/place/5170</idno>
           <bibl xml:id="bib5170-1">
             <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 4, p. 138</citedRange>
+            <citedRange unit="pp">vol. 4, p. 156</citedRange>
           </bibl>
         </place>
       </listPlace>

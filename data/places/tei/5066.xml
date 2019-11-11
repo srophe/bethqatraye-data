@@ -77,11 +77,11 @@
   <text>
     <body>
       <listPlace>
-        <place type="mosque">
+        <place type="mountain">
           <placeName xml:id="name5066-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Mashʿar al-Ḥarām</placeName>
           <placeName xml:id="name5066-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المشعر الحرام</placeName>
           <placeName xml:id="name5066-3" xml:lang="ar" source="#bib5066-1">المشعر الحرام</placeName>
-          <desc type="abstract" xml:id="abstract5066-1" xml:lang="en">A mosque in Muzdalifa.</desc>
+          <desc type="abstract" xml:id="abstract5066-1" xml:lang="en">A mountain in Muzdalifa.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5066</idno>
           <idno type="URI">http://syriaca.org/place/5066</idno>
           <idno type="URI">https://goo.gl/maps/wAfXZFGU5kHsLFu77</idno>

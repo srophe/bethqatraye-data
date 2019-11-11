@@ -80,10 +80,10 @@
         <place type="settlement">
           <placeName xml:id="name5036-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥājiz</placeName>
           <placeName xml:id="name5036-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الحاجز</placeName>
-          <placeName xml:id="name5036-3" xml:lang="en">al-Ḥājir [?]</placeName>
-          <placeName xml:id="name5036-4" xml:lang="ar">الحاجر [?]</placeName>
+          <placeName xml:id="name5036-3" xml:lang="en">al-Ḥājir</placeName>
+          <placeName xml:id="name5036-4" xml:lang="ar">الحاجر</placeName>
           <placeName xml:id="name5036-5" xml:lang="ar" source="#bib5036-1">الحاجز</placeName>
-          <placeName xml:id="name5036-6" xml:lang="ar" source="#bib5036-1">الحاجر [?]</placeName>
+          <placeName xml:id="name5036-6" xml:lang="ar" source="#bib5036-1">الحاجر</placeName>
           <desc type="abstract" xml:id="abstract5036-1" xml:lang="en">Probably a settlement in the north of the Arabian Peninsula.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5036</idno>
           <idno type="URI">http://syriaca.org/place/5036</idno>

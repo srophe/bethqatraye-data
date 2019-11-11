@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">al-Qurayya - <foreign xml:lang="ar">القرية</foreign>
+        <title level="a" xml:lang="en">al-Qarya - <foreign xml:lang="ar">القرية</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
@@ -78,7 +78,7 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5099-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Qurayya</placeName>
+          <placeName xml:id="name5099-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Qarya</placeName>
           <placeName xml:id="name5099-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">القرية</placeName>
           <placeName xml:id="name5099-3" xml:lang="ar" source="#bib5099-1">القرية</placeName>
           <desc type="abstract" xml:id="abstract5099-1" xml:lang="en">A quarter in Baghdad.</desc>

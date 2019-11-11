@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">al-Quriyāt - <foreign xml:lang="ar">القريات</foreign>
+        <title level="a" xml:lang="en">al-Qurayyāt - <foreign xml:lang="ar">القريات</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
@@ -78,10 +78,10 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5100-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Quriyāt</placeName>
+          <placeName xml:id="name5100-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Qurayyāt</placeName>
           <placeName xml:id="name5100-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">القريات</placeName>
           <placeName xml:id="name5100-3" xml:lang="en">Quriyat</placeName>
-          <placeName xml:id="name5100-4" xml:lang="en">al-Qurayyāt</placeName>
+          <placeName xml:id="name5100-4" xml:lang="en">al-Quriyāt</placeName>
           <placeName xml:id="name5100-5" xml:lang="en">Qurayyat</placeName>
           <placeName xml:id="name5100-6" xml:lang="ar" source="#bib5100-1">القريات</placeName>
           <desc type="abstract" xml:id="abstract5100-1" xml:lang="en">A small town 83 km southeast of Muscat.</desc>

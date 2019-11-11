@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">al-Sabakha - <foreign xml:lang="ar">السَّبَخَةُ</foreign>
+        <title level="a" xml:lang="en">al-Sabkha - <foreign xml:lang="ar">السَّبَخَةُ</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
@@ -73,11 +73,11 @@
   <text>
     <body>
       <listPlace>
-        <place type="settlement">
-          <placeName xml:id="name5108-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sabakha</placeName>
+        <place type="quarter">
+          <placeName xml:id="name5108-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sabkha</placeName>
           <placeName xml:id="name5108-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">السَّبَخَةُ</placeName>
           <placeName xml:id="name5108-3" xml:lang="ar" source="#bib5108-1">السبخة</placeName>
-          <desc type="abstract" xml:id="abstract5108-1" xml:lang="en">A place in al-Baṣra.</desc>
+          <desc type="abstract" xml:id="abstract5108-1" xml:lang="en">A quarter in al-Baṣra.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5108-1">السبخة : بالتحريك، واحدة السباخ، الأرض الملحة النازة : موضع بالبصرة؛ ينسب إليه أبو يعقوب فرقد بن يعقوب السبخي من زهاد البصرة، صحب أبا الحسن البصري وسمع نقرأ من التابعين، وأصله من أرمينية وانتقل إلى البصرة فكان يأوي إلى السبخة، ومات قبل سنة 131</quote>
           </desc>
