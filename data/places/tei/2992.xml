@@ -33,8 +33,7 @@
             <edition n="1.0"/>
          </editionStmt>
          <publicationStmt>
-            <authority>Syriaca.org: The Syriac Reference Portal</authority>
-            <idno type="URI">http://syriaca.org/place/2992/tei</idno>
+            <authority>Beth Mardutho: The Syriac Institute</authority>         <idno type="URI">http://bqgazetteer.bethmardutho.org/2992/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
