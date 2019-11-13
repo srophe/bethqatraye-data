@@ -2,8 +2,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">al-Thaʿlabīya - <foreign xml:lang="ar">الثعلبية</foreign>
-        </title>
+        <title level="a" xml:lang="en">al-Thaʿlabīya - <foreign xml:lang="ar"
+          >الثعلبية</foreign></title>
+        <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <funder>Qatar National Research Foundation</funder>
         <principal>Haya Al Thani</principal>
@@ -55,10 +56,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI" change="#change5140-1"
-          >http://bqgazetteer.bethmardutho.org/place/5140/tei</idno>
-        <idno change="#change5140-1" type="deprecated"
-          >http://bqgazetteer.bethmardutho.org/place/5141/tei</idno>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5140/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -124,11 +122,8 @@
           <desc type="abstract" xml:id="abstract5140-1" xml:lang="en">A town in the north of the
             Arabian Peninsula. The town is part of the Darb Zubayda, the famous pilgrim highway,
             from al-ʿIrāq to Ḥijāz.</desc>
-          <desc xml:lang="en">'A town located a three day''s journey from Kufa.'</desc>
-          <idno type="URI" change="#change5140-1"
-            >http://bqgazetteer.bethmardutho.org/place/5140</idno>
-          <idno change="#change5140-1" type="deprecated"
-            >http://bqgazetteer.bethmardutho.org/place/5141</idno>
+          <desc xml:lang="en">This settlement is about a three-day journey from Kufa.</desc>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5140</idno>
           <idno type="URI">http://syriaca.org/place/5140</idno>
           <bibl xml:id="bib5140-1">
             <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
