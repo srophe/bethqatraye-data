@@ -174,7 +174,7 @@
                         <precision match="@from" notAfter="-0331"/>
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/572</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/572</idno><idno type="URI">http://syriaca.org/place/572</idno>
                <idno type="URI">http://pleiades.stoa.org/places/727070</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Alexandria</idno>
                <idno type="URI">http://dbpedia.org/resource/Alexandria</idno>

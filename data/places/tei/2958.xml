@@ -139,7 +139,7 @@
                   <precision match="@from" notAfter="0790"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2958</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2958</idno><idno type="URI">http://syriaca.org/place/2958</idno>
                <idno type="URI">https://pleiades.stoa.org/places/884140</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Daylam</idno>
                <idno type="URI">https://dbpedia.org/resource/Daylam</idno>

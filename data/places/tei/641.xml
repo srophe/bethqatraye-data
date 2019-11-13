@@ -172,7 +172,7 @@
                   <link target="#name641-4 #attestation641-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/641</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/641</idno><idno type="URI">http://syriaca.org/place/641</idno>
                <idno type="URI">http://pleiades.stoa.org/places/423025</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Rome</idno>
                <idno type="URI">http://dbpedia.org/resource/Rome</idno>

@@ -167,7 +167,7 @@
                   <link target="#name715-4 #attestation715-3"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/715</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/715</idno><idno type="URI">http://syriaca.org/place/715</idno>
                <bibl xml:id="bib715-1">
                         <author>David Wilmshurst</author>
                         <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>

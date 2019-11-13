@@ -138,7 +138,7 @@
                   <precision match="@from" notAfter="0640"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2954</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2954</idno><idno type="URI">http://syriaca.org/place/2954</idno>
                <idno type="URI">https://pleiades.stoa.org/places/884224</idno>
                <bibl xml:id="bib2954-1">
                   <title level="m" xml:lang="en">https://pleiades.stoa.org/places/884224</title>

@@ -121,7 +121,7 @@
                   <precision match="@from" notAfter="0622"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2907</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2907</idno><idno type="URI">http://syriaca.org/place/2907</idno>
                <idno type="URI">https://pleiades.stoa.org/places/464208930</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Medina</idno>
                <idno type="URI">https://dbpedia.org/resource/Medina</idno>

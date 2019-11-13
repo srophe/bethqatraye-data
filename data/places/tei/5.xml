@@ -250,7 +250,7 @@
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"
                         />
                     </state>
-                    <idno type="URI">http://syriaca.org/place/5</idno>
+                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5</idno><idno type="URI">http://syriaca.org/place/5</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Azerbaijan</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Azerbaijan_(Iran)</idno>
                     <idno type="URI">

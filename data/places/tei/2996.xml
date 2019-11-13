@@ -120,7 +120,7 @@
                   <precision match="@from" notAfter="0272"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2996</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2996</idno><idno type="URI">http://syriaca.org/place/2996</idno>
                <idno type="URI">https://pleiades.stoa.org/places/952092</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Nishapur</idno>
                <idno type="URI">https://dbpedia.org/resource/Nishapur</idno>

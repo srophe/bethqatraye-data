@@ -77,7 +77,7 @@
           <placeName xml:id="name37-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://syriaca.org">Beth Qaṭraye</placeName>
           <placeName xml:id="name37-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://syriaca.org">قطر</placeName>
           <desc type="abstract" xml:id="abstract37-1" xml:lang="en">A region of the north-east Arabian peninsula on the shores of the Persian Gulf</desc>
-          <idno type="URI">http://syriaca.org/place/37</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/37</idno><idno type="URI">http://syriaca.org/place/37</idno>
           <bibl xml:id="bib37-1">
             <ptr target="http://syriaca.org/bibl/NR45F82X"/>
             <citedRange unit="pp">34, 37</citedRange>

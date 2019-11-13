@@ -141,7 +141,7 @@
                   <link target="#name647-2 #attestation647-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/647</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/647</idno><idno type="URI">http://syriaca.org/place/647</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Turkestan</idno>
                <idno type="URI">http://dbpedia.org/resource/Turkestan</idno>
                <idno type="URI">

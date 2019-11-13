@@ -143,7 +143,7 @@
                   <precision match="@from" notAfter="0424" notBefore="0033"/>
                   <precision match="@to" notAfter="2017" notBefore="0576"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2880</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2880</idno><idno type="URI">http://syriaca.org/place/2880</idno>
                <bibl xml:id="bib2880-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>

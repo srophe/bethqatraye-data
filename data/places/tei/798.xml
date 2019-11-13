@@ -149,7 +149,7 @@
                   <link target="#name798-3 #attestation798-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/798</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/798</idno><idno type="URI">http://syriaca.org/place/798</idno>
                <idno type="URI">http://pleiades.stoa.org/places/884119</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Ardabil</idno>
                <idno type="URI">http://dbpedia.org/resource/Ardabil</idno>

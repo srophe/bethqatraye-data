@@ -145,7 +145,7 @@
                   <link target="#name2479-6 #attestation2479-1"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/2479</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2479</idno><idno type="URI">http://syriaca.org/place/2479</idno>
                <bibl xml:id="bib2479-1">
                         <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>

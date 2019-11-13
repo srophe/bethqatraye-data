@@ -117,7 +117,7 @@
                   <precision match="@from" notAfter="0891"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2969</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2969</idno><idno type="URI">http://syriaca.org/place/2969</idno>
                <idno type="URI">https://pleiades.stoa.org/places/659929984</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Zanjan,_Iran</idno>
                <idno type="URI">https://dbpedia.org/resource/Zanjan,_Iran</idno>

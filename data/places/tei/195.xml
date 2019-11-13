@@ -150,7 +150,7 @@
                         <precision match="@from" notAfter="-1300"/>
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/195</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/195</idno><idno type="URI">http://syriaca.org/place/195</idno>
                <idno type="URI">http://pleiades.stoa.org/places/678437</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tyre,_Lebanon</idno>
                <idno type="URI">http://dbpedia.org/resource/Tyre,_Lebanon</idno>

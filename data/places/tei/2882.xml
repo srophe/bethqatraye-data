@@ -167,7 +167,7 @@
                   <link target="#name2882-2 #attestation2882-3"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/2882</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2882</idno><idno type="URI">http://syriaca.org/place/2882</idno>
                <bibl xml:id="bib2882-1">
                   <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>

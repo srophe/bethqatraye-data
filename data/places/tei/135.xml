@@ -172,7 +172,7 @@
                   <link target="#name135-7 #attestation135-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/135</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/135</idno><idno type="URI">http://syriaca.org/place/135</idno>
                <idno type="URI">http://pleiades.stoa.org/places/1043</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mediterranean_Sea</idno>
                <idno type="URI">http://dbpedia.org/resource/Mediterranean_Sea</idno>

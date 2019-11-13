@@ -118,7 +118,7 @@
                   <link target="#name2937-2 #attestation2937-1"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/2937</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2937</idno><idno type="URI">http://syriaca.org/place/2937</idno>
                <idno type="URI">https://pleiades.stoa.org/places/20419</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Great_Britain</idno>
                <idno type="URI">https://dbpedia.org/resource/Great_Britain</idno>

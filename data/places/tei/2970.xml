@@ -120,7 +120,7 @@
                   <precision match="@from" notAfter="-0300"/>
                   <precision match="@to" notAfter="1888" notBefore="1300"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2970</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2970</idno><idno type="URI">http://syriaca.org/place/2970</idno>
                <idno type="URI">https://pleiades.stoa.org/places/903104</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Rey,_Iran</idno>
                <idno type="URI">https://dbpedia.org/resource/Rey,_Iran</idno>

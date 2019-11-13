@@ -82,7 +82,7 @@
           <placeName xml:id="name18-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://syriaca.org">حلب</placeName>
           <placeName xml:id="name18-3" xml:lang="en">Aleppo</placeName>
           <desc type="abstract" xml:id="abstract18-1" xml:lang="en">“City in northern Syria and an important center of Christianity in the Middle East today as the seat of a total of nine bishoprics.” (Brock, Gorgias Encyclopedic Dictionary)</desc>
-          <idno type="URI">http://syriaca.org/place/18</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/18</idno><idno type="URI">http://syriaca.org/place/18</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2280212</idno>
           <bibl xml:id="bib18-1">
             <ptr target="http://syriaca.org/bibl/WDUISTPU"/>

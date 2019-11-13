@@ -140,7 +140,7 @@
                   <precision match="@from" notAfter="0676"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2903</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903</idno><idno type="URI">http://syriaca.org/place/2903</idno>
                <idno type="URI">http://pleiades.stoa.org/places/932483</idno>
                <bibl xml:id="bib2903-1">
                   <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>

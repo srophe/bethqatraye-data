@@ -191,7 +191,7 @@
                         <precision match="@from" notAfter="-0221"/>
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/472</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/472</idno><idno type="URI">http://syriaca.org/place/472</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/China</idno>
                <idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=C&amp;sK=China&amp;sT=keywords

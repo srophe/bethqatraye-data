@@ -141,7 +141,7 @@
                   <link target="#name140-4 #attestation140-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/140</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/140</idno><idno type="URI">http://syriaca.org/place/140</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874509</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Jaghjagh_River</idno>
                <idno type="URI">http://dbpedia.org/resource/Jaghjagh_River</idno>

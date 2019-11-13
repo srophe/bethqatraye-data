@@ -186,7 +186,7 @@
                       syriaca-computed-start="0762-01-01">
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/41</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/41</idno><idno type="URI">http://syriaca.org/place/41</idno>
                <idno type="URI">http://pleiades.stoa.org/places/893952</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Baghdad</idno>
                <idno type="URI">http://dbpedia.org/resource/Baghdad</idno>

@@ -118,7 +118,7 @@
                   <link target="#name2953-2 #attestation2953-1"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/2953</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2953</idno><idno type="URI">http://syriaca.org/place/2953</idno>
                <idno type="URI">https://pleiades.stoa.org/places/884118</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Aras_(river)</idno>
                <idno type="URI">https://dbpedia.org/resource/Aras_(river)</idno>

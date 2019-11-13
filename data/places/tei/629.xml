@@ -145,7 +145,7 @@
                   <link target="#name629-3 #attestation629-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/629</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/629</idno><idno type="URI">http://syriaca.org/place/629</idno>
                <idno type="URI">http://pleiades.stoa.org/places/727172/</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Nile</idno>
                <idno type="URI">http://dbpedia.org/resource/Nile</idno>

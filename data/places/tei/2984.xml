@@ -117,7 +117,7 @@
                   <precision match="@from" notAfter="0891"/>
                   <precision match="@to" notBefore="0891"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2984</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2984</idno><idno type="URI">http://syriaca.org/place/2984</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Abhar</idno>
                <idno type="URI">https://dbpedia.org/resource/Abhar</idno>
                <bibl xml:id="bib2984-1">

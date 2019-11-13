@@ -120,7 +120,7 @@
                   <precision match="@from" notAfter="0856"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2995</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2995</idno><idno type="URI">http://syriaca.org/place/2995</idno>
                <idno type="URI">https://pleiades.stoa.org/places/942260</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Damghan</idno>
                <idno type="URI">https://dbpedia.org/resource/Damghan</idno>

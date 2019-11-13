@@ -70,7 +70,7 @@
         <place type="region">
           <desc type="abstract" xml:id="abstract37-1" xml:lang="en">A region of the north-east Arabian Peninsula on the shores of the Persian Gulf.</desc>
           <desc xml:lang="syr">'p. 73:</desc>
-          <idno type="URI">http://syriaca.org/place/37</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/37</idno><idno type="URI">http://syriaca.org/place/37</idno>
         </place>
       </listPlace>
     </body>

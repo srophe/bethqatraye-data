@@ -147,7 +147,7 @@
                   <link target="#name823-4 #attestation823-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/823</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/823</idno><idno type="URI">http://syriaca.org/place/823</idno>
                <idno type="URI">http://pleiades.stoa.org/places/903021</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Hamedan</idno>
                <idno type="URI">http://dbpedia.org/resource/Hamedan</idno>

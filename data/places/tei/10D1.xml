@@ -86,7 +86,7 @@
           <desc xml:lang="ar">
             <quote source="#bib10-1">ومن انطاكية الى اللاذقية ثلاثة ايام</quote>
           </desc>
-          <idno type="URI">http://syriaca.org/place/10</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/10</idno><idno type="URI">http://syriaca.org/place/10</idno>
           <idno type="URI">https://pleiades.stoa.org/places/658381</idno>
           <bibl xml:id="bib10-1">
             <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

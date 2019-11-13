@@ -169,7 +169,7 @@
                              syriaca-computed-end="2013-01-01"
                              syriaca-computed-start="0800-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/37</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/37</idno><idno type="URI">http://syriaca.org/place/37</idno>
                <idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet Qatraye&amp;sT=keywords
                                         </idno>

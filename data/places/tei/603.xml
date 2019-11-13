@@ -181,7 +181,7 @@
                   <link target="#name603-4 #attestation603-3"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/603</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/603</idno><idno type="URI">http://syriaca.org/place/603</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Greater_Khorasan</idno>
                <idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Khorasan&amp;sT=keywords

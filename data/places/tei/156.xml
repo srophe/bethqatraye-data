@@ -146,7 +146,7 @@
                   <link target="#name156-4 #attestation156-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/156</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/156</idno><idno type="URI">http://syriaca.org/place/156</idno>
                <idno type="URI">http://pleiades.stoa.org/places/29713</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Persian_Gulf</idno>
                <idno type="URI">http://dbpedia.org/resource/Persian_Gulf</idno>

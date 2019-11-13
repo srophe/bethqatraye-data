@@ -135,7 +135,7 @@
                   <precision match="@from" notAfter="0891"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2956</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2956</idno><idno type="URI">http://syriaca.org/place/2956</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Beylagan_(city)</idno>
                <idno type="URI">https://dbpedia.org/resource/Beylagan_(city)</idno>
                <bibl xml:id="bib2956-1">

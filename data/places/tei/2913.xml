@@ -118,7 +118,7 @@
                   <precision match="@from" notAfter="0914" notBefore="0610"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2913</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2913</idno><idno type="URI">http://syriaca.org/place/2913</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Muzdalifah</idno>
                <idno type="URI">https://dbpedia.org/resource/Muzdalifah</idno>
                <bibl xml:id="bib2913-1">

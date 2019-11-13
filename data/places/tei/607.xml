@@ -164,7 +164,7 @@
                   <link target="#name607-4 #attestation607-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/607</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/607</idno><idno type="URI">http://syriaca.org/place/607</idno>
                <idno type="URI">http://pleiades.stoa.org/places/961873</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Merv</idno>
                <idno type="URI">http://dbpedia.org/resource/Merv</idno>

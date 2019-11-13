@@ -118,7 +118,7 @@
                   <precision match="@from" notAfter="0570"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2918</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2918</idno><idno type="URI">http://syriaca.org/place/2918</idno>
                <idno type="URI">https://pleiades.stoa.org/places/869702585</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Ta'if</idno>
                <idno type="URI">https://dbpedia.org/resource/Ta'if</idno>

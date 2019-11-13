@@ -120,7 +120,7 @@
                   <precision match="@from" notAfter="0649"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2972</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2972</idno><idno type="URI">http://syriaca.org/place/2972</idno>
                <idno type="URI">https://pleiades.stoa.org/places/942281</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Gorgan</idno>
                <idno type="URI">https://dbpedia.org/resource/Gorgan</idno>

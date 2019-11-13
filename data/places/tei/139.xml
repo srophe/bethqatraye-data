@@ -192,7 +192,7 @@
                         <precision match="@from" notAfter="0817" syriaca-computed-end="0817-01-01"/>
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/139</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/139</idno><idno type="URI">http://syriaca.org/place/139</idno>
                <idno type="URI">http://pleiades.stoa.org/places/874609</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Mosul</idno>
                <idno type="URI">http://dbpedia.org/resource/Mosul</idno>

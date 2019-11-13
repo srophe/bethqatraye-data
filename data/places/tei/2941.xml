@@ -153,7 +153,7 @@
                   <precision match="@from" notAfter="0885"/>
                   <precision match="@to" notAfter="2017" notBefore="1700"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2941</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2941</idno><idno type="URI">http://syriaca.org/place/2941</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Eastern_Arabia</idno>
                <idno type="URI">https://dbpedia.org/resource/Eastern_Arabia</idno>
                <bibl xml:id="bib2941-1">

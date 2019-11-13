@@ -80,7 +80,7 @@
         <place type="settlement">
           <placeName xml:id="name41-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://syriaca.org">Baghdad</placeName>
           <placeName xml:id="name41-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://syriaca.org">بغداد</placeName>
-          <idno type="URI">http://syriaca.org/place/41</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/41</idno><idno type="URI">http://syriaca.org/place/41</idno>
           <bibl xml:id="bib41-1">
             <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
             <citedRange unit="pp">233</citedRange>

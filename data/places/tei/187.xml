@@ -149,7 +149,7 @@
                         <precision match="@from" notAfter="-0950"/>
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/187</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/187</idno><idno type="URI">http://syriaca.org/place/187</idno>
                <idno type="URI">http://pleiades.stoa.org/places/678393</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Sidon</idno>
                <idno type="URI">http://dbpedia.org/resource/Sidon</idno>

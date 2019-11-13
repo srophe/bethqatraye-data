@@ -144,7 +144,7 @@
                   <link target="#name642-3 #attestation642-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/642</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/642</idno><idno type="URI">http://syriaca.org/place/642</idno>
                <idno type="URI">http://pleiades.stoa.org/places/39338/</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Socotra</idno>
                <idno type="URI">

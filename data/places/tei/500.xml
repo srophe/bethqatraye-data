@@ -168,7 +168,7 @@
                   <link target="#name500-4 #attestation500-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/500</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/500</idno><idno type="URI">http://syriaca.org/place/500</idno>
                <idno type="URI">http://pleiades.stoa.org/places/50004</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/India</idno>
                <idno type="URI">

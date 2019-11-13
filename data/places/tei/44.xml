@@ -157,7 +157,7 @@
                         <precision match="@from" notAfter="0636" syriaca-computed-end="0636-01-01"/>
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"/>
                     </state>
-               <idno type="URI">http://syriaca.org/place/44</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/44</idno><idno type="URI">http://syriaca.org/place/44</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912821</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Basra</idno>
                <idno type="URI">http://dbpedia.org/resource/Basra</idno>

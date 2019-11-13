@@ -149,7 +149,7 @@
                   <link target="#name830-3 #attestation830-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/830</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/830</idno><idno type="URI">http://syriaca.org/place/830</idno>
                <idno type="URI">http://pleiades.stoa.org/places/902990</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Isfahan</idno>
                <idno type="URI">http://dbpedia.org/resource/Isfahan</idno>

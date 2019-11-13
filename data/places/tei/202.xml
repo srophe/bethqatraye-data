@@ -163,7 +163,7 @@
                   <link target="#name202-4 #attestation202-2"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://syriaca.org/place/202</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/202</idno><idno type="URI">http://syriaca.org/place/202</idno>
                <idno type="URI">http://pleiades.stoa.org/places/912964</idno>
                <idno type="URI">http://en.wikipedia.org/wiki/Tigris</idno>
                <idno type="URI">http://dbpedia.org/resource/Tigris</idno>

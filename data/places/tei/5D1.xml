@@ -81,7 +81,7 @@
           <placeName xml:id="name5-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://syriaca.org">Adharbayjān</placeName>
           <placeName xml:id="name5-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://syriaca.org">اذربيجان</placeName>
           <desc type="abstract" xml:id="abstract5-1" xml:lang="en">166</desc>
-          <idno type="URI">http://syriaca.org/place/5</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5</idno><idno type="URI">http://syriaca.org/place/5</idno>
           <bibl xml:id="bib5-1">
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
             <citedRange unit="pp">89</citedRange>

@@ -136,7 +136,7 @@
                   <precision match="@from" notAfter="0914"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2920</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2920</idno><idno type="URI">http://syriaca.org/place/2920</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Al-Yamama</idno>
                <idno type="URI">https://dbpedia.org/resource/Al-Yamama</idno>
                <bibl xml:id="bib2920-1">

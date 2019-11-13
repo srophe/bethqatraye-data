@@ -117,7 +117,7 @@
                   <precision match="@from" notAfter="0272"/>
                   <precision match="@to" notAfter="1736" notBefore="1381"/>
                </state>
-               <idno type="URI">http://syriaca.org/place/2997</idno>
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2997</idno><idno type="URI">http://syriaca.org/place/2997</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Pushang</idno>
                <idno type="URI">https://dbpedia.org/resource/Pushang</idno>
                <bibl xml:id="bib2997-1">
