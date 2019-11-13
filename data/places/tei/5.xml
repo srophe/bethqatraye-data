@@ -14,7 +14,8 @@
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>Qatar National Research Foundation</funder>
                 <principal>Haya Al Thani</principal>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani"
+                    >Haya Al Thani</editor>
                 <editor role="general"
                     ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
                     al-Murikhi</editor>
@@ -24,14 +25,19 @@
                 <editor role="general"
                     ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman
                     Chamseddine</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah"
+                    >Mario Kozah</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
+                    >Thomas A. Carlson</editor>
                 <editor role="technical"
                     ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
                     Michelson</editor>
-                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
-                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter"
+                    >William L. Potter</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
+                    >Thomas A. Carlson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dmichelson"
+                    >David A. Michelson</editor>
                 <respStmt>
                     <resp>Initial Barsoum entry creation by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
@@ -72,7 +78,8 @@
                 <edition n="1.0"/>
             </editionStmt>
             <publicationStmt>
-                <authority>Beth Mardutho: The Syriac Institute</authority>         <idno type="URI">http://bqgazetteer.bethmardutho.org/5/tei</idno>
+                <authority>Beth Mardutho: The Syriac Institute</authority>
+                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -96,7 +103,7 @@
                 </availability>
                 <date>2017-08-09-05:00</date>
             </publicationStmt>
-            
+
 
 
 
@@ -125,8 +132,9 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This record created following the guidelines for TEI encoding established by Syriaca.org. Documentation available
-                    at: <ref target="http://syriaca.org/documentation"
+                <p>This record created following the guidelines for TEI encoding established by
+                    Syriaca.org. Documentation available at: <ref
+                        target="http://syriaca.org/documentation"
                         >http://syriaca.org/documentation</ref>.</p>
                 <p>The capitalization of names from GEDSH (<idno type="URI"
                         >http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS
@@ -148,7 +156,8 @@
             <classDecl>
                 <taxonomy>
                     <category xml:id="srophe-headword">
-                        <catDesc>The name used by the Srophé App for document titles, citation, and disambiguation. These names have been created according to the
+                        <catDesc>The name used by the Srophé App for document titles, citation, and
+                            disambiguation. These names have been created according to the
                             Syriac.org guidelines for headwords: <ref
                                 target="http://syriaca.org/documentation/headwords.html"
                                 >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
@@ -250,7 +259,8 @@
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"
                         />
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5</idno><idno type="URI">http://syriaca.org/place/5</idno>
+                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5</idno>
+                    <idno type="URI">http://syriaca.org/place/5</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Azerbaijan</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Azerbaijan_(Iran)</idno>
                     <idno type="URI">
