@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">al-Raḥba - <foreign xml:lang="ar">الرحبة</foreign>
-        </title>
+        <title level="a" xml:lang="en">al-Raḥba - <foreign xml:lang="ar">الرحبة</foreign></title>
+        <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <funder>Qatar National Research Foundation</funder>
         <principal>Haya Al Thani</principal>
@@ -65,10 +65,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI" change="#change5102-1"
-          >http://bqgazetteer.bethmardutho.org/place/5102/tei</idno>
-        <idno change="#change5102-1" type="deprecated"
-          >http://bqgazetteer.bethmardutho.org/place/5103/tei</idno>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5102/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -141,10 +138,8 @@
             <quote source="#bib5102-1">ثم يمتد الفرات على ديار العرب حتى ينتهي الى الرقة وقرقيسيا
               والرحبة والدالية وعانة والحديثة وهيت والانبارالى الكوفة</quote>
           </desc>
-          <idno type="URI" change="#change5102-1"
+          <idno type="URI"
             >http://bqgazetteer.bethmardutho.org/place/5102</idno>
-          <idno change="#change5102-1" type="deprecated"
-            >http://bqgazetteer.bethmardutho.org/place/5103</idno>
           <idno type="URI">http://syriaca.org/place/5102</idno>
           <idno type="URI">https://gazetteer.dainst.org/app/#!/show/2281715</idno>
           <idno type="URI">https://goo.gl/maps/fSMN9zdpgXU4WyrJ6</idno>
