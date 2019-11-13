@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">Ḥaḍramawt - <foreign xml:lang="ar">حضرموت</foreign>
-        </title>
+        <title level="a" xml:lang="en">Ḥaḍramawt - <foreign xml:lang="ar">حضرموت</foreign></title>
+        <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <funder>Qatar National Research Foundation</funder>
         <principal>Haya Al Thani</principal>
@@ -55,10 +55,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI" change="#change5284-1"
-          >http://bqgazetteer.bethmardutho.org/place/5284/tei</idno>
-        <idno change="#change5284-1" type="deprecated"
-          >http://bqgazetteer.bethmardutho.org/place/5285/tei</idno>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5284/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -119,12 +116,7 @@
             syriaca-tags="#syriaca-headword" source="#bib5284-2">حضرموت</placeName>
           <placeName xml:id="name5284-3" xml:lang="ar" source="#bib5284-1 #bib5284-2"
             >حضرموت</placeName>
-          <desc type="abstract" xml:id="abstract5284-1" xml:lang="en">A “deep valley running
-            parallel to the southern coast of Arabia from roughly 48° E. to 50° E., between
-            precipitous walls rising to a high plateau (the Djol), which on the south separates it
-            from the narrow coastal plain and on the north from an arid tract merging into the sand
-            desert of the Empty Quarter of Arabia.” (Beeston)</desc>
-          <desc xml:lang="en">“The name Ḥaḍramawt is applicable in its strictest sense to the deep
+          <desc type="abstract" xml:id="abstract5284-1" xml:lang="en">“The name Ḥaḍramawt is applicable in its strictest sense to the deep
             valley running parallel to the southern coast of Arabia from roughly 48° E. to 50° E.,
             between precipitous walls rising to a high plateau (the Djol), which on the south
             separates it from the narrow coastal plain and on the north from an arid tract merging
@@ -134,10 +126,7 @@
               على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل
               اليمن الى جدة ثم يمتدعلى الجار ومدين حتى ينتهي الى أيلة</quote>
           </desc>
-          <idno type="URI" change="#change5284-1"
-            >http://bqgazetteer.bethmardutho.org/place/5284</idno>
-          <idno change="#change5284-1" type="deprecated"
-            >http://bqgazetteer.bethmardutho.org/place/5285</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5284</idno>
           <idno type="URI">http://syriaca.org/place/5284</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2402351</idno>
           <idno type="URI">http://sws.geonames.org/75411</idno>
