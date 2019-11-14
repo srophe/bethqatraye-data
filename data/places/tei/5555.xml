@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">Surra man Raʾā - <foreign xml:lang="ar">سر من رأى</foreign>
+        <title level="a" xml:lang="en">ʿAyn al-Raṣad - <foreign xml:lang="ar">عين الرصد</foreign>
         </title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <funder>Qatar National Research Foundation</funder>
@@ -26,12 +26,12 @@
         <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
           Scheunchen</editor>
         <respStmt>
-          <resp>Ibn Battuta data collection by</resp>
+          <resp>Ibn Jubayr data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
             Abu-Husayn</name>
         </respStmt>
         <respStmt>
-          <resp>Ibn Battuta data collection by</resp>
+          <resp>Ibn Jubayr data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman
             Chamseddine</name>
         </respStmt>
@@ -40,12 +40,12 @@
           <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
-          <resp>Ibn Jubayr data collection by</resp>
+          <resp>Ibn Battuta data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
             Abu-Husayn</name>
         </respStmt>
         <respStmt>
-          <resp>Ibn Jubayr data collection by</resp>
+          <resp>Ibn Battuta data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman
             Chamseddine</name>
         </respStmt>
@@ -55,7 +55,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5480/tei</idno>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5555/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -98,49 +98,35 @@
     </profileDesc>
     <revisionDesc status="draft">
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00"
-        xml:id="change5480-1">Merged in data from
-        [http://bqgazetteer.bethmardutho.org/place/5481].</change>
+        xml:id="change5555-1">Merged in data from
+        [http://bqgazetteer.bethmardutho.org/place/5556].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
         >CREATED: place</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
-        >CREATED: place [http://bqgazetteer.bethmardutho.org/place/5481]</change>
+        >CREATED: place [http://bqgazetteer.bethmardutho.org/place/5556]</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5480-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">Surra man Raʾā</placeName>
-          <placeName xml:id="name5480-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">سر من رأى</placeName>
-          <placeName xml:id="name5480-3" xml:lang="en">Sāmarrāʾ</placeName>
-          <placeName xml:id="name5480-4" xml:lang="ar">سامراء</placeName>
-          <placeName xml:id="name5480-5" xml:lang="ar" source="#bib5480-1">سر من رأى</placeName>
-          <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-6"
-            >Surra man raʾy</placeName>
-          <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-7"
-            >سرّ من رأي</placeName>
-          <placeName xml:lang="en" xml:id="name5480-8">Sāmarrā</placeName>
-          <placeName xml:lang="ar" xml:id="name5480-9">سامّرا</placeName>
-          <placeName xml:lang="ar" xml:id="name5480-10" source="#bib5480-2">سرّ من رأي
-            (سامّرا)</placeName>
-          <desc type="abstract" xml:id="abstract5480-1" xml:lang="en">“[A] town on the east bank of
-            the middle Tigris in ʿIrāḳ, 125 km north of Bag̲h̲dād, of about 35 ha in 1924, and ca.
-            120 ha in the 1970s. Between 221/836 and 279/892 it was the capital of the ʿAbbāsid
-            caliphs, and expanded to an occupied area of 57 km2, one of the largest cities of
-            ancient times, whose remains of collapsed pisé and brick walls are still largely
-            visible.” (A. Northedge)</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5480</idno>
-          <idno type="URI">http://syriaca.org/place/5480</idno>
-          <idno type="URI">http://gazetteer.dainst.org/place/2283182</idno>
-          <bibl xml:id="bib5480-1">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
-            <citedRange unit="pp">232</citedRange>
-          </bibl>
-          <bibl xml:id="bib5480-2">
+          <placeName xml:id="name5555-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
+            syriaca-tags="#syriaca-headword">ʿAyn al-Raṣad</placeName>
+          <placeName xml:id="name5555-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
+            syriaca-tags="#syriaca-headword" source="#bib5555-2">عين الرصد</placeName>
+          <placeName xml:id="name5555-3" xml:lang="ar" source="#bib5555-1 #bib5555-2">عين
+            الرصد</placeName>
+          <desc type="abstract" xml:id="abstract5555-1" xml:lang="en">A village in Iraq close to
+            Mosul.</desc>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5555</idno>
+          <idno type="URI">http://syriaca.org/place/5555</idno>
+          <bibl xml:id="bib5555-1">
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
-            <citedRange unit="pp">243</citedRange>
+            <citedRange unit="pp">245</citedRange>
+          </bibl>
+          <bibl xml:id="bib5555-2">
+            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <citedRange unit="pp">238</citedRange>
           </bibl>
         </place>
       </listPlace>
