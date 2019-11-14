@@ -166,6 +166,9 @@
                     <desc xml:lang="en">
                         <quote source="#bib37-1">102. Beth Qaṭraye</quote>
                     </desc>
+                    <location type="gps" subtype="representative">
+                        <geo>26.23 51.3</geo>
+                    </location>
                     <event type="attestation" xml:id="attestation37-1" when="0676" source="#bib37-4">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="syr">ܒܝܬ
                                 ܩܛܪ̈ܝܐ</foreign> and <foreign xml:lang="syr">ܐܬܪܐ ܕܩܛܪ̈ܝܐ</foreign>

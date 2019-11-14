@@ -123,6 +123,9 @@
               وكان قديما اسما لكورة هناك غلب عليها الآن اسم هذه المدينة، وقال الحفصي : القطيف قرية
               لجذيمة عبد القيس</quote>
           </desc>
+          <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+            <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
+          </location>
           <idno type="URI"
             >http://bqgazetteer.bethmardutho.org/place/5095</idno>
           <idno type="URI">http://syriaca.org/place/5095</idno>
