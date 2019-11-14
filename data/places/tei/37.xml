@@ -166,7 +166,7 @@
                     <desc xml:lang="en">
                         <quote source="#bib37-1">102. Beth Qaṭraye</quote>
                     </desc>
-                    <location type="gps" subtype="representative">
+                    <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>25.4 53.1</geo>
                     </location>
                     <event type="attestation" xml:id="attestation37-1" when="0676" source="#bib37-4">

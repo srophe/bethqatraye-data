@@ -121,7 +121,7 @@
                      ref="http://syriaca.org/place/716">Arabia</placeName> near <placeName
                      ref="http://syriaca.org/place/3013">al-Qaṭīf</placeName>
                </desc>
-               <location type="gps">
+               <location type="gps" subtype="representative">
                   <geo>26.571 50.056</geo>
                </location>
                <location type="nested" resp="http://bqgazetteer.bethmardutho.org">

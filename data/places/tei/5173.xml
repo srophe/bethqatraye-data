@@ -87,6 +87,9 @@
           <desc xml:lang="ar">
             <quote source="#bib5173-1">ومن اعظم جباياتها واكثر اموالها ضريبة بلد أطرابيزندة وأنطالية</quote>
           </desc>
+          <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
+            <geo>36.8874 30.7075</geo>
+          </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5173</idno>
           <idno type="URI">http://syriaca.org/place/5173</idno>
           <idno type="URI">http://sws.geonames.org/323776</idno>
