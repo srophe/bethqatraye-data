@@ -63,11 +63,11 @@
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/156</idno><idno type="URI">http://syriaca.org/place/156</idno><idno type="URI">http://pleiades.stoa.org/places/29713</idno><idno type="URI">http://en.wikipedia.org/wiki/Persian_Gulf</idno><idno type="URI">http://dbpedia.org/resource/Persian_Gulf</idno><idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Persian gulf&amp;sT=keywords
                                         </idno><bibl xml:id="bib156-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                     <citedRange unit="maps">Map I D3, II D3</citedRange></bibl><bibl xml:id="bib156-2">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Persian gulf&amp;sT=keywords">Persian gulf</citedRange></bibl><bibl xml:id="bib156-3">

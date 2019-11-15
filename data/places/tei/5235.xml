@@ -102,7 +102,7 @@
             <citedRange unit="pp">143, 146, 184, 185</citedRange>
           </bibl>
           <bibl xml:id="bib5235-2">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">122, 182, 183</citedRange>
           </bibl>
         </place>

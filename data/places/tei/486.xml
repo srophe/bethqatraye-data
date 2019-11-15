@@ -211,12 +211,12 @@
                         <citedRange unit="pp">505</citedRange>
                     </bibl>
                <bibl xml:id="bib486-3">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         <citedRange unit="pp">552</citedRange>
                     </bibl>
                <bibl xml:id="bib486-4">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hellenistic Syria&amp;sT=keywords">Hellenistic Syria</citedRange>
@@ -227,7 +227,7 @@
                     </bibl>
                <bibl xml:id="bib486-5">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         <citedRange unit="pp">40, 62-65, 66</citedRange>
                         <ptr target="http://syriaca.org/bibl/9"/>
                     </bibl>

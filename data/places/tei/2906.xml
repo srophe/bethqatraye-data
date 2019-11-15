@@ -146,7 +146,7 @@
                <idno type="URI">https://en.wikipedia.org/wiki/Mecca</idno>
                <idno type="URI">https://dbpedia.org/resource/Mecca</idno>
                <bibl xml:id="bib2906-1">
-                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">86, 220</citedRange>
                </bibl>

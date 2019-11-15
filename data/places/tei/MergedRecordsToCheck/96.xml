@@ -66,17 +66,17 @@
                     </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/96</idno><idno type="URI">http://syriaca.org/place/96</idno><idno type="URI">http://pleiades.stoa.org/places/912865</idno><idno type="URI">http://en.wikipedia.org/wiki/Ahvaz</idno><idno type="URI">http://dbpedia.org/resource/Ahvaz</idno><idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hormizd Ardashir&amp;sT=keywords
                                         </idno><bibl xml:id="bib96-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                         
                     <citedRange unit="pp">72</citedRange><citedRange unit="maps">Map I D3</citedRange></bibl><bibl xml:id="bib96-2">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hormizd Ardashir&amp;sT=keywords">Hormizd Ardashir</citedRange></bibl><bibl xml:id="bib96-3">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         
                         <ptr target="http://syriaca.org/bibl/9"/>
                     <citedRange unit="pp">362, 363, 364</citedRange></bibl><bibl xml:id="bib96-4">

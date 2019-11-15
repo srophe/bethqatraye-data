@@ -59,7 +59,7 @@
                         <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title> of <persName>Aḥmad ibn ʿUmar Ibn Rustah</persName>.</p>
                   <link target="#name140-4 #attestation140-2"/>
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/140</idno><idno type="URI">http://syriaca.org/place/140</idno><idno type="URI">http://pleiades.stoa.org/places/874509</idno><idno type="URI">http://en.wikipedia.org/wiki/Jaghjagh_River</idno><idno type="URI">http://dbpedia.org/resource/Jaghjagh_River</idno><bibl xml:id="bib140-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                     <citedRange unit="maps">Map I C1, III</citedRange></bibl><bibl xml:id="bib140-2">

@@ -72,7 +72,7 @@
                   <link target="#name823-4 #attestation823-2"/>
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/823</idno><idno type="URI">http://syriaca.org/place/823</idno><idno type="URI">http://pleiades.stoa.org/places/903021</idno><idno type="URI">http://en.wikipedia.org/wiki/Hamedan</idno><idno type="URI">http://dbpedia.org/resource/Hamedan</idno><bibl xml:id="bib823-1">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         
                         <ptr target="http://syriaca.org/bibl/9"/>
                     <citedRange unit="pp">17, 18, 183, 278, 280, 322, 323</citedRange></bibl><bibl xml:id="bib823-2">

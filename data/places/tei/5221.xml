@@ -89,7 +89,7 @@
           <idno type="URI">http://syriaca.org/place/5221</idno>
           <idno type="URI">http://pleiades.stoa.org/places/727101</idno>
           <bibl xml:id="bib5221-1">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">59</citedRange>
           </bibl>
         </place>

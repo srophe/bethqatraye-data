@@ -172,7 +172,7 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Merv&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib607-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">215, 420</citedRange>
                     </bibl>
@@ -187,12 +187,12 @@
                         <citedRange unit="pp">235</citedRange>
                     </bibl>
                <bibl xml:id="bib607-4">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         <citedRange unit="pp">273</citedRange>
                     </bibl>
                <bibl xml:id="bib607-5">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Merv&amp;sT=keywords">Merv</citedRange>

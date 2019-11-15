@@ -78,7 +78,7 @@
                   <link target="#name830-3 #attestation830-2"/>
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/830</idno><idno type="URI">http://syriaca.org/place/830</idno><idno type="URI">http://pleiades.stoa.org/places/902990</idno><idno type="URI">http://en.wikipedia.org/wiki/Isfahan</idno><idno type="URI">http://dbpedia.org/resource/Isfahan</idno><idno type="URI">http://gazetteer.dainst.org/place/2089954</idno><bibl xml:id="bib830-1">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         
                         <ptr target="http://syriaca.org/bibl/9"/>
                     <citedRange unit="pp">204, 216</citedRange></bibl><bibl xml:id="bib830-2">
@@ -90,7 +90,7 @@
                         <ptr target="http://syriaca.org/bibl/636"/>
                         
                     <citedRange unit="pp">I:244</citedRange></bibl><bibl xml:id="bib830-4">
-                    <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                    <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                     <ptr target="http://syriaca.org/bibl/1"/>
                     
                 <citedRange unit="pp">72</citedRange></bibl><bibl xml:id="bib830-5">
@@ -99,7 +99,7 @@
                   <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                   
                <citedRange unit="pp">238</citedRange></bibl><bibl xml:id="bib830-6">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             
           <citedRange unit="pp">4</citedRange></bibl><bibl xml:id="bib830-7">
             <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>

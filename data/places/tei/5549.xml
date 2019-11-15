@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5549</idno>
           <idno type="URI">https://goo.gl/maps/Nhf9TqLLTYuuXrE58</idno>
           <bibl xml:id="bib5549-1">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">18, 110, 125, 159, 168-175, 185, 197, 198, 291, 344</citedRange>
           </bibl>
         </place>

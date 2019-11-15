@@ -79,7 +79,7 @@
                         <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title> of <persName>Aḥmad ibn ʿUmar Ibn Rustah</persName>.</p>
                   <link target="#name43-6 #attestation43-2"/>
                </event><state type="existence"/><note type="incerta">GEDSH article "Edessa" identifies with <placeName ref="http://syriaca.org/place/191">Daysan</placeName>, but the identification is contested.</note><idno type="URI">http://bqgazetteer.bethmardutho.org/place/43</idno><idno type="URI">http://syriaca.org/place/43</idno><idno type="URI">http://en.wikipedia.org/wiki/Balikh_River</idno><idno type="URI">http://dbpedia.org/resource/Balikh_River</idno><bibl xml:id="bib43-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                         
@@ -92,7 +92,7 @@
                         <ptr target="http://syriaca.org/bibl/2"/>
                         
                     <citedRange unit="pp">510</citedRange></bibl><bibl xml:id="bib43-4">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         
                     <citedRange unit="pp">570</citedRange></bibl><bibl xml:id="bib43-5">

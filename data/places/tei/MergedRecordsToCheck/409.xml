@@ -121,16 +121,16 @@
                         <ptr target="http://syriaca.org/bibl/2"/>
                         
                     <citedRange unit="pp">516</citedRange></bibl><bibl xml:id="bib409-3">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         
                     <citedRange unit="pp">558</citedRange></bibl><bibl xml:id="bib409-4">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Segestan&amp;sT=keywords">Segestan</citedRange></bibl><bibl xml:id="bib409-5">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         
                         <ptr target="http://syriaca.org/bibl/9"/>
                     <citedRange unit="pp">17, 344</citedRange></bibl><bibl xml:id="bib409-6">

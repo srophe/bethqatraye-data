@@ -89,16 +89,16 @@
                         <ptr target="http://syriaca.org/bibl/2"/>
                         
                     <citedRange unit="pp">261</citedRange></bibl><bibl xml:id="bib576-3">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         
                     <citedRange unit="pp">300</citedRange></bibl><bibl xml:id="bib576-4">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Armenia&amp;sT=keywords">Armenia</citedRange></bibl><bibl xml:id="bib576-5">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         
                         <ptr target="http://syriaca.org/bibl/9"/>
                     <citedRange unit="pp">283</citedRange></bibl><bibl xml:id="bib576-6">

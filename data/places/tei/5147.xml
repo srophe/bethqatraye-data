@@ -89,7 +89,7 @@
           <idno type="URI">http://syriaca.org/place/5147</idno>
           <idno type="URI">http://sws.geonames.org/100425</idno>
           <bibl xml:id="bib5147-1">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">145</citedRange>
           </bibl>
         </place>

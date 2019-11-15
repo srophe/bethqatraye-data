@@ -65,7 +65,7 @@
                   <link target="#name877-2 #attestation877-2"/>
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/877</idno><idno type="URI">http://syriaca.org/place/877</idno><idno type="URI">http://pleiades.stoa.org/places/952108</idno><idno type="URI">http://en.wikipedia.org/wiki/Tus,_Iran</idno><idno type="URI">http://dbpedia.org/resource/Tus,_Iran</idno><bibl xml:id="bib877-1">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         
                         <ptr target="http://syriaca.org/bibl/9"/>
                     <citedRange unit="pp">343</citedRange></bibl><bibl xml:id="bib877-2">

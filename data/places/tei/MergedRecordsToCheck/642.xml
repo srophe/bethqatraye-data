@@ -63,11 +63,11 @@
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/642</idno><idno type="URI">http://syriaca.org/place/642</idno><idno type="URI">http://pleiades.stoa.org/places/39338/</idno><idno type="URI">http://en.wikipedia.org/wiki/Socotra</idno><idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Socotra&amp;sT=keywords
                                         </idno><bibl xml:id="bib642-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                     <citedRange unit="pp">164</citedRange></bibl><bibl xml:id="bib642-2">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=S&amp;sK=Socotra&amp;sT=keywords">Socotra</citedRange></bibl><bibl xml:id="bib642-3">

@@ -165,20 +165,20 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Basrah&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib44-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">48, 51, 92, 170, 183, 202, 212, 217, 221, 262, 306, 378, 389, 398, 411, 437</citedRange>
                         <citedRange unit="maps">Map I D3, II D3</citedRange>
                     </bibl>
                <bibl xml:id="bib44-2">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Basrah&amp;sT=keywords">Basrah</citedRange>
                     </bibl>
                <bibl xml:id="bib44-3">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         <citedRange unit="pp">89, 265, 361, 363, 364</citedRange>
                         <ptr target="http://syriaca.org/bibl/9"/>
                     </bibl>

@@ -61,7 +61,7 @@
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/1178</idno><idno type="URI">http://syriaca.org/place/1178</idno><idno type="URI">http://en.wikipedia.org/wiki/North_Africa</idno><idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=North Africa&amp;sT=keywords
                                         </idno><bibl xml:id="bib1178-1">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=North Africa&amp;sT=keywords">North Africa</citedRange></bibl><bibl xml:id="bib1178-2">

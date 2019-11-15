@@ -148,7 +148,7 @@
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Turkestan&amp;sT=keywords
                                         </idno>
                <bibl xml:id="bib647-1">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry"
                               target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Turkestan&amp;sT=keywords">Turkestan</citedRange>

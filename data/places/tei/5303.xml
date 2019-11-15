@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5303</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الحزورة&amp;params=21_25_18.3_N_39_49_33.6_E_type:city_region:SA</idno>
           <bibl xml:id="bib5303-1">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">105</citedRange>
           </bibl>
         </place>

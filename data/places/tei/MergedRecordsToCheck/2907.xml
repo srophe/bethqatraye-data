@@ -78,7 +78,7 @@
                   <precision match="@from" notAfter="0622"/>
                   <precision match="@to" notBefore="2017"/>
                </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/2907</idno><idno type="URI">http://syriaca.org/place/2907</idno><idno type="URI">https://pleiades.stoa.org/places/464208930</idno><idno type="URI">https://en.wikipedia.org/wiki/Medina</idno><idno type="URI">https://dbpedia.org/resource/Medina</idno><idno type="URI">http://pleiades.stoa.org/places/464208930</idno><bibl xml:id="bib2907-1">
-                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   
                <citedRange unit="pp">220, 302</citedRange></bibl><bibl xml:id="bib2907-2">
@@ -90,7 +90,7 @@
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             
           <citedRange unit="pp">138, 139, 239</citedRange><citedRange unit="pp">42, 111, 114, 128, 129, 134, 135, 136, 137, 138, 139, 1140, 141, 145, 185, 190, 239, 378, 667</citedRange></bibl><bibl xml:id="bib2907-4">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             
           <citedRange unit="pp">6-8, 18, 23, 56, 59, 73, 125, 164, 188-203, 205</citedRange></bibl><bibl xml:id="bib2907-5">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

@@ -155,7 +155,7 @@
                <idno type="URI">http://dbpedia.org/resource/Isfahan</idno>
                <bibl xml:id="bib830-1">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         <citedRange unit="pp">204, 216</citedRange>
                         <ptr target="http://syriaca.org/bibl/9"/>
                     </bibl>
@@ -170,7 +170,7 @@
                         <citedRange unit="pp">I:244</citedRange>
                     </bibl>
                <bibl xml:id="bib830-4">
-                    <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                    <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                     <ptr target="http://syriaca.org/bibl/1"/>
                     <citedRange unit="pp">72</citedRange>
                 </bibl>

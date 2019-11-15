@@ -85,7 +85,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5204</idno>
           <idno type="URI">http://syriaca.org/place/5204</idno>
           <bibl xml:id="bib5204-1">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">81, 105</citedRange>
           </bibl>
         </place>

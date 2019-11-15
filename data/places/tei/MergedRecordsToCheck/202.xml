@@ -95,7 +95,7 @@
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/202</idno><idno type="URI">http://syriaca.org/place/202</idno><idno type="URI">http://pleiades.stoa.org/places/912964</idno><idno type="URI">http://en.wikipedia.org/wiki/Tigris</idno><idno type="URI">http://dbpedia.org/resource/Tigris</idno><idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tigris&amp;sT=keywords
                                         </idno><bibl xml:id="bib202-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                         
@@ -108,11 +108,11 @@
                         <ptr target="http://syriaca.org/bibl/2"/>
                         
                     <citedRange unit="pp">504</citedRange></bibl><bibl xml:id="bib202-4">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         
                     <citedRange unit="pp">551</citedRange></bibl><bibl xml:id="bib202-5">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tigris&amp;sT=keywords">Tigris</citedRange></bibl><bibl xml:id="bib202-6">
@@ -129,7 +129,7 @@
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             
           <citedRange unit="pp">129</citedRange></bibl><bibl xml:id="bib202-9">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             
           <citedRange unit="pp">216-218, 225-235</citedRange></bibl><bibl xml:id="bib202-10">
             <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>

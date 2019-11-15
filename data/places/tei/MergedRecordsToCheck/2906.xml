@@ -94,7 +94,7 @@
                   <precision match="@from" notAfter="0610"/>
                   <precision match="@to" notBefore="2017"/>
                </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/2906</idno><idno type="URI">http://syriaca.org/place/2906</idno><idno type="URI">https://pleiades.stoa.org/places/29652</idno><idno type="URI">https://en.wikipedia.org/wiki/Mecca</idno><idno type="URI">https://dbpedia.org/resource/Mecca</idno><idno type="URI">http://gazetteer.dainst.org/place/2283160</idno><bibl xml:id="bib2906-1">
-                  <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   
                <citedRange unit="pp">86, 220</citedRange></bibl><bibl xml:id="bib2906-2">
@@ -120,7 +120,7 @@
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             
           <citedRange unit="pp">45, 68, 118, 133, 136, 137, 141, 142, 143 144, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 165, 167, 168, 187, 249, 250, 251, 252, 253, 254, 255, 288, 374, 378, 425, 444, 530, 572, 667</citedRange></bibl><bibl xml:id="bib2906-8">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             
           <citedRange unit="pp">3, 14, 23, 30, 56, 59, 80-182, 205, 208</citedRange></bibl><bibl xml:id="bib2906-9">
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>

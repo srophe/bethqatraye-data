@@ -87,7 +87,7 @@
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/82</idno><idno type="URI">http://syriaca.org/place/82</idno><idno type="URI">http://pleiades.stoa.org/places/912849</idno><idno type="URI">http://en.wikipedia.org/wiki/Euphrates</idno><idno type="URI">http://dbpedia.org/resource/Euphrates</idno><idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Euphrates&amp;sT=keywords
                                         </idno><bibl xml:id="bib82-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                         
@@ -100,11 +100,11 @@
                         <ptr target="http://syriaca.org/bibl/2"/>
                         
                     <citedRange unit="pp">517</citedRange></bibl><bibl xml:id="bib82-4">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         
                     <citedRange unit="pp">551</citedRange></bibl><bibl xml:id="bib82-5">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Euphrates&amp;sT=keywords">Euphrates</citedRange></bibl><bibl xml:id="bib82-6">
@@ -118,7 +118,7 @@
                   <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                   
                <citedRange unit="pp">237</citedRange></bibl><bibl xml:id="bib82-8">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             
           <citedRange unit="pp">207, 209, 210, 212-217, 226, 247, 248</citedRange></bibl><bibl xml:id="bib82-9">
             <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>

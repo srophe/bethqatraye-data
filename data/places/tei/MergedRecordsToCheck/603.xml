@@ -111,7 +111,7 @@
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/603</idno><idno type="URI">http://syriaca.org/place/603</idno><idno type="URI">http://en.wikipedia.org/wiki/Greater_Khorasan</idno><idno type="URI">
                                             http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Khorasan&amp;sT=keywords
                                         </idno><bibl xml:id="bib603-1">
-                        <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         
                     <citedRange unit="pp">225</citedRange></bibl><bibl xml:id="bib603-2">
@@ -123,16 +123,16 @@
                         <ptr target="http://syriaca.org/bibl/2"/>
                         
                     <citedRange unit="pp">281</citedRange></bibl><bibl xml:id="bib603-4">
-                        <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         
                     <citedRange unit="pp">322</citedRange></bibl><bibl xml:id="bib603-5">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac Christianity</title>
+                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         
                     <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Khorasan&amp;sT=keywords">Khorasan</citedRange></bibl><bibl xml:id="bib603-6">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
                         
                         <ptr target="http://syriaca.org/bibl/9"/>
                     <citedRange unit="pp">17, 344</citedRange></bibl><bibl xml:id="bib603-7">

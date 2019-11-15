@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5513</idno>
           <idno type="URI">https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia</idno>
           <bibl xml:id="bib5513-1">
-            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">205</citedRange>
           </bibl>
         </place>
