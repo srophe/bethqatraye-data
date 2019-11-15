@@ -89,7 +89,7 @@
           <idno type="URI">http://syriaca.org/place/5328</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Jarmaq&amp;params=33_23_7.6_N_35_32_5.77_E_type:city_region:LB-JA</idno>
           <bibl xml:id="bib5328-1">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">46</citedRange>
           </bibl>
         </place>

@@ -106,7 +106,7 @@
             <citedRange unit="pp">9</citedRange>
           </bibl>
           <bibl xml:id="bib5503-2">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">47</citedRange>
           </bibl>
         </place>

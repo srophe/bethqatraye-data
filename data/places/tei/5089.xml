@@ -105,7 +105,7 @@
           <idno type="URI">http://syriaca.org/place/5089</idno>
           <idno type="URI">http://www.geonames.org/2473449/kairouan.html</idno>
           <bibl xml:id="bib5089-1">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">47</citedRange>
           </bibl>
           <bibl xml:id="bib5089-2">
@@ -113,11 +113,11 @@
             <citedRange unit="pp">7</citedRange>
           </bibl>
           <bibl xml:id="bib5089-3">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">238</citedRange>
           </bibl>
           <bibl xml:id="bib5089-4">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">47#238</citedRange>
           </bibl>
         </place>

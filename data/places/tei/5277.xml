@@ -90,7 +90,7 @@
           <idno type="URI">http://syriaca.org/place/5277</idno>
           <idno type="URI">http://sws.geonames.org/1219431</idno>
           <bibl xml:id="bib5277-1">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">27</citedRange>
           </bibl>
         </place>

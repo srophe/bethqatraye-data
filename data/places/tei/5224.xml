@@ -91,7 +91,7 @@
           <idno type="URI">http://syriaca.org/place/5224</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Bəcirəvan,_Jalilabad&amp;params=39_06_01_N_48_32_15_E_region:AZ_type:city(2322)</idno>
           <bibl xml:id="bib5224-1">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">46</citedRange>
           </bibl>
         </place>

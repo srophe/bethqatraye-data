@@ -88,7 +88,7 @@
           <idno type="URI">http://syriaca.org/place/5318</idno>
           <idno type="URI">https://pleiades.stoa.org/places/922662</idno>
           <bibl xml:id="bib5318-1">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">26</citedRange>
           </bibl>
         </place>

@@ -310,7 +310,7 @@
                         <citedRange unit="pp">59</citedRange>
                     </bibl>
                     <bibl xml:id="bib10-10">
-                        <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+                        <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
                         <citedRange unit="pp">190</citedRange>
                     </bibl>
                     <bibl xml:id="bib10-11">

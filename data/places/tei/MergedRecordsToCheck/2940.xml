@@ -73,6 +73,6 @@
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
             
           <citedRange unit="pp">87</citedRange></bibl><bibl xml:id="bib2940-3">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">46</citedRange>
           </bibl></place></listPlace></body></text></TEI>

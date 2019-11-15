@@ -85,7 +85,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/865</idno>
           <idno type="URI">http://syriaca.org/place/865</idno>
           <bibl xml:id="bib865-1">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">47</citedRange>
           </bibl>
         </place>

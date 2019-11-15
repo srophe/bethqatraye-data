@@ -90,7 +90,7 @@
           <idno type="URI">http://syriaca.org/place/5398</idno>
           <idno type="URI">http://tools.wmflabs.org/geohack/geohack.php?pagename=Nawqan&amp;params=36_17_40.6_N_59_37_20.7_E_</idno>
           <bibl xml:id="bib5398-1">
-            <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
+            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">25</citedRange>
           </bibl>
         </place>
