@@ -56,7 +56,7 @@
                </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/3002</idno><idno type="URI">http://syriaca.org/place/3002</idno><bibl xml:id="bib3002-1">
                   <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                   <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
-                  <ptr target="http://syriaca.org/bibl/2500"/>
+                  <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                   
                <citedRange unit="pp">152</citedRange></bibl><bibl xml:id="bib3002-2">
             <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
