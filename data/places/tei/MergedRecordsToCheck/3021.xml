@@ -56,7 +56,7 @@
                </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/3021</idno><idno type="URI">http://syriaca.org/place/3021</idno><bibl xml:id="bib3021-1">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>
                   <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
-                  <ptr target="http://syriaca.org/bibl/2502"/>
+                  <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                   
                <citedRange unit="pp">30</citedRange></bibl><bibl xml:id="bib3021-2">
             <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
