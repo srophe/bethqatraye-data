@@ -91,7 +91,7 @@
           <idno type="URI">http://gazetteer.dainst.org/place/2733089</idno>
           <bibl xml:id="bib5182-1">
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
-            <citedRange unit="pp">190، 198، 579</citedRange>
+            <citedRange unit="pp">190, 198, 579</citedRange>
           </bibl>
         </place>
       </listPlace>

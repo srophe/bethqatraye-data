@@ -138,7 +138,7 @@
           <citedRange unit="pp">235</citedRange></bibl><bibl xml:id="bib452-8">
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             
-          <citedRange unit="pp">186، 187، 228، 229، 233، 243، 249، 572، 662</citedRange></bibl><bibl xml:id="bib452-9">
+          <citedRange unit="pp">186, 187, 228, 229, 233, 243, 249, 572, 662</citedRange></bibl><bibl xml:id="bib452-9">
             <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
             <citedRange unit="pp">205, 207, 209-213, 229, 234</citedRange>
           </bibl></place></listPlace></body></text></TEI>

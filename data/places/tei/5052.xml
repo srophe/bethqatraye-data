@@ -88,7 +88,7 @@
           <idno type="URI">http://gazetteer.dainst.org/place/2101805</idno>
           <bibl xml:id="bib5052-1">
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
-            <citedRange unit="pp">73، 290، 356، 378، 667</citedRange>
+            <citedRange unit="pp">73, 290, 356, 378, 667</citedRange>
           </bibl>
         </place>
       </listPlace>
