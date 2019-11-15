@@ -67,7 +67,7 @@
                </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/3000</idno><idno type="URI">http://syriaca.org/place/3000</idno><idno type="URI">https://en.wikipedia.org/wiki/Taloqan</idno><idno type="URI">https://dbpedia.org/resource/Taloqan</idno><idno type="URI">http://www.geonames.org/1123004/taloqan.html</idno><bibl xml:id="bib3000-1">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>
                   <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
-                  <ptr target="http://syriaca.org/bibl/2501"/>
+                  <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                   
                <citedRange unit="pp">287</citedRange></bibl><bibl xml:id="bib3000-2">
             <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
