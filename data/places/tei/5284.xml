@@ -131,7 +131,7 @@
           <idno type="URI">http://gazetteer.dainst.org/place/2402351</idno>
           <idno type="URI">http://sws.geonames.org/75411</idno>
           <bibl xml:id="bib5284-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">267</citedRange>
           </bibl>
           <bibl xml:id="bib5284-2">

@@ -95,7 +95,7 @@
           <idno type="URI">http://syriaca.org/place/5082</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Muzdalifah&amp;params=21_23_10_N_39_54_44_E_type:landmark</idno>
           <bibl xml:id="bib5082-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">145, 181, 183</citedRange>
           </bibl>
           <bibl xml:id="bib5082-2">

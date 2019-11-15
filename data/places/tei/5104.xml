@@ -95,7 +95,7 @@
           <idno type="URI">http://syriaca.org/place/5104</idno>
           <idno type="URI">https://www.google.com/maps/search/الروحاء%E2%80%AD/@24.0836833,36.9195434,7z</idno>
           <bibl xml:id="bib5104-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">142</citedRange>
           </bibl>
           <bibl xml:id="bib5104-2">

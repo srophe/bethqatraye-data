@@ -87,7 +87,7 @@
           <idno type="URI">http://syriaca.org/place/5404</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Qaba%27&amp;params=24_24_N_39_39_E_region:SA_type:city</idno>
           <bibl xml:id="bib5404-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">139</citedRange>
           </bibl>
         </place>

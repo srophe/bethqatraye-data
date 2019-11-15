@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5553</idno>
           <idno type="URI">https://ar.wikipedia.org/wiki/عيذاب#/map/0</idno>
           <bibl xml:id="bib5553-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">43, 70,71, 72, 83, 253, 289, 667</citedRange>
           </bibl>
         </place>

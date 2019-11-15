@@ -85,7 +85,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5163</idno>
           <idno type="URI">http://syriaca.org/place/5163</idno>
           <bibl xml:id="bib5163-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">189, 215, 281, 304, 307, 323, 325, 346, 363, 378, 395</citedRange>
           </bibl>
         </place>

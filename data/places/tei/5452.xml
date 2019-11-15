@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5452</idno>
           <idno type="URI">https://pleiades.stoa.org/places/104811110</idno>
           <bibl xml:id="bib5452-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">255, 256, 259, 260</citedRange>
           </bibl>
         </place>

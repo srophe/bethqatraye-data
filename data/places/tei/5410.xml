@@ -89,7 +89,7 @@
           <idno type="URI">http://syriaca.org/place/5410</idno>
           <idno type="URI">https://www.google.com/maps/place/Nagorno-Karabakh/@39.6347291,45.342603,8z/data=!3m1!4b1!4m5!3m4!1s0x403e60450d8c91c7:0x3ce54512602132df!8m2!3d39.796249!4d46.6550799</idno>
           <bibl xml:id="bib5410-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">94, 216</citedRange>
           </bibl>
         </place>

@@ -51,6 +51,6 @@
             <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             
           <citedRange unit="pp">139</citedRange></bibl><bibl xml:id="bib142-2">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">246</citedRange>
           </bibl></place></listPlace></body></text></TEI>

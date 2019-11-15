@@ -117,7 +117,7 @@
           <idno type="URI">http://syriaca.org/place/5311</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2733859</idno>
           <bibl xml:id="bib5311-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">170, 269, 278, 279, 280, 465, 581, 661</citedRange>
           </bibl>
         </place>

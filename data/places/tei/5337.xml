@@ -89,7 +89,7 @@
           <idno type="URI">http://syriaca.org/place/5337</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Kalba&amp;params=25_04_27_N_56_21_19_E_type:city</idno>
           <bibl xml:id="bib5337-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">280, 661</citedRange>
           </bibl>
         </place>

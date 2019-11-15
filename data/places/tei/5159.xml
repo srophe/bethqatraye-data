@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5159</idno>
           <idno type="URI">https://www.google.com/maps/place/وادي+العقيق%E2%80%AD/@24.3659544,39.4187537,11z/data=!3m1!4b1!4m5!3m4!1s0x15bdbc66c3c2b927:0x85b5ca83fc6e4fe0!8m2!3d24.3670012!4d39.5514464</idno>
           <bibl xml:id="bib5159-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">141</citedRange>
           </bibl>
         </place>

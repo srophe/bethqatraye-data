@@ -77,7 +77,7 @@
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
             
           <citedRange unit="pp">57</citedRange></bibl><bibl xml:id="bib2918-3">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             
           <citedRange unit="pp">146, 156, 167</citedRange></bibl><bibl xml:id="bib2918-4">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

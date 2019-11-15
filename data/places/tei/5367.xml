@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5367</idno>
           <idno type="URI">https://www.google.com/maps/place/Hasik,+Oman/@17.4426547,54.7094906,9z/data=!4m5!3m4!1s0x3dd35b1faa2e85bd:0x98411eeef44e1564!8m2!3d17.4437123!4d55.268653</idno>
           <bibl xml:id="bib5367-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">274</citedRange>
           </bibl>
         </place>

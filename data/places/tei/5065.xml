@@ -96,7 +96,7 @@
           <idno type="URI">http://syriaca.org/place/5065</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark</idno>
           <bibl xml:id="bib5065-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">133, 144, 154, 155, 172, 176, 249</citedRange>
           </bibl>
           <bibl xml:id="bib5065-2">

@@ -84,7 +84,7 @@
           <idno type="URI">http://syriaca.org/place/874</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Soltaniyeh&amp;params=36_26_05_N_48_47_51_E_region:IR_type:city</idno>
           <bibl xml:id="bib874-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">94, 240</citedRange>
           </bibl>
         </place>

@@ -87,7 +87,7 @@
           <idno type="URI">http://syriaca.org/place/5107</idno>
           <idno type="URI">https://www.google.com/maps/place/Rusafa,+Baghdad,+Iraq/data=!4m2!3m1!1s0x1557825e0fd7971d:0x656292d073e44a39?sa=X&amp;ved=2ahUKEwjxy92KrMvjAhVBYKwKHdg6D9IQ8gEwAHoECAoQAQ</idno>
           <bibl xml:id="bib5107-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">235</citedRange>
           </bibl>
         </place>

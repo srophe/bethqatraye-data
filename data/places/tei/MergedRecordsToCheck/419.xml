@@ -84,7 +84,7 @@
           <idno type="URI">http://syriaca.org/place/419</idno>
           <idno type="URI">https://www.google.com/maps/place/Al+Salhiyeh,+Damascus,+Syria/@33.5315138,36.1493723,11z/data=!4m5!3m4!1s0x1518e73080431fa7:0x923962e45a827d57!8m2!3d33.529055!4d36.287486</idno>
           <bibl xml:id="bib419-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">116, 117</citedRange>
           </bibl>
         </place>

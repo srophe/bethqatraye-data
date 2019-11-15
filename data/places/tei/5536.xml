@@ -91,7 +91,7 @@
           <idno type="URI">http://syriaca.org/place/5536</idno>
           <idno type="URI">http://vici.org/vici/34364</idno>
           <bibl xml:id="bib5536-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">107, 267, 269, 273, 275, 593, 661</citedRange>
           </bibl>
         </place>

@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5537</idno>
           <idno type="URI">https://www.google.com/maps/place/Zurud+Saudi+Arabia/@27.8250703,43.1836937,14z/data=!3m1!4b1!4m5!3m4!1s0x15797fdb1f7334b9:0xe51e851f1dc279c7!8m2!3d27.8288483!4d43.1989273</idno>
           <bibl xml:id="bib5537-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">249</citedRange>
           </bibl>
         </place>

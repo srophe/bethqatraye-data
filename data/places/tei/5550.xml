@@ -96,7 +96,7 @@
           <idno type="URI">http://syriaca.org/place/5550</idno>
           <idno type="URI">https://www.google.com/maps/place/Asfan+Saudi+Arabia/@21.9000603,39.3109892,12z/data=!3m1!4b1!4m5!3m4!1s0x15c19ee2f4f5a3e7:0x59be183140bf0904!8m2!3d21.9001621!4d39.3828571</idno>
           <bibl xml:id="bib5550-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">143, 185</citedRange>
           </bibl>
           <bibl xml:id="bib5550-2">

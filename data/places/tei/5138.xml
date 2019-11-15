@@ -96,7 +96,7 @@
           <idno type="URI">http://syriaca.org/place/5138</idno>
           <idno type="URI">https://www.google.com/maps/place/At+Taniem,+Mecca+Saudi+Arabia/data=!4m2!3m1!1s0x15c21d3276ed3e1f:0xc9e844accdc956c1?sa=X&amp;ved=2ahUKEwjineKf2sTjAhVCXq0KHfjRBDAQ8gEwAHoECAoQAQ</idno>
           <bibl xml:id="bib5138-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">158, 166</citedRange>
           </bibl>
           <bibl xml:id="bib5138-2">

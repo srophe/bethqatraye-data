@@ -87,7 +87,7 @@
           <idno type="URI">http://syriaca.org/place/5280</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Firuzan&amp;params=34_16_43_N_48_14_24_E_region:IR_type:city</idno>
           <bibl xml:id="bib5280-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">210</citedRange>
           </bibl>
         </place>

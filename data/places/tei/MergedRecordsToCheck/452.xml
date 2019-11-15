@@ -136,7 +136,7 @@
             <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
             
           <citedRange unit="pp">235</citedRange></bibl><bibl xml:id="bib452-8">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             
           <citedRange unit="pp">186, 187, 228, 229, 233, 243, 249, 572, 662</citedRange></bibl><bibl xml:id="bib452-9">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

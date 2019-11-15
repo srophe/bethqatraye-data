@@ -86,7 +86,7 @@
           <idno type="URI">http://syriaca.org/place/5457</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Semnan,_Iran&amp;params=35_34_22_N_53_23_50_E_region:IR_type:city</idno>
           <bibl xml:id="bib5457-1">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">390</citedRange>
           </bibl>
         </place>

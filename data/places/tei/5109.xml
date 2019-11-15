@@ -108,7 +108,7 @@
             <citedRange unit="pp">vol. 3, p. 411</citedRange>
           </bibl>
           <bibl xml:id="bib5109-2">
-            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">133, 144, 152, 154, 155, 172, 176, 249</citedRange>
           </bibl>
           <bibl xml:id="bib5109-3">
