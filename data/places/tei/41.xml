@@ -241,7 +241,7 @@
                         <quote source="#bib41-1">City on the Tigris, approximately 35 km. north of
                             Seleucia-Ctesiphon.</quote>
                     </desc>
-                    <desc xml:lang="ar" xml:id="abstract-en-4141-NaN">
+                    <desc xml:lang="ar">
                         <quote source="#bib41-10">ومدينة الري ومدينة اصفهان ومدينة السلام والمدائن
                             بالعراق</quote>
                     </desc>
@@ -283,8 +283,8 @@
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">50-51</citedRange></bibl>
                     <bibl xml:id="bib41-2">
-                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
-                            Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the
+                            Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">17, 21, 23, 40 (fig. 13), 41, 50–51, 54, 70–71, 72,
                             73–74, 92, 100, 127, 169, 181, 185, 205, 207, 215, 219–222, 244, 251,
@@ -301,8 +301,8 @@
                         <ptr target="http://syriaca.org/bibl/2"/>
                         <citedRange unit="pp">505</citedRange></bibl>
                     <bibl xml:id="bib41-5">
-                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature
-                            and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac
+                            Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         <citedRange unit="pp">552</citedRange></bibl>
                     <bibl xml:id="bib41-6">
@@ -314,8 +314,8 @@
                             >Baghdad</citedRange></bibl>
                     <bibl xml:id="bib41-7">
                         <author>David Wilmshurst</author>
-                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church of the
-                            East, 1318-1913</title>
+                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church
+                            of the East, 1318-1913</title>
                         <ptr target="http://syriaca.org/bibl/9"/>
                         <citedRange unit="pp">12, 16, 17, 18, 52, 127, 176, 178, 180, 182-187, 192,
                             198, 210, 237, 261, 264, 265, 282, 316, 342, 344, 345,
@@ -335,9 +335,6 @@
                             al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr
                             target="http://syriaca.org/bibl/Q7SV98GA"/>
                         <citedRange unit="pp">26</citedRange></bibl>
-                    <bibl xml:id="bib41-11">
-                        <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
-                        <citedRange unit="pp">233</citedRange></bibl>
                     <bibl xml:id="bib41-12">
                         <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn
                             Jubayr</author><editor>M.J. de Goeje</editor><ptr
@@ -345,7 +342,9 @@
                         <citedRange unit="pp">4, 11, 12, 13, 16, 19, 71, 205, 208, 213, 216-231,
                             286, 290</citedRange></bibl>
                     <bibl xml:id="bib41-13">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn
+                            Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">67, 117, 169, 184, 186, 187, 194, 202, 203, 215, 216,
                             222, 231, 232, 233, 234, 235, 236, 237, 240, 242, 248, 249, 311, 323,
                             365, 374, 395, 471, 473, 532, 565, 572, 573, 624, 662, 663,
