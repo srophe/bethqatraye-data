@@ -96,6 +96,6 @@
             <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             
           <citedRange unit="pp">vol. 1, p. 129</citedRange></bibl><bibl xml:id="bib3016-6">
-            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 3, p. 126</citedRange>
           </bibl></place></listPlace></body></text></TEI>

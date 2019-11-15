@@ -87,7 +87,7 @@
           <idno type="URI">http://syriaca.org/place/5334</idno>
           <idno type="URI">https://www.google.com/maps/place/Juatha+Saudi-Arabien/@25.4491286,49.3834317,10z/data=!4m5!3m4!1s0x3e379571fd48a6f3:0x9f33617728792bef!8m2!3d25.445337!4d49.6554124</idno>
           <bibl xml:id="bib5334-1">
-            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 2, p. 174</citedRange>
           </bibl>
         </place>

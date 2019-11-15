@@ -93,7 +93,7 @@
           <idno type="URI">http://syriaca.org/place/5522</idno>
           <idno type="URI">http://www.geonames.org/maps/google_23.263_48.981.html</idno>
           <bibl xml:id="bib5522-1">
-            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 5, p. 427</citedRange>
           </bibl>
           <bibl xml:id="bib5522-2">

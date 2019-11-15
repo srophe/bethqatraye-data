@@ -84,7 +84,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5291</idno>
           <idno type="URI">http://syriaca.org/place/5291</idno>
           <bibl xml:id="bib5291-1">
-            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 5, p. 393</citedRange>
           </bibl>
         </place>

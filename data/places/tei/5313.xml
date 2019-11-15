@@ -96,11 +96,11 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5313</idno>
           <idno type="URI">http://syriaca.org/place/5313</idno>
           <bibl xml:id="bib5313-1">
-            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 2, pp. 314</citedRange>
           </bibl>
           <bibl xml:id="bib5313-2">
-            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 2, pp. 315</citedRange>
           </bibl>
           <bibl xml:id="bib5313-3">

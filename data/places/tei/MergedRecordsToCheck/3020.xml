@@ -88,6 +88,6 @@
             <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
             
           <citedRange unit="pp">152, 249</citedRange></bibl><bibl xml:id="bib3020-5">
-            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 5, pp. 135</citedRange>
           </bibl></place></listPlace></body></text></TEI>
