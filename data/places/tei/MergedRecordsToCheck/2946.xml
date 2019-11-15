@@ -59,7 +59,7 @@
                </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/2946</idno><idno type="URI">http://syriaca.org/place/2946</idno><bibl xml:id="bib2946-1">
                   <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
                   <author>Aḥmad ibn ʿUmar Ibn Rustah</author>
-                  <ptr target="http://syriaca.org/bibl/2503"/>
+                  <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
                   
                <citedRange unit="pp">87</citedRange></bibl><bibl xml:id="bib2946-2">
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>

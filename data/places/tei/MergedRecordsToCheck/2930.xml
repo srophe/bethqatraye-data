@@ -55,7 +55,7 @@
                </event><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/2930</idno><idno type="URI">http://syriaca.org/place/2930</idno><idno type="URI">https://en.wikipedia.org/wiki/World_Ocean</idno><idno type="URI">https://dbpedia.org/resource/World_Ocean</idno><bibl xml:id="bib2930-1">
                   <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
                   <author>Aḥmad ibn ʿUmar Ibn Rustah</author>
-                  <ptr target="http://syriaca.org/bibl/2503"/>
+                  <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
                   
                <citedRange unit="pp">83</citedRange></bibl><bibl xml:id="bib2930-2">
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
