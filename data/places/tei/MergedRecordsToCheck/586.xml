@@ -65,7 +65,7 @@
             <classDecl>
                 <taxonomy>
                     <category xml:id="srophe-headword">
-                        <catDesc>The name used by the Srophé App for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+                        <catDesc>The name used by the Srophé App for document titles, citation, and disambiguation. These names have been created according to the Syriaca.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                     </category>
                 </taxonomy>
             </classDecl>
