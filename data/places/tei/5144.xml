@@ -81,7 +81,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5144</idno>
           <idno type="URI">http://syriaca.org/place/5144</idno>
           <bibl xml:id="bib5144-1">
-            <ptr target="http://syriaca.org/bibl/NATHCE76"/>
+            <title xml:lang="en" level="m">Safar Nāma</title><author>Nāṣir Khusraw</author><ptr target="http://syriaca.org/bibl/NATHCE76"/>
             <citedRange unit="pp">158</citedRange>
           </bibl>
         </place>

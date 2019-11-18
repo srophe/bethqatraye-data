@@ -133,7 +133,7 @@
             <citedRange unit="pp">vol. 2, p. 267; vol. 5, p. 242</citedRange>
           </bibl>
           <bibl xml:id="bib5009-7">
-            <ptr target="http://syriaca.org/bibl/NATHCE76"/>
+            <title xml:lang="en" level="m">Safar Nāma</title><author>Nāṣir Khusraw</author><ptr target="http://syriaca.org/bibl/NATHCE76"/>
             <citedRange unit="pp">158-162</citedRange>
           </bibl>
         </place>
