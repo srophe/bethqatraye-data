@@ -108,39 +108,39 @@
           <idno type="URI">http://syriaca.org/place/2941</idno>
           <idno type="URI">http://www.geonames.org/290291/kingdom-of-bahrain.html</idno>
           <bibl xml:id="bib2941-1">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 1, pp. 45</citedRange>
           </bibl>
           <bibl xml:id="bib2941-2">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 1, pp. 128-129</citedRange>
           </bibl>
           <bibl xml:id="bib2941-3">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 1, pp. 166</citedRange>
           </bibl>
           <bibl xml:id="bib2941-4">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 1, pp. 176-177</citedRange>
           </bibl>
           <bibl xml:id="bib2941-5">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 2, pp. 44</citedRange>
           </bibl>
           <bibl xml:id="bib2941-6">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 2, pp. 169</citedRange>
           </bibl>
           <bibl xml:id="bib2941-7">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 2, pp. 263-264</citedRange>
           </bibl>
           <bibl xml:id="bib2941-8">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 5, pp. 166-167</citedRange>
           </bibl>
           <bibl xml:id="bib2941-9">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 1, pp. 45, 128-129, 166, 176; vol. 2, pp. 44, 169, 264; vol. 5, p. 167</citedRange>
           </bibl>
         </place>

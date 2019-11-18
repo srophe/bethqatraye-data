@@ -100,7 +100,7 @@
           <idno type="URI">http://syriaca.org/place/5510</idno>
           <idno type="URI">http://pleiades.stoa.org/places/932485</idno>
           <bibl xml:id="bib5510-1">
-            <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+            <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
             <citedRange unit="pp">vol. 1, p. 129</citedRange>
           </bibl>
           <bibl xml:id="bib5510-2">
