@@ -78,7 +78,7 @@
           <placeName xml:id="name5506-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Udum [?]</placeName>
           <placeName xml:id="name5506-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أدم</placeName>
           <placeName xml:id="name5506-3" xml:lang="ar" source="#bib5506-1">أدم</placeName>
-          <desc type="abstract" xml:id="abstract5506-1" xml:lang="en">'A town about a day''s journey from Mecca.'</desc>
+          <desc type="abstract" xml:id="abstract5506-1" xml:lang="en">A town about a dayʼs journey from Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5506</idno>
           <idno type="URI">http://syriaca.org/place/5506</idno>
           <bibl xml:id="bib5506-1">

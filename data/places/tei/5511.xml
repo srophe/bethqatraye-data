@@ -78,7 +78,7 @@
           <placeName xml:id="name5511-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Wabkana</placeName>
           <placeName xml:id="name5511-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">وبكنة</placeName>
           <placeName xml:id="name5511-3" xml:lang="ar" source="#bib5511-1">وبكنة</placeName>
-          <desc type="abstract" xml:id="abstract5511-1" xml:lang="en">'A town located a day''s travel distance from Bukhārā.'</desc>
+          <desc type="abstract" xml:id="abstract5511-1" xml:lang="en">A town located a dayʼs travel distance from Bukhārā.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5511</idno>
           <idno type="URI">http://syriaca.org/place/5511</idno>
           <bibl xml:id="bib5511-1">

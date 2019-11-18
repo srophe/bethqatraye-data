@@ -78,7 +78,7 @@
           <placeName xml:id="name5070-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Maʿlā</placeName>
           <placeName xml:id="name5070-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المعلى</placeName>
           <placeName xml:id="name5070-3" xml:lang="ar" source="#bib5070-1">المعلى</placeName>
-          <desc type="abstract" xml:id="abstract5070-1" xml:lang="en">'The point where the Prophet''s troops entered Mecca during its conquest.'</desc>
+          <desc type="abstract" xml:id="abstract5070-1" xml:lang="en">The point where the Prophetʼs troops entered Mecca during its conquest.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5070</idno>
           <idno type="URI">http://syriaca.org/place/5070</idno>
           <bibl xml:id="bib5070-1">

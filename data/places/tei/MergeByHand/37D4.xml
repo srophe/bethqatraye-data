@@ -65,7 +65,7 @@
     <body>
       <listPlace>
         <place type="region">
-          <desc type="abstract" xml:id="abstract37-1" xml:lang="en">'A region on</desc>
+          <desc type="abstract" xml:id="abstract37-1" xml:lang="en">A region on</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/37</idno>
           <idno type="URI">http://syriaca.org/place/37</idno>
         </place>
