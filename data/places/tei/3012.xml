@@ -104,7 +104,7 @@
                           syriaca-tags="#syriaca-headword"
                           source="#bib3012-1">ܩܝܫ</placeName>
                <placeName xml:id="name3012-4" xml:lang="fr" source="#bib3012-1">Qȋš</placeName>
-               <desc xml:id="abstract-en-3012" xml:lang="en">An episcopal see possibly on one of the islands in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>, perhaps today's island of Kīsh</desc>
+               <desc xml:id="abstract-en-3012" xml:lang="en">An episcopal see possibly on one of the islands in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>, perhaps the modern island of Kīsh</desc>
                <event type="attestation"
                       xml:id="attestation3012-1"
                       when="0544"
