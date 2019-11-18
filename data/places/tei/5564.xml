@@ -91,23 +91,23 @@
           <idno type="URI">http://syriaca.org/place/5564</idno>
           <idno type="URI">https://pleiades.stoa.org/places/922698</idno>
           <bibl xml:id="bib5564-1">
-            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">73</citedRange>
           </bibl>
           <bibl xml:id="bib5564-2">
-            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">74</citedRange>
           </bibl>
           <bibl xml:id="bib5564-3">
-            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">76</citedRange>
           </bibl>
           <bibl xml:id="bib5564-4">
-            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">73, 76</citedRange>
           </bibl>
           <bibl xml:id="bib5564-5">
-            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">50, 51, 55</citedRange>
           </bibl>
         </place>

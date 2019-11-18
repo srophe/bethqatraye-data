@@ -79,7 +79,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3007</idno>
           <idno type="URI">http://syriaca.org/place/3007</idno>
           <bibl xml:id="bib3007-1">
-            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">75</citedRange>
           </bibl>
           <bibl xml:id="bib3007-2">
