@@ -82,7 +82,7 @@
           <idno type="URI">http://syriaca.org/place/5269</idno>
           <idno type="URI">https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين</idno>
           <bibl xml:id="bib5269-1">
-            <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
+            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title><author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author><ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
             <citedRange unit="pp">839</citedRange>
           </bibl>
         </place>

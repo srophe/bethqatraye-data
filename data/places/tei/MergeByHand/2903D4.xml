@@ -81,7 +81,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903</idno>
           <idno type="URI">http://syriaca.org/place/2903</idno>
           <bibl xml:id="bib2903-1">
-            <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
+            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title><author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author><ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
             <citedRange unit="pp">839</citedRange>
           </bibl>
         </place>

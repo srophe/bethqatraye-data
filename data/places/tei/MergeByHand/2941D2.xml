@@ -84,7 +84,7 @@
           <idno type="URI">http://syriaca.org/place/2941</idno>
           <idno type="URI">http://www.geonames.org/290291/kingdom-of-bahrain.html</idno>
           <bibl xml:id="bib2941-1">
-            <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
+            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title><author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author><ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
             <citedRange unit="pp">820, 836, 839, 958, 985</citedRange>
           </bibl>
         </place>
