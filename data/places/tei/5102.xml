@@ -144,7 +144,7 @@
           <idno type="URI">https://gazetteer.dainst.org/app/#!/show/2281715</idno>
           <idno type="URI">https://goo.gl/maps/fSMN9zdpgXU4WyrJ6</idno>
           <bibl xml:id="bib5102-1">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">17</citedRange>
           </bibl>
           <bibl xml:id="bib5102-2">

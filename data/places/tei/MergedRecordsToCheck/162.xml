@@ -62,7 +62,7 @@
           </desc><desc xml:lang="en">A city southwest of Aleppo and east of Antioch.</desc><desc xml:lang="en">'A military district southwest of Aleppo and east of Antioch located a day''s journey from Aleppo.'</desc><desc xml:lang="ar">
             <quote source="#bib162-4">والضرائب فيه هينة الا ما يكون على الفنادق فانه منكرعلى ما ذكرنا من بيت المقدس، وحماياته ثقيلة على قنسرين والعواصم ثلاثمائة الف وستون الف دينار وعلى الاردن مائة الف وسبعون الف دينار وعلى فلسطين مائتا الف وتسعة وخمسون الف دينار وعلى دمشق اربعمائة الف ونيف وقرأت في كتاب ابن خرداذبه خراج قنسرين اربعمائة الف دينار وخراج حمص ثلاثمائة الف واربعون الفا وخراج الاردن ثلاثمائة الف وخمسون الفا وخراج فلسطين خمسمائة الف دينار. واما المسافات فتاخذ من حلب الى بالس يومين ومن حلب الى قنسرين يوما</quote>
           </desc><idno type="URI">http://bqgazetteer.bethmardutho.org/place/162</idno><idno type="URI">http://syriaca.org/place/162</idno><idno type="URI">http://pleiades.stoa.org/places/668226</idno><idno type="URI">https://pleiades.stoa.org/places/668226</idno><bibl xml:id="bib162-1">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             
           <citedRange unit="pp">17</citedRange></bibl><bibl xml:id="bib162-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

@@ -90,7 +90,7 @@
           <idno type="URI">http://syriaca.org/place/5032</idno>
           <idno type="URI">https://mapper.acme.com/?ll=33.5,36.420833&amp;z=15&amp;t=H&amp;marker0=33.5,36.420833,Ghouta</idno>
           <bibl xml:id="bib5032-1">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">17</citedRange>
           </bibl>
         </place>

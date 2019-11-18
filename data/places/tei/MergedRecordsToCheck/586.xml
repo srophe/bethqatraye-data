@@ -133,7 +133,7 @@
                   <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
                   
                <citedRange unit="pp">78</citedRange></bibl><bibl xml:id="bib586-10">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             
           <citedRange unit="pp">133</citedRange></bibl><bibl xml:id="bib586-11">
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>

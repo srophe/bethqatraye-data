@@ -62,7 +62,7 @@
           </desc><desc xml:lang="en">A town (madīna) west of Mosul and east of Mount Sinjar.</desc><desc xml:lang="en">A town west of Mosul and east of Mount Sinjar.</desc><desc xml:lang="ar">
             <quote source="#bib184-3">وسنجار مدينة باثور</quote>
           </desc><idno type="URI">http://bqgazetteer.bethmardutho.org/place/184</idno><idno type="URI">http://syriaca.org/place/184</idno><idno type="URI">http://pleiades.stoa.org/places/874699</idno><idno type="URI">https://pleiades.stoa.org/places/874699</idno><bibl xml:id="bib184-1">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             
           <citedRange unit="pp">139</citedRange></bibl><bibl xml:id="bib184-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

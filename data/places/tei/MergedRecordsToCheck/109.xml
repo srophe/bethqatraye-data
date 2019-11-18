@@ -143,7 +143,7 @@
                   <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                   
                <citedRange unit="pp">237</citedRange></bibl><bibl xml:id="bib109-8">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             
           <citedRange unit="pp">17</citedRange></bibl><bibl xml:id="bib109-9">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

@@ -92,7 +92,7 @@
           <idno type="URI">http://syriaca.org/place/5400</idno>
           <idno type="URI">http://www.geonames.org/2485926/oran.html</idno>
           <bibl xml:id="bib5400-1">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">52</citedRange>
           </bibl>
         </place>

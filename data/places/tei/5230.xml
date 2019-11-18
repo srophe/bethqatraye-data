@@ -91,7 +91,7 @@
           <idno type="URI">http://syriaca.org/place/5230</idno>
           <idno type="URI">http://pleiades.stoa.org/places/315038</idno>
           <bibl xml:id="bib5230-1">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">50</citedRange>
           </bibl>
         </place>

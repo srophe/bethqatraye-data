@@ -93,11 +93,11 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5401</idno>
           <idno type="URI">http://syriaca.org/place/5401</idno>
           <bibl xml:id="bib5401-1">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">133</citedRange>
           </bibl>
           <bibl xml:id="bib5401-2">
-            <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">287</citedRange>
           </bibl>
         </place>
