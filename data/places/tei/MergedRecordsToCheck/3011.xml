@@ -57,6 +57,6 @@
                   <ptr target="http://syriaca.org/bibl/1383"/>
                   
                <citedRange unit="pp">424</citedRange><citedRange unit="pp">165, 424</citedRange></bibl><bibl xml:id="bib3011-2">
-            <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">80</citedRange>
           </bibl></place></listPlace></body></text></TEI>

@@ -136,7 +136,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3010</idno>
           <idno type="URI">http://syriaca.org/place/3010</idno>
           <bibl xml:id="bib3010-1">
-            <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">75</citedRange>
           </bibl>
           <bibl xml:id="bib3010-2">
@@ -146,7 +146,7 @@
             <citedRange unit="pp">34, 36, 165, 424</citedRange>
           </bibl>
           <bibl xml:id="bib3010-3">
-            <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">53</citedRange>
           </bibl>
         </place>

@@ -90,15 +90,15 @@
           <idno type="URI">http://syriaca.org/place/5362</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912905</idno>
           <bibl xml:id="bib5362-1">
-            <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">80</citedRange>
           </bibl>
           <bibl xml:id="bib5362-2">
-            <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">75, 78</citedRange>
           </bibl>
           <bibl xml:id="bib5362-3">
-            <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">59</citedRange>
           </bibl>
         </place>
