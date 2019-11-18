@@ -153,7 +153,7 @@
                      ref="http://syriaca.org/place/2901">Ḥaṭṭa</placeName>
                </desc>
                <desc xml:lang="ar">
-                  <quote source="#bib3017-5">قال عياض : وبالبحرين أيضا موضع يقال له قصر جواثا، ويقال
+                  <quote source="#bib3017-3">قال عياض : وبالبحرين أيضا موضع يقال له قصر جواثا، ويقال
                      : ارتدت العرب كلها بعد النبي،صلى الله عليه وسلم، إلا أهل جواثا</quote>
                </desc>
                <event type="attestation" xml:id="attestation3017-1" notBefore="0846" notAfter="0885"
