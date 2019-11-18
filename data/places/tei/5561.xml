@@ -81,7 +81,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5561</idno>
           <idno type="URI">http://syriaca.org/place/5561</idno>
           <bibl xml:id="bib5561-1">
-            <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+            <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>
             <citedRange unit="pp">vol.1, p.377-378</citedRange>
           </bibl>
         </place>

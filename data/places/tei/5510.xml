@@ -108,7 +108,7 @@
             <citedRange unit="pp">vol. 1, p. 274</citedRange>
           </bibl>
           <bibl xml:id="bib5510-3">
-            <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+            <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>
             <citedRange unit="pp">vol. 1, 371</citedRange>
           </bibl>
         </place>

@@ -116,7 +116,7 @@
             <ptr target="http://syriaca.org/bibl/NATHCE76"/>
             
           <citedRange unit="pp">161</citedRange></bibl><bibl xml:id="bib3013-8">
-            <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+            <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>
             
           <citedRange unit="pp">vol. 1, 371</citedRange></bibl><bibl xml:id="bib3013-9">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
