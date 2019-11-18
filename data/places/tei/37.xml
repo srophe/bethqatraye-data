@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -35,6 +36,21 @@
                     >William L. Potter</editor>
                 <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
                     >Thomas A. Carlson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
+                <respStmt>
+                    <resp>Isho’yahb III data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Al-Masūdī data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Data merging and XML by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
+                </respStmt>
                 <respStmt>
                     <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
@@ -148,23 +164,36 @@
                     <placeName xml:id="name37-3" xml:lang="ar" syriaca-tags="#syriaca-headword"
                         source="#bib37-5">قطر</placeName>
                     <placeName xml:id="name37-4" xml:lang="syr" syriaca-tags="#syriaca-headword"
-                        source="#bib37-4">ܒܝܬ ܩܛܪ̈ܝܐ</placeName>
-                    <placeName xml:id="name37-5" xml:lang="syr" source="#bib37-4">ܐܬܪܐ
+                        source="#bib37-4 #bib37-7 #bib37-8 #bib37-9">ܒܝܬ ܩܛܪ̈ܝܐ</placeName>
+                    <placeName xml:id="name37-5" xml:lang="syr" source="#bib37-4 #bib37-8">ܐܬܪܐ
                         ܕܩܛܪ̈ܝܐ</placeName>
                     <placeName xml:id="name37-6" xml:lang="fr" source="#bib37-4">Beit
                         Qaṭrayé</placeName>
                     <placeName xml:id="name37-7" xml:lang="fr" source="#bib37-4">Le pays des
                         Qaṭrayé</placeName>
+                    <placeName xml:id="name37-8" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Qatar</placeName>
+                    <placeName xml:id="name37-9" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Qaṭar</placeName>
+                    <placeName xml:id="name37-10" xml:lang="ar" source="#bib37-6">جزائر قطر</placeName>
+                    <placeName xml:id="name37-11" xml:lang="la" source="#bib37-11">Beth Qaṭraye, region of the Qataris</placeName>
                     <desc xml:id="abstract-en-37" xml:lang="en">
                         <quote source="#bib37-1">The region known in Syriac as Beth Qaṭraye includes
                             not only the peninsula of Qaṭar, but also its hinterland Yamāma, and the
                             entire coast of northeast Arabia as far as the peninsula of Musandam, in
                             present-day Oman, along with the islands.</quote>
                     </desc>
-                    <desc xml:lang="en">
-                        <quote source="#bib37-1">102. Beth Qaṭraye</quote>
+                    <desc xml:lang="syr">
+                        <quote source="#bib37-7">ܐܠܐ ܕܝܢ ܐܦܣܩܘ̈ܦܐ ܕܦܪܣ ܘܕܒܝܬ ܩܛܪ̈ܝܐ: ܟܕ ܚܦܝܛܝܢ ܟܐܡܬ ܕܐܦ ܝܬܝܪ ܡܢ ܡܐ ܕܨܒܐ ܗܘܐ ܣܛܢܐ ܢܟܦܪܘܢ ܒܟܪܣܛܝܢܘܬܐ ܒܟܬ̈ܒܐ ܕܫܢܝܘܬܐ ܘܒܚܬ̈ܡܐ ܕܪܘܫܥܐ.[...] ܘܕܒܐܝܢܐ ܕܝܢ ܨܥܪܐ ܘܒܘܪܚܐ ܘܓܘܕܦܐ. ܢܦܩܘ ܡܢ ܒܝܬ ܦܪ̈ܣܝܐ ܘܡܢ ܒܝܬ ܩܛܪ̈ܝܐ.</quote>
                     </desc>
-                    <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
+                    <desc xml:lang="syr">
+                        <quote source="#bib37-8">ܘܐܝܬܝܗܘܢ ܗܘܘ ܠܐܬܪܐ ܕܩܛܪ̈ܝܐ ܒܝܬ ܓܘܣܐ ܕܐܠܝܨ̈ܐ[...] ܕܠܘܬ ܝܚܝܕ̈ܝܐ ܕܒܒܝܬ ܩܛܪ̈ܝܐ[...]ܬܘܒ ܕܠܘܬ ܝܚܝܕ̈ܝܐ ܕܒܒܝܬ ܩܛܪ̈ܝܐ</quote>
+                    </desc>
+                    <desc xml:lang="syr">
+                        <quote source="#bib37-9">[...]ܐܓܪ̈ܬܐ ܣܓܝ̈ܐܬܐ ܟܬܒܬ ܠܒܝܬ ܩܛܪ̈ܝܐ.[...]ܟܒܪ ܡܬܬܢܚܝܢ ܘܡܬܕܢܩܝܢ ܥܠ ܫܢܝܘܬܐ ܕܐܦܣܩ̈ܘܦܐ ܕܫܡܐ ܕܒܝܬ ܩܛܪ̈ܝܐ.</quote>
+                    </desc><desc xml:lang="ar">
+                        <quote source="#bib37-6">ويقابل ما ذكرنا من مبدإ ساحل فارس ومكران والسند بلاد البحرين وجزائر قطر وشط بني جذيمة وبلاد عمان وأرض مهرة إلى أرض رأس الجمجمة من أرض الشحر والأحقاف، وفيه جزائر كثيرة مثل جزيرة خارك وهي بلاد جنابا لأن خارك مضافة إلى بلاد جنابا. وبينها وبين البر فراسخ، وفيها مغاص لؤلؤ وهو اللؤلؤ المعروف بالخاركي؛ وجزيرة أوال وفيها بنو معن وبنو مسمار وخلائق كثيرة من العرب، بينها وبين هدن ساحل البحرين نحو يوم بل أقل من ذلك؛ وفي ذلك الساحل مدينة الزارة القطيف من ساحل هجر؛ ثم بعد جزيرة أوال جزائر كثيرة منها جزيرة لافت وتدعى جزيرة بني كاوان وقد كان افتتحها عمرو بن العاص وفيها مسجده إلى هذه الغاية، وفيها خلق من الناس وقرى وعمائر متصلة.</quote>
+                    </desc>
+                    <location type="gps" subtype="representative"
+                        resp="http://bqgazetteer.bethmardutho.org">
                         <geo>25.4 53.1</geo>
                     </location>
                     <event type="attestation" xml:id="attestation37-1" when="0676" source="#bib37-4">
@@ -200,8 +229,8 @@
                         <citedRange unit="pp">72-73</citedRange>
                     </bibl>
                     <bibl xml:id="bib37-2">
-                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
-                            Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the
+                            Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">12, 54, 72–73, 111, 164, 171, 175, 176, 213,
                             374</citedRange>
@@ -226,6 +255,26 @@
                         <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">60, 193</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib37-6">
+                        <title xml:lang="en" level="m">Murūj al-Dhahab</title><author>al-Masūdī</author><ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+                        <citedRange unit="pp">vol. 1, p. 128</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib37-7">
+                        <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+                        <citedRange unit="pp">73, 74</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib37-8">
+                        <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+                        <citedRange unit="pp">78, 80, 83</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib37-9">
+                        <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+                        <citedRange unit="pp">87, 88</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib37-11">
+                        <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title><editor>Mario Kozah</editor><editor>Abdulrahim Abu-Husayn</editor><editor>Saif Shaheen Al-Murikhi</editor><editor>Haya Al Thani</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
+                        <citedRange unit="pp">50, 51, 57, 59, 64, 68</citedRange>
                     </bibl>
                 </place>
             </listPlace>
