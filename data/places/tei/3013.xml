@@ -201,7 +201,7 @@
           <desc type="abstract" xml:lang="en" xml:id="abstract3013-1">One of the largest cities in the region of
               <placeName ref="http://syriaca.org/place/2941">al-Baḥrayn</placeName>
           </desc>
-          <desc xml:lang="en">A city located seven farāsikh north
+          <desc xml:lang="en">A city located seven farsakh north
             of al-Aḥsāʾ in <placeName ref="http://syriaca.org/place/2941">al-Baḥrayn</placeName>.</desc>
           <desc xml:lang="ar">
             <quote source="#bib3013-7">القطيف : [...] وهي مدينة بالبحرين هي اليوم قصبتها وأعظم مدنها
@@ -215,6 +215,8 @@
           <location type="gps" source="#bib3013-1">
             <geo>26.612985 49.983804</geo>
           </location>
+          <location type="relative" source="#bib3013-5">A city located <measure unit="farasikh" quantity="7">seven farsakh</measure> <offset>north
+            of</offset> al-Aḥsāʾ in <placeName ref="http://syriaca.org/place/2941">al-Baḥrayn</placeName>.</location>
           <event type="attestation" xml:id="attestation3013-1" notBefore="0846" notAfter="0885"
             source="#bib3013-2">
             <p xml:lang="en">Attestation of name <foreign xml:lang="ar">القطيف</foreign> in the
