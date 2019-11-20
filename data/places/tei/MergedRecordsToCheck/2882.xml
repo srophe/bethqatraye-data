@@ -217,9 +217,8 @@
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">73, 175</citedRange></bibl>
                <bibl xml:id="bib2882-2">
-                  <title xml:lang="en" level="m">Synodicon Orientale</title>
-                  <editor>Jean Baptiste Chabot</editor>
-                  <ptr target="http://syriaca.org/bibl/1383"/>
+                  
+                  <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
                   <citedRange unit="pp">216</citedRange><citedRange unit="pp"
                      >482</citedRange><citedRange unit="pp">216, 482</citedRange></bibl>
                <bibl xml:id="bib2882-3">

@@ -59,9 +59,8 @@
                   <precision match="@from" notAfter="0676" notBefore="0033"/>
                   <precision match="@to" notAfter="2017" notBefore="0676"/>
                </state><idno type="URI">http://bqgazetteer.bethmardutho.org/place/2877</idno><idno type="URI">http://syriaca.org/place/2877</idno><bibl xml:id="bib2877-1">
-                  <title xml:lang="en" level="m">Synodicon Orientale</title>
-                  <editor>Jean Baptiste Chabot</editor>
-                  <ptr target="http://syriaca.org/bibl/1383"/>
+                  
+                  <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
                   
                <citedRange unit="pp">482</citedRange><citedRange unit="pp">216, 482</citedRange></bibl><bibl xml:id="bib2877-2">
             <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>

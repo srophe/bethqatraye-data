@@ -86,7 +86,7 @@
             <citedRange unit="pp">75</citedRange>
           </bibl>
           <bibl xml:id="bib2904-2">
-            <ptr target="http://syriaca.org/bibl/1383"/>
+            <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
             <citedRange unit="pp">128</citedRange>
           </bibl>
           <bibl xml:id="bib2904-3">

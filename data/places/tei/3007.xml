@@ -118,9 +118,8 @@
                <state type="existence"/>
                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3007</idno><idno type="URI">http://syriaca.org/place/3007</idno>
                <bibl xml:id="bib3007-1">
-                  <title xml:lang="en" level="m">Synodicon Orientale</title>
-                  <editor>Jean Baptiste Chabot</editor>
-                  <ptr target="http://syriaca.org/bibl/1383"/>
+                  
+                  <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
                   <citedRange unit="pp">165, 196, 424, 455</citedRange>
                </bibl>
             </place>

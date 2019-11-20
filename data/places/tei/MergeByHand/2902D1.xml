@@ -75,11 +75,11 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2902</idno>
           <idno type="URI">http://syriaca.org/place/2902</idno>
           <bibl xml:id="bib2902-1">
-            <ptr target="http://syriaca.org/bibl/1383"/>
+            <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
             <citedRange unit="pp">165, 196</citedRange>
           </bibl>
           <bibl xml:id="bib2902-2">
-            <ptr target="http://syriaca.org/bibl/1383"/>
+            <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
             <citedRange unit="pp">387</citedRange>
           </bibl>
         </place>
