@@ -157,7 +157,7 @@
                <placeName xml:id="name2882-1" xml:lang="en" syriaca-tags="#syriaca-headword"
                   source="#bib2882-1">Dayrin</placeName>
                <placeName xml:id="name2882-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
-                  source="#bib2882-3 #bib2882-4 #">دارين</placeName>
+                  source="#bib2882-3 #bib2882-4">دارين</placeName>
                <placeName xml:id="name2882-3" xml:lang="en" source="#bib2882-1">Dirin</placeName>
                <placeName xml:id="name2882-4" xml:lang="syr" syriaca-tags="#syriaca-headword"
                   source="#bib2882-2">ܕܝܪܝܢ</placeName>

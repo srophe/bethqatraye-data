@@ -145,7 +145,7 @@
             syriaca-tags="#syriaca-headword">Qinnasrīn</placeName>
           <placeName xml:id="name162-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
             syriaca-tags="#syriaca-headword" source="#">قنسرين</placeName>
-          <placeName xml:id="name162-3" xml:lang="ar" source="#bib162-1 #">قنسرين</placeName>
+          <placeName xml:id="name162-3" xml:lang="ar" source="#bib162-1">قنسرين</placeName>
           <placeName xml:lang="en" xml:id="name162-4">Qenneshrin</placeName>
           <placeName xml:lang="en" xml:id="name162-5">Qinneshrin</placeName>
           <desc type="abstract" xml:id="abstract162-1" xml:lang="en">A military district southwest
