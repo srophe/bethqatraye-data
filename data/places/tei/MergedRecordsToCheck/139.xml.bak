@@ -88,7 +88,7 @@
                         <quote source="#bib139-1">City in the north of Iraq, on the west bank of the Tigris opposite the ruins of ancient Nineveh.</quote>
                     </desc><desc xml:lang="en">
                         <quote source="#bib139-1">380. Mosul</quote>
-                    </desc><desc xml:lang="ar">
+                    </desc><desc xml:lang="ar" xml:id="abstract-en-139139-NaN">
             <quote source="#bib139-10">ومن تكريت الى الموصل 6 ايام ومن الموصل الى آمد 14 يوما</quote>
           </desc><desc xml:lang="en" xml:id="abstract-en-139139-NaN">“City in the north of Iraq, on the west bank of the Tigris opposite the ruins of ancient Nineveh.” (Brock, Gorgias Encyclopedic Dictionary)</desc><location type="gps" source="#bib139-2">
                         <geo>36.366667 43.116667</geo>
