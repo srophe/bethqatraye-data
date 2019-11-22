@@ -98,11 +98,6 @@
                         Davis</name>
                 </respStmt>
                 <respStmt>
-                    <resp>al-Ya`qubi data collection by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
-                        Abu-Husayn</name>
-                </respStmt>
-                <respStmt>
                     <resp>al-Ya`qubi data correction and integration by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
                         Carlson</name>
@@ -265,23 +260,15 @@
                     <placeName xml:lang="en" xml:id="name139-18">el-Mausil</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name139-19">al-Mawṣil</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract139-1">“City in the north of
-                        Iraq, on the west bank of the Tigris opposite the ruins of ancient Nineveh.”
-                        (S. Brock)</desc>
-                    <desc xml:id="abstract-en-139" xml:lang="en">
-                        <quote source="#bib139-1">City in the north of Iraq, on the west bank of the
-                            Tigris opposite the ruins of ancient Nineveh.</quote>
-                    </desc>
-                    <desc xml:lang="en">
-                        <quote source="#bib139-1">380. Mosul</quote>
+                    <desc type="abstract" xml:id="abstract-en-139" xml:lang="en">
+                        <quote source="#bib139-1">City in the north of <placeName>Iraq</placeName>,
+                            on the west bank of the <placeName>Tigris</placeName> opposite the ruins
+                            of ancient <placeName>Nineveh</placeName>.</quote>
                     </desc>
                     <desc xml:lang="ar">
                         <quote source="#bib139-10">ومن تكريت الى الموصل 6 ايام ومن الموصل الى آمد 14
                             يوما</quote>
                     </desc>
-                    <desc xml:lang="en" xml:id="abstract-en-139139-NaN">“City in the north of Iraq,
-                        on the west bank of the Tigris opposite the ruins of ancient Nineveh.”
-                        (Brock, Gorgias Encyclopedic Dictionary)</desc>
                     <location type="gps" source="#bib139-2">
                         <geo>36.366667 43.116667</geo>
                     </location>
@@ -404,10 +391,6 @@
                         <author>Ibn Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">184, 240, 242, 243, 244, 245, 248, 396</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib139-13">
-                        <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
-                        <citedRange unit="pp">237</citedRange>
                     </bibl>
                 </place>
             </listPlace>
