@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-    xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Hagar</title>
+                <title level="a" xml:lang="en">Hagar - <foreign xml:lang="ar">هجر</foreign>
+                </title>
                 <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
                 <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
-                <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>Qatar National Research Foundation</funder>
                 <principal>Haya Al Thani</principal>
                 <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani"
@@ -32,7 +30,30 @@
                 <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter"
                     >William L. Potter</editor>
                 <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-                    >Thomas A. Carlson</editor>
+                    >Thomas Carlson</editor>
+                <editor role="creator"
+                    ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+                    Scheunchen</editor>
+                <respStmt>
+                    <resp>al-Tabari data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al
+                        Thani</name>
+                </respStmt>
+                <respStmt>
+                    <resp>al-Bakri data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+                        Al-Murikhi</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Yaqūt b. ʿAbdallah al-Ḥamawī data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+                        Al-Murikhi</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Data merging and XML by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L.
+                        Potter</name>
+                </respStmt>
                 <respStmt>
                     <resp>Data merging, Wikipedia linking, and XML by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
@@ -71,7 +92,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2017-08-09-05:00</date>
+                <date>2019-11-13-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -124,26 +145,50 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-2903" type="settlement">
-                    <placeName xml:id="name2903-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                <place type="settlement">
+                    <placeName xml:id="name2903-1" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                        source="#bib2903-6">ܗܓܪ</placeName>
+                    <placeName xml:id="name2903-2" xml:lang="en" syriaca-tags="#syriaca-headword"
+                        resp="http://bqgazetteer.bethmardutho.org">Hagar</placeName>
+                    <placeName xml:id="name2903-3" xml:lang="ar"
+                        resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+                    <placeName xml:id="name2903-4" xml:lang="ar" source="#bib2903-1 #bib2903-2
+                        #bib2903-3 #bib2903-4 #bib2903-5 #bib2903-8" syriaca-tags="#syriaca-headword"
+                        >هجر</placeName>
+                    <placeName xml:id="name2903-5" xml:lang="fr" source="#bib2903-7"
                         >Hagar</placeName>
-                    <placeName xml:id="name2903-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
-                        source="#bib2903-1 #bib2903-2">هجر</placeName>
-                    <desc xml:id="abstract-en-2903" xml:lang="en">A town in northeastern <placeName
-                            ref="http://syriaca.org/place/716">Arabia</placeName>
+                    <placeName xml:id="name2903-6" xml:lang="en"
+                        resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
+                    <desc type="abstract" xml:id="abstract2903-1" xml:lang="en">The capital city of
+                        the province of <placeName>al-Baḥrayn</placeName>.</desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib2903-3">هجر : [...] في الإقليم الثاني، طولها من جهة
+                            المغرب ثلاث وسبعون درجة، وعرضها أربع وعشرون درجة وخمس عشرة دقيقة، وفي
+                            العزيزي : عرضها أربع وثلاثون درجة، وزعم أنها قي الإقليم الثالث [...]
+                            وقال ابن الحائك : الهجر بلغة حمير والعرب العاربة القرية، فمنها : هجر
+                            البحرين وهجر نجران وهجر جازان وهجر حصنة من مخلاف مازن؛ وهجر : مدينة وهي
+                            قاعدة البحرين، وربما قيل الهجر، بالألف واللام، وقيل : ناحية البحرين كلها
+                            هجر، وهو الصواب، قال ابن الكلبي عن الشرقي : إنما سميت عين هجر بهجر بنت
+                            المكفف وكانت من العرب المتعربة وكان زوجها محلم بن عبد الله صاحب النهر
+                            الذي بالبحرين يقال له نهر محلم وعين محلم [...] وقيل : هجر قرية قرب
+                            المدينة، وقال : بل عملت بالمدينة على مثل قلال هجر، وقال قوم : هجر بلاد
+                            قصبتها الصفا، وقد ذكرت في موضعها، بينها وبين اليمامة عشرة أيام، وبينها
+                            وبين البصرة خمسة عشر يوما على الإبل، وقد ذكر قوم من أهل الأدب أن هجر لا
+                            تدخله الألف واللام [...] وقال ابن موسى : هجر قصبة بلاد البحرين بينه وبين
+                            سرين سبعة أيام.</quote>
                     </desc>
-                    <location type="gps">
+                    <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>26.877823 48.726603</geo>
                     </location>
                     <event type="attestation" xml:id="attestation2903-1" notBefore="0846"
-                        notAfter="0885" source="#bib2903-1">
+                        notAfter="0885" source="#bib2903-8">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">هجر</foreign> in
                             the <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                             of <persName>Abuʾl-Qāsim Ibn Khurradādhbih</persName>.</p>
                         <link target="#name2903-2 #attestation2903-1"/>
                     </event>
                     <event type="attestation" xml:id="attestation2903-2" notBefore="0902"
-                        notAfter="0908" source="#bib2903-2">
+                        notAfter="0908" source="#bib2903-5">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">هجر</foreign> in
                             the <title xml:lang="en" level="m">Kitāb al-buldān</title> of
                                 <persName>Aḥmad b. Muḥammad al-Hamadhānī Ibn
@@ -156,18 +201,54 @@
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903</idno>
                     <idno type="URI">http://syriaca.org/place/2903</idno>
-                    <idno type="URI">http://pleiades.stoa.org/places/932483</idno>
                     <bibl xml:id="bib2903-1">
+                        <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
+                        <author>Abū ʿUbayd al-Bakrī</author>
+                        <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+                        <citedRange unit="pp">vol.1, p.377</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-2">
+                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+                        <author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author>
+                        <author>Farīd ʿAbd al-ʿAzīz al-Jundī</author>
+                        <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+                        <citedRange unit="pp">vol. 5, p. 393</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-3">
+                        <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
+                        <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
+                        <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
+                        <citedRange unit="pp">839</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-4">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                         <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">152</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-2">
+                    <bibl xml:id="bib2903-5">
                         <title xml:lang="en" level="m">Kitāb al-buldān</title>
                         <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
                         <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                         <citedRange unit="pp">30</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-6">
+                        <title xml:lang="en" level="m">Synodicon Orientale</title>
+                        <editor>Jean Baptiste Chabot</editor>
+                        <ptr target="http://syriaca.org/bibl/1383"/>
+                        <citedRange unit="pp">216</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-7">
+                        <title xml:lang="en" level="m">Synodicon Orientale</title>
+                        <editor>Jean Baptiste Chabot</editor>
+                        <ptr target="http://syriaca.org/bibl/1383"/>
+                        <citedRange unit="pp">482</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-8">
+                        <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
+                        <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
+                        <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
+                        <citedRange unit="pp">152</citedRange>
                     </bibl>
                 </place>
             </listPlace>
