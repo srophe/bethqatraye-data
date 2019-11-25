@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Aleppo — <foreign xml:lang="syr">ܚܠܒ</foreign>
+                <title level="a" xml:lang="en">Ḥama — <foreign xml:lang="syr">ܚܡܬ</foreign>
                 </title>
                 <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
                 <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
@@ -73,31 +73,26 @@
                     <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
                         Carlson</name>
                 </respStmt>
-                <respStmt>
-                    <resp>Wilmshurst index information entry by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#adavis">Anthony
-                        Davis</name>
-                </respStmt>
             </titleStmt>
             <editionStmt>
                 <edition n="1.0"/>
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/18/tei</idno>
+                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/91/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
                             License.</p>
                         <p>This entry incorporates copyrighted material from the following work(s): <listBibl>
                                 <bibl>
-                                    <ptr target="#bib18-3"/>
+                                    <ptr target="#bib91-2"/>
                                 </bibl>
                                 <bibl>
-                                    <ptr target="#bib18-4"/>
+                                    <ptr target="#bib91-3"/>
                                 </bibl>
                                 <bibl>
-                                    <ptr target="#bib18-5"/>
+                                    <ptr target="#bib91-4"/>
                                 </bibl>
                             </listBibl>
                             <note>used under a Creative Commons Attribution license <ref
@@ -157,10 +152,10 @@
         </profileDesc>
         <revisionDesc status="published">
             <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-25-06:00" xml:id="change18-2">Merged in data from [duplicate record
+                when="2019-11-25-06:00" xml:id="change91-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-15-06:00" xml:id="change18-1">Merged in data from [duplicate record
+                when="2019-11-15-06:00" xml:id="change91-1">Merged in data from [duplicate record
                 with same URI]. [duplicate record with same URI]</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter"
                 when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
@@ -173,9 +168,6 @@
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: relation element with shares-name-with attribute for all place headwords
-                that share names</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
                 >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
@@ -185,114 +177,99 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-18" type="settlement">
-                    <placeName xml:id="name18-1" xml:lang="en" syriaca-tags="#syriaca-headword"
-                        source="#bib18-2 #bib18-5 #bib18-6 #bib18-7">Aleppo</placeName>
-                    <placeName xml:id="name18-2" xml:lang="en" source="#bib18-2">Beroea</placeName>
-                    <placeName xml:id="name18-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
-                        >ܚܠܒ</placeName>
-                    <placeName xml:id="name18-4" xml:lang="syr-Syrj" source="#bib18-3"
-                        >ܚܳܠܒ</placeName>
-                    <placeName xml:id="name18-5" xml:lang="ar" source="#bib18-4 #bib18-10 #" syriaca-tags="#syriaca-headword"
-                        >حلب</placeName>
-                    <placeName xml:id="name18-6" xml:lang="ar" source="#bib18-8">حَلَب</placeName>
+                <place xml:id="place-91" type="settlement">
+                    <placeName xml:id="name91-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                        source="#bib91-1 #bib91-4">Ḥama</placeName>
+                    <placeName xml:id="name91-2" xml:lang="en" source="#bib91-1"
+                        >Epiphaneia</placeName>
+                    <placeName xml:id="name91-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                        source="#bib91-2">ܚܡܬ</placeName>
+                    <placeName xml:id="name91-4" xml:lang="ar" source="#bib91-3">حماه</placeName>
+                    <placeName xml:id="name91-5" xml:lang="en" source="#bib91-5">Hamah</placeName>
+                    <placeName xml:id="name91-6" xml:lang="ar" source="#bib91-6">حَماة</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-                        xml:id="name18-7">Ḥalab</placeName>
-                    <desc type="abstract" xml:id="abstract-en-18" xml:lang="en">
-                        <quote source="#bib18-1">City in northern <placeName>Syria</placeName> and an important center of
-                            Christianity in the Middle East today as the seat of a total of nine
-                            bishoprics.</quote>
-                    </desc>
-                    
-                    <location type="gps" source="#bib18-2">
-                        <geo>36.21667 37.16667</geo>
+                        xml:id="name91-7">Ḥamā</placeName>
+                    <placeName xml:lang="ar" xml:id="name91-8" source="#bib91-7 #bib91-8">حماة</placeName>
+                    <placeName xml:lang="en" xml:id="name91-9">Hama</placeName>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract91-1">A city on the <placeName
+                            ref="http://syriaca.org/place/147">Orontes river</placeName> north of
+                            <placeName ref="http://syriaca.org/place/215">Emesa</placeName>.</desc>
+                    <location type="gps" source="#bib91-1">
+                        <geo>35.13333 36.75</geo>
                     </location>
-                    <event type="attestation" xml:id="attestation18-1" notBefore="1224"
+                    <event type="attestation" xml:id="attestation91-1" notBefore="1224"
                         notAfter="1228" syriaca-computed-start="1224-01-01"
-                        syriaca-computed-end="1228-01-01" source="#bib18-8">
-                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar">حَلَب</foreign>
+                        syriaca-computed-end="1228-01-01" source="#bib91-6">
+                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar">حَماة</foreign>
                             in the <title xml:lang="en" level="m">Muʿjam al-buldān</title> of
                                 <persName>Yāqūt al-Ḥamawī</persName>.</p>
-                        <link target="#name18-6 #attestation18-1"/>
+                        <link target="#name91-6 #attestation91-1"/>
                     </event>
-                    <state type="existence" from="0640" to="2013" syriaca-computed-end="2013-01-01"
-                        syriaca-computed-start="0640-01-01">
-                        <precision match="@from" notAfter="0640" syriaca-computed-end="0640-01-01"/>
+                    <state type="existence" from="-0835" to="2013" syriaca-computed-end="2013-01-01">
+                        <precision match="@from" notAfter="-0835"/>
                         <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"
                         />
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/18</idno>
-                    <idno type="URI">http://syriaca.org/place/18</idno>
-                    <idno type="URI">http://pleiades.stoa.org/places/658409</idno>
-                    <idno type="URI">http://en.wikipedia.org/wiki/Aleppo</idno>
-                    <idno type="URI">http://dbpedia.org/resource/Aleppo</idno>
+                    <note type="deprecation" xml:id="name91-4-deprecation">Barsoum's name omits the
+                        two dots from the tāʼ marbūṭa.</note>
+                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/91</idno>
+                    <idno type="URI">http://syriaca.org/place/91</idno>
+                    <idno type="URI">http://pleiades.stoa.org/places/668182</idno>
+                    <idno type="URI">http://en.wikipedia.org/wiki/Hama</idno>
+                    <idno type="URI">http://dbpedia.org/resource/Hama</idno>
                     <idno type="URI">
-                        http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Aleppo&amp;sT=keywords </idno>
-                    <idno type="URI">http://gazetteer.dainst.org/place/2280212</idno>
-                    <bibl xml:id="bib18-1">
-                        <author>H.Takahashi</author>
-                        <title level="a" xml:lang="en">28. Aleppo</title>
-                        <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the
-                            Syriac Heritage</title>
-                        <ptr target="http://syriaca.org/bibl/1"/>
-                        <citedRange unit="pp">14-16</citedRange></bibl>
-                    <bibl xml:id="bib18-2">
+                        http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hamah&amp;sT=keywords </idno>
+                    <bibl xml:id="bib91-1">
                         <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac
                             Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
-                        <citedRange unit="pp">10 (fig. 2), 14–16, 19, 29, 37–38 (with fig. 9, 10),
-                            41, 46, 47, 49, 53, 55, 64, 69, 92, 103, 112, 113, 130, 139, 165, 178,
-                            183, 196, 209–211, 218, 225, 243, 270–271, 288, 303, 314 (with fig. 93),
-                            350, 367, 368, 389, 396, 398, 418, 432, 444, 445,
-                            447</citedRange><citedRange unit="maps">Map I B1, II
-                        B1</citedRange></bibl>
-                    <bibl xml:id="bib18-3">
+                        <citedRange unit="pp">5, 15, 39, 183, 197, 226, 296, 343</citedRange>
+                        <citedRange unit="maps">Map I A2, II A2, V</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib91-2">
                         <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                         <ptr target="http://syriaca.org/bibl/3"/>
-                        <citedRange unit="pp">535</citedRange></bibl>
-                    <bibl xml:id="bib18-4">
+                        <citedRange unit="pp">556</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib91-3">
                         <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب
                             السريانية</title>
                         <ptr target="http://syriaca.org/bibl/2"/>
-                        <citedRange unit="pp">504</citedRange></bibl>
-                    <bibl xml:id="bib18-5">
+                        <citedRange unit="pp">516</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib91-4">
                         <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature
                             and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
-                        <citedRange unit="pp">551</citedRange></bibl>
-                    <bibl xml:id="bib18-6">
+                        <citedRange unit="pp">558</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib91-5">
                         <title xml:lang="en">The Comprehensive Bibliography on Syriac
                             Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry"
-                            target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=A&amp;sK=Aleppo&amp;sT=keywords"
-                            >Aleppo</citedRange></bibl>
-                    <bibl xml:id="bib18-7">
-                        <author>David Wilmshurst</author>
-                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the
-                            East, 1318-1913</title>
-                        <ptr target="http://syriaca.org/bibl/9"/>
-                        <citedRange unit="pp">13, 23, 27, 51, 62-63, 64, 65, 95, 211, 347, 361, 363,
-                            364</citedRange></bibl>
-                    <bibl xml:id="bib18-8">
+                            target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Hamah&amp;sT=keywords"
+                            >Hamah</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib91-6">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/636"/>
-                        <citedRange unit="pp">II:324</citedRange></bibl>
-                    <bibl xml:id="bib18-9">
+                        <citedRange unit="pp">II:344</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib91-7">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
                             gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
                         <author>Ibn Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
-                        <citedRange unit="pp">85,86, 88, 89, 90, 92, 93, 94, 140, 247, 407, 664,
-                            665</citedRange>
+                        <citedRange unit="pp">83, 84, 94, 664, 665</citedRange>
                     </bibl>
-                    <bibl xml:id="bib18-10">
+                    <bibl xml:id="bib91-8">
                         <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
                         <author>Ibn Jubayr</author>
                         <editor>M.J. de Goeje</editor>
                         <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
-                        <citedRange unit="pp">249-254, 258</citedRange>
+                        <citedRange unit="pp">255-257, 308</citedRange>
                     </bibl>
                 </place>
             </listPlace>
