@@ -242,13 +242,12 @@
                         >سِجِستان</placeName>
                     <placeName xml:lang="en" xml:id="name409-9">Sīstān</placeName>
                     <placeName xml:lang="ar" xml:id="name409-10">سيستان</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract409-1">“A region located
+                    <desc type="abstract" xml:lang="en">“[A] region of eastern
+                        Persia lying to the south of <placeName>K̲h̲urāsān</placeName> and to the north of <placeName>Balūčistān</placeName>, now
+                        administratively divided between <placeName>Persia</placeName> and <placeName>Afghanistan</placeName>.” (Bosworth)</desc>
+                    <desc  xml:lang="en"><quote source="#bib409-6">A region located
                         around <placeName>Lake Hāmūn</placeName> and the <placeName>Helmand
-                            river</placeName> in modern <placeName>Sīstān</placeName>.” (M. Roaf et
-                        al)</desc>
-                    <desc xml:id="abstract-en-409" xml:lang="en">A large region south of <placeName
-                            ref="http://syriaca.org/place/523">Herat</placeName>
-                    </desc>
+                            river</placeName> in modern <placeName>Sīstān</placeName>.</quote></desc>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib409-1">ܦܢܝܬܳܐ ܗܝ ܪܰܒܬܳܐ ܘܰܩܠܝܡܳܐ ܗܘ ܦܰܬܝܳܐ ܒܩܘܪܳܒܐ ܕܗܰܪܐܬ
                             ܪܰܚܝܩܳܐ 10 ܝܰܘܡ̈ܝܢ </quote>
@@ -259,11 +258,9 @@
                     </desc>
                     <desc xml:lang="en">
                         <quote source="#bib409-3">a vast territory, ten days’ journey south of
-                            Herat.</quote>
+                                <placeName ref="http://syriaca.org/place/523"
+                            >Herat</placeName>.</quote>
                     </desc>
-                    <desc xml:lang="en" xml:id="abstract-en-409409-NaN">“[A] region of eastern
-                        Persia lying to the south of K̲h̲urāsān and to the north of Balūčistān, now
-                        administratively divided between Persia and Afghanistan.” (Bosworth)</desc>
                     <desc xml:lang="ar">
                         <quote source="#bib409-10">الحيرة مدينة كانت بالكوفة وقرية بفارس ومنزل
                             بسجستان ومحلة بنيسابور</quote>
