@@ -191,7 +191,7 @@
                         >ܚܠܒ</placeName>
                     <placeName xml:id="name18-4" xml:lang="syr-Syrj" source="#bib18-3"
                         >ܚܳܠܒ</placeName>
-                    <placeName xml:id="name18-5" xml:lang="ar" source="#bib18-4 #bib18-10 #"
+                    <placeName xml:id="name18-5" xml:lang="ar" source="#bib18-4 #bib18-10 #" syriaca-tags="#syriaca-headword"
                         >حلب</placeName>
                     <placeName xml:id="name18-6" xml:lang="ar" source="#bib18-8">حَلَب</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
