@@ -1,94 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title level="a" xml:lang="en">al-Sulṭānīya - <foreign xml:lang="ar">السلطانية</foreign>
-        </title>
-        <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
-        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
-        <funder>Qatar National Research Foundation</funder>
-        <principal>Haya Al Thani</principal>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif al-Murikhi</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman Chamseddine</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
-        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
-        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
-        <respStmt>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"><teiHeader><fileDesc><titleStmt><title level="a" xml:lang="en">Sulṭāniyya</title><title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title><sponsor>Beth Mardutho: The Syriac Institute</sponsor><sponsor>Syriaca.org: The Syriac Reference Portal</sponsor><funder>Qatar National Research Foundation</funder><principal>Haya Al Thani</principal><editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor><editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif al-Murikhi</editor><editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor><editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman Chamseddine</editor><editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor><editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor><editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor><editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor><editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor><editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor><respStmt>
           <resp>Ibn Battuta data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</name>
-        </respStmt>
-        <respStmt>
+        </respStmt><respStmt>
           <resp>Ibn Battuta data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman Chamseddine</name>
-        </respStmt>
-        <respStmt>
+        </respStmt><respStmt>
           <resp>Data merging and XML by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition n="1.0"/>
-      </editionStmt>
-      <publicationStmt>
-        <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/874/tei</idno>
-        <availability>
-          <licence target="http://creativecommons.org/licenses/by/3.0/">
-            <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
-          </licence>
-        </availability>
-        <date>2019-11-13-06:00</date>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Born digital.</p>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <p>This record created following the guidelines for TEI encoding established by Syriaca.org. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
-        <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning monastery or church, an administrative province).  Natural features always in existence have no <gi>state</gi> element of @type="existence".</p>
-      </editorialDecl>
-      <classDecl>
-        <taxonomy>
-          <category xml:id="srophe-headword">
-            <catDesc>The name used by the Srophé App for document titles, citation, and disambiguation. These names have been created according to the Syriaca.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
-          </category>
-        </taxonomy>
-      </classDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at: 
-                  <ref target="http://syriaca.org/documentation/langusage.xml">http://syriaca.org/documentation/langusage.xml</ref>
-        </p>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <listPlace>
-        <place type="settlement">
-          <placeName xml:id="name874-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sulṭānīya</placeName>
-          <placeName xml:id="name874-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">السلطانية</placeName>
-          <placeName xml:id="name874-3" xml:lang="en">Soltaniyeh</placeName>
-          <placeName xml:id="name874-4" xml:lang="ar" source="#bib874-1">السلطانية</placeName>
-          <desc type="abstract" xml:id="abstract874-1" xml:lang="en">A town in Zanjān Province in northwest Iran.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/874</idno>
-          <idno type="URI">http://syriaca.org/place/874</idno>
-          <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Soltaniyeh&amp;params=36_26_05_N_48_47_51_E_region:IR_type:city</idno>
-          <bibl xml:id="bib874-1">
+        </respStmt><respStmt>
+                    <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</name>
+                </respStmt><respStmt>
+                    <resp>Wilmshurst index information entry by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#adavis">Anthony Davis</name>
+                </respStmt></titleStmt><editionStmt>
+                <edition n="1.0"/>
+            </editionStmt><publicationStmt><authority>Beth Mardutho: The Syriac Institute</authority><idno type="URI">http://bqgazetteer.bethmardutho.org/place/874/tei</idno>
+                 
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2014-01-14-05:00</date>
+            </publicationStmt><sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc></fileDesc><encodingDesc>
+            <editorialDecl>
+                <p>This record created following the Syriaca.org guidelines. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+                <p>The capitalization of names from GEDSH (<idno type="URI">http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS were replaced by Proper-noun capitalization).</p>
+                <p>The unchanging parts of alternate names from Barsoum (<idno type="URI">http://syriaca.org/bibl/2</idno>, <idno type="URI">http://syriaca.org/bibl/3</idno>, or <idno type="URI">http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
+                <p>Names from the English translation of Barsoum (<idno type="URI">http://syriaca.org/bibl/4</idno>) were put in sentence word order rather than fronting a dictionary headword.  Any commas in the Barsoum name in English were removed.</p>
+                <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning monastery or church, an administrative province).  Natural features always in existence have no <gi>state</gi> element of @type="existence".</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="syriaca-headword">
+                        <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to the Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc><profileDesc>
+            <langUsage>
+                <language ident="syr">Unvocalized Syriac of any variety or period</language>
+                <language ident="syr-Syrj">Vocalized West Syriac</language>
+                <language ident="syr-Syrn">Vocalized East Syriac</language>
+                <language ident="en">English</language>
+                <language ident="ar">Arabic</language>
+            </langUsage>
+        </profileDesc><revisionDesc status="published"><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change874-1">Merged in data from [duplicate record with same URI].</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change><change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: syriaca-computed-start and syriaca-computed-end attributes for searching</change><change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change></revisionDesc></teiHeader><text><body><listPlace><place xml:id="place-874" type="settlement"><placeName xml:id="name874-1" xml:lang="en" syriaca-tags="#syriaca-headword">Sulṭāniyya</placeName><placeName xml:id="name874-2" xml:lang="en" source="#bib874-1">Sultaniyyeh</placeName><placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name874-3">al-Sulṭānīya</placeName><placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name874-4">السلطانية</placeName><placeName xml:lang="en" xml:id="name874-5">Soltaniyeh</placeName><placeName xml:lang="ar" xml:id="name874-6" source="#bib874-2">السلطانية</placeName><desc type="abstract" xml:lang="en" xml:id="abstract874-1">A town in Zanjān Province in northwest Iran.</desc><desc xml:id="abstract-en-874" xml:lang="en"/><state type="existence"/><idno type="URI">http://bqgazetteer.bethmardutho.org/place/874</idno><idno type="URI">http://syriaca.org/place/874</idno><idno type="URI">http://en.wikipedia.org/wiki/Soltaniyeh</idno><idno type="URI">http://dbpedia.org/resource/Soltaniyeh</idno><idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Soltaniyeh&amp;params=36_26_05_N_48_47_51_E_region:IR_type:city</idno><bibl xml:id="bib874-1">
+                        <author>David Wilmshurst</author>
+                        <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+                        
+                        <ptr target="http://syriaca.org/bibl/9"/>
+                    <citedRange unit="pp">322, 323</citedRange></bibl><bibl xml:id="bib874-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">94, 240</citedRange>
-          </bibl>
-        </place>
-      </listPlace>
-    </body>
-  </text>
-</TEI>
+          </bibl></place></listPlace></body></text></TEI>
