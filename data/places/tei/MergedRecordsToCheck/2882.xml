@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,8 +26,6 @@
                >David A. Michelson</editor>
             <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter"
                >William L. Potter</editor>
-            <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-               >Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
                >Thomas Carlson</editor>
             <respStmt>
@@ -111,7 +110,8 @@
             <taxonomy>
                <category xml:id="srophe-headword">
                   <catDesc>The name used by the Srophé App for document titles, citation, and
-                     disambiguation. These names have been created according to the Syriaca.org guidelines for headwords: <ref
+                     disambiguation. These names have been created according to the Syriaca.org
+                     guidelines for headwords: <ref
                         target="http://syriaca.org/documentation/headwords.html"
                         >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                </category>
@@ -119,7 +119,12 @@
          </classDecl>
       </encodingDesc>
       <profileDesc>
-         <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/langusage.xml">http://syriaca.org/documentation/langusage.xml</ref>         </p>       </langUsage>
+         <langUsage>
+            <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation
+               available at: <ref target="http://syriaca.org/documentation/langusage.xml"
+                  >http://syriaca.org/documentation/langusage.xml</ref>
+            </p>
+         </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00"
@@ -162,24 +167,21 @@
                <placeName xml:id="name2882-4" xml:lang="syr" syriaca-tags="#syriaca-headword"
                   source="#bib2882-2">ܕܝܪܝܢ</placeName>
                <placeName xml:id="name2882-5" xml:lang="fr" source="#bib2882-2">Deirȋn</placeName>
-               <placeName xml:id="name2882-6" xml:lang="ar" source="#bib2882-3 #bib2882-6"
-                  >الدارين</placeName>
+               <placeName xml:id="name2882-6" xml:lang="ar" source="#bib2882-3">الدارين</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                   xml:id="name2882-7">Tarout</placeName>
                <placeName xml:lang="en" xml:id="name2882-8">Tarūt</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                   xml:id="name2882-9">Darin</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2882-1">One of the islands in
-                  Beth Qaṭraye located east of al-Qaṭīf</desc>
-               <desc xml:id="abstract-en-2882" xml:lang="en">One of the islands in <placeName
-                     ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>
-               </desc>
-               <desc xml:lang="en" xml:id="abstract-en-28822882-NaN">Was well known for its
-                  production of musk known asdarini musk</desc>
-               <desc xml:lang="en" xml:id="abstract-en-28822882-NaN">Main town in Tarout island on
-                  the coastal line of Bahrain region</desc>
-               <location type="gps">
+               <desc type="abstract" xml:id="abstract-en-2882" xml:lang="en">One of the islands in <placeName
+                  ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName> located east of <placeName>al-Qaṭīf</placeName>.</desc>
+               <desc xml:lang="en">The island of Dayrin well known
+                  for its production of musk.</desc>
+               <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                   <geo>26.571 50.056</geo>
+               </location>
+               <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+                  <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
                </location>
                <event type="attestation" xml:id="attestation2882-1" when="0676" source="#bib2882-2">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܕܝܪܝܢ</foreign> in
@@ -209,28 +211,25 @@
                   <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
                      Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
-                  <citedRange unit="pp">73, 175</citedRange></bibl>
+                  <citedRange unit="pp">73, 175</citedRange>
+               </bibl>
                <bibl xml:id="bib2882-2">
-                  
-                  <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
-                  <citedRange unit="pp">216</citedRange><citedRange unit="pp"
-                     >482</citedRange><citedRange unit="pp">216, 482</citedRange></bibl>
+                  <title xml:lang="en" level="m">Synodicon Orientale</title>
+                  <editor>Jean Baptiste Chabot</editor>
+                  <ptr target="http://syriaca.org/bibl/1383"/>
+                  <citedRange unit="pp">216, 482</citedRange>
+               </bibl>
                <bibl xml:id="bib2882-3">
                   <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                   <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                   <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
-                  <citedRange unit="pp">152, 249</citedRange></bibl>
+                  <citedRange unit="pp">152, 249</citedRange>
+               </bibl>
                <bibl xml:id="bib2882-4">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>
                   <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
                   <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
-                  <citedRange unit="pp">30</citedRange></bibl>
-               <bibl xml:id="bib2882-5">
-                  <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
-                  <citedRange unit="pp">30</citedRange></bibl>
-               <bibl xml:id="bib2882-6">
-                  <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
-                  <citedRange unit="pp">152, 249</citedRange>
+                  <citedRange unit="pp">30</citedRange>
                </bibl>
             </place>
          </listPlace>
