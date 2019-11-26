@@ -165,8 +165,11 @@
             <quote source="#bib2943-2">وشكلت عطفه عليه لان بحر فارس يعطف من جزيرة مسقط مغربا الى مكة
               والى القلزم عن خمسين فرسخا من عمان ويدعى ذلك راس الجمجمة</quote>
           </desc>
-          <location type="gps">
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
             <geo>23.6 58.55</geo>
+          </location>
+          <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+            <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
           </location>
           <event type="attestation" xml:id="attestation2943-1" notBefore="0902" notAfter="0914"
             source="#bib2943-1">
