@@ -111,7 +111,6 @@
           <placeName xml:id="name3010-4" xml:lang="ar">تالون</placeName>
           <placeName xml:id="name3010-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
             source="#bib3010-2">ܬܐܠܘܢ</placeName>
-          <placeName xml:id="name3010-5" xml:lang="syr" source="#bib3010-2">ܡܫܡܗܝܓ</placeName>
           <placeName xml:id="name3010-6" xml:lang="la" source="#bib3010-3">Talon</placeName>
           <placeName xml:id="name3010-4" xml:lang="fr" source="#bib3010-2">Tâlwân</placeName>
           <desc type="abstract" xml:id="abstract3010-1" xml:lang="en">A Syriac form derived from
@@ -137,8 +136,7 @@
           </bibl>
           <bibl xml:id="bib3010-2">
             <title xml:lang="en" level="m">Synodicon Orientale</title><editor>Jean Baptiste Chabot</editor><ptr target="http://syriaca.org/bibl/1383"/>
-            
-            <citedRange unit="pp">34, 36, 165, 424</citedRange>
+            <citedRange unit="pp">165, 424</citedRange>
           </bibl>
           <bibl xml:id="bib3010-3">
             <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
