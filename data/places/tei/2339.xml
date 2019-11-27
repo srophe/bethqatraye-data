@@ -107,15 +107,15 @@
       <listPlace>
         <place xml:id="place-2339" type="diocese">
           <placeName xml:id="name2339-1" xml:lang="en" syriaca-tags="#syriaca-headword"
-            resp="http://bqgazetteer.bethmardutho.org" source="#bib2339-4">Maishan</placeName>
+            resp="http://bqgazetteer.bethmardutho.org">Maishan</placeName>
           <placeName xml:id="name2339-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
             resp="http://bqgazetteer.bethmardutho.org">ميسان</placeName>
           <placeName xml:id="name2339-3" xml:lang="en">Maysān</placeName>
           <placeName xml:id="name2339-4" xml:lang="en">Mēshān</placeName>
           <placeName xml:id="name2339-5" xml:lang="en">Mēshun</placeName>
           <placeName xml:id="name2339-6" xml:lang="en">T’iao-tche</placeName>
-          <placeName xml:id="name2339-7" xml:lang="syr" source="#bib2339-2">ܡܫܡܗܝܓ</placeName>
-          <placeName xml:id="name2339-8" xml:lang="la" source="#bib2339-3">Mesene</placeName>
+          <placeName xml:id="name2339-2" xml:lang="en" source="#bib2339-3">Maishān</placeName>
+          <placeName xml:id="name2339-8" xml:lang="la" source="#bib2339-2">Mesene</placeName>
           <desc type="abstract" xml:id="abstract2339-1" xml:lang="en">A region and diocese along the
             lower <placeName>Tigris River</placeName> in southeastern <placeName>Iraq</placeName>.</desc>
           <desc xml:lang="syr">
@@ -139,17 +139,9 @@
             <author>Ishoʿyahb III of Adiabene</author>
             <editor>Mario Kozah</editor>
             <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
-            <citedRange unit="pp">75, 78</citedRange>
-          </bibl>
-          <bibl xml:id="bib2339-3">
-            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the
-              Qataris</title>
-            <author>Ishoʿyahb III of Adiabene</author>
-            <editor>Mario Kozah</editor>
-            <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">59</citedRange>
           </bibl>
-          <bibl xml:id="bib2339-4">
+          <bibl xml:id="bib2339-3">
             <author>David Wilmshurst</author>
             <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
             <citedRange unit="pp">17, 175, 342, 344</citedRange>
