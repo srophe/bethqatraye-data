@@ -35,6 +35,14 @@
                     ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
                     Scheunchen</editor>
                 <respStmt>
+                    <resp>Ibn Battuta data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Ibn Battuta data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman Chamseddine</name>
+                </respStmt>
+                <respStmt>
                     <resp>al-Tabari data collection by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al
                         Thani</name>
@@ -152,7 +160,7 @@
                         resp="http://bqgazetteer.bethmardutho.org">Hagar</placeName>
                     <placeName xml:id="name2903-3" xml:lang="ar"
                         resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
-                    <placeName xml:id="name2903-4" xml:lang="ar" source="#bib2903-1 #bib2903-2 #bib2903-3 #bib2903-4 #bib2903-5 #bib2903-8" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name2903-4" xml:lang="ar" source="#bib2903-1 #bib2903-2 #bib2903-3 #bib2903-4 #bib2903-5 #bib2903-8 #bib2903-9" syriaca-tags="#syriaca-headword"
                         >هجر</placeName>
                     <placeName xml:id="name2903-5" xml:lang="fr" source="#bib2903-7"
                         >Hagar</placeName>
@@ -206,7 +214,7 @@
                     <bibl xml:id="bib2903-1">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
-                        <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+                        <ptr target="http://syriaca.org/bibl/BAEZEC37"/>!1
                         <citedRange unit="pp">vol.1, p.377</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-2">
@@ -251,6 +259,10 @@
                         <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">152</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-9">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">287</citedRange>
                     </bibl>
                 </place>
             </listPlace>
