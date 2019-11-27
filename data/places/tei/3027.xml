@@ -30,12 +30,6 @@
                >William L. Potter</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
                >Thomas A. Carlson</editor>
-            <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen"
-               >Tobias Scheunchen</editor>
-            <respStmt>
-               <resp>Isho’yahb III data collection by</resp>
-               <name ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</name>
-            </respStmt>
             <respStmt>
                <resp>Data merging and XML by</resp>
                <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L.
