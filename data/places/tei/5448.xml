@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -8,19 +10,30 @@
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
         <funder>Qatar National Research Foundation</funder>
         <principal>Haya Al Thani</principal>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif al-Murikhi</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman Chamseddine</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
-        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
-        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
-        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al
+          Thani</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+          al-Murikhi</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn"
+          >Abdulrahim Abu-Husayn</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul
+          Rahman Chamseddine</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario
+          Kozah</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
+          Carlson</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David
+          A. Michelson</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William
+          L. Potter</editor>
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+          Scheunchen</editor>
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario
+          Kozah</editor>
         <respStmt>
           <resp>Yaqūt b. ʿAbdallah al-Ḥamawī data collection by</resp>
-          <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif Al-Murikhi</name>
+          <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+            Al-Murikhi</name>
         </respStmt>
         <respStmt>
           <resp>al-Tabari data collection by</resp>
@@ -58,67 +71,98 @@
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
-        <p>This record created following the guidelines for TEI encoding established by Syriaca.org. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
-        <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning monastery or church, an administrative province).  Natural features always in existence have no <gi>state</gi> element of @type="existence".</p>
+        <p>This record created following the guidelines for TEI encoding established by Syriaca.org.
+          Documentation available at: <ref target="http://syriaca.org/documentation"
+            >http://syriaca.org/documentation</ref>.</p>
+        <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place
+          was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning
+          monastery or church, an administrative province). Natural features always in existence
+          have no <gi>state</gi> element of @type="existence".</p>
       </editorialDecl>
       <classDecl>
         <taxonomy>
           <category xml:id="srophe-headword">
-            <catDesc>The name used by the Srophé App for document titles, citation, and disambiguation. These names have been created according to the Syriaca.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+            <catDesc>The name used by the Srophé App for document titles, citation, and
+              disambiguation. These names have been created according to the Syriaca.org guidelines
+              for headwords: <ref target="http://syriaca.org/documentation/headwords.html"
+                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
           </category>
         </taxonomy>
       </classDecl>
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at: 
-                  <ref target="http://syriaca.org/documentation/langusage.xml">http://syriaca.org/documentation/langusage.xml</ref>
+        <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation
+          available at: <ref target="http://syriaca.org/documentation/langusage.xml"
+            >http://syriaca.org/documentation/langusage.xml</ref>
         </p>
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
+        >CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5448-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Samaheej</placeName>
-          <placeName xml:id="name5448-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">سَماهيج</placeName>
+          <placeName xml:id="name5448-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+            resp="http://bqgazetteer.bethmardutho.org">Samaheej</placeName>
+          <placeName xml:id="name5448-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+            resp="http://bqgazetteer.bethmardutho.org">سَماهيج</placeName>
           <placeName xml:id="name5448-3" xml:lang="en">Mayshamhag</placeName>
           <placeName xml:id="name5448-4" xml:lang="en">Mashmahīg</placeName>
           <placeName xml:id="name5448-5" xml:lang="en">Samāhīj</placeName>
-          <placeName xml:id="name5448-6" xml:lang="ar" source="#bib5448-1">سماهيج</placeName>
-          <placeName xml:id="name5448-7" xml:lang="syr" source="#bib5448-3">ܦܪܣ</placeName>
-          <placeName xml:id="name5448-8" xml:lang="syr" source="#bib5448-3">ܒܝܬ ܦܪ̈ܣܝܐ</placeName>
+          <placeName xml:id="name5448-6" xml:lang="ar" source="#bib5448-1 #bib5448-2">سماهيج</placeName>
+          <placeName xml:id="name5448-7" xml:lang="syr" source="#bib5448-3">ܡܝܫܡܗܓ</placeName>
+          <placeName xml:id="name5448-8" xml:lang="syr" source="#bib5448-6" syriaca-tags="#syriaca-headword">ܡܫܡܗܝܓ</placeName>
           <placeName xml:id="name5448-9" xml:lang="fr" source="#bib5448-4">Mâšmâhȋg</placeName>
           <placeName xml:id="name5448-10" xml:lang="fr" source="#bib5448-5">Mâšmahȋg</placeName>
-          <desc type="abstract" xml:id="abstract5448-1" xml:lang="en">A metropolitan town on an island in Beth Qaṭraye.</desc>
+          <desc type="abstract" xml:id="abstract5448-1" xml:lang="en">A metropolitan town on an
+            island in <placeName>Beth Qaṭraye</placeName>.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5448-1">وقيل : هي قرية على جانب البحرين ومن جواثا</quote>
           </desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5448</idno>
           <idno type="URI">http://syriaca.org/place/5448</idno>
-          <idno type="URI">https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج</idno>
+          <idno type="URI"
+            >https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج</idno>
           <bibl xml:id="bib5448-1">
-            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+            <author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author>
+            <author>Farīd ʿAbd al-ʿAzīz al-Jundī</author>
+            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 3, p. 246</citedRange>
           </bibl>
           <bibl xml:id="bib5448-2">
-            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title><author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author><ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
+            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
+            <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
+            <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
           </bibl>
           <bibl xml:id="bib5448-3">
-            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title><author>Ishoʿyahb III of Adiabene</author><editor>Mario Kozah</editor><ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
-            <citedRange unit="pp">73, 74, 76</citedRange>
+            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <editor>Jean Baptiste Chabot</editor>
+            <ptr target="http://syriaca.org/bibl/1383"/>
+            <citedRange unit="pp">128</citedRange>
           </bibl>
           <bibl xml:id="bib5448-4">
-            <ptr target="http://syriaca.org/bibl/NR45F82X"/>
+            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <editor>Jean Baptiste Chabot</editor>
+            <ptr target="http://syriaca.org/bibl/1383"/>
             <citedRange unit="pp">273, 275</citedRange>
           </bibl>
           <bibl xml:id="bib5448-5">
+            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <editor>Jean Baptiste Chabot</editor>
             <ptr target="http://syriaca.org/bibl/NR45F82X"/>
             <citedRange unit="pp">387</citedRange>
+          </bibl>          
+          <bibl xml:id="bib5448-6">
+            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <editor>Jean Baptiste Chabot</editor>
+            <ptr target="http://syriaca.org/bibl/NR45F82X"/>
+            <citedRange unit="pp">34, 36</citedRange>
           </bibl>
         </place>
       </listPlace>
