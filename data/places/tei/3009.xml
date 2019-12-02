@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -117,11 +117,11 @@
         <body>
             <listPlace>
                 <place xml:id="place-3009" type="island">
-                    <placeName xml:id="name3009-1" xml:lang="en" srophe="#bqg-headword"
+                    <placeName xml:id="name3009-1" xml:lang="en" srophe:tags="#bqg-headword"
                         >Toduru</placeName>
-                    <placeName xml:id="name3009-2" xml:lang="ar" srophe="#bqg-headword"
+                    <placeName xml:id="name3009-2" xml:lang="ar" srophe:tags="#bqg-headword"
                         >تدورو</placeName>
-                    <placeName xml:id="name3009-3" xml:lang="syr" srophe="#syriaca-headword"
+                    <placeName xml:id="name3009-3" xml:lang="syr" srophe:tags="#bqg-headword"
                         source="#bib3009-1">ܬܕܘܪܘ</placeName>
                     <placeName xml:id="name3009-4" xml:lang="syr" source="#bib3009-1"
                         >ܬܘܕܘܪܘ</placeName>
