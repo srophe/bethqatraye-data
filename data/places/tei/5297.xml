@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="building">
-          <placeName xml:id="name5297-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥamām al-Mayānishī</placeName>
-          <placeName xml:id="name5297-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">حمام الميانشي</placeName>
+          <placeName xml:id="name5297-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ḥamām al-Mayānishī</placeName>
+          <placeName xml:id="name5297-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">حمام الميانشي</placeName>
           <placeName xml:id="name5297-3" xml:lang="ar" source="#bib5297-1">حمام الميانشي</placeName>
           <desc type="abstract" xml:id="abstract5297-1" xml:lang="en">One of the bathhouses in Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5297</idno>

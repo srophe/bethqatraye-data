@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5525-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Yazd</placeName>
-          <placeName xml:id="name5525-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">يزد</placeName>
+          <placeName xml:id="name5525-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Yazd</placeName>
+          <placeName xml:id="name5525-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يزد</placeName>
           <placeName xml:id="name5525-3" xml:lang="ar" source="#bib5525-1">يزد</placeName>
           <desc type="abstract" xml:id="abstract5525-1" xml:lang="en">“[A] city of central Persia, and capital of the province of the same name. It is situated on the Persian plateau at lat. 31° 54′ N. and long. 54° 24′ E. (at an elevation of 1,230m/4,240 feet), in an elongated interior basin stretching from near Kās̲h̲ān to Bāfḳ and bordered by the Das̲h̲t-i Kawīr.” (Lambton)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5525</idno>

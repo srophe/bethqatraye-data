@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5358-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Kwāshān</placeName>
-          <placeName xml:id="name5358-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">كواشان</placeName>
+          <placeName xml:id="name5358-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kwāshān</placeName>
+          <placeName xml:id="name5358-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كواشان</placeName>
           <placeName xml:id="name5358-3" xml:lang="ar" source="#bib5358-1">كواشان</placeName>
           <desc type="abstract" xml:id="abstract5358-1" xml:lang="en">A city in the nāḥiya of Asfazār.</desc>
           <desc xml:lang="ar">

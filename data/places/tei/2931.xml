@@ -168,9 +168,9 @@
     <body>
       <listPlace>
         <place xml:id="place-2931" type="region">
-          <placeName xml:id="name2931-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name2931-1" xml:lang="en" srophe:tags="#headword"
             >Ethiopia</placeName>
-          <placeName xml:id="name2931-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name2931-2" xml:lang="ar" srophe:tags="#headword"
             source="#bib2931-2 #bib2931-3">الحبش</placeName>
           <placeName xml:id="name2931-3" xml:lang="ar" source="#bib2931-1 #bib2931-4"
             >الحبشة</placeName>

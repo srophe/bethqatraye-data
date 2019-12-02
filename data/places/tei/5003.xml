@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5003-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Abrīn</placeName>
-          <placeName xml:id="name5003-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أبْرينُ</placeName>
+          <placeName xml:id="name5003-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Abrīn</placeName>
+          <placeName xml:id="name5003-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أبْرينُ</placeName>
           <placeName xml:id="name5003-3" xml:lang="ar" source="#bib5003-1">أبرين</placeName>
           <desc type="abstract" xml:id="abstract5003-1" xml:lang="en">A small town well-known for palm trees and springs.</desc>
           <desc xml:lang="ar">

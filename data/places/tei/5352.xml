@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5352-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Kirmān</placeName>
-          <placeName xml:id="name5352-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">كرمان</placeName>
+          <placeName xml:id="name5352-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kirmān</placeName>
+          <placeName xml:id="name5352-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كرمان</placeName>
           <placeName xml:id="name5352-3" xml:lang="en">Kerman</placeName>
           <placeName xml:id="name5352-4" xml:lang="ar" source="#bib5352-1">كرمان</placeName>
           <desc type="abstract" xml:id="abstract5352-1" xml:lang="en">“The province of Kirmān is situated to the south-west of the great central desert of Persia, the Das̲h̲t-i Lūt, which narrows to some 100 miles in width where it divides Kirmān from Sīstān. It is bounded on the north by Yazd and K̲h̲urāsān, on the east by Sīstān and Makrān (Balūčistān), which was regarded by most of the early geographers as separate from Kirmān [...].” (Lambton)</desc>

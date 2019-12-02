@@ -141,7 +141,7 @@
         <body>
             <listPlace>
                 <place xml:id="place-672" type="settlement">
-                    <placeName xml:id="name672-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name672-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib672-1">Arragan</placeName>
                     <placeName xml:id="name672-2" xml:lang="ar" source="#bib672-3"
                         >أَرّجان</placeName>
@@ -149,7 +149,7 @@
                         xml:id="name672-3">Arjān</placeName>
                     <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name672-4">أرجان</placeName>
-                    <placeName xml:lang="ar" xml:id="name672-5" syriaca-tags="#syriaca-headword" source="#bib672-4">ارجان</placeName>
+                    <placeName xml:lang="ar" xml:id="name672-5" srophe:tags="#headword" source="#bib672-4">ارجان</placeName>
                     <placeName xml:lang="ar" xml:id="name672-6" source="#bib672-4"
                         >الارجان</placeName>
                     <desc xml:lang="en">A village situated between the

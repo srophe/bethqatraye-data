@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5343-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Kashk Zar</placeName>
-          <placeName xml:id="name5343-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">كشك زر</placeName>
+          <placeName xml:id="name5343-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kashk Zar</placeName>
+          <placeName xml:id="name5343-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كشك زر</placeName>
           <placeName xml:id="name5343-3" xml:lang="en">Koshk-e Zar</placeName>
           <placeName xml:id="name5343-4" xml:lang="ar" source="#bib5343-1">كشك زر</placeName>
           <desc type="abstract" xml:id="abstract5343-1" xml:lang="en">A town between Kalīl and Isfahan in Iran.</desc>

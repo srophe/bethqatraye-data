@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5399-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Nūqān</placeName>
-          <placeName xml:id="name5399-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">نوقان</placeName>
+          <placeName xml:id="name5399-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Nūqān</placeName>
+          <placeName xml:id="name5399-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نوقان</placeName>
           <placeName xml:id="name5399-3" xml:lang="en">Nawqān</placeName>
           <placeName xml:id="name5399-4" xml:lang="ar" source="#bib5399-1">نوقان</placeName>
           <desc type="abstract" xml:id="abstract5399-1" xml:lang="en">A village (qarya) in Naysābūr.</desc>

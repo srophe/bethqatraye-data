@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5419-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat al-Yahūdiyya</placeName>
-          <placeName xml:id="name5419-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">قبة اليهودية</placeName>
+          <placeName xml:id="name5419-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat al-Yahūdiyya</placeName>
+          <placeName xml:id="name5419-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قبة اليهودية</placeName>
           <placeName xml:id="name5419-3" xml:lang="ar" source="#bib5419-1">قبة اليهودية</placeName>
           <desc type="abstract" xml:id="abstract5419-1" xml:lang="en">Located close to Biʾr Zamzam and Qubbat al-ʿAbbās.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5419</idno>

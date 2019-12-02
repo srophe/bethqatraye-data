@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5372-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Abī Bakr</placeName>
-          <placeName xml:id="name5372-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مسجد أبي بكر</placeName>
+          <placeName xml:id="name5372-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Abī Bakr</placeName>
+          <placeName xml:id="name5372-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مسجد أبي بكر</placeName>
           <placeName xml:id="name5372-3" xml:lang="ar" source="#bib5372-1">مسجد أبي بكر</placeName>
           <desc type="abstract" xml:id="abstract5372-1" xml:lang="en">A mosque in Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5372</idno>

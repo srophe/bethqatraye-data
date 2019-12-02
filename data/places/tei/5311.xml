@@ -99,9 +99,9 @@
       <listPlace>
         <place type="province">
           <placeName xml:id="name5311-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">Hormuz</placeName>
+            srophe:tags="#headword">Hormuz</placeName>
           <placeName xml:id="name5311-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">هرمز</placeName>
+            srophe:tags="#headword">هرمز</placeName>
           <placeName xml:id="name5311-3" xml:lang="en">Hurmuz</placeName>
           <placeName xml:id="name5311-4" xml:lang="en">Ormus</placeName>
           <placeName xml:id="name5311-5" xml:lang="en">Mugh Astān</placeName>

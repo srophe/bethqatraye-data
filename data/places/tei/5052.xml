@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5052-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Khalīl</placeName>
-          <placeName xml:id="name5052-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الخليل</placeName>
+          <placeName xml:id="name5052-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Khalīl</placeName>
+          <placeName xml:id="name5052-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخليل</placeName>
           <placeName xml:id="name5052-3" xml:lang="en">Hebron</placeName>
           <placeName xml:id="name5052-4" xml:lang="ar" source="#bib5052-1">الخليل</placeName>
           <desc type="abstract" xml:id="abstract5052-1" xml:lang="en">“The Arabic name for Hebron, a town in southern Palestine, 32 km. south of Jerusalem (31° N 34° E), the only urban centre in the southern Judaean hills and their virtual capital and commercial centre.” (Sharon)</desc>

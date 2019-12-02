@@ -165,13 +165,13 @@
         <body>
             <listPlace>
                 <place xml:id="place-929" type="region">
-                    <placeName xml:id="name929-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name929-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib929-1">Khuzistan</placeName>
                     <placeName xml:id="name929-2" xml:lang="ar" source="#bib929-2"
                         >الأَهْوَاز</placeName>
                     <placeName xml:id="name929-3" xml:lang="ar" source="#bib929-2"
                         >خُوْزستان</placeName>
-                    <placeName xml:id="name929-4" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name929-4" xml:lang="ar" srophe:tags="#headword"
                         source="#bib929-3">الاهواز</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name929-5">Khūzistān</placeName>

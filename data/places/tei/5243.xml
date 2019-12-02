@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5243-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Biʾr Biḍāʿa</placeName>
-          <placeName xml:id="name5243-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بئر بضاعة</placeName>
+          <placeName xml:id="name5243-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Biʾr Biḍāʿa</placeName>
+          <placeName xml:id="name5243-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بئر بضاعة</placeName>
           <placeName xml:id="name5243-3" xml:lang="ar" source="#bib5243-1">بئر بضاعة</placeName>
           <desc type="abstract" xml:id="abstract5243-1" xml:lang="en">A well in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5243</idno>

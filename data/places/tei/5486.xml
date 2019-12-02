@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5486-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ṭabarqa</placeName>
-          <placeName xml:id="name5486-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">طبرقة</placeName>
+          <placeName xml:id="name5486-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṭabarqa</placeName>
+          <placeName xml:id="name5486-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">طبرقة</placeName>
           <placeName xml:id="name5486-3" xml:lang="en">Tabarka</placeName>
           <placeName xml:id="name5486-4" xml:lang="en">Thabraca</placeName>
           <placeName xml:id="name5486-5" xml:lang="en">Tabarca</placeName>

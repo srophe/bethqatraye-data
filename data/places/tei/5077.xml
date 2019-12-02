@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5077-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
-          <placeName xml:id="name5077-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
+          <placeName xml:id="name5077-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
+          <placeName xml:id="name5077-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
           <placeName xml:id="name5077-3" xml:lang="ar" source="#bib5077-1">المشقر</placeName>
           <desc type="abstract" xml:id="abstract5077-1" xml:lang="en">A valley in Ajʾi [?].</desc>
           <desc xml:lang="ar">

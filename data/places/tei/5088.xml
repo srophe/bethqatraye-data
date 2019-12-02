@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5088-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Qaḥma</placeName>
-          <placeName xml:id="name5088-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">القحمة</placeName>
+          <placeName xml:id="name5088-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Qaḥma</placeName>
+          <placeName xml:id="name5088-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القحمة</placeName>
           <placeName xml:id="name5088-3" xml:lang="ar" source="#bib5088-1">القحمة</placeName>
           <desc type="abstract" xml:id="abstract5088-1" xml:lang="en">A town in the southwest of the Arabian Peninsula close to Abhā.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5088</idno>

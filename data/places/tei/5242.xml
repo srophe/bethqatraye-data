@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5242-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Biʾr Arīs</placeName>
-          <placeName xml:id="name5242-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بئر أريس</placeName>
+          <placeName xml:id="name5242-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Biʾr Arīs</placeName>
+          <placeName xml:id="name5242-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بئر أريس</placeName>
           <placeName xml:id="name5242-3" xml:lang="ar" source="#bib5242-1">بئر أريس</placeName>
           <desc type="abstract" xml:id="abstract5242-1" xml:lang="en">A well in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5242</idno>

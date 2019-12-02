@@ -135,9 +135,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2994" type="region">
-               <placeName xml:id="name2994-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2994-1" xml:lang="en" srophe:tags="#headword"
                   >Qūmis</placeName>
-               <placeName xml:id="name2994-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2994-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2994-2 #bib2994-3">قومس</placeName>
                <placeName xml:lang="en" xml:id="name2994-3">Komisene</placeName>
                <placeName xml:lang="en" xml:id="name2994-4">Komish</placeName>

@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5469-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Shufār</placeName>
-          <placeName xml:id="name5469-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">شُفَار</placeName>
+          <placeName xml:id="name5469-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Shufār</placeName>
+          <placeName xml:id="name5469-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">شُفَار</placeName>
           <placeName xml:id="name5469-3" xml:lang="ar" source="#bib5469-1">شفار</placeName>
           <desc type="abstract" xml:id="abstract5469-1" xml:lang="en">ِAn island located between Uwāl/Awāl and Qaṭar with many villages.</desc>
           <desc xml:lang="ar">

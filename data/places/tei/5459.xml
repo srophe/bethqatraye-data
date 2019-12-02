@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5459-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Shahristān</placeName>
-          <placeName xml:id="name5459-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">شهرستان</placeName>
+          <placeName xml:id="name5459-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Shahristān</placeName>
+          <placeName xml:id="name5459-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">شهرستان</placeName>
           <placeName xml:id="name5459-3" xml:lang="ar" source="#bib5459-1">شهرستان</placeName>
           <desc xml:lang="ar">
             <quote source="#bib5459-1">فالامصار سمرقند ايرانشهر شهرستان اردبيل همذان الاهواز شيراز السيرجان المنصورة زبيد مكة بغداد الموصل دمشق الفسطاط القيروان قرطبة</quote>

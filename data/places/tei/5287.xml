@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5287-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
-          <placeName xml:id="name5287-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+          <placeName xml:id="name5287-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
+          <placeName xml:id="name5287-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
           <placeName xml:id="name5287-3" xml:lang="ar" source="#bib5287-1">هجر</placeName>
           <desc type="abstract" xml:id="abstract5287-1" xml:lang="en">A city in Jāzān.</desc>
           <desc xml:lang="ar">

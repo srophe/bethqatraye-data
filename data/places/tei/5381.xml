@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5381-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Masjid ʿĀʾisha</placeName>
-          <placeName xml:id="name5381-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مسجد عائشة</placeName>
+          <placeName xml:id="name5381-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Masjid ʿĀʾisha</placeName>
+          <placeName xml:id="name5381-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مسجد عائشة</placeName>
           <placeName xml:id="name5381-3" xml:lang="ar" source="#bib5381-1">مسجد عائشة</placeName>
           <desc type="abstract" xml:id="abstract5381-1" xml:lang="en">A mosque in Tanʿīm.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5381</idno>

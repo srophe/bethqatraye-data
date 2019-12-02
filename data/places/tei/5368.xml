@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5368-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Mashhad al-Riḍā</placeName>
-          <placeName xml:id="name5368-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مشهد الرضا</placeName>
+          <placeName xml:id="name5368-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Mashhad al-Riḍā</placeName>
+          <placeName xml:id="name5368-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مشهد الرضا</placeName>
           <placeName xml:id="name5368-3" xml:lang="en">Mashhad</placeName>
           <placeName xml:id="name5368-4" xml:lang="ar">مشهد</placeName>
           <placeName xml:id="name5368-5" xml:lang="ar" source="#bib5368-1">مشهد الرضا</placeName>

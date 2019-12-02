@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5176-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Aqūr</placeName>
-          <placeName xml:id="name5176-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أقور</placeName>
+          <placeName xml:id="name5176-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Aqūr</placeName>
+          <placeName xml:id="name5176-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أقور</placeName>
           <placeName xml:id="name5176-3" xml:lang="ar" source="#bib5176-1">أقور</placeName>
           <desc type="abstract" xml:id="abstract5176-1" xml:lang="en">A region (iqlīm) next to the region of al-Shām. “Ḏj̲azīrat Aḳūr or Iḳlīm Aḳūr, also briefly called al-Ḏj̲azīra, is the name given by the Arab geographers to the northern part of the land between the Euphrates and the Tigris.” (M. Th. Houtsma et al, EI1)</desc>
           <desc xml:lang="ar">

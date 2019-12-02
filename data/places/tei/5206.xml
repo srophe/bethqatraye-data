@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5206-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Ṭāq</placeName>
-          <placeName xml:id="name5206-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب الطاق</placeName>
+          <placeName xml:id="name5206-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Ṭāq</placeName>
+          <placeName xml:id="name5206-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب الطاق</placeName>
           <placeName xml:id="name5206-3" xml:lang="ar" source="#bib5206-1">باب الطاق</placeName>
           <desc type="abstract" xml:id="abstract5206-1" xml:lang="en">A quarter in Baghdād.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5206</idno>

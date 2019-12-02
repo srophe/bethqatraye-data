@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5023-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Daskara</placeName>
-          <placeName xml:id="name5023-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الدسكرة</placeName>
+          <placeName xml:id="name5023-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Daskara</placeName>
+          <placeName xml:id="name5023-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الدسكرة</placeName>
           <placeName xml:id="name5023-3" xml:lang="ar" source="#bib5023-1">الدسكرة</placeName>
           <desc type="abstract" xml:id="abstract5023-1" xml:lang="en">A settlement in Khūzistān.</desc>
           <desc xml:lang="ar">

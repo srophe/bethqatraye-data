@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5505-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ṭuwārān</placeName>
-          <placeName xml:id="name5505-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">طواران</placeName>
+          <placeName xml:id="name5505-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṭuwārān</placeName>
+          <placeName xml:id="name5505-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">طواران</placeName>
           <placeName xml:id="name5505-3" xml:lang="ar" source="#bib5505-1">طواران</placeName>
           <desc type="abstract" xml:id="abstract5505-1" xml:lang="en">A district (kūra) in the region of Sind.</desc>
           <desc xml:lang="ar">

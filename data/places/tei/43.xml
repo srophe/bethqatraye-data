@@ -168,9 +168,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-43" type="river">
-                    <placeName xml:id="name43-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name43-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib43-1">Balikh</placeName>
-                    <placeName xml:id="name43-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܢܗܪ
+                    <placeName xml:id="name43-2" xml:lang="syr" srophe:tags="#headword">ܢܗܪ
                         ܒܐܠܚ</placeName>
                     <placeName xml:id="name43-3" xml:lang="syr-Syrj" source="#bib43-2">ܢܗܰܪ
                         ܒܰܐܠܚ</placeName>
@@ -178,7 +178,7 @@
                         البليخ</placeName>
                     <placeName xml:id="name43-5" xml:lang="en" source="#bib43-4">Balikh
                         river</placeName>
-                    <placeName xml:id="name43-6" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name43-6" xml:lang="ar" srophe:tags="#headword"
                         source="#bib43-5 #bib43-6">البليخ</placeName>
                     <desc xml:id="abstract-en-43" xml:lang="en">A tributary of the
                             <placeName>Euphrates</placeName> that enters at

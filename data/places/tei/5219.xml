@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5219-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Badr</placeName>
-          <placeName xml:id="name5219-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بدر</placeName>
+          <placeName xml:id="name5219-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Badr</placeName>
+          <placeName xml:id="name5219-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بدر</placeName>
           <placeName xml:id="name5219-3" xml:lang="ar" source="#bib5219-1">بدر</placeName>
           <placeName xml:id="name5219-4" xml:lang="ar" source="#bib5219-2">بدر</placeName>
           <desc type="abstract" xml:id="abstract5219-1" xml:lang="en">“Badr, or Badr Ḥunayn, a small town south-west of Medina, a night’s journey from the coast, and at the junction of a road from Medina with the caravan route from Mecca to Syria. It lies in a plain, 5 m. (8 km.) long and 2½ m. (4 km.) broad, surrounded by steep hills and sand-dunes, and was a market centre.” (Montgomery Watt)</desc>

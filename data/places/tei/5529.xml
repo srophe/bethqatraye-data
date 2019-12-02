@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5529-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Zakī</placeName>
-          <placeName xml:id="name5529-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">زكي</placeName>
+          <placeName xml:id="name5529-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zakī</placeName>
+          <placeName xml:id="name5529-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زكي</placeName>
           <placeName xml:id="name5529-3" xml:lang="ar" source="#bib5529-1">زكي</placeName>
           <desc type="abstract" xml:id="abstract5529-1" xml:lang="en">A town located in modern day-Fujayra, previously part of the ʿUmān region.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5529</idno>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5273-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Dhū al-Ḥulayfa</placeName>
-          <placeName xml:id="name5273-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ذو الحليفة</placeName>
+          <placeName xml:id="name5273-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Dhū al-Ḥulayfa</placeName>
+          <placeName xml:id="name5273-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ذو الحليفة</placeName>
           <placeName xml:id="name5273-3" xml:lang="ar" source="#bib5273-1">ذو الحليفة</placeName>
           <desc type="abstract" xml:id="abstract5273-1" xml:lang="en">A mosque in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5273</idno>

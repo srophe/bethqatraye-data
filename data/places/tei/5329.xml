@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5329-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Jarwan</placeName>
-          <placeName xml:id="name5329-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">جرون</placeName>
+          <placeName xml:id="name5329-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jarwan</placeName>
+          <placeName xml:id="name5329-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جرون</placeName>
           <placeName xml:id="name5329-3" xml:lang="ar" source="#bib5329-1">جرون</placeName>
           <desc type="abstract" xml:id="abstract5329-1" xml:lang="en">A town located on the island of Hormuz.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5329</idno>

@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5289-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
-          <placeName xml:id="name5289-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+          <placeName xml:id="name5289-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
+          <placeName xml:id="name5289-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
           <placeName xml:id="name5289-3" xml:lang="ar" source="#bib5289-1">هجر</placeName>
           <desc type="abstract" xml:id="abstract5289-1" xml:lang="en">A region (nāḥiya) in al-Baḥrayn.</desc>
           <desc xml:lang="ar">

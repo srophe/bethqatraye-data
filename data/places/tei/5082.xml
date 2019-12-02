@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5082-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Muzdalifa</placeName>
-          <placeName xml:id="name5082-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المزدلفة</placeName>
+          <placeName xml:id="name5082-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Muzdalifa</placeName>
+          <placeName xml:id="name5082-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المزدلفة</placeName>
           <placeName xml:id="name5082-3" xml:lang="ar" source="#bib5082-1">المزدلفة</placeName>
           <placeName xml:id="name5082-4" xml:lang="ar" source="#bib5082-2">مزدلفة</placeName>
           <desc type="abstract" xml:id="abstract5082-1" xml:lang="en">An open area southeast of Mina and associated the ḥajj pilgrimage.</desc>

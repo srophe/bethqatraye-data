@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5456-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Sāwa</placeName>
-          <placeName xml:id="name5456-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ساوة</placeName>
+          <placeName xml:id="name5456-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sāwa</placeName>
+          <placeName xml:id="name5456-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ساوة</placeName>
           <placeName xml:id="name5456-3" xml:lang="ar" source="#bib5456-1">ساوة</placeName>
           <desc type="abstract" xml:id="abstract5456-1" xml:lang="en">“[A] town of northern Persia some 125 km/80 miles to the southwest of Tehran (lat. 35° 00′ N., long. 50° 22′ E., altitude 960 m/3,149 feet).” (Schaeder)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5456</idno>

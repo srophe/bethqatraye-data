@@ -117,9 +117,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2999" type="settlement">
-               <placeName xml:id="name2999-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2999-1" xml:lang="en" srophe:tags="#headword"
                   >Kirmān</placeName>
-               <placeName xml:id="name2999-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2999-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2999-2">كرمان</placeName>
                <desc xml:id="abstract-en-2999" xml:lang="en">A city in southeastern <placeName
                      ref="http://syriaca.org/place/526">Iran</placeName>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5059-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Lūr</placeName>
-          <placeName xml:id="name5059-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">اللور</placeName>
+          <placeName xml:id="name5059-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Lūr</placeName>
+          <placeName xml:id="name5059-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اللور</placeName>
           <placeName xml:id="name5059-3" xml:lang="en">Luristan</placeName>
           <placeName xml:id="name5059-4" xml:lang="ar" source="#bib5059-1">اللور</placeName>
           <desc type="abstract" xml:id="abstract5059-1" xml:lang="en">A region in the southwest of Iran. “In the Mongol period the terms <quote>Great Lur</quote> and <quote>Little Lur</quote> roughly covered all the lands inhabited by Lur tribes.” (Minorsky)</desc>

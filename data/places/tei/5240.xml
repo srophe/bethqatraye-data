@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5240-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Birkat al-Marjūm</placeName>
-          <placeName xml:id="name5240-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بركة المرجوم</placeName>
+          <placeName xml:id="name5240-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Birkat al-Marjūm</placeName>
+          <placeName xml:id="name5240-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بركة المرجوم</placeName>
           <placeName xml:id="name5240-3" xml:lang="ar" source="#bib5240-1">بركة المرجوم</placeName>
           <placeName xml:id="name5240-4" xml:lang="ar" source="#bib5240-2">بركة المرجوم</placeName>
           <desc type="abstract" xml:id="abstract5240-1" xml:lang="en">A town near al-Shuqūq in the north of the Arabian Peninsula.</desc>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5064-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Manṣūra</placeName>
-          <placeName xml:id="name5064-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المنصورة</placeName>
+          <placeName xml:id="name5064-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Manṣūra</placeName>
+          <placeName xml:id="name5064-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المنصورة</placeName>
           <placeName xml:id="name5064-3" xml:lang="ar" source="#bib5064-1">المنصورة</placeName>
           <desc type="abstract" xml:id="abstract5064-1" xml:lang="en">“[A] town in Lower Egypt near Damietta (Dimyāṭ [q.v.]), and chief place of the mudīriyyat al-Daḳahliyya . The town was founded in 616/1219 by the Ayyūbid sultan al-Malik al-Kāmil [q.v.] as a fortified camp against the Crusaders, who had conquered Dimyāṭ in S̲h̲aʿbān 616/November 1219.” (H. Halm)</desc>
           <desc xml:lang="ar">

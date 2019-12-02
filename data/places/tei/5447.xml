@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5447-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ṣahyūn</placeName>
-          <placeName xml:id="name5447-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">صهيون</placeName>
+          <placeName xml:id="name5447-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṣahyūn</placeName>
+          <placeName xml:id="name5447-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صهيون</placeName>
           <placeName xml:id="name5447-3" xml:lang="en">Zion</placeName>
           <placeName xml:id="name5447-4" xml:lang="ar" source="#bib5447-1">صهيون</placeName>
           <desc type="abstract" xml:id="abstract5447-1" xml:lang="en">“[A] stronghold of the D̲j̲abal al-ʿAlawiyyīn (Nuṣayrī Mountains), situated about 25 km/15 miles north-east of the Syrian port of ¶ al-Lād̲h̲iḳiyya (Latakia), near the town of al-Ḥaffeh.” (Morray)</desc>

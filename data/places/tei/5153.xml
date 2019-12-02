@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5153-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Zarāda</placeName>
-          <placeName xml:id="name5153-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الزرادة</placeName>
+          <placeName xml:id="name5153-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zarāda</placeName>
+          <placeName xml:id="name5153-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزرادة</placeName>
           <placeName xml:id="name5153-3" xml:lang="ar" source="#bib5153-1">الزرادة</placeName>
           <desc type="abstract" xml:id="abstract5153-1" xml:lang="en">A city at the coastline of Bahrain province.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5153</idno>

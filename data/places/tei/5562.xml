@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5562-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Zubaydiyya</placeName>
-          <placeName xml:id="name5562-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الزبيدية</placeName>
+          <placeName xml:id="name5562-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zubaydiyya</placeName>
+          <placeName xml:id="name5562-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزبيدية</placeName>
           <placeName xml:id="name5562-3" xml:lang="en">al-Zubaydīya</placeName>
           <placeName xml:id="name5562-4" xml:lang="ar" source="#bib5562-1">الزبيدية</placeName>
           <desc type="abstract" xml:id="abstract5562-1" xml:lang="en">A campsite/place (manzil) in al-Jibāl.</desc>

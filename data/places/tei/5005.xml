@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5005-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Abū Qubays</placeName>
-          <placeName xml:id="name5005-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أبو قبيس</placeName>
+          <placeName xml:id="name5005-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Abū Qubays</placeName>
+          <placeName xml:id="name5005-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أبو قبيس</placeName>
           <placeName xml:id="name5005-3" xml:lang="ar" source="#bib5005-1">أبو قبيس</placeName>
           <desc type="abstract" xml:id="abstract5005-1" xml:lang="en">“[A] sacred hill on the eastern edge of Mecca.” (G. Rentz)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5005</idno>

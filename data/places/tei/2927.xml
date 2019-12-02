@@ -117,9 +117,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2927" type="church">
-               <placeName xml:id="name2927-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2927-1" xml:lang="en" srophe:tags="#headword"
                   >Cathedral of Edessa</placeName>
-               <placeName xml:id="name2927-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2927-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2927-1">كنيسة الرها</placeName>
                <desc xml:id="abstract-en-2927" xml:lang="en">The main church of <placeName
                      ref="http://syriaca.org/place/78">Edessa</placeName>

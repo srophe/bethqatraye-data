@@ -144,7 +144,7 @@
         <body>
             <listPlace>
                 <place xml:id="place-105" type="settlement">
-                    <placeName xml:id="name105-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name105-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib105-1 #bib105-2 #bib105-3">Jericho</placeName>
                     <placeName xml:id="name105-2" xml:lang="ar" source="#bib105-4"
                         >أَرِيْحا</placeName>

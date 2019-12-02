@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5395-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Nasaf</placeName>
-          <placeName xml:id="name5395-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">نَخشَب</placeName>
+          <placeName xml:id="name5395-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Nasaf</placeName>
+          <placeName xml:id="name5395-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نَخشَب</placeName>
           <placeName xml:id="name5395-3" xml:lang="en">Qarshi</placeName>
           <placeName xml:id="name5395-4" xml:lang="en">Nakhshab</placeName>
           <placeName xml:id="name5395-5" xml:lang="ar">نسف</placeName>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5397-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Nublān</placeName>
-          <placeName xml:id="name5397-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">نبلان</placeName>
+          <placeName xml:id="name5397-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Nublān</placeName>
+          <placeName xml:id="name5397-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نبلان</placeName>
           <placeName xml:id="name5397-3" xml:lang="ar" source="#bib5397-1">نبلان</placeName>
           <desc type="abstract" xml:id="abstract5397-1" xml:lang="en">A village located between Fīrūzān and Isfahan in Iran.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5397</idno>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5118-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ṣanamayn</placeName>
-          <placeName xml:id="name5118-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الصنمين</placeName>
+          <placeName xml:id="name5118-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ṣanamayn</placeName>
+          <placeName xml:id="name5118-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الصنمين</placeName>
           <placeName xml:id="name5118-3" xml:lang="en">Sanamen</placeName>
           <placeName xml:id="name5118-4" xml:lang="ar" source="#bib5118-1">الصنمين</placeName>
           <desc type="abstract" xml:id="abstract5118-1" xml:lang="en">A town in the south of Syria between Damascus and Darʿā.</desc>

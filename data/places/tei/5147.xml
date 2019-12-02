@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5147-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Yanbūʿ</placeName>
-          <placeName xml:id="name5147-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الينبوع</placeName>
+          <placeName xml:id="name5147-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Yanbūʿ</placeName>
+          <placeName xml:id="name5147-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الينبوع</placeName>
           <placeName xml:id="name5147-3" xml:lang="en">Yanbuʿ</placeName>
           <placeName xml:id="name5147-4" xml:lang="ar">ينبع</placeName>
           <placeName xml:id="name5147-5" xml:lang="ar" source="#bib5147-1">الينبوع</placeName>

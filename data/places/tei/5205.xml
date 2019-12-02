@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5205-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Sulṭān</placeName>
-          <placeName xml:id="name5205-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب السلطان</placeName>
+          <placeName xml:id="name5205-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Sulṭān</placeName>
+          <placeName xml:id="name5205-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب السلطان</placeName>
           <placeName xml:id="name5205-3" xml:lang="ar" source="#bib5205-1">باب السلطان</placeName>
           <desc type="abstract" xml:id="abstract5205-1" xml:lang="en">One of the gates of Baghdād.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5205</idno>

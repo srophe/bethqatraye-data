@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="state">
-          <placeName xml:id="name5401-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Pecheneg Khanate</placeName>
-          <placeName xml:id="name5401-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">البجناكة</placeName>
+          <placeName xml:id="name5401-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Pecheneg Khanate</placeName>
+          <placeName xml:id="name5401-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">البجناكة</placeName>
           <placeName xml:id="name5401-3" xml:lang="ar">بجناك</placeName>
           <placeName xml:id="name5401-4" xml:lang="ar" source="#bib5401-1">البجناكة</placeName>
           <placeName xml:id="name5401-5" xml:lang="ar" source="#bib5401-2">بجناك</placeName>

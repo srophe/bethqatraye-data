@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5333-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Jurash</placeName>
-          <placeName xml:id="name5333-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">جرش</placeName>
+          <placeName xml:id="name5333-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jurash</placeName>
+          <placeName xml:id="name5333-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جرش</placeName>
           <placeName xml:id="name5333-3" xml:lang="ar" source="#bib5333-1">جرش</placeName>
           <desc type="abstract" xml:id="abstract5333-1" xml:lang="en">A province (mikhlāf) in southern Arabia on the way to al-Ṭāʾif.</desc>
           <desc xml:lang="ar">

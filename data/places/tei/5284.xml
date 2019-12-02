@@ -109,9 +109,9 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5284-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">Ḥaḍramawt</placeName>
+            srophe:tags="#headword">Ḥaḍramawt</placeName>
           <placeName xml:id="name5284-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword" source="#bib5284-2">حضرموت</placeName>
+            srophe:tags="#headword" source="#bib5284-2">حضرموت</placeName>
           <placeName xml:id="name5284-3" xml:lang="ar" source="#bib5284-1 #bib5284-2"
             >حضرموت</placeName>
           <desc type="abstract" xml:id="abstract5284-1" xml:lang="en">“The name Ḥaḍramawt is applicable in its strictest sense to the deep

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5268-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Darhand</placeName>
-          <placeName xml:id="name5268-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">درهند</placeName>
+          <placeName xml:id="name5268-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Darhand</placeName>
+          <placeName xml:id="name5268-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">درهند</placeName>
           <placeName xml:id="name5268-3" xml:lang="ar" source="#bib5268-1">درهند</placeName>
           <desc type="abstract" xml:id="abstract5268-1" xml:lang="en">A city in Sijistān/Sistān province.</desc>
           <desc xml:lang="ar">

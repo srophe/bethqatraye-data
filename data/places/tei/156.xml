@@ -148,13 +148,13 @@
         <body>
             <listPlace>
                 <place xml:id="place-156" type="open-water">
-                    <placeName xml:id="name156-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name156-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib156-1">Persian Gulf</placeName>
                     <placeName xml:id="name156-2" xml:lang="en" source="#bib156-2">Persian
                         gulf</placeName>
                     <placeName xml:id="name156-3" xml:lang="ar" source="#bib156-4">بحر
                         فارس</placeName>
-                    <placeName xml:id="name156-4" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name156-4" xml:lang="ar" srophe:tags="#headword"
                         source="#bib156-5">الخليج الفارسي</placeName>
                     <desc xml:id="abstract-en-156" xml:lang="en">The sea that separates the <placeName>Arabian
                         peninsula</placeName> from <placeName>Iran</placeName>.</desc>

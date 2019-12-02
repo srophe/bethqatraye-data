@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5237-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Baynūna</placeName>
-          <placeName xml:id="name5237-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بَيْنُونَةُ</placeName>
+          <placeName xml:id="name5237-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Baynūna</placeName>
+          <placeName xml:id="name5237-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بَيْنُونَةُ</placeName>
           <placeName xml:id="name5237-3" xml:lang="ar" source="#bib5237-1">بينونة</placeName>
           <desc type="abstract" xml:id="abstract5237-1" xml:lang="en">A place situated between Oman and Bahrain within a distance of 60 farsakh from Bahrain.</desc>
           <desc xml:lang="ar">

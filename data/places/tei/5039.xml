@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5039-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥasanīya</placeName>
-          <placeName xml:id="name5039-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الحسنية</placeName>
+          <placeName xml:id="name5039-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥasanīya</placeName>
+          <placeName xml:id="name5039-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الحسنية</placeName>
           <placeName xml:id="name5039-3" xml:lang="ar" source="#bib5039-1">الحسنية</placeName>
           <desc type="abstract" xml:id="abstract5039-1" xml:lang="en">One of the two citadels in al-Ṣafrāʾ together refered to as al-Tauʾamān.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5039</idno>

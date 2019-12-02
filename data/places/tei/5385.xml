@@ -109,15 +109,15 @@
         <body>
             <listPlace>
                 <place type="province">
-                    <placeName xml:id="name2880-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name2880-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib2880-1">Mazun</placeName>
                     <placeName xml:id="name2880-2" xml:lang="ar">مَزون</placeName>
-                    <placeName xml:id="name2880-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name2880-3" xml:lang="syr" srophe:tags="#headword"
                         source="#bib2880-2">ܡܙܘܢ</placeName>
                     <placeName xml:id="name2880-4" xml:lang="fr" source="#bib2880-2"
                         >Mazȏn</placeName>
                     <placeName xml:id="name2880-5" xml:lang="en">Beth Mazunaye</placeName>
-                    <placeName xml:id="name2880-6" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name2880-6" xml:lang="ar" srophe:tags="#headword"
                         resp="http://bqgazetteer.bethmardutho.org">مازون</placeName>
                     <placeName xml:id="name2880-7" xml:lang="en">Māzūn</placeName>
                     <placeName xml:id="name2880-8" xml:lang="la" source="#bib2880-4"

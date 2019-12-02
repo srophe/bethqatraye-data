@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5567-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
-          <placeName xml:id="name5567-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الستار</placeName>
+          <placeName xml:id="name5567-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
+          <placeName xml:id="name5567-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الستار</placeName>
           <placeName xml:id="name5567-3" xml:lang="ar" source="#bib5567-1">الستار</placeName>
           <desc type="abstract" xml:id="abstract5567-1" xml:lang="en">A region (nāḥiya) in Bahrain containing more than one hundred villages</desc>
           <desc xml:lang="ar">

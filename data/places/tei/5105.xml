@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5105-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Riḥāb</placeName>
-          <placeName xml:id="name5105-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الرحاب</placeName>
+          <placeName xml:id="name5105-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Riḥāb</placeName>
+          <placeName xml:id="name5105-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الرحاب</placeName>
           <placeName xml:id="name5105-3" xml:lang="ar" source="#bib5105-1">الرحاب</placeName>
           <desc type="abstract" xml:id="abstract5105-1" xml:lang="en">Historical region comprising Armenia, Azerbaijan, and Arrān.</desc>
           <desc xml:lang="ar">

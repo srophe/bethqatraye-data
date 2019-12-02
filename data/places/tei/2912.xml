@@ -135,9 +135,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2912" type="mosque">
-               <placeName xml:id="name2912-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2912-1" xml:lang="en" srophe:tags="#headword"
                   >al-Khayf Mosque</placeName>
-               <placeName xml:id="name2912-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2912-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2912-1 #bib2912-2">مسجد الخيف</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                   xml:id="name2912-3">Masjid al-Khayf</placeName>

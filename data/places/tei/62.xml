@@ -198,9 +198,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-62" type="settlement">
-                    <placeName xml:id="name62-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name62-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib62-1">Circesium</placeName>
-                    <placeName xml:id="name62-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name62-2" xml:lang="syr" srophe:tags="#headword"
                         >ܩܪܩܝܣܝܘܢ</placeName>
                     <placeName xml:id="name62-3" xml:lang="syr-Syrj" source="#bib62-2"
                         >ܩܰܪܩܝܣܝܘܢ</placeName>
@@ -226,7 +226,7 @@
                         >Busayra</placeName>
                     <placeName xml:id="name62-15" xml:lang="ar" source="#bib62-5"
                         >قَرْقيْسِياء</placeName>
-                    <placeName xml:id="name62-16" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name62-16" xml:lang="ar" srophe:tags="#headword"
                         source="#bib62-6 #bib62-8">قرقيسيا</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name62-17">Qarqīsiyā</placeName>

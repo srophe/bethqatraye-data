@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5432-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Rābigh</placeName>
-          <placeName xml:id="name5432-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">رابغ</placeName>
+          <placeName xml:id="name5432-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Rābigh</placeName>
+          <placeName xml:id="name5432-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رابغ</placeName>
           <placeName xml:id="name5432-3" xml:lang="en">Rabigh</placeName>
           <placeName xml:id="name5432-4" xml:lang="ar" source="#bib5432-1">رابغ</placeName>
           <desc type="abstract" xml:id="abstract5432-1" xml:lang="en">A valley and ancient port city north of Mecca.</desc>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5177-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ashrūsand</placeName>
-          <placeName xml:id="name5177-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">اشروسنة</placeName>
+          <placeName xml:id="name5177-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ashrūsand</placeName>
+          <placeName xml:id="name5177-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اشروسنة</placeName>
           <placeName xml:id="name5177-3" xml:lang="en">Osrushana</placeName>
           <placeName xml:id="name5177-4" xml:lang="en">Oshrūsana</placeName>
           <placeName xml:id="name5177-5" xml:lang="en">Istarawshan</placeName>

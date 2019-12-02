@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="building">
-          <placeName xml:id="name5530-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Zamzam</placeName>
-          <placeName xml:id="name5530-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">زمزم</placeName>
+          <placeName xml:id="name5530-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zamzam</placeName>
+          <placeName xml:id="name5530-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زمزم</placeName>
           <placeName xml:id="name5530-3" xml:lang="ar" source="#bib5530-1">زمزم</placeName>
           <desc type="abstract" xml:id="abstract5530-1" xml:lang="en">“[T]he sacred well located at the perimeter of the sacred complex of Mecca. It is situated to the east of the Kaʿba [ q.v.] alongside the wall where the “Black Stone”, al-ḥad̲j̲ar al-aswad , is enshrined, a little further from the centre than the maḳām Ibrāhīm [ q.v.], the “station of Abraham”. The well is currently a subterranean arrangement, also opening towards the east.” (J. Chabbi)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5530</idno>

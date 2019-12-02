@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5522-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
-          <placeName xml:id="name5522-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
+          <placeName xml:id="name5522-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
+          <placeName xml:id="name5522-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
           <placeName xml:id="name5522-3" xml:lang="ar" source="#bib5522-1">يبرين</placeName>
           <placeName xml:id="name5522-4" xml:lang="ar" source="#bib5522-2">يبرين</placeName>
           <desc type="abstract" xml:id="abstract5522-1" xml:lang="en">“[A] sandy region of Eastern Arabia belonging to Banū Saʿd.” (G.R. Smith)</desc>

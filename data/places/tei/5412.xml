@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5412-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Qarma</placeName>
-          <placeName xml:id="name5412-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">قرمة</placeName>
+          <placeName xml:id="name5412-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qarma</placeName>
+          <placeName xml:id="name5412-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قرمة</placeName>
           <placeName xml:id="name5412-3" xml:lang="ar" source="#bib5412-1">قرمة</placeName>
           <desc type="abstract" xml:id="abstract5412-1" xml:lang="en">A city located in the district (kūra) of Bust.</desc>
           <desc xml:lang="ar">

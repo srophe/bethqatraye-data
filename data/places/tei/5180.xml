@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5180-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Athūr</placeName>
-          <placeName xml:id="name5180-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">اثور</placeName>
+          <placeName xml:id="name5180-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Athūr</placeName>
+          <placeName xml:id="name5180-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اثور</placeName>
           <placeName xml:id="name5180-3" xml:lang="ar" source="#bib5180-1">اثور</placeName>
           <desc type="abstract" xml:id="abstract5180-1" xml:lang="en">“Modern ḳalʿat s̲h̲arḳāt , a large ancient mound on the west bank of the River Tigris in the vilāyet of Mawṣil, about 250 km. north of Bag̲h̲dād and about 100 km. south of Mawsil, in 35° 30′ N and 45° 15′ E.”</desc>
           <desc xml:lang="ar">

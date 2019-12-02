@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5363-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Mājūl</placeName>
-          <placeName xml:id="name5363-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ماجول</placeName>
+          <placeName xml:id="name5363-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Mājūl</placeName>
+          <placeName xml:id="name5363-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ماجول</placeName>
           <placeName xml:id="name5363-3" xml:lang="en">Bandar-e Mahshahr</placeName>
           <placeName xml:id="name5363-4" xml:lang="ar">ماچول</placeName>
           <placeName xml:id="name5363-5" xml:lang="ar">بندر ماهشهر</placeName>

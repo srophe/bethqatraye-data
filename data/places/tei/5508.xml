@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5508-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Umm ʿUbayda</placeName>
-          <placeName xml:id="name5508-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أم عبيدة</placeName>
+          <placeName xml:id="name5508-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Umm ʿUbayda</placeName>
+          <placeName xml:id="name5508-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أم عبيدة</placeName>
           <placeName xml:id="name5508-3" xml:lang="ar" source="#bib5508-1">أم عبيدة</placeName>
           <desc type="abstract" xml:id="abstract5508-1" xml:lang="en">A village in the region of al-Baṭīḥa in lower Iraq.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5508</idno>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5142-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ubulla</placeName>
-          <placeName xml:id="name5142-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الأبلة</placeName>
+          <placeName xml:id="name5142-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ubulla</placeName>
+          <placeName xml:id="name5142-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الأبلة</placeName>
           <placeName xml:id="name5142-3" xml:lang="ar" source="#bib5142-1">الأبلة</placeName>
           <desc type="abstract" xml:id="abstract5142-1" xml:lang="en">“A town of mediaeval ʿIrāḳ situated in the Euphrates-Tigris delta region at the head of the Persian Gulf and famed as the terminal for commerce from India and further east.” (Kramers)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5142</idno>

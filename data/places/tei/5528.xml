@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5528-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Zabīd</placeName>
-          <placeName xml:id="name5528-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">زبيد</placeName>
+          <placeName xml:id="name5528-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zabīd</placeName>
+          <placeName xml:id="name5528-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زبيد</placeName>
           <placeName xml:id="name5528-3" xml:lang="ar" source="#bib5528-1">زبيد</placeName>
           <desc type="abstract" xml:id="abstract5528-1" xml:lang="en">“[A] town in the Tihāma [q.v.] coastal plain of Yemen, at about 25 km/15 miles from the Red Sea, in a region of fertile agricultural lands irrigated by two major wādīs , Zabīd to the south and Rimaʿ to the north.” (Sadek)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5528</idno>

@@ -191,9 +191,9 @@
     <body>
       <listPlace>
         <place xml:id="place-3013" type="settlement">
-          <placeName xml:id="name3013-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name3013-1" xml:lang="en" srophe:tags="#headword"
             >al-Qaṭīf</placeName>
-          <placeName xml:id="name3013-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name3013-2" xml:lang="ar" srophe:tags="#headword"
             source="#bib3013-2 #bib3013-3 #bib3013-4 #bib3013-5 #bib3013-6 #bib3013-7">القطيف</placeName>
           <placeName xml:lang="ar" xml:id="name3013-3"
             source="#bib3013-8">القَطِيفُ</placeName>

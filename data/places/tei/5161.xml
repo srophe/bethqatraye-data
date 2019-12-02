@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5161-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿAtābiyya</placeName>
-          <placeName xml:id="name5161-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">العتابية</placeName>
+          <placeName xml:id="name5161-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿAtābiyya</placeName>
+          <placeName xml:id="name5161-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">العتابية</placeName>
           <placeName xml:id="name5161-3" xml:lang="ar" source="#bib5161-1">العتابية</placeName>
           <desc type="abstract" xml:id="abstract5161-1" xml:lang="en">A quarter in Baghdād famous for the production of clothes.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5161</idno>

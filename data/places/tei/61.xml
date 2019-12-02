@@ -190,9 +190,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-61" type="open-water">
-                    <placeName xml:id="name61-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name61-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib61-1 #bib61-4">Caspian Sea</placeName>
-                    <placeName xml:id="name61-2" xml:lang="syr" syriaca-tags="#syriaca-headword">ܝܡܐ
+                    <placeName xml:id="name61-2" xml:lang="syr" srophe:tags="#headword">ܝܡܐ
                         ܕܩܙܒܝܢ</placeName>
                     <placeName xml:id="name61-3" xml:lang="syr-Syrj" source="#bib61-2">ܝܰܡܐ
                         ܕܩܳܙܒܝܢ</placeName>
@@ -200,7 +200,7 @@
                         قزبين</placeName>
                     <placeName xml:id="name61-5" xml:lang="ar" source="#bib61-6">بحر
                         الخَزَر</placeName>
-                    <placeName xml:id="name61-6" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name61-6" xml:lang="ar" srophe:tags="#headword"
                         source="#bib61-7">بحر طبرستان وجرجان</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name61-7">Baḥr Ṭabaristān</placeName>

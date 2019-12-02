@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5306-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥiṣn al-ʿUzzāb</placeName>
-          <placeName xml:id="name5306-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">حصن العزاب</placeName>
+          <placeName xml:id="name5306-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ḥiṣn al-ʿUzzāb</placeName>
+          <placeName xml:id="name5306-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">حصن العزاب</placeName>
           <placeName xml:id="name5306-3" xml:lang="ar" source="#bib5306-1">حصن العزاب</placeName>
           <desc type="abstract" xml:id="abstract5306-1" xml:lang="en">A former fortress in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5306</idno>

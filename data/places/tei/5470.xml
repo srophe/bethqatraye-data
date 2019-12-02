@@ -95,9 +95,9 @@
       <listPlace>
         <place type="island">
           <placeName xml:id="name5470-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">Shuqār</placeName>
+            srophe:tags="#headword">Shuqār</placeName>
           <placeName xml:id="name5470-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">شُقار</placeName>
+            srophe:tags="#headword">شُقار</placeName>
           <placeName xml:id="name5470-3" xml:lang="ar" source="#bib5470-1">شقار</placeName>
           <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5470-4"
             >Shufār</placeName>

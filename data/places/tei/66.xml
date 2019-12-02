@@ -217,13 +217,13 @@
         <body>
             <listPlace>
                 <place xml:id="place-66" type="settlement">
-                    <placeName xml:id="name66-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name66-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib66-2 #bib66-5 #bib66-6 #bib66-7">Damascus</placeName>
-                    <placeName xml:id="name66-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name66-2" xml:lang="syr" srophe:tags="#headword"
                         >ܕܪܡܣܘܩ</placeName>
                     <placeName xml:id="name66-3" xml:lang="syr-Syrj" source="#bib66-3"
                         >ܕܰܪܡܣܘܩ</placeName>
-                    <placeName xml:id="name66-4" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name66-4" xml:lang="ar" srophe:tags="#headword"
                         source="#bib66-4 #bib66-9">دمشق</placeName>
                     <placeName xml:id="name66-5" xml:lang="ar" source="#bib66-8">دِمَشق</placeName>
                     <desc type="abstract" xml:id="abstract-en-66" xml:lang="en">

@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5078-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
-          <placeName xml:id="name5078-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
+          <placeName xml:id="name5078-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
+          <placeName xml:id="name5078-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
           <placeName xml:id="name5078-3" xml:lang="en">Raʾs al-Qāra</placeName>
           <placeName xml:id="name5078-4" xml:lang="en">Raʾs al-Jabal</placeName>
           <placeName xml:id="name5078-5" xml:lang="ar">رأس القارة [?]</placeName>

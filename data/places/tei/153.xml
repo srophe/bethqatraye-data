@@ -155,14 +155,14 @@
         <body>
             <listPlace>
                 <place xml:id="place-153" type="settlement">
-                    <placeName xml:id="name153-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name153-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib153-1 #bib153-2">Palmyra</placeName>
                     <placeName xml:id="name153-2" xml:lang="ar" source="#bib153-3"
                         >تَدْمُر</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name153-3">Tadmur</placeName>
                     <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-                        xml:id="name153-4" source="#bib153-4 #bib153-5" syriaca-tags="#syriaca-headword">تدمر</placeName>
+                        xml:id="name153-4" source="#bib153-4 #bib153-5" srophe:tags="#headword">تدمر</placeName>
                     <placeName xml:lang="grc" xml:id="name153-5">Πάλμυρα</placeName>
                     <placeName xml:lang="grc" xml:id="name153-6">Θαδάμορα</placeName>
                     <placeName xml:lang="en" xml:id="name153-7">Thadamora</placeName>

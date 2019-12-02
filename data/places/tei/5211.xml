@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5211-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb Banī Shayba</placeName>
-          <placeName xml:id="name5211-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب بني شيبة</placeName>
+          <placeName xml:id="name5211-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb Banī Shayba</placeName>
+          <placeName xml:id="name5211-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب بني شيبة</placeName>
           <placeName xml:id="name5211-3" xml:lang="en">Bāb Banī ʿAbd Shams</placeName>
           <placeName xml:id="name5211-4" xml:lang="ar">باب بني عبد شمس</placeName>
           <placeName xml:id="name5211-5" xml:lang="ar" source="#bib5211-1">باب بني شيبة</placeName>

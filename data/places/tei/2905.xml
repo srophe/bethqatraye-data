@@ -116,11 +116,11 @@
         <body>
             <listPlace>
                 <place xml:id="place-2905" type="diocese">
-                    <placeName xml:id="name2905-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name2905-1" xml:lang="en" srophe:tags="#headword"
                         >Daray</placeName>
-                    <placeName xml:id="name2905-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name2905-2" xml:lang="ar" srophe:tags="#headword"
                         >داري</placeName>
-                    <placeName xml:id="name2905-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name2905-3" xml:lang="syr" srophe:tags="#headword"
                         source="#bib2905-1">ܕܪ̈ܝ</placeName>
                     <placeName xml:id="name2905-4" xml:lang="syr" source="#bib2905-1"
                         >ܕܪܝ</placeName>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5271-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ِDarʿā</placeName>
-          <placeName xml:id="name5271-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أذرعات</placeName>
+          <placeName xml:id="name5271-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ِDarʿā</placeName>
+          <placeName xml:id="name5271-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أذرعات</placeName>
           <placeName xml:id="name5271-3" xml:lang="en">Adhriʿāt</placeName>
           <placeName xml:id="name5271-4" xml:lang="ar">درعا</placeName>
           <placeName xml:id="name5271-5" xml:lang="ar" source="#bib5271-1">اذرعات</placeName>

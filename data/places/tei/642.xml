@@ -148,11 +148,11 @@
         <body>
             <listPlace>
                 <place xml:id="place-642" type="island">
-                    <placeName xml:id="name642-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name642-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib642-1 #bib642-2">Socotra</placeName>
                     <placeName xml:id="name642-2" xml:lang="ar" source="#bib642-3"
                         >سُقُطْرَى</placeName>
-                    <placeName xml:id="name642-3" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name642-3" xml:lang="ar" srophe:tags="#headword"
                         source="#bib642-4">سقوطرة</placeName>
                     <desc xml:id="abstract-en-642" xml:lang="en">An island off the <placeName>horn of
                         <placeName>Africa</placeName></placeName>.</desc>

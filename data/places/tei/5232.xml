@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5232-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāriq</placeName>
-          <placeName xml:id="name5232-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بارق</placeName>
+          <placeName xml:id="name5232-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāriq</placeName>
+          <placeName xml:id="name5232-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بارق</placeName>
           <placeName xml:id="name5232-3" xml:lang="ar" source="#bib5232-1">بارق</placeName>
           <desc type="abstract" xml:id="abstract5232-1" xml:lang="en">A town southeast of Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5232</idno>

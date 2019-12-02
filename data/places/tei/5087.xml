@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5087-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Qādisīya</placeName>
-          <placeName xml:id="name5087-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">القادسية</placeName>
+          <placeName xml:id="name5087-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Qādisīya</placeName>
+          <placeName xml:id="name5087-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القادسية</placeName>
           <placeName xml:id="name5087-3" xml:lang="en">al-Qādisiyya</placeName>
           <placeName xml:id="name5087-4" xml:lang="ar" source="#bib5087-1">القادسية</placeName>
           <placeName xml:id="name5087-5" xml:lang="ar" source="#bib5087-2">القادسية</placeName>

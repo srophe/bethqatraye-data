@@ -139,13 +139,13 @@
         <body>
             <listPlace>
                 <place xml:id="place-600" type="region">
-                    <placeName xml:id="name600-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name600-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib600-1">Jordan valley</placeName>
                     <placeName xml:id="name600-2" xml:lang="ar" source="#bib600-2"
                         >الغَوْر</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name600-3">Ghūr al-Shām</placeName>
-                    <placeName xml:lang="ar" ource="#bib600-3" syriaca-tags="#syriaca-headword"
+                    <placeName xml:lang="ar" ource="#bib600-3" srophe:tags="#headword"
                         xml:id="name600-4">غور الشام</placeName>
                     <placeName xml:lang="en" xml:id="name600-5">Ghawr al-Shām</placeName>
                     <placeName xml:lang="en" xml:id="name600-6">Ghaur al-Shām</placeName>

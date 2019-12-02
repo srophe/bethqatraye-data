@@ -158,9 +158,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2920" type="region">
-               <placeName xml:id="name2920-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2920-1" xml:lang="en" srophe:tags="#headword"
                   >al-Yamāma</placeName>
-               <placeName xml:id="name2920-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2920-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2920-2 #bib2920-3 #bib2920-4">اليمامة</placeName>
                <placeName xml:id="name2920-3" xml:lang="en" source="#bib2920-1">Yamāma</placeName>
                <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"

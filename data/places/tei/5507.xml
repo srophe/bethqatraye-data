@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5507-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Uḥud</placeName>
-          <placeName xml:id="name5507-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أحد</placeName>
+          <placeName xml:id="name5507-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Uḥud</placeName>
+          <placeName xml:id="name5507-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أحد</placeName>
           <placeName xml:id="name5507-3" xml:lang="ar" source="#bib5507-1">أحد</placeName>
           <desc type="abstract" xml:id="abstract5507-1" xml:lang="en">“[A] rocky, plateau-topped mountain that lies about 5 km/3 miles north of Medina, and the site of an important battle between Muḥammad and the Meccans.” (C.F. Robinson)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5507</idno>

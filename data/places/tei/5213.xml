@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5213-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb Ḥazwara</placeName>
-          <placeName xml:id="name5213-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب حزورة</placeName>
+          <placeName xml:id="name5213-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb Ḥazwara</placeName>
+          <placeName xml:id="name5213-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب حزورة</placeName>
           <placeName xml:id="name5213-3" xml:lang="ar" source="#bib5213-1">باب حزورة</placeName>
           <desc type="abstract" xml:id="abstract5213-1" xml:lang="en">One of the entrances to the Great Mosque in Mecca on the western side.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5213</idno>

@@ -119,9 +119,9 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5102-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">al-Raḥba</placeName>
+            srophe:tags="#headword">al-Raḥba</placeName>
           <placeName xml:id="name5102-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword" source="#bib5102-3">الرحبة</placeName>
+            srophe:tags="#headword" source="#bib5102-3">الرحبة</placeName>
           <placeName xml:id="name5102-3" xml:lang="en">al-Miyādīn</placeName>
           <placeName xml:id="name5102-4" xml:lang="en">Mayadin</placeName>
           <placeName xml:id="name5102-5" xml:lang="ar">الميادين</placeName>

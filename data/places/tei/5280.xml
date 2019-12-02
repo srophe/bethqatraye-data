@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5280-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Fīrūzān</placeName>
-          <placeName xml:id="name5280-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">فيروزان</placeName>
+          <placeName xml:id="name5280-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Fīrūzān</placeName>
+          <placeName xml:id="name5280-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">فيروزان</placeName>
           <placeName xml:id="name5280-3" xml:lang="en">Firuzan</placeName>
           <placeName xml:id="name5280-4" xml:lang="ar" source="#bib5280-1">فيروزان</placeName>
           <desc type="abstract" xml:id="abstract5280-1" xml:lang="en">A town southwest of Hamadān.</desc>

@@ -117,9 +117,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2950" type="river">
-               <placeName xml:id="name2950-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2950-1" xml:lang="en" srophe:tags="#headword"
                   >Mihrān</placeName>
-               <placeName xml:id="name2950-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2950-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2950-2">مهران</placeName>
                <placeName xml:id="name2950-3" xml:lang="en">Indus</placeName>
                <placeName xml:id="name2950-4" xml:lang="en">Indus River</placeName>

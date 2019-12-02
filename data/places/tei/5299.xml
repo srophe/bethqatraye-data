@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5299-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Hanj</placeName>
-          <placeName xml:id="name5299-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">هنج</placeName>
+          <placeName xml:id="name5299-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hanj</placeName>
+          <placeName xml:id="name5299-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هنج</placeName>
           <placeName xml:id="name5299-3" xml:lang="ar" source="#bib5299-1">هنج</placeName>
           <desc type="abstract" xml:id="abstract5299-1" xml:lang="en">A city or region in southern Iran close to Lār and Bāl.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5299</idno>

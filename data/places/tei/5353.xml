@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5353-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Kīsh</placeName>
-          <placeName xml:id="name5353-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">كيش</placeName>
+          <placeName xml:id="name5353-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kīsh</placeName>
+          <placeName xml:id="name5353-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كيش</placeName>
           <placeName xml:id="name5353-3" xml:lang="ar" source="#bib5353-1">كيش</placeName>
           <desc type="abstract" xml:id="abstract5353-1" xml:lang="en">An island in the Persian/Arabian Gulf.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5353</idno>

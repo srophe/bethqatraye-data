@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5012-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Akhshabān</placeName>
-          <placeName xml:id="name5012-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الأخشبان</placeName>
+          <placeName xml:id="name5012-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Akhshabān</placeName>
+          <placeName xml:id="name5012-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الأخشبان</placeName>
           <placeName xml:id="name5012-3" xml:lang="ar" source="#bib5012-1">الأخشبان</placeName>
           <desc type="abstract" xml:id="abstract5012-1" xml:lang="en">Al-Akhshabān refers to the two mountains Abū Qubays and Quʿayqiʿān in Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5012</idno>

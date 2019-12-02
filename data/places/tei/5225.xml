@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5225-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bakkār</placeName>
-          <placeName xml:id="name5225-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بكار</placeName>
+          <placeName xml:id="name5225-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bakkār</placeName>
+          <placeName xml:id="name5225-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بكار</placeName>
           <placeName xml:id="name5225-3" xml:lang="ar" source="#bib5225-1">بكار</placeName>
           <desc type="abstract" xml:id="abstract5225-1" xml:lang="en">A city in Khurāsān.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5225</idno>

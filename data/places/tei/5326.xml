@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5326-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Jamkān</placeName>
-          <placeName xml:id="name5326-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">جمكان</placeName>
+          <placeName xml:id="name5326-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jamkān</placeName>
+          <placeName xml:id="name5326-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جمكان</placeName>
           <placeName xml:id="name5326-3" xml:lang="en">Jamakān</placeName>
           <placeName xml:id="name5326-4" xml:lang="ar" source="#bib5326-1">جمكان</placeName>
           <desc type="abstract" xml:id="abstract5326-1" xml:lang="en">A town in between Kārzīn and Meymand in Fars Province in Iran.</desc>

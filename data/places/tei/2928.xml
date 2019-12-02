@@ -117,9 +117,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2928" type="church">
-               <placeName xml:id="name2928-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2928-1" xml:lang="en" srophe:tags="#headword"
                   >Cathedral of Emesa</placeName>
-               <placeName xml:id="name2928-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2928-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2928-1">كنيسة حمص</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2928-1">The main church of <placeName
                      ref="http://syriaca.org/place/215">Emesa</placeName>

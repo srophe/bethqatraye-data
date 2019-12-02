@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5069-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Mazza</placeName>
-          <placeName xml:id="name5069-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المزّة</placeName>
+          <placeName xml:id="name5069-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Mazza</placeName>
+          <placeName xml:id="name5069-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المزّة</placeName>
           <placeName xml:id="name5069-3" xml:lang="ar" source="#bib5069-1">المزة</placeName>
           <placeName xml:id="name5069-4" xml:lang="ar" source="#bib5069-2">المزّة</placeName>
           <desc type="abstract" xml:id="abstract5069-1" xml:lang="en">A village in the vicinity of Damascus.</desc>

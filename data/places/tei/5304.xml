@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5304-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Hidn</placeName>
-          <placeName xml:id="name5304-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">هِدْنٌ</placeName>
+          <placeName xml:id="name5304-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hidn</placeName>
+          <placeName xml:id="name5304-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هِدْنٌ</placeName>
           <placeName xml:id="name5304-3" xml:lang="ar" source="#bib5304-1">هدن</placeName>
           <desc type="abstract" xml:id="abstract5304-1" xml:lang="en">A place (mauḍiʿ) in al-Baḥrayn.</desc>
           <desc xml:lang="ar">

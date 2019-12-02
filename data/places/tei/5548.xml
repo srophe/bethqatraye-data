@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5548-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ʿĀqil</placeName>
-          <placeName xml:id="name5548-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">عاقل</placeName>
+          <placeName xml:id="name5548-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿĀqil</placeName>
+          <placeName xml:id="name5548-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عاقل</placeName>
           <placeName xml:id="name5548-3" xml:lang="ar" source="#bib5548-1">عاقل</placeName>
           <desc type="abstract" xml:id="abstract5548-1" xml:lang="en">A valley in the Najd.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5548</idno>

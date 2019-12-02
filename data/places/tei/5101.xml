@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5101-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Quṣayr</placeName>
-          <placeName xml:id="name5101-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">القصير</placeName>
+          <placeName xml:id="name5101-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Quṣayr</placeName>
+          <placeName xml:id="name5101-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القصير</placeName>
           <placeName xml:id="name5101-3" xml:lang="ar" source="#bib5101-1">القصير</placeName>
           <desc type="abstract" xml:id="abstract5101-1" xml:lang="en">A town south of Homs in Syria.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5101</idno>

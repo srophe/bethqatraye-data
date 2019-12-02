@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5251-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bust</placeName>
-          <placeName xml:id="name5251-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بست</placeName>
+          <placeName xml:id="name5251-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bust</placeName>
+          <placeName xml:id="name5251-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بست</placeName>
           <placeName xml:id="name5251-3" xml:lang="ar" source="#bib5251-1">بست</placeName>
           <desc type="abstract" xml:id="abstract5251-1" xml:lang="en">The metropolis of the province of Bust in southern Afghanistan.</desc>
           <desc xml:lang="ar">

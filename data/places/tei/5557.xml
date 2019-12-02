@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5557-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ʿAyn Sulaymān</placeName>
-          <placeName xml:id="name5557-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">عين سليمان</placeName>
+          <placeName xml:id="name5557-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAyn Sulaymān</placeName>
+          <placeName xml:id="name5557-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عين سليمان</placeName>
           <placeName xml:id="name5557-3" xml:lang="ar" source="#bib5557-1">عين سليمان</placeName>
           <desc type="abstract" xml:id="abstract5557-1" xml:lang="en">A valley in Arabia.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5557</idno>

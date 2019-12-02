@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5163-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿIrāqayn</placeName>
-          <placeName xml:id="name5163-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">العراقين</placeName>
+          <placeName xml:id="name5163-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿIrāqayn</placeName>
+          <placeName xml:id="name5163-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">العراقين</placeName>
           <placeName xml:id="name5163-3" xml:lang="ar" source="#bib5163-1">العراقين</placeName>
           <desc type="abstract" xml:id="abstract5163-1" xml:lang="en">A term referring to the Arab and Persian parts of al-ʿIrāq.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5163</idno>

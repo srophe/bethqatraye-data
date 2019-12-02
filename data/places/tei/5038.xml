@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5038-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥarbīya</placeName>
-          <placeName xml:id="name5038-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الحربية</placeName>
+          <placeName xml:id="name5038-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥarbīya</placeName>
+          <placeName xml:id="name5038-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الحربية</placeName>
           <placeName xml:id="name5038-3" xml:lang="ar" source="#bib5038-1">الحربية</placeName>
           <desc type="abstract" xml:id="abstract5038-1" xml:lang="en">A quarter of Baghdād.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5038</idno>

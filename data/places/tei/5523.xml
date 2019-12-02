@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5523-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
-          <placeName xml:id="name5523-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
+          <placeName xml:id="name5523-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
+          <placeName xml:id="name5523-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
           <placeName xml:id="name5523-3" xml:lang="ar" source="#bib5523-1">يبرين</placeName>
           <desc type="abstract" xml:id="abstract5523-1" xml:lang="en">A village (qarya) in the region of Aleppo.</desc>
           <desc xml:lang="ar">

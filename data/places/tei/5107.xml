@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5107-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
-          <placeName xml:id="name5107-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الرصافة</placeName>
+          <placeName xml:id="name5107-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
+          <placeName xml:id="name5107-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الرصافة</placeName>
           <placeName xml:id="name5107-3" xml:lang="en">Rusafa</placeName>
           <placeName xml:id="name5107-4" xml:lang="ar" source="#bib5107-1">الرصافة</placeName>
           <desc type="abstract" xml:id="abstract5107-1" xml:lang="en">َA mosque located in the quarter of Ruṣāfa east of the Tigris in Baghdād.</desc>

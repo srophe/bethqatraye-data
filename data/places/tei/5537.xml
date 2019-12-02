@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5537-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Zurūd</placeName>
-          <placeName xml:id="name5537-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">زرود</placeName>
+          <placeName xml:id="name5537-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zurūd</placeName>
+          <placeName xml:id="name5537-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زرود</placeName>
           <placeName xml:id="name5537-3" xml:lang="ar" source="#bib5537-1">زرود</placeName>
           <desc type="abstract" xml:id="abstract5537-1" xml:lang="en">A town in the north of Saudi Arabia.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5537</idno>

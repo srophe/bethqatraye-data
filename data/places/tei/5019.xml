@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5019-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Baydāʾ</placeName>
-          <placeName xml:id="name5019-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">البيداء</placeName>
+          <placeName xml:id="name5019-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Baydāʾ</placeName>
+          <placeName xml:id="name5019-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">البيداء</placeName>
           <placeName xml:id="name5019-3" xml:lang="ar" source="#bib5019-1">البيداء</placeName>
           <desc type="abstract" xml:id="abstract5019-1" xml:lang="en">A wādī near Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5019</idno>

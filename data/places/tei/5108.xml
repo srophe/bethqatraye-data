@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5108-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sabkha</placeName>
-          <placeName xml:id="name5108-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">السَّبَخَةُ</placeName>
+          <placeName xml:id="name5108-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sabkha</placeName>
+          <placeName xml:id="name5108-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السَّبَخَةُ</placeName>
           <placeName xml:id="name5108-3" xml:lang="ar" source="#bib5108-1">السبخة</placeName>
           <desc type="abstract" xml:id="abstract5108-1" xml:lang="en">A quarter in al-Baṣra.</desc>
           <desc xml:lang="ar">

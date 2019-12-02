@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5234-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Basjirt</placeName>
-          <placeName xml:id="name5234-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بسجرت</placeName>
+          <placeName xml:id="name5234-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Basjirt</placeName>
+          <placeName xml:id="name5234-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بسجرت</placeName>
           <placeName xml:id="name5234-3" xml:lang="en">Bāshqirs</placeName>
           <placeName xml:id="name5234-4" xml:lang="ar" source="#bib5234-1">بسجرت</placeName>
           <desc type="abstract" xml:id="abstract5234-1" xml:lang="en">Their “territory corresponds roughly to the modern districts of Ufa and Orenburg.” (W. Barthold)</desc>

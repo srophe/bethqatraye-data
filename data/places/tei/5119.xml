@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5119-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sarāt</placeName>
-          <placeName xml:id="name5119-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">السراة</placeName>
+          <placeName xml:id="name5119-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sarāt</placeName>
+          <placeName xml:id="name5119-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السراة</placeName>
           <placeName xml:id="name5119-3" xml:lang="en">al-Sarawāt</placeName>
           <placeName xml:id="name5119-4" xml:lang="ar">السروات</placeName>
           <placeName xml:id="name5119-5" xml:lang="ar" source="#bib5119-1">السراة</placeName>

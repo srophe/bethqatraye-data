@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5111-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ṣafā</placeName>
-          <placeName xml:id="name5111-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الصَّفَا</placeName>
+          <placeName xml:id="name5111-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ṣafā</placeName>
+          <placeName xml:id="name5111-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الصَّفَا</placeName>
           <placeName xml:id="name5111-3" xml:lang="ar" source="#bib5111-1">الصفا</placeName>
           <desc type="abstract" xml:id="abstract5111-1" xml:lang="en">ِܱA fortification in al-Baḥrayn and Hagar.</desc>
           <desc xml:lang="ar">

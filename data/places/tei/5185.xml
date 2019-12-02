@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5185-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Baṣra</placeName>
-          <placeName xml:id="name5185-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب البصرة</placeName>
+          <placeName xml:id="name5185-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Baṣra</placeName>
+          <placeName xml:id="name5185-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب البصرة</placeName>
           <placeName xml:id="name5185-3" xml:lang="ar" source="#bib5185-1">باب البصرة</placeName>
           <desc type="abstract" xml:id="abstract5185-1" xml:lang="en">A quarter in the city of Baghdād.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5185</idno>

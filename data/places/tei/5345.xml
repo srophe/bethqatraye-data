@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5345-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Khalfa Bajāna</placeName>
-          <placeName xml:id="name5345-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">خلف بجانة</placeName>
+          <placeName xml:id="name5345-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Khalfa Bajāna</placeName>
+          <placeName xml:id="name5345-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">خلف بجانة</placeName>
           <placeName xml:id="name5345-3" xml:lang="ar" source="#bib5345-1">خلف بجانة</placeName>
           <desc type="abstract" xml:id="abstract5345-1" xml:lang="en">A city in which Slavic Jews settled.</desc>
           <desc xml:lang="ar">

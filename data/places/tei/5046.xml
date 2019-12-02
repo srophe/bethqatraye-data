@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5046-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Jadīd</placeName>
-          <placeName xml:id="name5046-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الجديد</placeName>
+          <placeName xml:id="name5046-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Jadīd</placeName>
+          <placeName xml:id="name5046-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الجديد</placeName>
           <placeName xml:id="name5046-3" xml:lang="ar" source="#bib5046-1">الجديد</placeName>
           <desc type="abstract" xml:id="abstract5046-1" xml:lang="en">One of the two citadels in al-Ṣafrāʾ together refered to as al-Tauʾamān.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5046</idno>

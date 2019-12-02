@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5224-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bājarwān</placeName>
-          <placeName xml:id="name5224-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باجروان</placeName>
+          <placeName xml:id="name5224-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bājarwān</placeName>
+          <placeName xml:id="name5224-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باجروان</placeName>
           <placeName xml:id="name5224-3" xml:lang="en">Bëyuk Badzhiravan</placeName>
           <placeName xml:id="name5224-4" xml:lang="en">Bol’shoy Badzhiravan</placeName>
           <placeName xml:id="name5224-5" xml:lang="ar" source="#bib5224-1">باجروان</placeName>

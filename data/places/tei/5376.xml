@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5376-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Dhī al-Ḥulayfa</placeName>
-          <placeName xml:id="name5376-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مسجد ذي الحليفة</placeName>
+          <placeName xml:id="name5376-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Dhī al-Ḥulayfa</placeName>
+          <placeName xml:id="name5376-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مسجد ذي الحليفة</placeName>
           <placeName xml:id="name5376-3" xml:lang="ar" source="#bib5376-1">مسجد ذي الحليفة</placeName>
           <desc type="abstract" xml:id="abstract5376-1" xml:lang="en">A mosque southwest of Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5376</idno>

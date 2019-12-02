@@ -191,15 +191,15 @@
         <body>
             <listPlace>
                 <place xml:id="place-211" type="settlement">
-                    <placeName xml:id="name211-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name211-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib211-2">Peruz Shapur</placeName>
                     <placeName xml:id="name211-2" xml:lang="en" source="#bib211-2"
                         >al-Anbār</placeName>
-                    <placeName xml:id="name211-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name211-3" xml:lang="syr" srophe:tags="#headword"
                         >ܐܢܒܐܪ</placeName>
                     <placeName xml:id="name211-4" xml:lang="syr-Syrj" source="#bib211-3"
                         >ܐܰܢܒܰܐܪ</placeName>
-                    <placeName xml:id="name211-5" xml:lang="ar" source="#bib211-4 #bib211-10" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name211-5" xml:lang="ar" source="#bib211-4 #bib211-10" srophe:tags="#headword"
                         >الانبار</placeName>
                     <placeName xml:id="name211-6" xml:lang="en" source="#bib211-5"
                         >al-ʾAnbar</placeName>

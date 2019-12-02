@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5184-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Baqīʿa</placeName>
-          <placeName xml:id="name5184-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب البقيع</placeName>
+          <placeName xml:id="name5184-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Baqīʿa</placeName>
+          <placeName xml:id="name5184-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب البقيع</placeName>
           <placeName xml:id="name5184-3" xml:lang="ar" source="#bib5184-1">باب البقيع</placeName>
           <desc type="abstract" xml:id="abstract5184-1" xml:lang="en">One of the entrances to al-Masjid al-Nabawī in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5184</idno>

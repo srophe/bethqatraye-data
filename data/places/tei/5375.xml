@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5375-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Masjid al-Jinn</placeName>
-          <placeName xml:id="name5375-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مسجد الجن</placeName>
+          <placeName xml:id="name5375-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Masjid al-Jinn</placeName>
+          <placeName xml:id="name5375-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مسجد الجن</placeName>
           <placeName xml:id="name5375-3" xml:lang="ar" source="#bib5375-1">مسجد الجن</placeName>
           <desc type="abstract" xml:id="abstract5375-1" xml:lang="en">A mosque in Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5375</idno>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5360-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Maḥallat Abī Ḥanīfa</placeName>
-          <placeName xml:id="name5360-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">محلة أبي حنيفة</placeName>
+          <placeName xml:id="name5360-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Maḥallat Abī Ḥanīfa</placeName>
+          <placeName xml:id="name5360-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">محلة أبي حنيفة</placeName>
           <placeName xml:id="name5360-3" xml:lang="ar" source="#bib5360-1">محلة أبي حنيفة</placeName>
           <desc type="abstract" xml:id="abstract5360-1" xml:lang="en">A quarter in Baghdad.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5360</idno>

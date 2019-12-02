@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5302-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Hayṭal</placeName>
-          <placeName xml:id="name5302-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">هيطل</placeName>
+          <placeName xml:id="name5302-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hayṭal</placeName>
+          <placeName xml:id="name5302-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هيطل</placeName>
           <placeName xml:id="name5302-3" xml:lang="ar" source="#bib5302-1">هيطل</placeName>
           <desc type="abstract" xml:id="abstract5302-1" xml:lang="en">One of the jānibs of the Mashriq (Sijistān, Khurāsān, Transoxania) located in its south. Its miṣr is Samarqand. (A. Miquel)</desc>
           <desc xml:lang="ar">

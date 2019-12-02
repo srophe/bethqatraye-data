@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5201-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Rukhāʾ</placeName>
-          <placeName xml:id="name5201-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب الرخاء</placeName>
+          <placeName xml:id="name5201-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Rukhāʾ</placeName>
+          <placeName xml:id="name5201-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب الرخاء</placeName>
           <placeName xml:id="name5201-3" xml:lang="en">Bāb al-Rijāʾ [?]</placeName>
           <placeName xml:id="name5201-4" xml:lang="ar">باب الرخاء [?]</placeName>
           <placeName xml:id="name5201-5" xml:lang="ar" source="#bib5201-1">باب الرخاء</placeName>

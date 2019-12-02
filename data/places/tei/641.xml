@@ -191,13 +191,13 @@
         <body>
             <listPlace>
                 <place xml:id="place-641" type="settlement">
-                    <placeName xml:id="name641-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name641-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib641-1 #bib641-4 #bib641-5 #bib641-6">Rome</placeName>
-                    <placeName xml:id="name641-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name641-2" xml:lang="syr" srophe:tags="#headword"
                         source="#bib641-2">ܪܘܡܝ</placeName>
                     <placeName xml:id="name641-3" xml:lang="ar"
                         source="#bib641-3 #bib641-8 #bib641-10">رومية</placeName>
-                    <placeName xml:id="name641-4" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name641-4" xml:lang="ar" srophe:tags="#headword"
                         source="#bib641-9">الرومية</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name641-5">Rūmiya</placeName>

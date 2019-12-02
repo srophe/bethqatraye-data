@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5443-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Rudayna</placeName>
-          <placeName xml:id="name5443-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">رُدَيْنَةُ</placeName>
+          <placeName xml:id="name5443-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Rudayna</placeName>
+          <placeName xml:id="name5443-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رُدَيْنَةُ</placeName>
           <placeName xml:id="name5443-3" xml:lang="ar" source="#bib5443-1">ردينة</placeName>
           <desc type="abstract" xml:id="abstract5443-1" xml:lang="en">An island.</desc>
           <desc xml:lang="ar">

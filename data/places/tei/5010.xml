@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5010-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Ajfar</placeName>
-          <placeName xml:id="name5010-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الأجفر</placeName>
+          <placeName xml:id="name5010-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ajfar</placeName>
+          <placeName xml:id="name5010-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الأجفر</placeName>
           <placeName xml:id="name5010-3" xml:lang="ar" source="#bib5010-1">الأجفر</placeName>
           <desc type="abstract" xml:id="abstract5010-1" xml:lang="en">A city in the north of the Arabian Peninsula northwest of Buraydah.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5010</idno>

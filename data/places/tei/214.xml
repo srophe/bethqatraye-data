@@ -164,13 +164,13 @@
         <body>
             <listPlace>
                 <place xml:id="place-214" type="region">
-                    <placeName xml:id="name214-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name214-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib214-1 #bib214-4">Ḥawrān</placeName>
-                    <placeName xml:id="name214-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name214-2" xml:lang="syr" srophe:tags="#headword"
                         >ܚܘܪܢ</placeName>
                     <placeName xml:id="name214-3" xml:lang="syr-Syrj" source="#bib214-2"
                         >ܚܰܘܪܢ</placeName>
-                    <placeName xml:id="name214-4" xml:lang="ar" source="#bib214-3 #bib214-8" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name214-4" xml:lang="ar" source="#bib214-3 #bib214-8" srophe:tags="#headword"
                         >حوران</placeName>
                     <placeName xml:id="name214-5" xml:lang="en" source="#bib214-5"
                         >Hawran</placeName>

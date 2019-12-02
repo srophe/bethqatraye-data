@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5155-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Zaydīn</placeName>
-          <placeName xml:id="name5155-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الزيدين</placeName>
+          <placeName xml:id="name5155-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zaydīn</placeName>
+          <placeName xml:id="name5155-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزيدين</placeName>
           <placeName xml:id="name5155-3" xml:lang="en">al-Zaydayn</placeName>
           <placeName xml:id="name5155-4" xml:lang="ar" source="#bib5155-1">الزيدين</placeName>
           <desc type="abstract" xml:id="abstract5155-1" xml:lang="en">A town located in southwest Iran between Shiraz and Ahvaz.</desc>

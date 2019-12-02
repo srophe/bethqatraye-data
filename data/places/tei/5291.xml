@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5291-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
-          <placeName xml:id="name5291-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+          <placeName xml:id="name5291-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
+          <placeName xml:id="name5291-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
           <placeName xml:id="name5291-3" xml:lang="ar" source="#bib5291-1">هجر</placeName>
           <desc type="abstract" xml:id="abstract5291-1" xml:lang="en">A province (bilād) whose adminstrative center (qaṣaba) is al-Ṣafā.</desc>
           <desc xml:lang="ar">

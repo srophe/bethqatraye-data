@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5516-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Wādī al-ʿArūs</placeName>
-          <placeName xml:id="name5516-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">وادي العروس</placeName>
+          <placeName xml:id="name5516-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Wādī al-ʿArūs</placeName>
+          <placeName xml:id="name5516-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">وادي العروس</placeName>
           <placeName xml:id="name5516-3" xml:lang="ar" source="#bib5516-1">وادي العروس</placeName>
           <placeName xml:id="name5516-4" xml:lang="ar" source="#bib5516-2">وادي العروس</placeName>
           <desc type="abstract" xml:id="abstract5516-1" xml:lang="en">A valley located northeast of Medina.</desc>

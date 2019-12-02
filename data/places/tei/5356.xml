@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5356-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Kuwayn</placeName>
-          <placeName xml:id="name5356-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">كوين</placeName>
+          <placeName xml:id="name5356-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kuwayn</placeName>
+          <placeName xml:id="name5356-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كوين</placeName>
           <placeName xml:id="name5356-3" xml:lang="ar" source="#bib5356-1">كوين</placeName>
           <desc type="abstract" xml:id="abstract5356-1" xml:lang="en">A city in Sijistān/Sistān province.</desc>
           <desc xml:lang="ar">

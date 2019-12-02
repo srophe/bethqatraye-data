@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5227-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Balkh</placeName>
-          <placeName xml:id="name5227-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بلخ</placeName>
+          <placeName xml:id="name5227-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Balkh</placeName>
+          <placeName xml:id="name5227-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بلخ</placeName>
           <placeName xml:id="name5227-3" xml:lang="ar" source="#bib5227-1">بلخ</placeName>
           <desc type="abstract" xml:id="abstract5227-1" xml:lang="en">A city located in the Balkh region in northern Afghanistan and located osuth of the Amu Darya (Oxus). Located along the silk road and important center of Zoroastrianism.</desc>
           <desc xml:lang="ar">

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5293-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥalwān</placeName>
-          <placeName xml:id="name5293-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">حلوان</placeName>
+          <placeName xml:id="name5293-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ḥalwān</placeName>
+          <placeName xml:id="name5293-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">حلوان</placeName>
           <placeName xml:id="name5293-3" xml:lang="ar" source="#bib5293-1">حلوان</placeName>
           <desc type="abstract" xml:id="abstract5293-1" xml:lang="en">A district (kūra) in ʿIrāq.</desc>
           <desc xml:lang="ar">

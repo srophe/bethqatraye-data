@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5377-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Ḥamza</placeName>
-          <placeName xml:id="name5377-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مسجد حمزة</placeName>
+          <placeName xml:id="name5377-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Ḥamza</placeName>
+          <placeName xml:id="name5377-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مسجد حمزة</placeName>
           <placeName xml:id="name5377-3" xml:lang="ar" source="#bib5377-1">مسجد حمزة</placeName>
           <desc type="abstract" xml:id="abstract5377-1" xml:lang="en">A mosque on the mountain Uḥud.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5377</idno>

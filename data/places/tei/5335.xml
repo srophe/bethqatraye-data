@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5335-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Jūzjān</placeName>
-          <placeName xml:id="name5335-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">جوزجانان</placeName>
+          <placeName xml:id="name5335-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jūzjān</placeName>
+          <placeName xml:id="name5335-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جوزجانان</placeName>
           <placeName xml:id="name5335-3" xml:lang="ar">جوزجان</placeName>
           <placeName xml:id="name5335-4" xml:lang="ar" source="#bib5335-1">جوزجانان</placeName>
           <placeName xml:id="name5335-5" xml:lang="ar" source="#bib5335-1">جوزجان</placeName>

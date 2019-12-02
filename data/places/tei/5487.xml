@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5487-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Tabūk</placeName>
-          <placeName xml:id="name5487-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">تبوك</placeName>
+          <placeName xml:id="name5487-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Tabūk</placeName>
+          <placeName xml:id="name5487-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تبوك</placeName>
           <placeName xml:id="name5487-3" xml:lang="en">Baclanaza</placeName>
           <placeName xml:id="name5487-4" xml:lang="ar" source="#bib5487-1">تبوك</placeName>
           <desc type="abstract" xml:id="abstract5487-1" xml:lang="en">“[A] town of northwestern Arabia, now the centre of an imāra or province of Saudi Arabia (lat. 28° 22′ N., long. 36° 32′ E., altitude 6,500 m/2,250 feet), some 233 km/145 south-south-east of Maʿān and separated from the Red Sea and Gulf of ʿAkaba by the Ḥismā mountains.” (al-Bakhit)</desc>

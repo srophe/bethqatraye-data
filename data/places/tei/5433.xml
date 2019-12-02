@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5433-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ramāda</placeName>
-          <placeName xml:id="name5433-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">رمادة</placeName>
+          <placeName xml:id="name5433-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ramāda</placeName>
+          <placeName xml:id="name5433-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رمادة</placeName>
           <placeName xml:id="name5433-3" xml:lang="ar" source="#bib5433-1">رمادة</placeName>
           <desc type="abstract" xml:id="abstract5433-1" xml:lang="en">A village (qarya) in Balkh.</desc>
           <desc xml:lang="ar">

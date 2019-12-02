@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="river">
-          <placeName xml:id="name5093-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Qārūra</placeName>
-          <placeName xml:id="name5093-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">القارورة</placeName>
+          <placeName xml:id="name5093-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Qārūra</placeName>
+          <placeName xml:id="name5093-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القارورة</placeName>
           <placeName xml:id="name5093-3" xml:lang="en">Qaraurā</placeName>
           <placeName xml:id="name5093-4" xml:lang="ar">قرورى</placeName>
           <placeName xml:id="name5093-5" xml:lang="ar" source="#bib5093-1">القارورة</placeName>

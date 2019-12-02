@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5451-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
-          <placeName xml:id="name5451-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">صنعاء</placeName>
+          <placeName xml:id="name5451-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
+          <placeName xml:id="name5451-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صنعاء</placeName>
           <placeName xml:id="name5451-3" xml:lang="ar" source="#bib5451-1">صنعاء</placeName>
           <desc type="abstract" xml:id="abstract5451-1" xml:lang="en">A province (mikhlāf) in Yemen.</desc>
           <desc xml:lang="ar">

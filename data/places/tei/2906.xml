@@ -186,9 +186,9 @@
     <body>
       <listPlace>
         <place xml:id="place-2906" type="settlement">
-          <placeName xml:id="name2906-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name2906-1" xml:lang="en" srophe:tags="#headword"
             source="#bib2906-1">Mecca</placeName>
-          <placeName xml:id="name2906-2" xml:lang="ar" syriaca-tags="#syriaca-headword" source="#bib2906-3 #bib2906-4 #bib2906-5 #bib2906-6 #bib2906-7">مكة</placeName>
+          <placeName xml:id="name2906-2" xml:lang="ar" srophe:tags="#headword" source="#bib2906-3 #bib2906-4 #bib2906-5 #bib2906-6 #bib2906-7">مكة</placeName>
           <placeName xml:lang="en" xml:id="name2906-3">Mekka</placeName>
           <placeName xml:lang="en" xml:id="name2906-4">Makkah</placeName>
           <placeName xml:lang="en" xml:id="name2906-5">Makka</placeName>

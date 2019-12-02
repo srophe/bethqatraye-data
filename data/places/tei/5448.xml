@@ -106,16 +106,16 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5448-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name5448-1" xml:lang="en" srophe:tags="#headword"
             resp="http://bqgazetteer.bethmardutho.org">Samaheej</placeName>
-          <placeName xml:id="name5448-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name5448-2" xml:lang="ar" srophe:tags="#headword"
             resp="http://bqgazetteer.bethmardutho.org">سَماهيج</placeName>
           <placeName xml:id="name5448-3" xml:lang="en">Mayshamhag</placeName>
           <placeName xml:id="name5448-4" xml:lang="en">Mashmahīg</placeName>
           <placeName xml:id="name5448-5" xml:lang="en">Samāhīj</placeName>
           <placeName xml:id="name5448-6" xml:lang="ar" source="#bib5448-1 #bib5448-2">سماهيج</placeName>
           <placeName xml:id="name5448-7" xml:lang="syr" source="#bib5448-3">ܡܝܫܡܗܓ</placeName>
-          <placeName xml:id="name5448-8" xml:lang="syr" source="#bib5448-6" syriaca-tags="#syriaca-headword">ܡܫܡܗܝܓ</placeName>
+          <placeName xml:id="name5448-8" xml:lang="syr" source="#bib5448-6" srophe:tags="#headword">ܡܫܡܗܝܓ</placeName>
           <placeName xml:id="name5448-9" xml:lang="fr" source="#bib5448-4">Mâšmâhȋg</placeName>
           <placeName xml:id="name5448-10" xml:lang="fr" source="#bib5448-5">Mâšmahȋg</placeName>
           <desc type="abstract" xml:id="abstract5448-1" xml:lang="en">A metropolitan town on an

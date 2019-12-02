@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5130-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
-          <placeName xml:id="name5130-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الستار</placeName>
+          <placeName xml:id="name5130-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
+          <placeName xml:id="name5130-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الستار</placeName>
           <placeName xml:id="name5130-3" xml:lang="ar" source="#bib5130-1">الستار</placeName>
           <desc type="abstract" xml:id="abstract5130-1" xml:lang="en">ِA mountain belonging to a mountian chain called Sutur.</desc>
           <desc xml:lang="ar">

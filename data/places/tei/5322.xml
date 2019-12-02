@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5322-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Jabal al-Ṭubūl</placeName>
-          <placeName xml:id="name5322-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">جبل الطبول</placeName>
+          <placeName xml:id="name5322-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jabal al-Ṭubūl</placeName>
+          <placeName xml:id="name5322-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جبل الطبول</placeName>
           <placeName xml:id="name5322-3" xml:lang="ar" source="#bib5322-1">جبل الطبول</placeName>
           <desc type="abstract" xml:id="abstract5322-1" xml:lang="en">A mountain in Badr.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5322</idno>

@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5122-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Shabā</placeName>
-          <placeName xml:id="name5122-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الشَّبَا</placeName>
+          <placeName xml:id="name5122-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Shabā</placeName>
+          <placeName xml:id="name5122-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الشَّبَا</placeName>
           <placeName xml:id="name5122-3" xml:lang="ar" source="#bib5122-1">الشبا</placeName>
           <desc type="abstract" xml:id="abstract5122-1" xml:lang="en">ِA ruined city located on the island of Uwāl/Awāl.</desc>
           <desc xml:lang="ar">

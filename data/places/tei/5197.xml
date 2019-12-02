@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5197-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Qibla</placeName>
-          <placeName xml:id="name5197-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب القبلة</placeName>
+          <placeName xml:id="name5197-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Qibla</placeName>
+          <placeName xml:id="name5197-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب القبلة</placeName>
           <placeName xml:id="name5197-3" xml:lang="ar" source="#bib5197-1">باب القبلة</placeName>
           <desc type="abstract" xml:id="abstract5197-1" xml:lang="en">One of the gates of the walls of Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5197</idno>

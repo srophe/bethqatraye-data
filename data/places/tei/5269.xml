@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5269-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
-          <placeName xml:id="name5269-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
+          <placeName xml:id="name5269-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
+          <placeName xml:id="name5269-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
           <placeName xml:id="name5269-3" xml:lang="ar" source="#bib5269-1">دارين</placeName>
           <desc type="abstract" xml:id="abstract5269-1" xml:lang="en">An island on the coast of Bahrain.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5269</idno>

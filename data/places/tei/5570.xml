@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5570-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Jabal al-Raḥma</placeName>
-          <placeName xml:id="name5570-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">جبل الرحمة</placeName>
+          <placeName xml:id="name5570-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jabal al-Raḥma</placeName>
+          <placeName xml:id="name5570-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جبل الرحمة</placeName>
           <placeName xml:id="name5570-3" xml:lang="ar" source="#bib5570-1">جبل الرحمة</placeName>
           <desc type="abstract" xml:id="abstract5570-1" xml:lang="en">A mountain in Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5570</idno>

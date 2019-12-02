@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5420-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat al-Zayt</placeName>
-          <placeName xml:id="name5420-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">قبة الزيت</placeName>
+          <placeName xml:id="name5420-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat al-Zayt</placeName>
+          <placeName xml:id="name5420-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قبة الزيت</placeName>
           <placeName xml:id="name5420-3" xml:lang="ar" source="#bib5420-1">قبة الزيت</placeName>
           <desc type="abstract" xml:id="abstract5420-1" xml:lang="en">A shrine in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5420</idno>

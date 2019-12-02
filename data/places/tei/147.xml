@@ -146,12 +146,12 @@
         <body>
             <listPlace>
                 <place xml:id="place-147" type="river">
-                    <placeName xml:id="name147-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name147-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib147-1 #bib147-2">Orontes</placeName>
                     <placeName xml:id="name147-2" xml:lang="en" source="#bib147-1">ʿĀṣī</placeName>
                     <placeName xml:id="name147-3" xml:lang="ar" source="#bib147-4"
                         >الأُرُنْد</placeName>
-                    <placeName xml:id="name147-4" xml:lang="ar" source="#bib147-4 #bib147-5" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name147-4" xml:lang="ar" source="#bib147-4 #bib147-5" srophe:tags="#headword"
                         >العاصي</placeName>
                     <placeName xml:id="name147-5" xml:lang="en-x-srp1"
                         syriaca-tags="#syriaca-simplified-script">Āṣī</placeName>

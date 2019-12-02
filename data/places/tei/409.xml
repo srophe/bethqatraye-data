@@ -224,13 +224,13 @@
         <body>
             <listPlace>
                 <place xml:id="place-409" type="region">
-                    <placeName xml:id="name409-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name409-1" xml:lang="en" srophe:tags="#headword"
                         >Sijistān</placeName>
-                    <placeName xml:id="name409-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name409-2" xml:lang="syr" srophe:tags="#headword"
                         >ܣܓܣܬܐܢ</placeName>
                     <placeName xml:id="name409-3" xml:lang="syr-Syrj" source="#bib409-1"
                         >ܣܰܓܣܬܰܐܢ</placeName>
-                    <placeName xml:id="name409-4" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name409-4" xml:lang="ar" srophe:tags="#headword"
                         source="#bib409-2 #bib409-8">سجستان</placeName>
                     <placeName xml:id="name409-5" xml:lang="en" source="#bib409-3"
                         >Sijistan</placeName>

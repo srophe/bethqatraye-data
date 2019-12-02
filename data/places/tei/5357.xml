@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5357-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Kwārān</placeName>
-          <placeName xml:id="name5357-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">كواران</placeName>
+          <placeName xml:id="name5357-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kwārān</placeName>
+          <placeName xml:id="name5357-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كواران</placeName>
           <placeName xml:id="name5357-3" xml:lang="ar" source="#bib5357-1">كواران</placeName>
           <desc type="abstract" xml:id="abstract5357-1" xml:lang="en">A city in the nāḥiya of Asfazār.</desc>
           <desc xml:lang="ar">

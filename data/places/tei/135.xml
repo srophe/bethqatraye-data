@@ -171,9 +171,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-135" type="open-water">
-                    <placeName xml:id="name135-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name135-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib135-1">Mediterranean Sea</placeName>
-                    <placeName xml:id="name135-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name135-2" xml:lang="syr" srophe:tags="#headword"
                         >ܝܡܐ ܡܨܥܝܐ</placeName>
                     <placeName xml:id="name135-3" xml:lang="syr-Syrj" source="#bib135-2">ܝܰܡܳܐ
                         ܡܶܨܥܳܝܐ</placeName>
@@ -183,7 +183,7 @@
                         >Mediterranean</placeName>
                     <placeName xml:id="name135-6" xml:lang="ar" source="#bib135-6">بحر
                         المغرب</placeName>
-                    <placeName xml:id="name135-7" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name135-7" xml:lang="ar" srophe:tags="#headword"
                         source="#bib135-7">بحر الروم وافربقبا والشأم</placeName>
                     <desc xml:id="abstract-en-135" xml:lang="en">The large sea which divides
                             <placeName>Europe</placeName> from <placeName>Africa</placeName> and

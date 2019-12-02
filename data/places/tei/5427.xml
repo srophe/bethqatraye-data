@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5427-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Qūhistān</placeName>
-          <placeName xml:id="name5427-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">قوهستان</placeName>
+          <placeName xml:id="name5427-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qūhistān</placeName>
+          <placeName xml:id="name5427-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قوهستان</placeName>
           <placeName xml:id="name5427-3" xml:lang="ar" source="#bib5427-1">قوهستان</placeName>
           <desc type="abstract" xml:id="abstract5427-1" xml:lang="en">A city in the region of Kirmān. “The Arab geographers appear to have known two towns of the name Ḳūhistān in the province of Kirmān.” (J.H. Kramers)</desc>
           <desc xml:lang="ar">

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5131-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sukhna</placeName>
-          <placeName xml:id="name5131-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">السخنة</placeName>
+          <placeName xml:id="name5131-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sukhna</placeName>
+          <placeName xml:id="name5131-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السخنة</placeName>
           <placeName xml:id="name5131-3" xml:lang="ar" source="#bib5131-1">السخنة</placeName>
           <desc type="abstract" xml:id="abstract5131-1" xml:lang="en">A town in Syria.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5131</idno>

@@ -109,9 +109,9 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5480-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">Surra man Raʾā</placeName>
+            srophe:tags="#headword">Surra man Raʾā</placeName>
           <placeName xml:id="name5480-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-            syriaca-tags="#syriaca-headword">سر من رأى</placeName>
+            srophe:tags="#headword">سر من رأى</placeName>
           <placeName xml:id="name5480-3" xml:lang="en">Sāmarrāʾ</placeName>
           <placeName xml:id="name5480-4" xml:lang="ar">سامراء</placeName>
           <placeName xml:id="name5480-5" xml:lang="ar" source="#bib5480-1">سر من رأى</placeName>

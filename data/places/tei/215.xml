@@ -195,14 +195,14 @@
         <body>
             <listPlace>
                 <place xml:id="place-215" type="settlement">
-                    <placeName xml:id="name215-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name215-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib215-2 #bib215-6">Emesa</placeName>
                     <placeName xml:id="name215-2" xml:lang="en" source="#bib215-2">Ḥimṣ</placeName>
-                    <placeName xml:id="name215-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name215-3" xml:lang="syr" srophe:tags="#headword"
                         >ܚܡܨ</placeName>
                     <placeName xml:id="name215-4" xml:lang="syr-Syrj" source="#bib215-3"
                         >ܚܡܶܨ</placeName>
-                    <placeName xml:id="name215-5" xml:lang="ar" source="#bib215-4 #bib215-8 #bib215-9 #bib215-10" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name215-5" xml:lang="ar" source="#bib215-4 #bib215-8 #bib215-9 #bib215-10" srophe:tags="#headword"
                         >حمص</placeName>
                     <placeName xml:id="name215-6" xml:lang="en" source="#bib215-5">Ḥomṣ</placeName>
                     <placeName xml:id="name215-7" xml:lang="en" source="#bib215-6">Homs</placeName>

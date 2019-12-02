@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5403-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Qabāʾ</placeName>
-          <placeName xml:id="name5403-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">قباء</placeName>
+          <placeName xml:id="name5403-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qabāʾ</placeName>
+          <placeName xml:id="name5403-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قباء</placeName>
           <placeName xml:id="name5403-3" xml:lang="ar" source="#bib5403-1">قبا</placeName>
           <desc type="abstract" xml:id="abstract5403-1" xml:lang="en">A campsite/stop in al-Bādiya.</desc>
           <desc xml:lang="ar">

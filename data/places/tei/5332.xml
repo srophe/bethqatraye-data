@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5332-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Jidāl</placeName>
-          <placeName xml:id="name5332-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">جدال</placeName>
+          <placeName xml:id="name5332-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jidāl</placeName>
+          <placeName xml:id="name5332-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جدال</placeName>
           <placeName xml:id="name5332-3" xml:lang="ar" source="#bib5332-1">جدال</placeName>
           <desc type="abstract" xml:id="abstract5332-1" xml:lang="en">A town between Mosul and Nusaybīn.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5332</idno>

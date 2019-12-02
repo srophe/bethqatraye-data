@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5492-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ṭanja</placeName>
-          <placeName xml:id="name5492-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">طنجة</placeName>
+          <placeName xml:id="name5492-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṭanja</placeName>
+          <placeName xml:id="name5492-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">طنجة</placeName>
           <placeName xml:id="name5492-3" xml:lang="en">Tangier</placeName>
           <placeName xml:id="name5492-4" xml:lang="en">Tanja</placeName>
           <placeName xml:id="name5492-5" xml:lang="en">Tingis</placeName>

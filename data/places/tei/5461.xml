@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="open-water">
-          <placeName xml:id="name5461-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Sharāf</placeName>
-          <placeName xml:id="name5461-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">شَرَاف</placeName>
+          <placeName xml:id="name5461-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sharāf</placeName>
+          <placeName xml:id="name5461-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">شَرَاف</placeName>
           <placeName xml:id="name5461-3" xml:lang="ar" source="#bib5461-1">شراف</placeName>
           <desc type="abstract" xml:id="abstract5461-1" xml:lang="en">A lake or river in the Najd.</desc>
           <desc xml:lang="ar">

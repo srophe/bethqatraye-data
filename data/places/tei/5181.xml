@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5181-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Atil</placeName>
-          <placeName xml:id="name5181-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">اتل</placeName>
+          <placeName xml:id="name5181-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Atil</placeName>
+          <placeName xml:id="name5181-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اتل</placeName>
           <placeName xml:id="name5181-3" xml:lang="ar" source="#bib5181-1">اتل</placeName>
           <desc type="abstract" xml:id="abstract5181-1" xml:lang="en">“Atil, or Itil, sometimes Atil (Itil)-Khazarān, also Ḵh̲azarān Atil, the Ḵh̲azar capital, a double town on the lower Volga, itself called Atil, Itil [q.v.] in the early mediaeval period. The exact site is unknown.” (D.M. Dunlop)</desc>
           <desc xml:lang="ar">

@@ -203,9 +203,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-129" type="settlement">
-                    <placeName xml:id="name129-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name129-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib129-1 #bib129-4">Maragha</placeName>
-                    <placeName xml:id="name129-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name129-2" xml:lang="syr" srophe:tags="#headword"
                         >ܡܪܐܓܗ</placeName>
                     <placeName xml:id="name129-3" xml:lang="syr-Syrj" source="#bib129-2"
                         >ܡܰܪܰܐܓܰܗ</placeName>
@@ -214,7 +214,7 @@
                         >Marāghā</placeName>
                     <placeName xml:id="name129-6" xml:lang="ar" source="#bib129-6"
                         >مَراغة</placeName>
-                    <placeName xml:id="name129-7" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name129-7" xml:lang="ar" srophe:tags="#headword"
                         source="#bib129-7">المراغة</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name129-8">Dimashq al-Ṣaghīra</placeName>

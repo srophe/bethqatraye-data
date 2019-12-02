@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5303-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥazwara</placeName>
-          <placeName xml:id="name5303-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">حزورة</placeName>
+          <placeName xml:id="name5303-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ḥazwara</placeName>
+          <placeName xml:id="name5303-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">حزورة</placeName>
           <placeName xml:id="name5303-3" xml:lang="ar" source="#bib5303-1">حزورة</placeName>
           <desc type="abstract" xml:id="abstract5303-1" xml:lang="en">A market and quarter in Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5303</idno>

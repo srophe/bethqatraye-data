@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5246-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Biʾr Rūma</placeName>
-          <placeName xml:id="name5246-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بئر رومة</placeName>
+          <placeName xml:id="name5246-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Biʾr Rūma</placeName>
+          <placeName xml:id="name5246-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بئر رومة</placeName>
           <placeName xml:id="name5246-3" xml:lang="ar" source="#bib5246-1">بئر رومة</placeName>
           <desc type="abstract" xml:id="abstract5246-1" xml:lang="en">A well in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5246</idno>

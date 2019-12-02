@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5554-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ʿAyn al-Nabī</placeName>
-          <placeName xml:id="name5554-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">عين النبي</placeName>
+          <placeName xml:id="name5554-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAyn al-Nabī</placeName>
+          <placeName xml:id="name5554-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عين النبي</placeName>
           <placeName xml:id="name5554-3" xml:lang="ar" source="#bib5554-1">عين النبي</placeName>
           <desc type="abstract" xml:id="abstract5554-1" xml:lang="en">A spring northeast of Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5554</idno>

@@ -164,9 +164,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-503" type="open-water">
-                    <placeName xml:id="name503-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name503-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib503-3">Black Sea</placeName>
-                    <placeName xml:id="name503-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name503-2" xml:lang="syr" srophe:tags="#headword"
                         >ܝܡܐ ܐܘܟܡܐ</placeName>
                     <placeName xml:id="name503-3" xml:lang="syr-Syrj" source="#bib503-1">ܝܰܡܳܐ
                         ܐܘܟܳܡܐ</placeName>
@@ -174,7 +174,7 @@
                         الاسود</placeName>
                     <placeName xml:id="name503-5" xml:lang="ar" source="#bib503-5">بحر
                         بنْطُس</placeName>
-                    <placeName xml:id="name503-6" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name503-6" xml:lang="ar" srophe:tags="#headword"
                         source="#bib503-6">بحر بنطس</placeName>
                     <desc xml:id="abstract-en-503" xml:lang="en">A large sea north of <placeName
                             ref="http://syriaca.org/place/504">Anatolia</placeName>.</desc>

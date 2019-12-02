@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5027-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Falaj</placeName>
-          <placeName xml:id="name5027-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الفلج</placeName>
+          <placeName xml:id="name5027-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Falaj</placeName>
+          <placeName xml:id="name5027-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الفلج</placeName>
           <placeName xml:id="name5027-3" xml:lang="ar" source="#bib5027-1">الفلج</placeName>
           <desc type="abstract" xml:id="abstract5027-1" xml:lang="en">A citadel situated a six days-journey from Hajar and an nine days-journey from Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5027</idno>

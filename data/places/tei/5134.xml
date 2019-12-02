@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5134-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sūs</placeName>
-          <placeName xml:id="name5134-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">السوس</placeName>
+          <placeName xml:id="name5134-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sūs</placeName>
+          <placeName xml:id="name5134-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السوس</placeName>
           <placeName xml:id="name5134-3" xml:lang="ar" source="#bib5134-1">السوس</placeName>
           <desc type="abstract" xml:id="abstract5134-1" xml:lang="en">A district (kūra) in Khūzistān.</desc>
           <desc xml:lang="ar">

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5294-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ḥalwān</placeName>
-          <placeName xml:id="name5294-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">حلوان</placeName>
+          <placeName xml:id="name5294-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ḥalwān</placeName>
+          <placeName xml:id="name5294-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">حلوان</placeName>
           <placeName xml:id="name5294-3" xml:lang="ar" source="#bib5294-1">حلوان</placeName>
           <desc type="abstract" xml:id="abstract5294-1" xml:lang="en">A city (madīna) in Egypt.</desc>
           <desc xml:lang="ar">

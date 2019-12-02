@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5220-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Baghlān</placeName>
-          <placeName xml:id="name5220-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بغلان</placeName>
+          <placeName xml:id="name5220-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Baghlān</placeName>
+          <placeName xml:id="name5220-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بغلان</placeName>
           <placeName xml:id="name5220-3" xml:lang="ar" source="#bib5220-1">بغلان</placeName>
           <desc type="abstract" xml:id="abstract5220-1" xml:lang="en">A town in northern Afghanistan.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5220</idno>

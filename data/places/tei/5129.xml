@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5129-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sīrjān</placeName>
-          <placeName xml:id="name5129-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">السيرجان</placeName>
+          <placeName xml:id="name5129-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sīrjān</placeName>
+          <placeName xml:id="name5129-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السيرجان</placeName>
           <placeName xml:id="name5129-3" xml:lang="ar" source="#bib5129-1">السيرجان</placeName>
           <desc type="abstract" xml:id="abstract5129-1" xml:lang="en">A city southwest of Kirmān.</desc>
           <desc xml:lang="ar">

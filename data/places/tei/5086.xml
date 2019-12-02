@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5086-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Niqra</placeName>
-          <placeName xml:id="name5086-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">النقرة</placeName>
+          <placeName xml:id="name5086-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Niqra</placeName>
+          <placeName xml:id="name5086-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">النقرة</placeName>
           <placeName xml:id="name5086-3" xml:lang="en">al-Naqara</placeName>
           <placeName xml:id="name5086-4" xml:lang="ar" source="#bib5086-1">النقرة</placeName>
           <placeName xml:id="name5086-5" xml:lang="ar" source="#bib5086-1">معدن النقرة</placeName>

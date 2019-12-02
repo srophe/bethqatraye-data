@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="building">
-          <placeName xml:id="name5442-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ribāṭ al-Ṣūfīya</placeName>
-          <placeName xml:id="name5442-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">رباط الصوفية</placeName>
+          <placeName xml:id="name5442-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ribāṭ al-Ṣūfīya</placeName>
+          <placeName xml:id="name5442-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رباط الصوفية</placeName>
           <placeName xml:id="name5442-3" xml:lang="ar" source="#bib5442-1">رباط الصوفية</placeName>
           <desc type="abstract" xml:id="abstract5442-1" xml:lang="en">A hospice for Sufis in Mecca.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5442</idno>

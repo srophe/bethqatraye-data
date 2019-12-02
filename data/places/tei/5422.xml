@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5422-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat Ḥawāʾ</placeName>
-          <placeName xml:id="name5422-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">قبة حواء</placeName>
+          <placeName xml:id="name5422-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat Ḥawāʾ</placeName>
+          <placeName xml:id="name5422-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قبة حواء</placeName>
           <placeName xml:id="name5422-3" xml:lang="ar" source="#bib5422-1">قبة حواء</placeName>
           <desc type="abstract" xml:id="abstract5422-1" xml:lang="en">The tomb/shrine of Eve in Jeddah.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5422</idno>

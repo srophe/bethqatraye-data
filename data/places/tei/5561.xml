@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5561-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ʿUwayr</placeName>
-          <placeName xml:id="name5561-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">عُوير</placeName>
+          <placeName xml:id="name5561-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿUwayr</placeName>
+          <placeName xml:id="name5561-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عُوير</placeName>
           <placeName xml:id="name5561-3" xml:lang="ar" source="#bib5561-1">عُوير</placeName>
           <desc type="abstract" xml:id="abstract5561-1" xml:lang="en">A mountain located in the seat along the coast of Oman.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5561</idno>

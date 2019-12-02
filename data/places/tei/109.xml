@@ -226,7 +226,7 @@
         <body>
             <listPlace>
                 <place xml:id="place-109" type="settlement">
-                    <placeName xml:id="name109-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name109-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib109-1">Kallinikos</placeName>
                     <placeName xml:id="name109-2" xml:lang="en" source="#bib109-1"
                         >Raqqaʿ</placeName>
@@ -234,13 +234,13 @@
                         >al-Raqqaʿ</placeName>
                     <placeName xml:id="name109-4" xml:lang="en" source="#bib109-1 #bib109-5"
                         >Callinicum</placeName>
-                    <placeName xml:id="name109-5" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name109-5" xml:lang="syr" srophe:tags="#headword"
                         >ܩܐܠܘܢܝܩܝ</placeName>
                     <placeName xml:id="name109-6" xml:lang="syr-Syrj" source="#bib109-2"
                         >ܩܰܐܠܘܢܝܩܝ</placeName>
                     <placeName xml:id="name109-7" xml:lang="syr-Syrj" source="#bib109-2"
                         >ܪܰܩܰܗ̈</placeName>
-                    <placeName xml:id="name109-8" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name109-8" xml:lang="ar" srophe:tags="#headword"
                         source="#bib109-3 #bib109-7">الرقة</placeName>
                     <placeName xml:id="name109-9" xml:lang="ar" source="#bib109-3"
                         >قالونيقس</placeName>

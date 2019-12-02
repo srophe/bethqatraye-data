@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5524-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
-          <placeName xml:id="name5524-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
+          <placeName xml:id="name5524-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
+          <placeName xml:id="name5524-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
           <placeName xml:id="name5524-3" xml:lang="ar" source="#bib5524-1">يبرين</placeName>
           <desc type="abstract" xml:id="abstract5524-1" xml:lang="en">A district (nāḥiya) of ʿAzāz.</desc>
           <desc xml:lang="ar">

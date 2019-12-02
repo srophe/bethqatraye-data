@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5542-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ʿAdan</placeName>
-          <placeName xml:id="name5542-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">عدن</placeName>
+          <placeName xml:id="name5542-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAdan</placeName>
+          <placeName xml:id="name5542-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عدن</placeName>
           <placeName xml:id="name5542-3" xml:lang="en">Aden</placeName>
           <placeName xml:id="name5542-4" xml:lang="ar" source="#bib5542-1">عدن</placeName>
           <placeName xml:id="name5542-5" xml:lang="ar" source="#bib5542-2">عدن</placeName>

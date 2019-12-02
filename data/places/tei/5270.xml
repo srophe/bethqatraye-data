@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5270-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
-          <placeName xml:id="name5270-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
+          <placeName xml:id="name5270-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
+          <placeName xml:id="name5270-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
           <placeName xml:id="name5270-3" xml:lang="ar" source="#bib5270-1">دارين</placeName>
           <desc type="abstract" xml:id="abstract5270-1" xml:lang="en">A main seaport in the al-Baḥrayn renowned for its import of musk from India.</desc>
           <desc xml:lang="ar">

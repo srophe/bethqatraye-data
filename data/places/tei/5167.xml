@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5167-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿŪnayd</placeName>
-          <placeName xml:id="name5167-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">العونيد</placeName>
+          <placeName xml:id="name5167-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿŪnayd</placeName>
+          <placeName xml:id="name5167-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">العونيد</placeName>
           <placeName xml:id="name5167-3" xml:lang="ar" source="#bib5167-1">العونيد</placeName>
           <desc type="abstract" xml:id="abstract5167-1" xml:lang="en">A city (madīna) in the Ḥijāz.</desc>
           <desc xml:lang="ar">

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5497-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Thabīr</placeName>
-          <placeName xml:id="name5497-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ثبير</placeName>
+          <placeName xml:id="name5497-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Thabīr</placeName>
+          <placeName xml:id="name5497-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ثبير</placeName>
           <placeName xml:id="name5497-3" xml:lang="ar" source="#bib5497-1">ثبير</placeName>
           <desc type="abstract" xml:id="abstract5497-1" xml:lang="en">“[A] mountain outside Mecca, on the north side of the valley of Minā [...].”</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5497</idno>

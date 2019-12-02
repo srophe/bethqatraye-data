@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5383-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Mayīn</placeName>
-          <placeName xml:id="name5383-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مایين</placeName>
+          <placeName xml:id="name5383-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Mayīn</placeName>
+          <placeName xml:id="name5383-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مایين</placeName>
           <placeName xml:id="name5383-3" xml:lang="en">Māyin [?]</placeName>
           <placeName xml:id="name5383-4" xml:lang="ar">ماين</placeName>
           <placeName xml:id="name5383-5" xml:lang="ar" source="#bib5383-1">مایين</placeName>

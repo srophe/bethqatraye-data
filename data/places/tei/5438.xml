@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5438-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ramla</placeName>
-          <placeName xml:id="name5438-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الرملة</placeName>
+          <placeName xml:id="name5438-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ramla</placeName>
+          <placeName xml:id="name5438-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الرملة</placeName>
           <placeName xml:id="name5438-3" xml:lang="en">al-Ramla</placeName>
           <placeName xml:id="name5438-4" xml:lang="ar" source="#bib5438-1">الرملة</placeName>
           <desc type="abstract" xml:id="abstract5438-1" xml:lang="en">A city of Palestine situated 25 miles west-north-west of Jerusalem.</desc>

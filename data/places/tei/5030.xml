@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5030-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Furḍa</placeName>
-          <placeName xml:id="name5030-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الفُرْضَةُ</placeName>
+          <placeName xml:id="name5030-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Furḍa</placeName>
+          <placeName xml:id="name5030-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الفُرْضَةُ</placeName>
           <placeName xml:id="name5030-3" xml:lang="ar" source="#bib5030-1">الفرضة</placeName>
           <desc type="abstract" xml:id="abstract5030-1" xml:lang="en">A village in al-Baḥrayn known for the production of dates.</desc>
           <desc xml:lang="ar">

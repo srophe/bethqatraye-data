@@ -198,14 +198,14 @@
         <body>
             <listPlace>
                 <place xml:id="place-429" type="settlement">
-                    <placeName xml:id="name429-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name429-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib429-3">ʿĀnah</placeName>
-                    <placeName xml:id="name429-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name429-2" xml:lang="syr" srophe:tags="#headword"
                         >ܥܐܢܐ</placeName>
                     <placeName xml:id="name429-3" xml:lang="syr-Syrj" source="#bib429-1"
                         >ܥܰܐܢܰܐ</placeName>
                     <placeName xml:id="name429-4" xml:lang="ar"
-                        source="#bib429-2 #bib429-4 #bib429-5 #bib429-6" syriaca-tags="#syriaca-headword">عانة</placeName>
+                        source="#bib429-2 #bib429-4 #bib429-5 #bib429-6" srophe:tags="#headword">عانة</placeName>
                     <placeName xml:id="name429-5" xml:lang="en-x-srp1"
                         syriaca-tags="#syriaca-simplified-script">Ānah</placeName>
                     <placeName xml:id="name429-6" xml:lang="en-x-srp1"

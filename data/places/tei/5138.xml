@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5138-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Tanʿīm</placeName>
-          <placeName xml:id="name5138-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">التنعيم</placeName>
+          <placeName xml:id="name5138-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Tanʿīm</placeName>
+          <placeName xml:id="name5138-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">التنعيم</placeName>
           <placeName xml:id="name5138-3" xml:lang="en">At Taniem</placeName>
           <placeName xml:id="name5138-4" xml:lang="ar" source="#bib5138-1">التنعيم</placeName>
           <placeName xml:id="name5138-5" xml:lang="ar" source="#bib5138-2">التنعيم</placeName>

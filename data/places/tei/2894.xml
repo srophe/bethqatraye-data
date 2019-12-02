@@ -125,9 +125,9 @@
       <body>
          <listPlace>
             <place xml:id="place-2894" type="settlement">
-               <placeName xml:id="name2894-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2894-1" xml:lang="en" srophe:tags="#headword"
                   >al-Maṭlaʿ</placeName>
-               <placeName xml:id="name2894-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+               <placeName xml:id="name2894-2" xml:lang="ar" srophe:tags="#headword"
                   source="#bib2894-1 #bib2894-2">المطلع</placeName>
                <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
                   xml:id="name2894-3">المَطْلَع</placeName>

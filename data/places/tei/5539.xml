@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5539-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">ʿAbādan</placeName>
-          <placeName xml:id="name5539-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">عبادن</placeName>
+          <placeName xml:id="name5539-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAbādan</placeName>
+          <placeName xml:id="name5539-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عبادن</placeName>
           <placeName xml:id="name5539-3" xml:lang="en">Ābādān</placeName>
           <placeName xml:id="name5539-4" xml:lang="en">Abadan</placeName>
           <placeName xml:id="name5539-5" xml:lang="ar">آبادان</placeName>

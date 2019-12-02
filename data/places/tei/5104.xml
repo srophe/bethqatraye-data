@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5104-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Rawḥāʾ</placeName>
-          <placeName xml:id="name5104-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الروحاء</placeName>
+          <placeName xml:id="name5104-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Rawḥāʾ</placeName>
+          <placeName xml:id="name5104-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الروحاء</placeName>
           <placeName xml:id="name5104-3" xml:lang="ar" source="#bib5104-1">الروحاء</placeName>
           <placeName xml:id="name5104-4" xml:lang="ar" source="#bib5104-2">الروحاء</placeName>
           <desc type="abstract" xml:id="abstract5104-1" xml:lang="en">A town located in the southwest of Mecca known for the well Biʾr Dhāt al-ʿIlm.</desc>

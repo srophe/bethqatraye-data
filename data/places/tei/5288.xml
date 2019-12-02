@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5288-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
-          <placeName xml:id="name5288-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+          <placeName xml:id="name5288-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
+          <placeName xml:id="name5288-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
           <placeName xml:id="name5288-3" xml:lang="ar" source="#bib5288-1">هجر</placeName>
           <desc type="abstract" xml:id="abstract5288-1" xml:lang="en">A fortification in the province (mikhlāf) of Māzan.</desc>
           <desc xml:lang="ar">

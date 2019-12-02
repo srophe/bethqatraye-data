@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5450-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Samīra</placeName>
-          <placeName xml:id="name5450-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">سميرة</placeName>
+          <placeName xml:id="name5450-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Samīra</placeName>
+          <placeName xml:id="name5450-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سميرة</placeName>
           <placeName xml:id="name5450-3" xml:lang="en">Sumayra</placeName>
           <placeName xml:id="name5450-4" xml:lang="en">Sumayrāʾa</placeName>
           <placeName xml:id="name5450-5" xml:lang="ar">سميراء</placeName>

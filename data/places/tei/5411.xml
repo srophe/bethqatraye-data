@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5411-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Qarah Aghaj</placeName>
-          <placeName xml:id="name5411-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">قرا أغاج</placeName>
+          <placeName xml:id="name5411-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qarah Aghaj</placeName>
+          <placeName xml:id="name5411-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قرا أغاج</placeName>
           <placeName xml:id="name5411-3" xml:lang="en">Qarā Aghāj</placeName>
           <placeName xml:id="name5411-4" xml:lang="ar">قره‌آغاج</placeName>
           <placeName xml:id="name5411-5" xml:lang="ar" source="#bib5411-1">قرا أغاج</placeName>

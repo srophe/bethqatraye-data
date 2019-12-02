@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5365-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Manārat al-Qurūn</placeName>
-          <placeName xml:id="name5365-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">منارة القرون</placeName>
+          <placeName xml:id="name5365-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Manārat al-Qurūn</placeName>
+          <placeName xml:id="name5365-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">منارة القرون</placeName>
           <placeName xml:id="name5365-3" xml:lang="ar" source="#bib5365-1">منارة القرون</placeName>
           <desc type="abstract" xml:id="abstract5365-1" xml:lang="en">A tower for guidance in south Iraq.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5365</idno>

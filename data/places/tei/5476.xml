@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5476-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Sīwah</placeName>
-          <placeName xml:id="name5476-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">سيوة</placeName>
+          <placeName xml:id="name5476-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sīwah</placeName>
+          <placeName xml:id="name5476-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سيوة</placeName>
           <placeName xml:id="name5476-3" xml:lang="ar" source="#bib5476-1">سيوه</placeName>
           <desc type="abstract" xml:id="abstract5476-1" xml:lang="en">A minbar in the nāhiya of Ghaznin.</desc>
           <desc xml:lang="ar">

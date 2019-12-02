@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5004-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Abrīn</placeName>
-          <placeName xml:id="name5004-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">أبْرينُ</placeName>
+          <placeName xml:id="name5004-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Abrīn</placeName>
+          <placeName xml:id="name5004-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أبْرينُ</placeName>
           <placeName xml:id="name5004-3" xml:lang="ar" source="#bib5004-1">أبرين</placeName>
           <desc type="abstract" xml:id="abstract5004-1" xml:lang="en">A desert.</desc>
           <desc xml:lang="ar">

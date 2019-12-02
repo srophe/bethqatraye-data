@@ -196,7 +196,7 @@
         <body>
             <listPlace>
                 <place xml:id="place-122" type="settlement">
-                    <placeName xml:id="name122-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name122-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib122-1 #bib122-5">Mabbug</placeName>
                     <placeName xml:id="name122-2" xml:lang="en" source="#bib122-1 #bib122-5"
                         >Hierapolis</placeName>
@@ -204,11 +204,11 @@
                         >Manbij</placeName>
                     <placeName xml:id="name122-4" xml:lang="en" source="#bib122-1"
                         >Membij</placeName>
-                    <placeName xml:id="name122-5" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name122-5" xml:lang="syr" srophe:tags="#headword"
                         >ܡܒܘܓ</placeName>
                     <placeName xml:id="name122-6" xml:lang="syr-Syrj" source="#bib122-2"
                         >ܡܰܒܘܓ</placeName>
-                    <placeName xml:id="name122-7" xml:lang="ar" source="#bib122-3 #bib122-8 #bib122-9" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name122-7" xml:lang="ar" source="#bib122-3 #bib122-8 #bib122-9" srophe:tags="#headword"
                         >منبج</placeName>
                     <placeName xml:id="name122-8" xml:lang="en" source="#bib122-4">Mabug</placeName>
                     <placeName xml:id="name122-9" xml:lang="en" source="#bib122-6"

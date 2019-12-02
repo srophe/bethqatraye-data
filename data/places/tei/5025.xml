@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5025-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Dawraq</placeName>
-          <placeName xml:id="name5025-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الدورق</placeName>
+          <placeName xml:id="name5025-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Dawraq</placeName>
+          <placeName xml:id="name5025-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الدورق</placeName>
           <placeName xml:id="name5025-3" xml:lang="en">al-Falāḥiyya (?)</placeName>
           <placeName xml:id="name5025-4" xml:lang="ar" source="#bib5025-1">الدورق</placeName>
           <desc type="abstract" xml:id="abstract5025-1" xml:lang="en">A village (qarya) in Khūzistān.”[F]ormerly a town in south-western K̲h̲ūzistān, was also called Dawraḳ al-Furs, ‘Dawraḳ of the Persians’ and sometimes al-Madīna, ‘the Town’. The original Persian name was Darāk.” (L. Lockhart)</desc>

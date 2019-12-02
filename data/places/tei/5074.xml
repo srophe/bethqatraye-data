@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5074-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Munīḥa</placeName>
-          <placeName xml:id="name5074-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">المنيحة</placeName>
+          <placeName xml:id="name5074-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Munīḥa</placeName>
+          <placeName xml:id="name5074-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المنيحة</placeName>
           <placeName xml:id="name5074-3" xml:lang="ar" source="#bib5074-1">المنيحة</placeName>
           <placeName xml:id="name5074-4" xml:lang="ar" source="#bib5074-2">المنيحة</placeName>
           <desc type="abstract" xml:id="abstract5074-1" xml:lang="en">A village to the east of Damascus.</desc>

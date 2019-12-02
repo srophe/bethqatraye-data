@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="open-water">
-          <placeName xml:id="name5222-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Baḥr Jidda</placeName>
-          <placeName xml:id="name5222-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">بحر جدة</placeName>
+          <placeName xml:id="name5222-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Baḥr Jidda</placeName>
+          <placeName xml:id="name5222-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بحر جدة</placeName>
           <placeName xml:id="name5222-3" xml:lang="en">Baḥr Jeddah</placeName>
           <placeName xml:id="name5222-4" xml:lang="ar" source="#bib5222-1">بحر جدة</placeName>
           <placeName xml:id="name5222-5" xml:lang="ar" source="#bib5222-2">بحر جدة</placeName>

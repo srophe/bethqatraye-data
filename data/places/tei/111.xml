@@ -165,9 +165,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-111" type="settlement">
-                    <placeName xml:id="name111-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name111-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib111-1 #bib111-2 #bib111-3">Kashkar</placeName>
-                    <placeName xml:id="name111-2" xml:lang="ar" source="#bib111-4" syriaca-tags="#syriaca-headword">كَسْكر</placeName>
+                    <placeName xml:id="name111-2" xml:lang="ar" source="#bib111-4" srophe:tags="#headword">كَسْكر</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name111-3">Wāsiṭ</placeName>
                     <placeName xml:lang="ar"

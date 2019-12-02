@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5048-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Juhfa</placeName>
-          <placeName xml:id="name5048-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الجحفة</placeName>
+          <placeName xml:id="name5048-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Juhfa</placeName>
+          <placeName xml:id="name5048-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الجحفة</placeName>
           <placeName xml:id="name5048-3" xml:lang="ar" source="#bib5048-1">الجحفة</placeName>
           <desc type="abstract" xml:id="abstract5048-1" xml:lang="en">A city north of Mecca serving as mīqāt for pilgrims from Shām, Miṣr, and the Maghrib.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5048</idno>

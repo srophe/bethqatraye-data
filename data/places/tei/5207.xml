@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5207-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Ẓafrīya</placeName>
-          <placeName xml:id="name5207-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">باب الظفرية</placeName>
+          <placeName xml:id="name5207-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Ẓafrīya</placeName>
+          <placeName xml:id="name5207-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب الظفرية</placeName>
           <placeName xml:id="name5207-3" xml:lang="ar" source="#bib5207-1">باب الظفرية</placeName>
           <desc type="abstract" xml:id="abstract5207-1" xml:lang="en">One of the gates of Baghdād.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5207</idno>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5021-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Buja</placeName>
-          <placeName xml:id="name5021-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">البجة</placeName>
+          <placeName xml:id="name5021-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Buja</placeName>
+          <placeName xml:id="name5021-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">البجة</placeName>
           <placeName xml:id="name5021-3" xml:lang="en">Beja</placeName>
           <placeName xml:id="name5021-4" xml:lang="ar">البجا</placeName>
           <placeName xml:id="name5021-5" xml:lang="ar" source="#bib5021-1">البجة</placeName>

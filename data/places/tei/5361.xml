@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5361-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Mahra</placeName>
-          <placeName xml:id="name5361-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مهرة</placeName>
+          <placeName xml:id="name5361-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Mahra</placeName>
+          <placeName xml:id="name5361-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مهرة</placeName>
           <placeName xml:id="name5361-3" xml:lang="en">al-Mahra</placeName>
           <placeName xml:id="name5361-4" xml:lang="ar">المهرة</placeName>
           <placeName xml:id="name5361-5" xml:lang="ar" source="#bib5361-1">مهرة</placeName>

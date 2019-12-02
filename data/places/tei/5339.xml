@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5339-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Kanabūt</placeName>
-          <placeName xml:id="name5339-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">كَنَبَوُتُ</placeName>
+          <placeName xml:id="name5339-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kanabūt</placeName>
+          <placeName xml:id="name5339-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كَنَبَوُتُ</placeName>
           <placeName xml:id="name5339-3" xml:lang="ar" source="#bib5339-1">كنبوت</placeName>
           <desc type="abstract" xml:id="abstract5339-1" xml:lang="en">A village in al-Baḥrayn.</desc>
           <desc xml:lang="ar">

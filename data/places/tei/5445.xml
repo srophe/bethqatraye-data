@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5445-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Rudayna</placeName>
-          <placeName xml:id="name5445-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">رُدَيْنَةُ</placeName>
+          <placeName xml:id="name5445-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Rudayna</placeName>
+          <placeName xml:id="name5445-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رُدَيْنَةُ</placeName>
           <placeName xml:id="name5445-3" xml:lang="ar" source="#bib5445-1">ردينة</placeName>
           <desc type="abstract" xml:id="abstract5445-1" xml:lang="en">A distict (kūra) in which javelin is produced.</desc>
           <desc xml:lang="ar">

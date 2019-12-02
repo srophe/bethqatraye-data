@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5518-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Wādi Muḥassar</placeName>
-          <placeName xml:id="name5518-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">وادي محسر</placeName>
+          <placeName xml:id="name5518-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Wādi Muḥassar</placeName>
+          <placeName xml:id="name5518-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">وادي محسر</placeName>
           <placeName xml:id="name5518-3" xml:lang="ar" source="#bib5518-1">وادي محسر</placeName>
           <placeName xml:id="name5518-4" xml:lang="ar" source="#bib5518-2">وادي محسر</placeName>
           <desc type="abstract" xml:id="abstract5518-1" xml:lang="en">A valley between Minā and Muzdalifa.</desc>

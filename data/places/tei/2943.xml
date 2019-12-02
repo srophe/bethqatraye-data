@@ -147,9 +147,9 @@
     <body>
       <listPlace>
         <place xml:id="place-2943" type="settlement">
-          <placeName xml:id="name2943-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name2943-1" xml:lang="en" srophe:tags="#headword"
             >Masqaṭ</placeName>
-          <placeName xml:id="name2943-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+          <placeName xml:id="name2943-2" xml:lang="ar" srophe:tags="#headword"
             source="#bib2943-1 #bib2943-2 #bib2943-3">مسقط</placeName>
           <placeName xml:lang="en" xml:id="name2943-3">Muscat</placeName>
           <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2943-4"

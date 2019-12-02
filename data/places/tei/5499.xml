@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5499-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Tihāma</placeName>
-          <placeName xml:id="name5499-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">تهامة</placeName>
+          <placeName xml:id="name5499-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Tihāma</placeName>
+          <placeName xml:id="name5499-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تهامة</placeName>
           <placeName xml:id="name5499-3" xml:lang="ar" source="#bib5499-1">تهامة</placeName>
           <desc type="abstract" xml:id="abstract5499-1" xml:lang="en">“[A]lso not infrequently appearing as al-Tahāʾim in mediaeval sources, the area of the Red Sea coastal plain stretching from ʿAḳaba in the north to the Bāb al-Mandab in the south of the Arabian Peninsula, some even claiming that it extends further along the southern Indian Ocean coast.” (G.R. Smith)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5499</idno>

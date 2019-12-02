@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5379-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Salmān</placeName>
-          <placeName xml:id="name5379-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">مسجد سلمان</placeName>
+          <placeName xml:id="name5379-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Masjid Salmān</placeName>
+          <placeName xml:id="name5379-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مسجد سلمان</placeName>
           <placeName xml:id="name5379-3" xml:lang="ar" source="#bib5379-1">مسجد سلمان</placeName>
           <desc type="abstract" xml:id="abstract5379-1" xml:lang="en">A mosque in Medina.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5379</idno>

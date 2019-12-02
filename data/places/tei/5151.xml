@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5151-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Zāra</placeName>
-          <placeName xml:id="name5151-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الزَّارَة</placeName>
+          <placeName xml:id="name5151-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zāra</placeName>
+          <placeName xml:id="name5151-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزَّارَة</placeName>
           <placeName xml:id="name5151-3" xml:lang="ar" source="#bib5151-1">الزارة</placeName>
           <desc type="abstract" xml:id="abstract5151-1" xml:lang="en">A district (kūra) located in Ṣaʿīd in Egypt.</desc>
           <desc xml:lang="ar">

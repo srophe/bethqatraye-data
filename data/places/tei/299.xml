@@ -170,9 +170,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-299" type="settlement">
-                    <placeName xml:id="name299-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name299-1" xml:lang="en" srophe:tags="#headword"
                         >Bālis</placeName>
-                    <placeName xml:id="name299-2" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name299-2" xml:lang="syr" srophe:tags="#headword"
                         >ܒܐܠܫ</placeName>
                     <placeName xml:id="name299-3" xml:lang="syr-Syrj" source="#bib299-1"
                         >ܒܳܐܠܫ</placeName>
@@ -181,7 +181,7 @@
                     <placeName xml:id="name299-5" xml:lang="syr-Syrj" source="#bib299-1"
                         >ܡܰܣܟܢܗ</placeName>
                     <placeName xml:id="name299-6" xml:lang="ar"
-                        source="#bib299-2 #bib299-5 #bib299-6" syriaca-tags="#syriaca-headword">بالس</placeName>
+                        source="#bib299-2 #bib299-5 #bib299-6" srophe:tags="#headword">بالس</placeName>
                     <placeName xml:id="name299-7" xml:lang="ar" source="#bib299-2">بالش</placeName>
                     <placeName xml:id="name299-8" xml:lang="ar" source="#bib299-2"
                         >برباليسوس</placeName>

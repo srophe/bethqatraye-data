@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5452-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
-          <placeName xml:id="name5452-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">صنعاء</placeName>
+          <placeName xml:id="name5452-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
+          <placeName xml:id="name5452-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صنعاء</placeName>
           <placeName xml:id="name5452-3" xml:lang="ar" source="#bib5452-1">صنعاء</placeName>
           <desc type="abstract" xml:id="abstract5452-1" xml:lang="en">A chief town and current capital of the Yemen.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5452</idno>

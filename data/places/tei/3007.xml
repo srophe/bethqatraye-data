@@ -123,11 +123,11 @@
         <body>
             <listPlace>
                 <place xml:id="place-3007" type="island">
-                    <placeName xml:id="name3007-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name3007-1" xml:lang="en" srophe:tags="#headword"
                         >Daray</placeName>
-                    <placeName xml:id="name3007-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name3007-2" xml:lang="ar" srophe:tags="#headword"
                         >داري</placeName>
-                    <placeName xml:id="name3007-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name3007-3" xml:lang="syr" srophe:tags="#headword"
                         source="#bib3007-1">ܕܪ̈ܝ</placeName>
                     <placeName xml:id="name3007-4" xml:lang="syr" source="#bib3007-1"
                         >ܕܪܝ</placeName>

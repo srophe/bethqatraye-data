@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5063-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Malāḥīn</placeName>
-          <placeName xml:id="name5063-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الملاحين</placeName>
+          <placeName xml:id="name5063-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Malāḥīn</placeName>
+          <placeName xml:id="name5063-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الملاحين</placeName>
           <placeName xml:id="name5063-3" xml:lang="ar" source="#bib5063-1">الملاحين</placeName>
           <desc type="abstract" xml:id="abstract5063-1" xml:lang="en">A village in Iraq.</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5063</idno>

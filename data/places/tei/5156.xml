@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="open-water">
-          <placeName xml:id="name5156-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Zubaydiyya</placeName>
-          <placeName xml:id="name5156-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الزبيدية</placeName>
+          <placeName xml:id="name5156-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zubaydiyya</placeName>
+          <placeName xml:id="name5156-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزبيدية</placeName>
           <placeName xml:id="name5156-3" xml:lang="en">al-Zubaydīya</placeName>
           <placeName xml:id="name5156-4" xml:lang="ar" source="#bib5156-1">الزبيدية</placeName>
           <desc type="abstract" xml:id="abstract5156-1" xml:lang="en">An open-water in al-Bādiya.</desc>

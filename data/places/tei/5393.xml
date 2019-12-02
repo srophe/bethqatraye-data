@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5393-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Najrān</placeName>
-          <placeName xml:id="name5393-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">نجران</placeName>
+          <placeName xml:id="name5393-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Najrān</placeName>
+          <placeName xml:id="name5393-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نجران</placeName>
           <placeName xml:id="name5393-3" xml:lang="ar" source="#bib5393-1">نجران</placeName>
           <desc type="abstract" xml:id="abstract5393-1" xml:lang="en">A province (mikhlāf) in south Arabia.</desc>
           <desc xml:lang="ar">

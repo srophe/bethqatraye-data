@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5126-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Shāsh</placeName>
-          <placeName xml:id="name5126-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">طشقند</placeName>
+          <placeName xml:id="name5126-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Shāsh</placeName>
+          <placeName xml:id="name5126-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">طشقند</placeName>
           <placeName xml:id="name5126-3" xml:lang="en">Tashkent</placeName>
           <placeName xml:id="name5126-4" xml:lang="ar" source="#bib5126-1">الشاش</placeName>
           <desc type="abstract" xml:id="abstract5126-1" xml:lang="en">“[U]sually written Tās̲h̲kend or Tas̲h̲kend in Arabic and Persian manuscripts, a large town in Central Asia, in the oasis of the Čirčik, watered by one of the right bank tributaries of the Si̊r Daryā [q.v.] or Jaxartes now, since the break-up of the USSR, in the Uzbekistan Republic (lat. 41° 16’ N., long. 69° 13’ E.).” (Catherine Poujol)</desc>

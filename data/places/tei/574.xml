@@ -141,9 +141,9 @@
         <body>
             <listPlace>
                 <place xml:id="place-574" type="settlement">
-                    <placeName xml:id="name574-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name574-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib574-1">Anasartha</placeName>
-                    <placeName xml:id="name574-2" xml:lang="ar" source="#bib574-3" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name574-2" xml:lang="ar" source="#bib574-3" srophe:tags="#headword"
                         >خناصرة</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name574-3">al-Khunāṣira</placeName>

@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5398-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">Nūqān</placeName>
-          <placeName xml:id="name5398-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">نوقان</placeName>
+          <placeName xml:id="name5398-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Nūqān</placeName>
+          <placeName xml:id="name5398-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نوقان</placeName>
           <placeName xml:id="name5398-3" xml:lang="en">Nawqān</placeName>
           <placeName xml:id="name5398-4" xml:lang="ar" source="#bib5398-1">نوقان</placeName>
           <desc type="abstract" xml:id="abstract5398-1" xml:lang="en">A city (madīna) in the district of Ṭūs close to the modern city of Mashhad.</desc>

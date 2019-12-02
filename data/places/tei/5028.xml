@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5028-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Farāsh</placeName>
-          <placeName xml:id="name5028-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الفراش</placeName>
+          <placeName xml:id="name5028-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Farāsh</placeName>
+          <placeName xml:id="name5028-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الفراش</placeName>
           <placeName xml:id="name5028-3" xml:lang="en">Farāshā</placeName>
           <placeName xml:id="name5028-4" xml:lang="ar">فراشا</placeName>
           <placeName xml:id="name5028-5" xml:lang="ar" source="#bib5028-1">الفراش</placeName>

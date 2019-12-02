@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5123-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Sharāt</placeName>
-          <placeName xml:id="name5123-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الشراة</placeName>
+          <placeName xml:id="name5123-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sharāt</placeName>
+          <placeName xml:id="name5123-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الشراة</placeName>
           <placeName xml:id="name5123-3" xml:lang="en">al-Sharāh</placeName>
           <placeName xml:id="name5123-4" xml:lang="ar">الشراه</placeName>
           <placeName xml:id="name5123-5" xml:lang="ar" source="#bib5123-1">الشراة</placeName>

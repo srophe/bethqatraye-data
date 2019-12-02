@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5053-1" xml:lang="en" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">al-Khaṭṭa [?]</placeName>
-          <placeName xml:id="name5053-2" xml:lang="ar" syriaca-tags="#syriaca-headword" resp="http://bqgazetteer.bethmardutho.org">الخط</placeName>
+          <placeName xml:id="name5053-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Khaṭṭa [?]</placeName>
+          <placeName xml:id="name5053-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخط</placeName>
           <placeName xml:id="name5053-3" xml:lang="en">al-Khaṭṭu</placeName>
           <placeName xml:id="name5053-4" xml:lang="ar" source="#bib5053-1">الخط</placeName>
           <desc type="abstract" xml:id="abstract5053-1" xml:lang="en">A region stretching along the coastline of Oman and Baḥrayn.</desc>
