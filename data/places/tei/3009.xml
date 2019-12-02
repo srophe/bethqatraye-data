@@ -123,8 +123,8 @@
                         >تدورو</placeName>
                     <placeName xml:id="name3009-3" xml:lang="syr" srophe="#bqg-headword"
                         source="#bib3009-1">ܬܕܘܪܘ</placeName>
-                    <placeNAme xml:id="name3009-4" xml:lang="syr" source="#bib3009-1"
-                        >ܬܘܕܘܪܘ</placeNAme>
+                    <placeName xml:id="name3009-4" xml:lang="syr" source="#bib3009-1"
+                        >ܬܘܕܘܪܘ</placeName>
                     <placeName xml:id="name3009-5" xml:lang="fr" source="#bib3009-1"
                         >Tȏdourou</placeName>
                     <desc xml:id="abstract-en-3009" xml:lang="en">One of the islands in <placeName
