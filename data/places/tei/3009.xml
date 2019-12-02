@@ -117,11 +117,11 @@
         <body>
             <listPlace>
                 <place xml:id="place-3009" type="island">
-                    <placeName xml:id="name3009-1" xml:lang="en" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name3009-1" xml:lang="en" srophe="#bqg-headword"
                         >Toduru</placeName>
-                    <placeName xml:id="name3009-2" xml:lang="ar" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name3009-2" xml:lang="ar" srophe="#bqg-headword"
                         >تدورو</placeName>
-                    <placeName xml:id="name3009-3" xml:lang="syr" syriaca-tags="#syriaca-headword"
+                    <placeName xml:id="name3009-3" xml:lang="syr" srophe="#bqg-headword"
                         source="#bib3009-1">ܬܕܘܪܘ</placeName>
                     <placeNAme xml:id="name3009-4" xml:lang="syr" source="#bib3009-1"
                         >ܬܘܕܘܪܘ</placeNAme>
