@@ -120,14 +120,14 @@
                <placeName xml:id="name2952-1" xml:lang="en" srophe:tags="#headword"
                   >al-Manṣūra</placeName>
                <placeName xml:id="name2952-2" xml:lang="ar" srophe:tags="#headword"
-                  source="#bib2952-1">نهر المنصورة</placeName>
+                  source="#bib2952-1">المنصورة</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2952-1">A large city in <placeName
                      ref="http://syriaca.org/place/2961">al-Sind</placeName>, through which the
                      <placeName ref="http://syriaca.org/place/2950">Mihrān River</placeName>
                   flows.</desc>
                <event type="attestation" xml:id="attestation2952-1" notBefore="0902" notAfter="0914"
                   source="#bib2952-1">
-                  <p xml:lang="en">Attestation of name <foreign xml:lang="ar">نهر المنصورة</foreign>
+                  <p xml:lang="en">Attestation of name <foreign xml:lang="ar">المنصورة</foreign>
                      in the <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title> of
                         <persName>Aḥmad ibn ʿUmar Ibn Rustah</persName>.</p>
                   <link target="#name2952-2 #attestation2952-1"/>
