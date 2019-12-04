@@ -232,16 +232,11 @@
                         xml:id="name62-17">Qarqīsiyā</placeName>
                     <desc xml:id="abstract-en-62" xml:lang="en"> A city at the confluence of the
                         Euphrates and the Khabur rivers. </desc>
-                    <desc>“[A] town in <placeName>al-D̲j̲azīra</placeName> on the left bank of the
+                    <desc xml:lang="en"><quote source="#bib62-9">[A] town in <placeName>al-D̲j̲azīra</placeName> on the left bank of the
                             <placeName>Euphrates</placeName>, close to the confluence of the
                             <placeName>K̲h̲ābūr</placeName>, a little above 35° N. Lat. Ḳarḳīsiyā is
                         simply an Arabic reproduction of the Graeco-Roman name (τό) Κιρκήσιον, (τό)
-                        Κιρτήσιον κάστρον or Κιρκίσιον (Κιρκισία in the Notit. episcop ., ed.
-                        Parthey, 87), Circesium, Syriac Kerkusion, Latin = castrum Circense, “the
-                        castle with the circus”; cf. Nöldeke, op. cit. (see Bibl .), p. 3. Ḥamza
-                        al-Iṣfahānī in Yāḳūt, iv, 65, 11. 21 ff., still knew the etymology of the
-                        place-name (Ḳarḳīsiyā, arabicised from Kirkīsiyā, from kirkīs = Ar. ḥalba ,
-                        hippodrome).” (M. Streck)</desc>
+                        Κιρτήσιον κάστρον or Κιρκίσιον</quote>.</desc>
                     <desc xml:lang="en">
                         <quote source="#bib62-4">A town near the place where the
                                 <placeName>Khabur</placeName> joins the
@@ -332,6 +327,11 @@
                         <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
                         <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
                         <citedRange unit="pp">17</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib62-9">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_3936"/>
                     </bibl>
                 </place>
             </listPlace>
