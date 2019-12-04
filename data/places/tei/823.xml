@@ -190,9 +190,9 @@
                     <desc type="abstract" xml:lang="en" xml:id="abstract823-1">A city in northwestern <placeName
                             ref="http://syriaca.org/place/526">Iran</placeName>.
                     </desc>
-                    <desc xml:lang="en">A “city in central <placeName ref="http://syriaca.org/place/526">Iran</placeName>
+                    <desc xml:lang="en">A <quote source="#bib823-6">city in central <placeName ref="http://syriaca.org/place/526">Iran</placeName>
                         located in a fertile plain just south of <placeName>Mt. Alwand</placeName>, 48° 31′ E. (Greenw.),
-                        34° 48′ N., altitude ca. 1800 metres/5900 ft.” (Frye)</desc>
+                        34° 48′ N., altitude ca. 1800 metres/5900 ft.</quote></desc>
                     <location type="gps" source="#bib823-2">
                         <geo>34.799294 48.512209</geo>
                     </location>
@@ -246,6 +246,11 @@
                         <author>Ibn Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">240</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib823-6">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2653"/>
                     </bibl>
                 </place>
             </listPlace>
