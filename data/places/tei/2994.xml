@@ -146,10 +146,9 @@
                      ref="http://syriaca.org/place/2997">Naysābūr</placeName>, around <placeName
                      ref="http://syriaca.org/place/2995">al-Dāmaghān</placeName>
                </desc>
-               <desc xml:lang="en" >“[A] small province of
+               <desc xml:lang="en" ><quote source="#bib2994-4">[A] small province of
                   mediaeval Islamic Persia, lying to the south of the Alburz chain <choice><corr>watershed</corr><sic>watershd</sic></choice> and
-                  extending into the northern fringes of the Das̲h̲t-i Kavīr.” (C.E.
-                  Bosworth)</desc>
+                  extending into the northern fringes of the Das̲h̲t-i Kavīr.</quote></desc>
                <desc xml:lang="ar">
                   <quote source="#bib2994-3">طبران مدينة على تخوم قومس ورستاق سرخس</quote>
                </desc>
@@ -187,6 +186,11 @@
                   <author>Muḥammad ibn Aḥmad Maqdisī</author>
                   <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
                   <citedRange unit="pp">24</citedRange>
+               </bibl>
+               <bibl xml:id="bib2994-4">
+                  <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                  <editor>P. Bearman</editor>
+                  <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4511"/>
                </bibl>
             </place>
          </listPlace>
