@@ -189,9 +189,9 @@
             ref="http://syriaca.org/place/716">Arabia</placeName>, regarded by
             Muslims as the second holiest city, and the capital of the earliest
             caliphate.</desc>
-          <desc xml:lang="en">“Medina is situated in the <placeName>Ḥid̲j̲āz</placeName>
+          <desc xml:lang="en"><quote source="#bib2907-6">Medina is situated in the <placeName>Ḥid̲j̲āz</placeName>
             province of <placeName>Saʿūdī Arabia</placeName> in latitude 24° 28′ N, longitude 39° 36′ E, about 160 km. from
-            the <placeName>Red Sea</placeName> and about 350 km. north of <placeName>Mecca</placeName>.” (R.B. Winder)</desc>
+            the <placeName>Red Sea</placeName> and about 350 km. north of <placeName>Mecca</placeName></quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib2907-5">قبا مدينة بفرغانة وقرية بيثرب ومنزل بالبادية</quote>
           </desc>
@@ -245,6 +245,11 @@
             <author>Muḥammad ibn Aḥmad Maqdisī</author>
             <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">27</citedRange>
+          </bibl>
+          <bibl xml:id="bib2907-6">
+            <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+            <editor>P. Bearman</editor>
+            <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0603"/>
           </bibl>
         </place>
       </listPlace>
