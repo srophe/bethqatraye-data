@@ -131,7 +131,7 @@
                         <persName>Aḥmad ibn ʿUmar Ibn Rustah</persName>.</p>
                   <link target="#name2945-2 #attestation2945-1"/>
                </event>
-               <state type="existence" from="0914" to="0902">
+               <state type="existence" from="0902" to="0914">
                   <precision match="@from" notAfter="0914"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
