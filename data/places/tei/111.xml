@@ -39,29 +39,9 @@
                     ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
                     Scheunchen</editor>
                 <respStmt>
-                    <resp>Ibn Jubayr data collection by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
-                        Abu-Husayn</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Ibn Jubayr data collection by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul
-                        Rahman Chamseddine</name>
-                </respStmt>
-                <respStmt>
                     <resp>Data merging and XML by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L.
                         Potter</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Ibn Battuta data collection by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
-                        Abu-Husayn</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Ibn Battuta data collection by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul
-                        Rahman Chamseddine</name>
                 </respStmt>
                 <respStmt>
                     <resp>Data merging, Pleiades and Wikipedia linking, and XML by</resp>
@@ -172,10 +152,6 @@
                         source="#bib111-1 #bib111-2 #bib111-3">Kashkar</placeName>
                     <placeName xml:id="name111-2" xml:lang="ar" source="#bib111-4"
                         srophe:tags="#headword">كَسْكر</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-                        xml:id="name111-3">Wāsiṭ</placeName>
-                    <placeName xml:lang="ar" xml:id="name111-4" source="#bib111-5 #bib111-6"
-                        >واسط</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract111-1">“[A] city in central
                             <placeName>ʿIrāḳ</placeName> during the mediaeval period, the existence
                         of which is attested from the later years of the 1st century/closing years
@@ -198,7 +174,7 @@
                             srophe:computed-end="1200-01-01" srophe:computed-start="0694-01-01"/>
                     </state>
                     <note type="disambiguation">Not the same conceptual place as <placeName
-                            ref="http://syriaca.org/place/509">al-Wāsiṭ</placeName>.</note>
+                        ref="http://bqgazetteer.bethmardutho.org/place/509">al-Wāsiṭ</placeName>.</note>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/111</idno>
                     <idno type="URI">http://syriaca.org/place/111</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/912880</idno>
@@ -233,20 +209,6 @@
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="pp">IV:523</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib111-5">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
-                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
-                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
-                        <citedRange unit="pp">114, 194, 195, 196</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib111-6">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
-                        <author>Ibn Jubayr</author>
-                        <editor>M.J. de Goeje</editor>
-                        <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
-                        <citedRange unit="pp">217</citedRange>
                     </bibl>
                 </place>
             </listPlace>
