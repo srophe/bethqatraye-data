@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org"
+    xmlns:srophe="https://srophe.app" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -123,7 +126,15 @@
                 </taxonomy>
             </classDecl>
         </encodingDesc>
-        <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
+        <profileDesc>
+            <langUsage>
+                <p>Language codes used in this record follow the Syriaca.org guidelines.
+                    Documentation available at: <ref
+                        target="http://syriaca.org/documentation/isostandards.xml"
+                        >http://syriaca.org/documentation/isostandards.xml</ref>
+                </p>
+            </langUsage>
+        </profileDesc>
         <revisionDesc status="published">
             <change who="http://syriaca.org/documentation/editors.xml#wpotter"
                 when="2019-11-25-06:00" xml:id="change111-2">Merged in data from [duplicate record
@@ -159,16 +170,17 @@
                 <place xml:id="place-111" type="settlement">
                     <placeName xml:id="name111-1" xml:lang="en" srophe:tags="#headword"
                         source="#bib111-1 #bib111-2 #bib111-3">Kashkar</placeName>
-                    <placeName xml:id="name111-2" xml:lang="ar" source="#bib111-4" srophe:tags="#headword">كَسْكر</placeName>
+                    <placeName xml:id="name111-2" xml:lang="ar" source="#bib111-4"
+                        srophe:tags="#headword">كَسْكر</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name111-3">Wāsiṭ</placeName>
-                    <placeName xml:lang="ar"
-                        xml:id="name111-4" source="#bib111-5 #bib111-6">واسط</placeName>
+                    <placeName xml:lang="ar" xml:id="name111-4" source="#bib111-5 #bib111-6"
+                        >واسط</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract111-1">“[A] city in central
-                        <placeName>ʿIrāḳ</placeName> during the mediaeval period, the existence of which is attested from
-                        the later years of the 1st century/closing years of the 7th century or
-                        opening years of the 8th century, until the beginning of the 12th
-                        century/turn of the 17th-18th centuries [...].” (Sakly)</desc>
+                            <placeName>ʿIrāḳ</placeName> during the mediaeval period, the existence
+                        of which is attested from the later years of the 1st century/closing years
+                        of the 7th century or opening years of the 8th century, until the beginning
+                        of the 12th century/turn of the 17th-18th centuries [...].” (Sakly)</desc>
                     <desc xml:lang="en">An ancient town in southern
                         <placeName>Iraq</placeName>.</desc>
                     <event type="attestation" xml:id="attestation111-1" notBefore="1224"
@@ -198,36 +210,42 @@
                         <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac
                             Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
-                        <citedRange unit="pp">1, 8, 50, 70, 162, 195, 212,
-                            405</citedRange><citedRange unit="maps">Map I D3, II
-                        D3</citedRange></bibl>
+                        <citedRange unit="pp">1, 8, 50, 70, 162, 195, 212, 405</citedRange>
+                        <citedRange unit="maps">Map I D3, II D3</citedRange>
+                    </bibl>
                     <bibl xml:id="bib111-2">
                         <title xml:lang="en">The Comprehensive Bibliography on Syriac
                             Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry"
                             target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=K&amp;sK=Kashkar&amp;sT=keywords"
-                            >Kashkar</citedRange></bibl>
+                            >Kashkar</citedRange>
+                    </bibl>
                     <bibl xml:id="bib111-3">
                         <author>David Wilmshurst</author>
                         <title xml:lang="en">The Ecclesiastical Organisation of the Church of the
                             East, 1318-1913</title>
                         <ptr target="http://syriaca.org/bibl/9"/>
-                        <citedRange unit="pp">193, 217</citedRange></bibl>
+                        <citedRange unit="pp">193, 217</citedRange>
+                    </bibl>
                     <bibl xml:id="bib111-4">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">IV:523</citedRange></bibl>
+                        <citedRange unit="pp">IV:523</citedRange>
+                    </bibl>
                     <bibl xml:id="bib111-5">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
-                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn
-                            Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
-                        <citedRange unit="pp">114, 194, 195, 196</citedRange></bibl>
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">114, 194, 195, 196</citedRange>
+                    </bibl>
                     <bibl xml:id="bib111-6">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn
-                            Jubayr</author><editor>M.J. de Goeje</editor><ptr
-                            target="http://syriaca.org/bibl/WDUISTPU"/>
+                        <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+                        <author>Ibn Jubayr</author>
+                        <editor>M.J. de Goeje</editor>
+                        <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
                         <citedRange unit="pp">217</citedRange>
                     </bibl>
                 </place>
