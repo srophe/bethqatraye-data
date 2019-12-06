@@ -154,10 +154,7 @@
                                 Khurradādhbih</persName>.</p>
                         <link target="#name3004-2 #attestation3004-1"/>
                     </event>
-                    <state type="existence" from="0885" to="0846">
-                        <precision match="@from" notAfter="0885"/>
-                        <precision match="@to" notBefore="0846"/>
-                    </state>
+                    <state type="existence" from="0846" to="0885">                   <precision match="@from" notAfter="0846"/>                   <precision match="@to" notBefore="0885"/>                </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3004</idno>
                     <idno type="URI">http://syriaca.org/place/3004</idno>
                     <bibl xml:id="bib3004-1">
