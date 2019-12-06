@@ -123,7 +123,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
                 >ADDED: latitude and longitude from Pleiades</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and srophe:computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -152,7 +152,7 @@
                     </location>
                     <event type="attestation" xml:id="attestation674-1" notBefore="1224"
                         notAfter="1228" srophe:computed-start="1224-01-01"
-                        syriaca-computed-end="1228-01-01" source="#bib674-3">
+                        srophe:computed-end="1228-01-01" source="#bib674-3">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
                                 >عَسْقلان</foreign> in the <title xml:lang="en" level="m">Muʿjam
                                 al-buldān</title> of <persName>Yāqūt al-Ḥamawī</persName>.</p>

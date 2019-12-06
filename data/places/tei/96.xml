@@ -135,7 +135,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2017-08-09-05:00">ADDED: Arabic headword</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and srophe:computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -164,9 +164,9 @@
                                 al-Yaʿqūbī</persName>.</p>
                         <link target="#name96-3 #attestation96-1"/>
                     </event>
-                    <state type="existence" from="0271" to="2013" syriaca-computed-end="2013-01-01"
+                    <state type="existence" from="0271" to="2013" srophe:computed-end="2013-01-01"
                         srophe:computed-start="0271-01-01">
-                        <precision match="@from" notAfter="0271" syriaca-computed-end="0271-01-01"/>
+                        <precision match="@from" notAfter="0271" srophe:computed-end="0271-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"
                         />
                     </state>
