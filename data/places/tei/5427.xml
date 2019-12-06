@@ -108,9 +108,9 @@
             resp="http://bqgazetteer.bethmardutho.org">قوهستان</placeName>
           <placeName xml:id="name5427-3" xml:lang="ar" source="#bib5427-1">قوهستان</placeName>
           <desc type="abstract" xml:id="abstract5427-1" xml:lang="en">A city in the region of
-            Kirmān.</desc>
-          <desc xml:lang="en"><quote source="#bib5427-2">The Arab geographers appear to have known two towns of the name Ḳūhistān in the
-            province of Kirmān.</quote></desc>
+            <placeName>Kirmān</placeName>.</desc>
+          <desc xml:lang="en"><quote source="#bib5427-2">The Arab geographers appear to have known two towns of the name <placeName>Ḳūhistān</placeName> in the
+            province of <placeName>Kirmān</placeName>.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5427-1">قوهستان كورة بخراسان ومدينة بكرمان</quote>
           </desc>
