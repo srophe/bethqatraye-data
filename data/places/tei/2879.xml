@@ -108,8 +108,8 @@
             <langUsage>
                 <p>Language codes used in this record follow the Syriaca.org guidelines.
                     Documentation available at: <ref
-                        target="http://syriaca.org/documentation/langusage.xml"
-                        >http://syriaca.org/documentation/langusage.xml</ref>
+                        target="http://syriaca.org/documentation/isostandards.xml"
+                        >http://syriaca.org/documentation/isostandards.xml</ref>
                 </p>
             </langUsage>
         </profileDesc>

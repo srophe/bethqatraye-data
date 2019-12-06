@@ -141,7 +141,7 @@
                 </taxonomy>
             </classDecl>
         </encodingDesc>
-        <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/langusage.xml">http://syriaca.org/documentation/langusage.xml</ref>         </p>       </langUsage>     </profileDesc>
+        <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
             <change who="http://syriaca.org/documentation/editors.xml#wpotter"
                 when="2019-11-25-06:00" xml:id="change144-2">Merged in data from [duplicate record
