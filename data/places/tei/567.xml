@@ -147,7 +147,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -169,7 +169,7 @@
                     <desc xml:id="abstract-en-567" xml:lang="en">The border area of northern Syria
                         and Mesopotamia between the Byzantine Empire and the caliphate.</desc>
                     <event type="attestation" xml:id="attestation567-1" notBefore="1224"
-                        notAfter="1228" syriaca-computed-start="1224-01-01"
+                        notAfter="1228" srophe:computed-start="1224-01-01"
                         syriaca-computed-end="1228-01-01" source="#bib567-3">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
                                 >الثَغْر</foreign> in the <title xml:lang="en" level="m">Muʿjam
@@ -184,10 +184,10 @@
                         <link target="#name567-5 #attestation567-2"/>
                     </event>
                     <state type="existence" from="0982" to="1200" syriaca-computed-end="1200-01-01"
-                        syriaca-computed-start="0982-01-01">
+                        srophe:computed-start="0982-01-01">
                         <precision match="@from" notAfter="0982" notBefore="0630"
-                            syriaca-computed-end="0982-01-01" syriaca-computed-start="0630-01-01"/>
-                        <precision match="@to" notBefore="1200" syriaca-computed-start="1200-01-01"
+                            syriaca-computed-end="0982-01-01" srophe:computed-start="0630-01-01"/>
+                        <precision match="@to" notBefore="1200" srophe:computed-start="1200-01-01"
                         />
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/567</idno>

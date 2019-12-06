@@ -161,7 +161,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
                 >ADDED: latitude and longitude from Pleiades</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -193,7 +193,7 @@
                         <geo>35.0000035 19.9999957</geo>
                     </location>
                     <event type="attestation" xml:id="attestation135-1" notBefore="1224"
-                        notAfter="1228" syriaca-computed-start="1224-01-01"
+                        notAfter="1228" srophe:computed-start="1224-01-01"
                         syriaca-computed-end="1228-01-01" source="#bib135-6">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">بحر
                                 المغرب</foreign> in the <title xml:lang="en" level="m">Muʿjam

@@ -153,7 +153,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -177,7 +177,7 @@
                             ref="http://syriaca.org/place/82">Euphrates</placeName> south of
                             <placeName ref="http://syriaca.org/place/41">Baghdad</placeName>.</desc>
                     <event type="attestation" xml:id="attestation495-1" notBefore="1224"
-                        notAfter="1228" syriaca-computed-start="1224-01-01"
+                        notAfter="1228" srophe:computed-start="1224-01-01"
                         syriaca-computed-end="1228-01-01" source="#bib495-5">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
                                 >النَجَف</foreign> in the <title xml:lang="en" level="m">Muʿjam
@@ -185,9 +185,9 @@
                         <link target="#name495-5 #attestation495-1"/>
                     </event>
                     <state type="existence" from="1600" to="2013" syriaca-computed-end="2013-01-01"
-                        syriaca-computed-start="1600-01-01">
+                        srophe:computed-start="1600-01-01">
                         <precision match="@from" notAfter="1600" syriaca-computed-end="1600-01-01"/>
-                        <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"
+                        <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"
                         />
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/495</idno>

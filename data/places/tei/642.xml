@@ -138,7 +138,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -160,7 +160,7 @@
                         <geo>12.4805981 53.9293594</geo>
                     </location>
                     <event type="attestation" xml:id="attestation642-1" notBefore="1224"
-                        notAfter="1228" syriaca-computed-start="1224-01-01"
+                        notAfter="1228" srophe:computed-start="1224-01-01"
                         syriaca-computed-end="1228-01-01" source="#bib642-3">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
                                 >سُقُطْرَى</foreign> in the <title xml:lang="en" level="m">Muʿjam

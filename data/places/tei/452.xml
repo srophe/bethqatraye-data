@@ -207,7 +207,7 @@
                 >ADDED <gi>quote</gi> elements around Syriac text in <gi>note</gi> of
                 type="corrigenda".</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -248,7 +248,7 @@
                         <quote source="#bib452-4">in southern Iraq; no longer in existence.</quote>
                     </desc>
                     <event type="attestation" xml:id="attestation452-1" notBefore="1224"
-                        notAfter="1228" syriaca-computed-start="1224-01-01"
+                        notAfter="1228" srophe:computed-start="1224-01-01"
                         syriaca-computed-end="1228-01-01" source="#bib452-5">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
                                 >الكُوفة</foreign> in the <title xml:lang="en" level="m">Muʿjam
@@ -263,9 +263,9 @@
                         <link target="#name452-4 #attestation452-2"/>
                     </event>
                     <state type="existence" from="0638" to="2013" syriaca-computed-end="2013-01-01"
-                        syriaca-computed-start="0638-01-01">
+                        srophe:computed-start="0638-01-01">
                         <precision match="@from" notAfter="0638" syriaca-computed-end="0638-01-01"/>
-                        <precision match="@to" notBefore="2013" syriaca-computed-start="2013-01-01"
+                        <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"
                         />
                     </state>
                     <note type="corrigenda">In Dolabani's translation of Barsoum's description

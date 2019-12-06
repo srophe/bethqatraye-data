@@ -163,7 +163,7 @@
                 >ADDED: relation element with shares-name-with attribute for all place headwords
                 that share names</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -194,7 +194,7 @@
                         <geo>36.35944 43.15278</geo>
                     </location>
                     <event type="attestation" xml:id="attestation144-1" notBefore="1224"
-                        notAfter="1228" syriaca-computed-start="1224-01-01"
+                        notAfter="1228" srophe:computed-start="1224-01-01"
                         syriaca-computed-end="1228-01-01" source="#bib144-7">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
                                 >نِيْنَوَى</foreign> in the <title xml:lang="en" level="m">Muʿjam
@@ -204,7 +204,7 @@
                     <state type="existence" from="-1700" to="0637" syriaca-computed-end="0637-01-01">
                         <precision match="@from" notAfter="-1700"/>
                         <precision match="@to" notAfter="1842" notBefore="0637"
-                            syriaca-computed-end="1842-01-01" syriaca-computed-start="0637-01-01"/>
+                            syriaca-computed-end="1842-01-01" srophe:computed-start="0637-01-01"/>
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/144</idno>
                     <idno type="URI">http://syriaca.org/place/144</idno>

@@ -130,7 +130,7 @@
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2017-08-09-05:00">ADDED: Arabic headword</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: syriaca-computed-start and syriaca-computed-end attributes for
+                >ADDED: srophe:computed-start and syriaca-computed-end attributes for
                 searching</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
                 when="2013-12-18-05:00">CREATED: place</change>
@@ -156,9 +156,9 @@
                         <link target="#name220-2 #attestation220-1"/>
                     </event>
                     <state type="existence" from="0638" to="1257" syriaca-computed-end="1257-01-01"
-                        syriaca-computed-start="0638-01-01">
+                        srophe:computed-start="0638-01-01">
                         <precision match="@from" notAfter="0638" syriaca-computed-end="0638-01-01"/>
-                        <precision match="@to" notBefore="1257" syriaca-computed-start="1257-01-01"
+                        <precision match="@to" notBefore="1257" srophe:computed-start="1257-01-01"
                         />
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/220</idno>
