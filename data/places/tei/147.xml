@@ -146,9 +146,9 @@
                     <placeName xml:id="name147-4" xml:lang="ar" source="#bib147-4 #bib147-5" srophe:tags="#headword"
                         >العاصي</placeName>
                     <placeName xml:id="name147-5" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Āṣī</placeName>
+                        srophe:tags="#syriaca-simplified-script">Āṣī</placeName>
                     <placeName xml:id="name147-6" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">‘Āṣī</placeName>
+                        srophe:tags="#syriaca-simplified-script">‘Āṣī</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name147-7">al-ʿĀṣī</placeName>
                     <placeName xml:lang="en" xml:id="name147-8">Assi</placeName>

@@ -201,9 +201,9 @@
                     <placeName xml:id="name211-9" xml:lang="ar" source="#bib211-8"
                         >الأَنبار</placeName>
                     <placeName xml:id="name211-10" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
+                        srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
                     <placeName xml:id="name211-11" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
+                        srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
                     <placeName xml:lang="ar" source="#bib211-9"
                         xml:id="name211-12">الأنبار</placeName>
                     <placeName xml:lang="en" xml:id="name211-13">Al Anbar</placeName>

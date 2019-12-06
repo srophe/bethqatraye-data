@@ -251,13 +251,13 @@
                     <placeName xml:id="name109-12" xml:lang="ar" source="#bib109-6"
                         >الرَقَّة</placeName>
                     <placeName xml:id="name109-13" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Raqqa</placeName>
+                        srophe:tags="#syriaca-simplified-script">Raqqa</placeName>
                     <placeName xml:id="name109-14" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Raqqa‘</placeName>
+                        srophe:tags="#syriaca-simplified-script">Raqqa‘</placeName>
                     <placeName xml:id="name109-15" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">al-Raqqa</placeName>
+                        srophe:tags="#syriaca-simplified-script">al-Raqqa</placeName>
                     <placeName xml:id="name109-16" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">al-Raqqa‘</placeName>
+                        srophe:tags="#syriaca-simplified-script">al-Raqqa‘</placeName>
                     <desc type="abstract" xml:id="abstract-en-109" xml:lang="en">A city on the <placeName
                             ref="http://syriaca.org/place/82">Euphrates</placeName> where the
                             <placeName ref="http://syriaca.org/place/191">Daiṣan</placeName> enters

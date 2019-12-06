@@ -199,13 +199,13 @@
                     <placeName xml:id="name429-4" xml:lang="ar"
                         source="#bib429-2 #bib429-4 #bib429-5 #bib429-6" srophe:tags="#headword">عانة</placeName>
                     <placeName xml:id="name429-5" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Ānah</placeName>
+                        srophe:tags="#syriaca-simplified-script">Ānah</placeName>
                     <placeName xml:id="name429-6" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">‘Ānah</placeName>
+                        srophe:tags="#syriaca-simplified-script">‘Ānah</placeName>
                     <placeName xml:id="name429-7" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Ānāt</placeName>
+                        srophe:tags="#syriaca-simplified-script">Ānāt</placeName>
                     <placeName xml:id="name429-8" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">‘Ānāt</placeName>
+                        srophe:tags="#syriaca-simplified-script">‘Ānāt</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name429-9">ʿĀna</placeName>
                     <placeName xml:lang="en" xml:id="name429-10">Anato</placeName>

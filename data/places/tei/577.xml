@@ -147,9 +147,9 @@
                     <placeName xml:id="name577-4" xml:lang="ar" source="#bib577-3"
                         >بَعْلَبك</placeName>
                     <placeName xml:id="name577-5" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Baalbak</placeName>
+                        srophe:tags="#syriaca-simplified-script">Baalbak</placeName>
                     <placeName xml:id="name577-6" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Ba‘albak</placeName>
+                        srophe:tags="#syriaca-simplified-script">Ba‘albak</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name577-7">Baʿlabakk</placeName>
                     <placeName xml:lang="ar" source="#bib577-4" srophe:tags="#headword"

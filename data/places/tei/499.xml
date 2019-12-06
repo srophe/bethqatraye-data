@@ -162,9 +162,9 @@
                     <placeName xml:id="name499-4" xml:lang="ar"
                         source="#bib499-3 #bib499-5 #bib499-6" srophe:tags="#headword">معرة النعمان</placeName>
                     <placeName xml:id="name499-5" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Maarrat al-Numān</placeName>
+                        srophe:tags="#syriaca-simplified-script">Maarrat al-Numān</placeName>
                     <placeName xml:id="name499-6" xml:lang="en-x-srp1"
-                        syriaca-tags="#syriaca-simplified-script">Ma‘arrat al-Nu‘mān</placeName>
+                        srophe:tags="#syriaca-simplified-script">Ma‘arrat al-Nu‘mān</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
                         xml:id="name499-7">al-Maʿarra</placeName>
                     <placeName xml:lang="ar" source="#bib499-6"
