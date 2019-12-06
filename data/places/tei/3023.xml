@@ -120,7 +120,7 @@
                         Muḥammad al-Hamadhānī Ibn al-Faqīh</persName>.</p>
                   <link target="#name3023-2 #attestation3023-1"/>
                </event>
-               <state type="existence" from="0908" to="0902">
+               <state type="existence" from="0902" to="0908">
                   <precision match="@from" notAfter="0908"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
