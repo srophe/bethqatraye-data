@@ -157,7 +157,7 @@
             </editorialDecl>
             <classDecl>
                 <taxonomy>
-                    <category xml:id="srophe-headword">
+                    <category xml:id="headword">
                         <catDesc>The name used by the Srophé App for document titles, citation, and
                             disambiguation. These names have been created according to the
                             Syriaca.org guidelines for headwords: <ref
