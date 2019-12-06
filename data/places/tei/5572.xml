@@ -29,8 +29,6 @@
                >David A. Michelson</editor>
             <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter"
                >William L. Potter</editor>
-            <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-               >Thomas A. Carlson</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen"
                >Tobias Scheunchen</editor>
             <respStmt>
@@ -47,26 +45,6 @@
                <resp>Data merging and XML by</resp>
                <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L.
                   Potter</name>
-            </respStmt>
-            <respStmt>
-               <resp>Yaʿqūbī data collection by</resp>
-               <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
-                  Abu-Husayn</name>
-            </respStmt>
-            <respStmt>
-               <resp>Yaʿqūbī data collection by</resp>
-               <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman
-                  Chamseddine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Data merging, Wikipedia linking, and XML by</resp>
-               <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
-                  Carlson</name>
-            </respStmt>
-            <respStmt>
-               <resp>al-Yaʿqūbī data correction and integration by</resp>
-               <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
-                  Carlson</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -129,8 +107,6 @@
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00"
             >CREATED: place [duplicate record with same URI] [duplicate record with same
             URI]</change>
-         <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00"
-            >ADDED: al-Yaʿqūbī citation and attestation</change>
          <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00"
             >CREATED: place</change>
       </revisionDesc>
