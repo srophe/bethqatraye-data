@@ -81,7 +81,7 @@
           <placeName xml:id="name5060-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Madāʾin</placeName>
           <placeName xml:id="name5060-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المدائن</placeName>
           <placeName xml:id="name5060-3" xml:lang="ar" source="#bib5060-1">المداين</placeName>
-          <desc type="abstract" xml:id="abstract5060-1" xml:lang="en" source="#bib5060-2">"<quote>[T]he cities</quote> (pl. of al-madīna ), the Arabic translation of the Aramaic Māḥōzē or Medīnāt̲h̲ā referring to the Sāsānid metropolis on the Tigris about 20 miles southeast of Bag̲h̲dād where several adjacent cities connected by a floating bridge stretched along both banks of the river. This was the imperial administrative capital, the winter residence of the king, the home of the Jewish Exilarch and the seat of the Nestorian Catholikos.</quote></desc>
+          <desc type="abstract" xml:id="abstract5060-1" xml:lang="en" source="#bib5060-2"><quote>[T]he cities (pl. of al-madīna ), the Arabic translation of the Aramaic Māḥōzē or Medīnāt̲h̲ā referring to the Sāsānid metropolis on the Tigris about 20 miles southeast of Bag̲h̲dād where several adjacent cities connected by a floating bridge stretched along both banks of the river. This was the imperial administrative capital, the winter residence of the king, the home of the Jewish Exilarch and the seat of the Nestorian Catholikos.</quote></desc>
                     <location type="gps" source="#bib5060-3">
                         <geo>33.095252 44.525528</geo>
                     </location>
