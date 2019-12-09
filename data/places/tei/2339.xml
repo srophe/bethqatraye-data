@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,8 +11,7 @@
           Thani</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
           al-Murikhi</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn"
-          >Abdulrahim Abu-Husayn</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul
           Rahman Chamseddine</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario
@@ -65,8 +63,7 @@
     <encodingDesc>
       <editorialDecl>
         <p>This record created following the guidelines for TEI encoding established by Syriaca.org.
-          Documentation available at: <ref target="http://syriaca.org/documentation"
-            >http://syriaca.org/documentation</ref>.</p>
+          Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
         <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place
           was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning
           monastery or church, an administrative province). Natural features always in existence
@@ -77,8 +74,7 @@
           <category xml:id="headword">
             <catDesc>The name used by the Srophé App for document titles, citation, and
               disambiguation. These names have been created according to the Syriaca.org guidelines
-              for headwords: <ref target="http://syriaca.org/documentation/headwords.html"
-                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+              for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
           </category>
         </taxonomy>
       </classDecl>
@@ -86,8 +82,7 @@
     <profileDesc>
       <langUsage>
         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation
-          available at: <ref target="http://syriaca.org/documentation/isostandards.xml"
-            >http://syriaca.org/documentation/isostandards.xml</ref>
+          available at: <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>
         </p>
       </langUsage>
     </profileDesc>
@@ -97,18 +92,15 @@
         names</change>
       <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED:
         srophe:computed-start and srophe:computed-end attributes for searching</change>
-      <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2013-12-18-05:00"
-        >CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place xml:id="place-2339" type="diocese">
-          <placeName xml:id="name2339-1" xml:lang="en" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">Maishan</placeName>
-          <placeName xml:id="name2339-2" xml:lang="ar" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">ميسان</placeName>
+          <placeName xml:id="name2339-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Maishan</placeName>
+          <placeName xml:id="name2339-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ميسان</placeName>
           <placeName xml:id="name2339-3" xml:lang="en">Maysān</placeName>
           <placeName xml:id="name2339-4" xml:lang="en">Mēshān</placeName>
           <placeName xml:id="name2339-5" xml:lang="en">Mēshun</placeName>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,14 +77,14 @@
           <placeName xml:id="name5530-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zamzam</placeName>
           <placeName xml:id="name5530-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زمزم</placeName>
           <placeName xml:id="name5530-3" xml:lang="ar" source="#bib5530-1">زمزم</placeName>
-          <desc type="abstract" xml:id="abstract5530-1" xml:lang="en">“[T]he sacred well located at the perimeter of the sacred complex of Mecca. It is situated to the east of the Kaʿba [ q.v.] alongside the wall where the “Black Stone”, al-ḥad̲j̲ar al-aswad , is enshrined, a little further from the centre than the maḳām Ibrāhīm [ q.v.], the “station of Abraham”. The well is currently a subterranean arrangement, also opening towards the east.” (J. Chabbi)</desc>
+          <desc type="abstract" xml:id="abstract5530-1" xml:lang="en" source="#bib5530-2">“[T]he sacred well located at the perimeter of the sacred complex of Mecca. It is situated to the east of the Kaʿba [ q.v.] alongside the wall where the “Black Stone”, al-ḥad̲j̲ar al-aswad , is enshrined, a little further from the centre than the maḳām Ibrāhīm [ q.v.], the “station of Abraham”. The well is currently a subterranean arrangement, also opening towards the east.” (J. Chabbi)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5530</idno>
           <idno type="URI">http://syriaca.org/place/5530</idno>
           <idno type="URI">https://goo.gl/maps/EACi1QdptcHre1LK9</idno>
           <bibl xml:id="bib5530-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">23, 81, 84, 88, 89, 90, 98, 100, 101, 103, 123, 124, 127, 138-141</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5530-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_8112"/></bibl>
         </place>
       </listPlace>
     </body>

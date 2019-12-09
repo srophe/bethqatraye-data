@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,7 +78,7 @@
           <placeName xml:id="name5025-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الدورق</placeName>
           <placeName xml:id="name5025-3" xml:lang="en">al-Falāḥiyya (?)</placeName>
           <placeName xml:id="name5025-4" xml:lang="ar" source="#bib5025-1">الدورق</placeName>
-          <desc type="abstract" xml:id="abstract5025-1" xml:lang="en">A village (qarya) in Khūzistān.”[F]ormerly a town in south-western K̲h̲ūzistān, was also called Dawraḳ al-Furs, ‘Dawraḳ of the Persians’ and sometimes al-Madīna, ‘the Town’. The original Persian name was Darāk.” (L. Lockhart)</desc>
+          <desc type="abstract" xml:id="abstract5025-1" xml:lang="en" source="#bib5025-2">A village (qarya) in Khūzistān.”[F]ormerly a town in south-western K̲h̲ūzistān, was also called Dawraḳ al-Furs, ‘Dawraḳ of the Persians’ and sometimes al-Madīna, ‘the Town’. The original Persian name was Darāk.” (L. Lockhart)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5025-1">الدورق كورة ومدينة وقرية بخوزستان</quote>
           </desc>
@@ -87,7 +87,7 @@
           <bibl xml:id="bib5025-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">27</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5025-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1752"/></bibl>
         </place>
       </listPlace>
     </body>

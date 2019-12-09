@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,8 +10,7 @@
           Thani</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
           al-Murikhi</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn"
-          >Abdulrahim Abu-Husayn</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul
           Rahman Chamseddine</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario
@@ -60,7 +59,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -69,8 +68,7 @@
     <encodingDesc>
       <editorialDecl>
         <p>This record created following the guidelines for TEI encoding established by Syriaca.org.
-          Documentation available at: <ref target="http://syriaca.org/documentation"
-            >http://syriaca.org/documentation</ref>.</p>
+          Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
         <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place
           was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning
           monastery or church, an administrative province). Natural features always in existence
@@ -80,8 +78,7 @@
         <taxonomy>
           <category xml:id="headword">
             <catDesc>The name used by the Srophé App for document titles, citation, and
-              disambiguation. These names have been created according to the Syriaca.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html"
-                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+              disambiguation. These names have been created according to the Syriaca.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
           </category>
         </taxonomy>
       </classDecl>
@@ -89,41 +86,33 @@
     <profileDesc>
       <langUsage>
         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation
-          available at: <ref target="http://syriaca.org/documentation/isostandards.xml"
-            >http://syriaca.org/documentation/isostandards.xml</ref>
+          available at: <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>
         </p>
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00"
-        xml:id="change5480-1">Merged in data from
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5480-1">Merged in data from
         [http://bqgazetteer.bethmardutho.org/place/5481].</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
-        >CREATED: place</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
-        >CREATED: place [http://bqgazetteer.bethmardutho.org/place/5481]</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5481]</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5480-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-            srophe:tags="#headword">Surra man Raʾā</placeName>
-          <placeName xml:id="name5480-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org"
-            srophe:tags="#headword">سر من رأى</placeName>
+          <placeName xml:id="name5480-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Surra man Raʾā</placeName>
+          <placeName xml:id="name5480-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">سر من رأى</placeName>
           <placeName xml:id="name5480-3" xml:lang="en">Sāmarrāʾ</placeName>
           <placeName xml:id="name5480-4" xml:lang="ar">سامراء</placeName>
           <placeName xml:id="name5480-5" xml:lang="ar" source="#bib5480-1">سر من رأى</placeName>
-          <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-6"
-            >Surra man raʾy</placeName>
-          <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-7"
-            >سرّ من رأي</placeName>
+          <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-6">Surra man raʾy</placeName>
+          <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-7">سرّ من رأي</placeName>
           <placeName xml:lang="en" xml:id="name5480-8">Sāmarrā</placeName>
           <placeName xml:lang="ar" xml:id="name5480-9">سامّرا</placeName>
           <placeName xml:lang="ar" xml:id="name5480-10" source="#bib5480-2">سرّ من رأي
             (سامّرا)</placeName>
-          <desc type="abstract" xml:id="abstract5480-1" xml:lang="en">“[A] town on the east bank of
+          <desc type="abstract" xml:id="abstract5480-1" xml:lang="en" source="#bib5480-3">“[A] town on the east bank of
             the middle Tigris in ʿIrāḳ, 125 km north of Bag̲h̲dād, of about 35 ha in 1924, and ca.
             120 ha in the 1970s. Between 221/836 and 279/892 it was the capital of the ʿAbbāsid
             caliphs, and expanded to an occupied area of 57 km2, one of the largest cities of
@@ -139,7 +128,7 @@
           <bibl xml:id="bib5480-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">243</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5480-3"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6573"/></bibl>
         </place>
       </listPlace>
     </body>

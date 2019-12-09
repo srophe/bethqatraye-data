@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -86,7 +86,7 @@
           <placeName xml:id="name5272-10" xml:lang="ar">البحيرة الميتة</placeName>
           <placeName xml:id="name5272-11" xml:lang="ar">البحيرة المقلوبة</placeName>
           <placeName xml:id="name5272-12" xml:lang="ar" source="#bib5272-1">بحيرة زغر</placeName>
-          <desc type="abstract" xml:id="abstract5272-1" xml:lang="en">“Between the steep and barren slopes of the “desert of Judah” and the mountainous land of Moab lies the Dead Sea, like a blue mirror 1150 feet below sea-level from north to south. Its length is about 50 miles, its midbreadth 8 miles and it has no exit.” (R. Hartmann)</desc>
+          <desc type="abstract" xml:id="abstract5272-1" xml:lang="en" source="#bib5272-2">“Between the steep and barren slopes of the “desert of Judah” and the mountainous land of Moab lies the Dead Sea, like a blue mirror 1150 feet below sea-level from north to south. Its length is about 50 miles, its midbreadth 8 miles and it has no exit.” (R. Hartmann)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5272-1">ثم صورت الشام واجناده وجباله ومياهه من انهاره وبحره وما على ساحله من المدن وبحيرة طبرية وبحيرة زغر وتيه بنى اسرآئيل وموقعه منه</quote>
           </desc>
@@ -96,7 +96,7 @@
           <bibl xml:id="bib5272-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">8</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5272-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_DUM_0934"/></bibl>
         </place>
       </listPlace>
     </body>

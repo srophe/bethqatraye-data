@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -9,28 +8,19 @@
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>Qatar National Research Foundation</funder>
                 <principal>Haya Al Thani</principal>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani"
-                    >Haya Al Thani</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
                     al-Murikhi</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
                     Abu-Husayn</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman
                     Chamseddine</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah"
-                    >Mario Kozah</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-                    >Thomas A. Carlson</editor>
-                <editor role="technical"
-                    ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
                     Michelson</editor>
-                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter"
-                    >William L. Potter</editor>
-                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-                    >Thomas Carlson</editor>
+                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas Carlson</editor>
                 <respStmt>
                     <resp>Yaʿqūbī data collection by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
@@ -75,8 +65,7 @@
                                     <ptr target="#bib567-2"/>
                                 </bibl>
                             </listBibl>
-                            <note>used under a Creative Commons Attribution license <ref
-                                    target="http://creativecommons.org/licenses/by/3.0/"/>
+                            <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
                             </note>
                         </p>
                     </licence>
@@ -90,18 +79,11 @@
         <encodingDesc>
             <editorialDecl>
                 <p>This record created following the guidelines for TEI encoding established by
-                    Syriaca.org. Documentation available at: <ref
-                        target="http://syriaca.org/documentation"
-                        >http://syriaca.org/documentation</ref>.</p>
-                <p>The capitalization of names from GEDSH (<idno type="URI"
-                        >http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS
+                    Syriaca.org. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+                <p>The capitalization of names from GEDSH (<idno type="URI">http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS
                     were replaced by Proper-noun capitalization).</p>
-                <p>The unchanging parts of alternate names from Barsoum (<idno type="URI"
-                        >http://syriaca.org/bibl/2</idno>, <idno type="URI"
-                        >http://syriaca.org/bibl/3</idno>, or <idno type="URI"
-                        >http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
-                <p>Names from the English translation of Barsoum (<idno type="URI"
-                        >http://syriaca.org/bibl/4</idno>) were put in sentence word order rather
+                <p>The unchanging parts of alternate names from Barsoum (<idno type="URI">http://syriaca.org/bibl/2</idno>, <idno type="URI">http://syriaca.org/bibl/3</idno>, or <idno type="URI">http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
+                <p>Names from the English translation of Barsoum (<idno type="URI">http://syriaca.org/bibl/4</idno>) were put in sentence word order rather
                     than fronting a dictionary headword. Any commas in the Barsoum name in English
                     were removed.</p>
                 <p>The <gi>state</gi> element of @type="existence" indicates the period for which
@@ -115,9 +97,7 @@
                     <category xml:id="headword">
                         <catDesc>The name used by the Srophé App for document titles, citation, and
                             disambiguation. These names have been created according to the
-                            Syriaca.org guidelines for headwords: <ref
-                                target="http://syriaca.org/documentation/headwords.html"
-                                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+                            Syriaca.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                     </category>
                 </taxonomy>
             </classDecl>
@@ -125,70 +105,49 @@
         <profileDesc>
             <langUsage>
                 <p>Language codes used in this record follow the Syriaca.org guidelines.
-                    Documentation available at: <ref
-                        target="http://syriaca.org/documentation/isostandards.xml"
-                        >http://syriaca.org/documentation/isostandards.xml</ref>
+                    Documentation available at: <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>
                 </p>
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-15-06:00" xml:id="change567-1">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change567-1">Merged in data from [duplicate record
                 with same URI].</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2017-08-09-05:00">ADDED: al-Ya`qubi citation and attestation</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2017-08-09-05:00">ADDED: Arabic headword</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky"
-                when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: al-Ya`qubi citation and attestation</change>
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Arabic headword</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event
                 element.</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: srophe:computed-start and srophe:computed-end attributes for
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: srophe:computed-start and srophe:computed-end attributes for
                 searching</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2013-12-18-05:00">CREATED: place</change>
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPlace>
                 <place xml:id="place-567" type="region">
-                    <placeName xml:id="name567-1" xml:lang="en" srophe:tags="#headword"
-                        source="#bib567-2">al-Thaghr</placeName>
+                    <placeName xml:id="name567-1" xml:lang="en" srophe:tags="#headword" source="#bib567-2">al-Thaghr</placeName>
                     <placeName xml:id="name567-2" xml:lang="ar" source="#bib567-1">الثغر</placeName>
-                    <placeName xml:id="name567-3" xml:lang="ar" source="#bib567-3"
-                        >الثَغْر</placeName>
-                    <placeName xml:id="name567-4" xml:lang="ar" srophe:tags="#headword"
-                        >الثغز</placeName>
-                    <placeName xml:id="name567-5" xml:lang="ar" source="#bib567-4"
-                        >الثغوز</placeName>
+                    <placeName xml:id="name567-3" xml:lang="ar" source="#bib567-3">الثَغْر</placeName>
+                    <placeName xml:id="name567-4" xml:lang="ar" srophe:tags="#headword">الثغز</placeName>
+                    <placeName xml:id="name567-5" xml:lang="ar" source="#bib567-4">الثغوز</placeName>
                     <desc xml:id="abstract-en-567" xml:lang="en">The border area of northern Syria
                         and Mesopotamia between the Byzantine Empire and the caliphate.</desc>
-                    <event type="attestation" xml:id="attestation567-1" notBefore="1224"
-                        notAfter="1228" srophe:computed-start="1224-01-01"
-                        srophe:computed-end="1228-01-01" source="#bib567-3">
-                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
-                                >الثَغْر</foreign> in the <title xml:lang="en" level="m">Muʿjam
+                    <event type="attestation" xml:id="attestation567-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib567-3">
+                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الثَغْر</foreign> in the <title xml:lang="en" level="m">Muʿjam
                                 al-buldān</title> of <persName>Yāqūt al-Ḥamawī</persName>.</p>
                         <link target="#name567-3 #attestation567-1"/>
                     </event>
-                    <event type="attestation" xml:id="attestation567-2" when="0891"
-                        source="#bib567-4">
+                    <event type="attestation" xml:id="attestation567-2" when="0891" source="#bib567-4">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الثغوز</foreign>
                             in the <title xml:lang="en" level="m">Kitāb al-buldān</title> of
                                 <persName>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</persName>.</p>
                         <link target="#name567-5 #attestation567-2"/>
                     </event>
-                    <state type="existence" from="0982" to="1200" srophe:computed-end="1200-01-01"
-                        srophe:computed-start="0982-01-01">
-                        <precision match="@from" notAfter="0982" notBefore="0630"
-                            srophe:computed-end="0982-01-01" srophe:computed-start="0630-01-01"/>
-                        <precision match="@to" notBefore="1200" srophe:computed-start="1200-01-01"
-                        />
+                    <state type="existence" from="0982" to="1200" srophe:computed-end="1200-01-01" srophe:computed-start="0982-01-01">
+                        <precision match="@from" notAfter="0982" notBefore="0630" srophe:computed-end="0982-01-01" srophe:computed-start="0630-01-01"/>
+                        <precision match="@to" notBefore="1200" srophe:computed-start="1200-01-01"/>
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/567</idno>
                     <idno type="URI">http://syriaca.org/place/567</idno>

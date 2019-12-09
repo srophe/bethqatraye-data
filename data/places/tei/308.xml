@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -11,32 +9,21 @@
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>Qatar National Research Foundation</funder>
                 <principal>Haya Al Thani</principal>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani"
-                    >Haya Al Thani</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
                     al-Murikhi</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
                     Abu-Husayn</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman
                     Chamseddine</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah"
-                    >Mario Kozah</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-                    >Thomas A. Carlson</editor>
-                <editor role="technical"
-                    ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
                     Michelson</editor>
-                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter"
-                    >William L. Potter</editor>
-                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-                    >Thomas A. Carlson</editor>
-                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dmichelson"
-                    >David A. Michelson</editor>
-                <editor role="creator"
-                    ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
                     Scheunchen</editor>
                 <respStmt>
                     <resp>Ibn Battuta data collection by</resp>
@@ -95,13 +82,12 @@
                                     <ptr target="#bib308-4"/>
                                 </bibl>
                             </listBibl>
-                            <note>used under a Creative Commons Attribution license <ref
-                                    target="http://creativecommons.org/licenses/by/3.0/"/>
+                            <note>used under a Creative Commons Attribution license <ref target="http://creativecommons.org/licenses/by/3.0/"/>
                             </note>
                         </p>
                     </licence>
                 </availability>
-                <date>2014-07-28</date>
+                <date>2019-12-09-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -110,17 +96,11 @@
         <encodingDesc>
             <editorialDecl>
                 <p>This record created following the Syriaca.org guidelines. Documentation available
-                    at: <ref target="http://syriaca.org/documentation"
-                        >http://syriaca.org/documentation</ref>.</p>
-                <p>The capitalization of names from GEDSH (<idno type="URI"
-                        >http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS
+                    at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+                <p>The capitalization of names from GEDSH (<idno type="URI">http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS
                     were replaced by Proper-noun capitalization).</p>
-                <p>The unchanging parts of alternate names from Barsoum (<idno type="URI"
-                        >http://syriaca.org/bibl/2</idno>, <idno type="URI"
-                        >http://syriaca.org/bibl/3</idno>, or <idno type="URI"
-                        >http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
-                <p>Names from the English translation of Barsoum (<idno type="URI"
-                        >http://syriaca.org/bibl/4</idno>) were put in sentence word order rather
+                <p>The unchanging parts of alternate names from Barsoum (<idno type="URI">http://syriaca.org/bibl/2</idno>, <idno type="URI">http://syriaca.org/bibl/3</idno>, or <idno type="URI">http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
+                <p>Names from the English translation of Barsoum (<idno type="URI">http://syriaca.org/bibl/4</idno>) were put in sentence word order rather
                     than fronting a dictionary headword. Any commas in the Barsoum name in English
                     were removed.</p>
                 <p>The <gi>state</gi> element of @type="existence" indicates the period for which
@@ -134,57 +114,40 @@
                     <category xml:id="headword">
                         <catDesc>The name used by the Srophé App for document titles, citation, and
                             disambiguation. These names have been created according to the
-                            Syriac.org guidelines for headwords: <ref
-                                target="http://syriaca.org/documentation/headwords.html"
-                                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+                            Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                     </category>
                 </taxonomy>
             </classDecl>
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-25-06:00" xml:id="change308-1">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change308-1">Merged in data from [duplicate record
                 with same URI].</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2014-07-28"
-                >CHANGED: existence terminus ante quem to be ISO date compliant</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky"
-                when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2014-07-28">CHANGED: existence terminus ante quem to be ISO date compliant</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event
                 element.</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: relation element with shares-name-with attribute for all place headwords
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: relation element with shares-name-with attribute for all place headwords
                 that share names</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: srophe:computed-start and srophe:computed-end attributes for
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: srophe:computed-start and srophe:computed-end attributes for
                 searching</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2013-12-18-05:00">CREATED: place</change>
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPlace>
                 <place xml:id="place-308" type="settlement">
-                    <placeName xml:id="name308-1" xml:lang="en" srophe:tags="#headword"
-                        source="#bib308-1 #bib308-4">Tabriz</placeName>
-                    <placeName xml:id="name308-2" xml:lang="syr" srophe:tags="#headword"
-                        >ܬܒܪܝܙ</placeName>
-                    <placeName xml:id="name308-3" xml:lang="syr-Syrj" source="#bib308-2"
-                        >ܬܰܒܪܺܝܙ</placeName>
-                    <placeName xml:id="name308-4" xml:lang="ar" source="#bib308-3 #bib308-7"
-                        srophe:tags="#headword">تبريز</placeName>
+                    <placeName xml:id="name308-1" xml:lang="en" srophe:tags="#headword" source="#bib308-1 #bib308-4">Tabriz</placeName>
+                    <placeName xml:id="name308-2" xml:lang="syr" srophe:tags="#headword">ܬܒܪܝܙ</placeName>
+                    <placeName xml:id="name308-3" xml:lang="syr-Syrj" source="#bib308-2">ܬܰܒܪܺܝܙ</placeName>
+                    <placeName xml:id="name308-4" xml:lang="ar" source="#bib308-3 #bib308-7" srophe:tags="#headword">تبريز</placeName>
                     <placeName xml:id="name308-5" xml:lang="ar" source="#bib308-3">توريز</placeName>
-                    <placeName xml:id="name308-6" xml:lang="en" source="#bib308-4"
-                        >Tawriz</placeName>
-                    <placeName xml:id="name308-7" xml:lang="en" source="#bib308-5"
-                        >Tabrīz</placeName>
-                    <placeName xml:id="name308-8" xml:lang="ar" source="#bib308-6"
-                        >تِبْرِيْز</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract308-1">“The traditional
+                    <placeName xml:id="name308-6" xml:lang="en" source="#bib308-4">Tawriz</placeName>
+                    <placeName xml:id="name308-7" xml:lang="en" source="#bib308-5">Tabrīz</placeName>
+                    <placeName xml:id="name308-8" xml:lang="ar" source="#bib308-6">تِبْرِيْز</placeName>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract308-1" source="#bib308-8">“The traditional
                         capital of the Persian province of <placeName>Ād̲h̲arbāyd̲j̲ān</placeName> [ q.v.] and now the
                         administrative centre of the ustān of eastern <placeName>Ād̲h̲arbāyd̲j̲ān</placeName> (lat. 38° 05′
                         N., long. 46° 18′ E., altitude ca. 1,340 m/4,400 feet).” (Blair)</desc>
@@ -199,19 +162,14 @@
                         <quote source="#bib308-4">a very famous town of <placeName>Azerbayjan</placeName>, in
                             <placeName>Persia</placeName>.</quote>
                     </desc>
-                    <event type="attestation" xml:id="attestation308-1" notBefore="1224"
-                        notAfter="1228" srophe:computed-start="1224-01-01"
-                        srophe:computed-end="1228-01-01" source="#bib308-6">
-                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
-                                >تِبْرِيْز</foreign> in the <title xml:lang="en" level="m">Muʿjam
+                    <event type="attestation" xml:id="attestation308-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib308-6">
+                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar">تِبْرِيْز</foreign> in the <title xml:lang="en" level="m">Muʿjam
                                 al-buldān</title> of <persName>Yāqūt al-Ḥamawī</persName>.</p>
                         <link target="#name308-8 #attestation308-1"/>
                     </event>
-                    <state type="existence" from="0001" to="2013" srophe:computed-end="2013-01-01"
-                        srophe:computed-start="0001-01-01">
+                    <state type="existence" from="0001" to="2013" srophe:computed-end="2013-01-01" srophe:computed-start="0001-01-01">
                         <precision match="@from" notAfter="0001" srophe:computed-end="0001-01-01"/>
-                        <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"
-                        />
+                        <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/308</idno>
                     <idno type="URI">http://syriaca.org/place/308</idno>
@@ -253,7 +211,7 @@
                             gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn
                             Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">94, 240, 241, 242, 247, 311, 323, 520</citedRange>
-                    </bibl>
+                    </bibl><bibl xml:id="bib308-8"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1137"/></bibl>
                 </place>
             </listPlace>
         </body>

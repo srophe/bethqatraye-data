@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,14 +78,14 @@
           <placeName xml:id="name5136-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السويس</placeName>
           <placeName xml:id="name5136-3" xml:lang="en">Suez</placeName>
           <placeName xml:id="name5136-4" xml:lang="ar" source="#bib5136-1">السويس</placeName>
-          <desc type="abstract" xml:id="abstract5136-1" xml:lang="en">“[A] seaport in Egypt, located at the northern end of the Red Sea (lat. 29° 59′ N., long. 32° 33′ E.). The town centre is situated closely south to the ancient town of Ḳulzum [...] which continued the Ptolemaic settlement of Κλυσμα or Κλειυσμα at the western shore of the bay of Suways and of which only a few ruins remain, known as Kūm al-Ḳulzum.” (Schulze)</desc>
+          <desc type="abstract" xml:id="abstract5136-1" xml:lang="en" source="#bib5136-2">“[A] seaport in Egypt, located at the northern end of the Red Sea (lat. 29° 59′ N., long. 32° 33′ E.). The town centre is situated closely south to the ancient town of Ḳulzum [...] which continued the Ptolemaic settlement of Κλυσμα or Κλειυσμα at the western shore of the bay of Suways and of which only a few ruins remain, known as Kūm al-Ḳulzum.” (Schulze)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5136</idno>
           <idno type="URI">http://syriaca.org/place/5136</idno>
           <idno type="URI">http://sws.geonames.org/359796</idno>
           <bibl xml:id="bib5136-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">134</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5136-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7224"/></bibl>
         </place>
       </listPlace>
     </body>

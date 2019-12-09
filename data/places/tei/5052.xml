@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,14 +78,14 @@
           <placeName xml:id="name5052-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخليل</placeName>
           <placeName xml:id="name5052-3" xml:lang="en">Hebron</placeName>
           <placeName xml:id="name5052-4" xml:lang="ar" source="#bib5052-1">الخليل</placeName>
-          <desc type="abstract" xml:id="abstract5052-1" xml:lang="en">“The Arabic name for Hebron, a town in southern Palestine, 32 km. south of Jerusalem (31° N 34° E), the only urban centre in the southern Judaean hills and their virtual capital and commercial centre.” (Sharon)</desc>
+          <desc type="abstract" xml:id="abstract5052-1" xml:lang="en" source="#bib5052-2">“The Arabic name for Hebron, a town in southern Palestine, 32 km. south of Jerusalem (31° N 34° E), the only urban centre in the southern Judaean hills and their virtual capital and commercial centre.” (Sharon)</desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5052</idno>
           <idno type="URI">http://syriaca.org/place/5052</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2101805</idno>
           <bibl xml:id="bib5052-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">73, 290, 356, 378, 667</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5052-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0487"/></bibl>
         </place>
       </listPlace>
     </body>

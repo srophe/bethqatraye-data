@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -91,7 +91,7 @@
           <placeName xml:id="name5009-7" xml:lang="ar" source="#bib5009-5">الأحساء‎لهسا</placeName>
           <placeName xml:id="name5009-8" xml:lang="ar" source="#bib5009-6">لهسا</placeName>
           <placeName xml:id="name5009-9" xml:lang="ar" source="#bib5009-7">الأحساء</placeName>
-          <desc type="abstract" xml:id="abstract5009-1" xml:lang="en">“[O]asis, or more properly group of oases, in eastern Saudi Arabia, approximately from 25° 20′ to 25° 40′ N., and 49° 30′ to 49° 50′ E. The name has been also used to designate the entire region of Eastern Arabia.” (F.S. Vidal)</desc>
+          <desc type="abstract" xml:id="abstract5009-1" xml:lang="en" source="#bib5009-8">“[O]asis, or more properly group of oases, in eastern Saudi Arabia, approximately from 25° 20′ to 25° 40′ N., and 49° 30′ to 49° 50′ E. The name has been also used to designate the entire region of Eastern Arabia.” (F.S. Vidal)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5009-1">والأحساء : مدينة بالبحرين، معروفة مشهورة، كان أول من عمرها وحصنها وجعلها قصبة هجر أبو طاهر سليمان بن أبي سعيد الجناني القرمطي، وهي إلى الآن، مدينة مشهورة عامرة.</quote>
           </desc>
@@ -131,7 +131,7 @@
           <bibl xml:id="bib5009-7">
             <title xml:lang="en" level="m">Safar Nāma</title><author>Nāṣir Khusraw</author><ptr target="http://syriaca.org/bibl/NATHCE76"/>
             <citedRange unit="pp">158-162</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5009-8"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/></bibl>
         </place>
       </listPlace>
     </body>

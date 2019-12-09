@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,7 +77,7 @@
           <placeName xml:id="name5181-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Atil</placeName>
           <placeName xml:id="name5181-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اتل</placeName>
           <placeName xml:id="name5181-3" xml:lang="ar" source="#bib5181-1">اتل</placeName>
-          <desc type="abstract" xml:id="abstract5181-1" xml:lang="en">“Atil, or Itil, sometimes Atil (Itil)-Khazarān, also Ḵh̲azarān Atil, the Ḵh̲azar capital, a double town on the lower Volga, itself called Atil, Itil [q.v.] in the early mediaeval period. The exact site is unknown.” (D.M. Dunlop)</desc>
+          <desc type="abstract" xml:id="abstract5181-1" xml:lang="en" source="#bib5181-2">“Atil, or Itil, sometimes Atil (Itil)-Khazarān, also Ḵh̲azarān Atil, the Ḵh̲azar capital, a double town on the lower Volga, itself called Atil, Itil [q.v.] in the early mediaeval period. The exact site is unknown.” (D.M. Dunlop)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5181-1">ومن اتل الى سمندر ايام [...] ومن اتل الى بجناك مسيرة شهر ومن اتل الى بلغار على طريق المفازة نحو شهر وفي الماء شهران في صعود والانحدار نحو 20 يوما</quote>
           </desc>
@@ -86,7 +86,7 @@
           <bibl xml:id="bib5181-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">287</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5181-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0848"/></bibl>
         </place>
       </listPlace>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +52,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -79,7 +79,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -92,7 +92,7 @@
           <placeName xml:id="name5109-4" xml:lang="ar" source="#bib5109-2">الصفا</placeName>
           <placeName xml:id="name5109-5" xml:lang="ar" source="#bib5109-1">الصفا</placeName>
           <placeName xml:id="name5109-6" xml:lang="ar" source="#bib5109-3">الصفا</placeName>
-          <desc type="abstract" xml:id="abstract5109-1" xml:lang="en">“[A] mound at Mecca which now barely rises above level of the ground.” (B. Joel)</desc>
+          <desc type="abstract" xml:id="abstract5109-1" xml:lang="en" source="#bib5109-4">“[A] mound at Mecca which now barely rises above level of the ground.” (B. Joel)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5109-1">الصفا : [...] ومنه الصفا والمروة : وهما جبلان بين بطحاء مكة والمسجد، أما الصفا فمكان مرتفع من جبل أبي قبيس بينه وبين المسجد الحرام عرض الوادي الذي هو طريق وسوق، ومن وقف على الصفا كان بحذاء الحجر الأسود والمشعر الحرام بين الصفا والمروة</quote>
           </desc>
@@ -110,7 +110,7 @@
           <bibl xml:id="bib5109-3">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">81, 91, 106-110, 115, 121, 130, 167</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5109-4"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6434"/></bibl>
         </place>
       </listPlace>
     </body>

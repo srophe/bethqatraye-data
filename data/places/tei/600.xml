@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -10,30 +8,20 @@
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>Qatar National Research Foundation</funder>
                 <principal>Haya Al Thani</principal>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani"
-                    >Haya Al Thani</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
                     al-Murikhi</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
                     Abu-Husayn</editor>
-                <editor role="general"
-                    ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman
                     Chamseddine</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah"
-                    >Mario Kozah</editor>
-                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-                    >Thomas A. Carlson</editor>
-                <editor role="technical"
-                    ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
+                <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
                     Michelson</editor>
-                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter"
-                    >William L. Potter</editor>
-                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
-                    >Thomas A. Carlson</editor>
-                <editor role="creator"
-                    ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+                <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
                     Scheunchen</editor>
                 <respStmt>
                     <resp>Ibn Battuta data collection by</resp>
@@ -77,17 +65,11 @@
         <encodingDesc>
             <editorialDecl>
                 <p>This record created following the Syriaca.org guidelines. Documentation available
-                    at: <ref target="http://syriaca.org/documentation"
-                        >http://syriaca.org/documentation</ref>.</p>
-                <p>The capitalization of names from GEDSH (<idno type="URI"
-                        >http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS
+                    at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+                <p>The capitalization of names from GEDSH (<idno type="URI">http://syriaca.org/bibl/1</idno>) was normalized (i.e. names in ALL-CAPS
                     were replaced by Proper-noun capitalization).</p>
-                <p>The unchanging parts of alternate names from Barsoum (<idno type="URI"
-                        >http://syriaca.org/bibl/2</idno>, <idno type="URI"
-                        >http://syriaca.org/bibl/3</idno>, or <idno type="URI"
-                        >http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
-                <p>Names from the English translation of Barsoum (<idno type="URI"
-                        >http://syriaca.org/bibl/4</idno>) were put in sentence word order rather
+                <p>The unchanging parts of alternate names from Barsoum (<idno type="URI">http://syriaca.org/bibl/2</idno>, <idno type="URI">http://syriaca.org/bibl/3</idno>, or <idno type="URI">http://syriaca.org/bibl/4</idno>) have been supplied to each alternate.</p>
+                <p>Names from the English translation of Barsoum (<idno type="URI">http://syriaca.org/bibl/4</idno>) were put in sentence word order rather
                     than fronting a dictionary headword. Any commas in the Barsoum name in English
                     were removed.</p>
                 <p>The <gi>state</gi> element of @type="existence" indicates the period for which
@@ -101,44 +83,32 @@
                     <category xml:id="headword">
                         <catDesc>The name used by the Srophé App for document titles, citation, and
                             disambiguation. These names have been created according to the
-                            Syriac.org guidelines for headwords: <ref
-                                target="http://syriaca.org/documentation/headwords.html"
-                                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+                            Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                     </category>
                 </taxonomy>
             </classDecl>
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-25-06:00" xml:id="change600-1">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change600-1">Merged in data from [duplicate record
                 with same URI].</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter"
-                when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky"
-                when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event
                 element.</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14"
-                >ADDED: srophe:computed-start and srophe:computed-end attributes for
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2014-06-12-05:00">ADDED: Yaqut citation and attestation</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: srophe:computed-start and srophe:computed-end attributes for
                 searching</change>
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
-                when="2013-12-18-05:00">CREATED: place</change>
+            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2013-12-18-05:00">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPlace>
                 <place xml:id="place-600" type="region">
-                    <placeName xml:id="name600-1" xml:lang="en" srophe:tags="#headword"
-                        source="#bib600-1">Jordan valley</placeName>
-                    <placeName xml:id="name600-2" xml:lang="ar" source="#bib600-2"
-                        >الغَوْر</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org"
-                        xml:id="name600-3">Ghūr al-Shām</placeName>
-                    <placeName xml:lang="ar" ource="#bib600-3" srophe:tags="#headword"
-                        xml:id="name600-4">غور الشام</placeName>
+                    <placeName xml:id="name600-1" xml:lang="en" srophe:tags="#headword" source="#bib600-1">Jordan valley</placeName>
+                    <placeName xml:id="name600-2" xml:lang="ar" source="#bib600-2">الغَوْر</placeName>
+                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name600-3">Ghūr al-Shām</placeName>
+                    <placeName xml:lang="ar" ource="#bib600-3" srophe:tags="#headword" xml:id="name600-4">غور الشام</placeName>
                     <placeName xml:lang="en" xml:id="name600-5">Ghawr al-Shām</placeName>
                     <placeName xml:lang="en" xml:id="name600-6">Ghaur al-Shām</placeName>
                     <placeName xml:lang="en" xml:id="name600-7">Ghūr al-Urdun</placeName>
@@ -148,11 +118,8 @@
                     <desc type="abstract" xml:lang="en" xml:id="abstract600-1">The valley which
                         contains the <placeName ref="http://syriaca.org/place/599">Jordan
                             River</placeName>.</desc>
-                    <event type="attestation" xml:id="attestation600-1" notBefore="1224"
-                        notAfter="1228" srophe:computed-start="1224-01-01"
-                        srophe:computed-end="1228-01-01" source="#bib600-2">
-                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar"
-                                >الغَوْر</foreign> in the <title xml:lang="en" level="m">Muʿjam
+                    <event type="attestation" xml:id="attestation600-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib600-2">
+                        <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الغَوْر</foreign> in the <title xml:lang="en" level="m">Muʿjam
                                 al-buldān</title> of <persName>Yāqūt al-Ḥamawī</persName>.</p>
                         <link target="#name600-2 #attestation600-1"/>
                     </event>
@@ -168,9 +135,7 @@
                         <title xml:lang="en">The Comprehensive Bibliography on Syriac
                             Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
-                        <citedRange unit="entry"
-                            target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jordan valley&amp;sT=keywords"
-                            >Jordan valley</citedRange>
+                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=J&amp;sK=Jordan valley&amp;sT=keywords">Jordan valley</citedRange>
                     </bibl>
                     <bibl xml:id="bib600-2">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>

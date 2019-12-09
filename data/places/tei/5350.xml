@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -81,7 +81,7 @@
           <placeName xml:id="name5350-5" xml:lang="en">Xvârazm</placeName>
           <placeName xml:id="name5350-6" xml:lang="en">Khiva</placeName>
           <placeName xml:id="name5350-7" xml:lang="ar" source="#bib5350-1">خوارزم</placeName>
-          <desc type="abstract" xml:id="abstract5350-1" xml:lang="en">“[I]n post-Mongol times increasingly known as K̲h̲īwa, the province lying along the lower course of the Amū Daryā [q.v.] or Oxus, classical Chorasmia. In the early Islamic period, the southern boundary of K̲h̲wārazm was considered to be at Ṭāhiriyya, five days’ journey downstream from Āmul-i S̲h̲aṭṭ (modern Čārd̲j̲ūy), the crossing-place of the K̲h̲urāsān-Buk̲h̲ārā caravan route. Ṭāhiriyya lay just to the south of the gorge of the “lion’s mouth”, Dahān-i S̲h̲īr, where the river narrows at modern Düldül Atlag̲h̲ān near Pitnyak.” (C.E. Bosworth)</desc>
+          <desc type="abstract" xml:id="abstract5350-1" xml:lang="en" source="#bib5350-2">“[I]n post-Mongol times increasingly known as K̲h̲īwa, the province lying along the lower course of the Amū Daryā [q.v.] or Oxus, classical Chorasmia. In the early Islamic period, the southern boundary of K̲h̲wārazm was considered to be at Ṭāhiriyya, five days’ journey downstream from Āmul-i S̲h̲aṭṭ (modern Čārd̲j̲ūy), the crossing-place of the K̲h̲urāsān-Buk̲h̲ārā caravan route. Ṭāhiriyya lay just to the south of the gorge of the “lion’s mouth”, Dahān-i S̲h̲īr, where the river narrows at modern Düldül Atlag̲h̲ān near Pitnyak.” (C.E. Bosworth)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5350-1">ثم صورت نهر جيحون وما وراء من اعمال بخارا وسمرقند وأشروسنة وأسبيجاب والشاش وخوارزم الى جميع ما تشتمل عليه من المياه وتحيط به من الطرق والمسالك</quote>
           </desc>
@@ -91,7 +91,7 @@
           <bibl xml:id="bib5350-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">9</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5350-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4205"/></bibl>
         </place>
       </listPlace>
     </body>

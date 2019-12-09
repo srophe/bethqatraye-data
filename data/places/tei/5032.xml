@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,7 +78,7 @@
           <placeName xml:id="name5032-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الغوطة</placeName>
           <placeName xml:id="name5032-3" xml:lang="en">Ghouta</placeName>
           <placeName xml:id="name5032-4" xml:lang="ar" source="#bib5032-1">الغوطة</placeName>
-          <desc type="abstract" xml:id="abstract5032-1" xml:lang="en">“The G̲h̲ūṭa of Dimas̲h̲ḳ [q.v.] is the area of gardens and orchards which surrounds the former Umayyad capital below the gorges of Rabwa and which is made fertile by a close network of irrigation trenches fed by the Baradā [q.v.]. The G̲h̲ūṭa extends from the eastern slopes of Mount Ḳāsiyūn [q.v.] as far as the streams and the water brought in from the Baradā allow bushes to be grown. Beyond this, to the east, is the Mard̲j̲ , a region of pasture and wide stretches of arable land.” (N. Elisséeff)</desc>
+          <desc type="abstract" xml:id="abstract5032-1" xml:lang="en" source="#bib5032-2">“The G̲h̲ūṭa of Dimas̲h̲ḳ [q.v.] is the area of gardens and orchards which surrounds the former Umayyad capital below the gorges of Rabwa and which is made fertile by a close network of irrigation trenches fed by the Baradā [q.v.]. The G̲h̲ūṭa extends from the eastern slopes of Mount Ḳāsiyūn [q.v.] as far as the streams and the water brought in from the Baradā allow bushes to be grown. Beyond this, to the east, is the Mard̲j̲ , a region of pasture and wide stretches of arable land.” (N. Elisséeff)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5032-1">وجنوبيها [من ديار العرب] وشيء من غربيهاثم يمتد عليها من ايلة على مدائن قوم لوط والبحيرة المنتنة التي تعرف ببحيرة زغر الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة ونواحى بعلبك وذلك من عمل دمشق</quote>
           </desc>
@@ -88,7 +88,7 @@
           <bibl xml:id="bib5032-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">17</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5032-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2525"/></bibl>
         </place>
       </listPlace>
     </body>

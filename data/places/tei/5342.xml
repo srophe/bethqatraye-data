@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"     xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xmlns:srophe="https://srophe.app" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,7 +78,7 @@
           <placeName xml:id="name5342-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كاشان</placeName>
           <placeName xml:id="name5342-3" xml:lang="en">Qāshān</placeName>
           <placeName xml:id="name5342-4" xml:lang="ar" source="#bib5342-1">قاشان</placeName>
-          <desc type="abstract" xml:id="abstract5342-1" xml:lang="en">“(Ḳāsān, Ḳās̲h̲ān; 33°59′ lat. N., 51°27′ long. E.), a town of the D̲j̲ibāl, on the ancient N. — S. axial route of central Iran, chief town of a s̲h̲ahristān of the central province ( Ustān-i markazī ); it gives its name to an oasis adjoining the Das̲h̲t-i Kavīr on the N.E. and on the E., closed on the W. and on the S. by the buffer of the median chain of central Iran (3,900 m. at the Kūh-i Karkas).” (J. Calmard)</desc>
+          <desc type="abstract" xml:id="abstract5342-1" xml:lang="en" source="#bib5342-2">“(Ḳāsān, Ḳās̲h̲ān; 33°59′ lat. N., 51°27′ long. E.), a town of the D̲j̲ibāl, on the ancient N. — S. axial route of central Iran, chief town of a s̲h̲ahristān of the central province ( Ustān-i markazī ); it gives its name to an oasis adjoining the Das̲h̲t-i Kavīr on the N.E. and on the E., closed on the W. and on the S. by the buffer of the median chain of central Iran (3,900 m. at the Kūh-i Karkas).” (J. Calmard)</desc>
           <desc xml:lang="ar">
             <quote source="#bib5342-1">واما مفازة خراسان فالذي يحيط بها من شرقيها حد كرمان وشيء من حدود سجستان وغربيها حدود قومس والرى وقم وقاشان وشماليها حدود خراسان وشيء من سجستان وجنوبيها حدود كرمان وفارس وشيء من حدود اصبهان</quote>
           </desc>
@@ -88,7 +88,7 @@
           <bibl xml:id="bib5342-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">287</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5342-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_3963"/></bibl>
         </place>
       </listPlace>
     </body>
