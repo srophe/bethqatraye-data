@@ -203,6 +203,10 @@
                         <quote source="#bib452-3">ويقال لها عاقولا وهي المصر المشهور يوما بارض بابل
                             من سواد العراق، مندرسة.</quote>
                     </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib452-11">ثم رحلنا ونزلنا الثعلبية، ولها حصن خرب بازائه مصنع هائل ينزل إليه في درج، وبه من ماء المطر ما يعم الركب. ويجتمع من العرب بهذا الموضع جمع عظيم فيبيعون الجمال والغنم والسمن واللبن. ومن هذا الموضع إلى الكوفة ثلاث مراحل.</quote></desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib452-12">ثم يافرتا منها الى الحويزاء بالزاي، وهي مدينة صغيرة يسكنها العجم، بينها وبين البصرة مسيرة أربع، وبينها وبين الكوفة مسيرة خمس</quote></desc>
                     <desc xml:lang="en">
                         <quote source="#bib452-4">in southern Iraq; no longer in existence.</quote>
                     </desc>
@@ -283,6 +287,20 @@
                     </bibl>
                     <bibl xml:id="bib452-10">
                         <ptr target="http://pleiades.stoa.org/places/912808"/>
+                    </bibl>
+                    <bibl xml:id="bib452-11">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">187</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib452-12">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">228</citedRange>
                     </bibl>
                 </place>
             </listPlace>
