@@ -77,6 +77,14 @@
                     <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
                         Carlson</name>
                 </respStmt>
+                <respStmt>
+                    <resp>Al-Masūdī data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Nasir Khusraw data collection by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif Al-Murikhi</name>
+                </respStmt>
             </titleStmt>
             <editionStmt>
                 <edition n="1.0"/>
@@ -142,8 +150,16 @@
                     <placeName xml:id="name2903-4" xml:lang="ar" source="#bib2903-1 #bib2903-2 #bib2903-3 #bib2903-4 #bib2903-5 #bib2903-8 #bib2903-9" srophe:tags="#headword">هجر</placeName>
                     <placeName xml:id="name2903-5" xml:lang="fr" source="#bib2903-7">Hagar</placeName>
                     <placeName xml:id="name2903-6" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
+                    <placeName xml:id="name2903-7" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">al-Aḥsāʾ</placeName>
+                    <placeName xml:id="name2903-8" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
+                    <placeName xml:id="name2903-9" xml:lang="en">al-Ahsa</placeName>
+                    <placeName xml:id="name2903-10" xml:lang="en">al-Hasa</placeName>
+                    <placeName xml:id="name5009-5" xml:lang="ar" source="#bib2903-2 #bib2903-14 #bib2903-17">الأحساء</placeName>
+                    <placeName xml:id="name5009-7" xml:lang="ar" source="#bib2903-15">الأحساء‎لهسا</placeName>
+                    <placeName xml:id="name5009-8" xml:lang="ar" source="#bib2903-16">لهسا</placeName>
                     <desc type="abstract" xml:id="abstract2903-1" xml:lang="en" source="#bib2903-10">The capital city of
                         the province of <placeName>al-Baḥrayn</placeName>.</desc>
+                    <desc xml:lang="en" source="#bib2903-18"><quote>[O]asis, or more properly group of oases, in eastern Saudi Arabia, approximately from 25° 20′ to 25° 40′ N., and 49° 30′ to 49° 50′ E. The name has been also used to designate the entire region of Eastern Arabia.</quote></desc>
                     <desc xml:lang="ar">
                         <quote source="#bib2903-3">هجر : [...] في الإقليم الثاني، طولها من جهة
                             المغرب ثلاث وسبعون درجة، وعرضها أربع وعشرون درجة وخمس عشرة دقيقة، وفي
@@ -159,6 +175,15 @@
                             وبين البصرة خمسة عشر يوما على الإبل، وقد ذكر قوم من أهل الأدب أن هجر لا
                             تدخله الألف واللام [...] وقال ابن موسى : هجر قصبة بلاد البحرين بينه وبين
                             سرين سبعة أيام.</quote>
+                    </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib2903-2">والأحساء : مدينة بالبحرين، معروفة مشهورة، كان أول من عمرها وحصنها وجعلها قصبة هجر أبو طاهر سليمان بن أبي سعيد الجناني القرمطي، وهي إلى الآن، مدينة مشهورة عامرة.</quote>
+                    </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib2903-12">قال المسعودي : ووجدت أهل الشحر من بلاد حضرموت وساحلها وهي لهسا مدينة على شاطئ البحر من أرض الأحقاف وهي أرض الرمل</quote>
+                    </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib2903-13">وشعره في الغزل وغيره أكثر من أن نأتي عليه، وأكثر الغناء المحدث في وقتنا هذا من شعره؛ وقد أشيع بموته وأن البريدي غرفه لأنه كان هجاه؛ وقيل : بل هرب من البصرة ولحق بهجر والأحساء بأبي طاهر بن سليمان بن الحسن صاحب البحرين.</quote>
                     </desc>
                     <location type="gps" source="#bib2903-11">
                         <geo>25.429444 49.621944</geo>
@@ -188,6 +213,7 @@
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903</idno>
                     <idno type="URI">http://syriaca.org/place/2903</idno>
+                    <idno type="URI">https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa</idno>
                     <bibl xml:id="bib2903-1">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
@@ -250,6 +276,47 @@
                     </bibl>
                     <bibl xml:id="bib2903-11">
                         <ptr target="https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa"/>
+                    </bibl>
+                    <bibl xml:id="bib2903-12">
+                        <title xml:lang="en" level="m">Murūj al-Dhahab</title>
+                        <author>al-Masūdī</author>
+                        <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+                        <citedRange unit="pp">vol. 2, p. 267</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-13">
+                        <title xml:lang="en" level="m">Murūj al-Dhahab</title>
+                        <author>al-Masūdī</author>
+                        <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+                        <citedRange unit="pp">vol. 5, p. 242</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-14">
+                        <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
+                        <author>Abū ʿUbayd al-Bakrī</author>
+                        <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+                        <citedRange unit="pp">vol. 1, 371</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-15">
+                        <title xml:lang="en" level="m">Murūj al-Dhahab</title>
+                        <author>al-Masūdī</author>
+                        <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
+                        <citedRange unit="pp">vol. 2, p. 267; vol. 5, p. 242</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-16">
+                        <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
+                        <author>Abū ʿUbayd al-Bakrī</author>
+                        <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+                        <citedRange unit="pp">vol. 2, p. 267; vol. 5, p. 242</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-17">
+                        <title xml:lang="en" level="m">Safar Nāma</title>
+                        <author>Nāṣir Khusraw</author>
+                        <ptr target="http://syriaca.org/bibl/NATHCE76"/>
+                        <citedRange unit="pp">158-162</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib2903-18">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
                     </bibl>
                 </place>
             </listPlace>
