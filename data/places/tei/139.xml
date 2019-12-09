@@ -223,6 +223,9 @@
                         <quote source="#bib139-10">ومن تكريت الى الموصل 6 ايام ومن الموصل الى آمد 14
                             يوما</quote>
                     </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib139-14">ثم رحلنا من الموصل ونزلنا قرية تعرف بعين الرّصد وهي على نهر عليه جسر مبنيّ، وبها خان كبير. ثم رحلنا ونزلنا قرية تعرف بالمويلحة</quote>
+                    </desc>
                     <location type="gps" source="#bib139-13">
                         <geo>36.335572 43.13713</geo>
                     </location>
@@ -343,6 +346,13 @@
                     </bibl>
                     <bibl xml:id="bib139-13">
                         <ptr target="http://pleiades.stoa.org/places/874609"/>
+                    </bibl>
+                    <bibl xml:id="bib139-14">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">245</citedRange>
                     </bibl>
                 </place>
             </listPlace>
