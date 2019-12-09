@@ -158,6 +158,10 @@
                         <quote source="#bib419-2">قرية كبيرة كانت في لحف جبل قاسيون من غوطة دمشق وقد
                             اتصلت بها.</quote>
                     </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib419-7">وتدور بدمشق من جهاتها ما عدا الشرقية أرباض فسيحة الساحات، دواخلها أملح من داخل دمشق، لأجل الضيق الذي في سككها. وبالجهة الشمالية منها ربض الصالحية، وهي مدينة عظيمة لها سوق لا نظير لحسنه، وفيها مسجد جامع ومارستان.</quote></desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib419-8">وأهل الصالحية كلّهم على مذهب الامام أحمد بن حنبل رضي الله عنه.</quote></desc>
                     <desc xml:lang="en">
                         <quote source="#bib419-3">a large village which was situated in the <placeName>Ghūta</placeName> of
                             <placeName>Damascus</placeName>, at the foot of <placeName>Qasyun Mountain</placeName>. It has now become part of
@@ -210,6 +214,22 @@
                     </bibl>
                     <bibl xml:id="bib419-6">
                         <ptr target="https://www.google.com/maps/place/Al+Salhiyeh,+Damascus,+Syria/@33.5315138,36.1493723,11z/data=!4m5!3m4!1s0x1518e73080431fa7:0x923962e45a827d57!8m2!3d33.529055!4d36.287486"/>
+                    </bibl>
+                    <bibl xml:id="bib419-7">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">116</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib419-8">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">117</citedRange>
                     </bibl>
                 </place>
             </listPlace>
