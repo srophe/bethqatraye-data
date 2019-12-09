@@ -143,6 +143,10 @@
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name111-3">Wāsiṭ</placeName>
                     <desc type="abstract" xml:id="abstract509-1" xml:lang="en">A city of southern <placeName>Iraq</placeName> on the west
                         bank of the <placeName ref="http://syriaca.org/place/202">Tigris</placeName>.</desc>
+                    <desc xml:lang="ar"><quote source="#bib509-8">يحكى أن الشيخ الولي أحمد الرفاعي رضي الله عنه كان مسكنه بأم عبيدة بمقربة من مدينة واسط، وكانت بين ولي الله تعالى أبي مدين شعيب ابن الحسين وبينه مؤاخاة ومراسلة</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib509-9">مدينة واسط</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib509-10">ولمّا نزلنا مدينة واسط أقامت القافلة ثلاثا بخارجها للتجارة. فسنح لي زيارة قبر الولي أبي العباس أحمد الرفاعي، وهو بقرية تعرف بأم عبيدة، على مسيرة يوم من واسط</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib509-11">ولمّا حصلت لي زيارة الشيخ أبى العباس الرفاعي نفع الله به، عدت إلى مدينة واسط، فوجدت الرفقة التي كنت فيها قد رحلت، فلحقتها في الطريق ونزلنا ماء يعرف بالهضيب</quote></desc>
                     <event type="attestation" xml:id="attestation509-1" notBefore="1224" notAfter="1228" source="#bib509-5" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">واسط</foreign>
                             in the <title xml:lang="en" level="m">Muʿjam al-buldān</title> of
@@ -200,6 +204,34 @@
                         <editor>M.J. de Goeje</editor>
                         <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
                         <citedRange unit="pp">217</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib509-8">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">114</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib509-9">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">194</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib509-10">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">195</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib509-11">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">196</citedRange>
                     </bibl>
                 </place>
             </listPlace>
