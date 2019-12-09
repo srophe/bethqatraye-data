@@ -193,6 +193,11 @@
                             نظير له نريد ان ليس مثله بتة مثل معنقة بيت المقدس ونيدة مصر وليمو البصرة
                             وهذه اشياء لا يرى مثلها وان كانت اجناسا</quote>
                     </desc>
+                    <desc xml:lang="ar"><quote source="#bib44-11">والحويزا على مسیرة ثلاثة أيام من البصرة</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib44-12">وسافرت الى البصرة صحبة رفقة كبيرة من عرب خفاجة</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib44-13">ثم رحلنا منه ونزلنا بالقرب من البصرة، ثم رحلنا فدخلنا ضحوة النهار الى مدينة البصرة.</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib44-14">والبصرة ثلاث محلّات: إحداها محلّة هذيل، وكبيرها الشيخ الفاضل علاء الدين بن الأثير، من الكرماء الفضلاء، أضافني وبعث اليّ بثياب ودراهم، والمحلّة الثانية محلّة بني حرام، كبيرها السيّد الشريف مجد الدين موسى الحسنى، ذو مكارم وفواضل، أضافني وبعث اليّ التمر والسّيلان والدراهم، والمحلّة الثالثة محلّة العجم، كبيرها جمال الدين بن اللّوكيّ. وأهل البصرة لهم مكارم أخلاق وإيناس للغريب وقيام بحقّه، فلا يستوحش فيما بينهم غريب. وهم يصلّون الجمعة في مسجد أمير المؤمنين علي رضي الله عنه الذي ذكرته، ثم يسدّ فلا يأتونه إلا في الجمعة.</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib44-15">وأهل البصرة على مذهب السنة والجماعة، ولا يخاف من يفعل مثل فعلي عندهم، ولو جرى مثل هذا بمشهد الحسين، أو بالحلة، أو بالبحرين، أو قم، أو قاشان، أو ساوة، أو آوه، أو طوس، لهلك فاعله، لأنهم رافضة غالىة.</quote></desc>
                     <location type="gps" source="#bib44-10">
                         <geo>30.503217 47.820635</geo>
                     </location>
@@ -267,7 +272,7 @@
                             gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
                         <author>Ibn Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
-                        <citedRange unit="pp">64, 194, 196, 197, 198,199, 200, 202, 204, 228, 233,
+                        <citedRange unit="pp">64, 194, 196, 197, 198, 199, 200, 202, 204, 228, 233,
                             243, 281, 662, 686</citedRange>
                     </bibl>
                     <bibl xml:id="bib44-9">
@@ -279,6 +284,41 @@
                     </bibl>
                     <bibl xml:id="bib44-10">
                         <ptr target="http://pleiades.stoa.org/places/912821"/>
+                    </bibl>                    
+                    <bibl xml:id="bib44-11">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">64</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib44-12">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">194</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib44-13">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">196</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib44-14">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">197</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib44-15">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">198</citedRange>
                     </bibl>
                 </place>
             </listPlace>
