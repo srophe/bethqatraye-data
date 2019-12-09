@@ -198,6 +198,12 @@
                             الذاهبة اشتهرت بكرسي مفارنة المشرق من سنة 628 م حتى منسلخ المئة الثانية
                             عشرة</quote>
                     </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib193-14">ثم سرنا منها مرحلة ووصلنا إلى مدينة تكريت، وهي مدينة كبيرة فسيحة الأرجاء مليحة الأسواق كثيرة الجوامع وأهلها موصوفون بحسن الأخلاق والدجلة من الجهة الشمالية منها ولها قلعة حصينة على شطّ الدجلة والمدينة عتيقة البناء عليها سور يطيف بها</quote>
+                    </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib193-15">ولقد اشتريت من تاجر عراقي من أهل تكريت يعرف بمحمد الدوري بمدينة غزنة</quote>
+                    </desc>
                     <desc xml:lang="en">
                         <quote source="#bib193-5">an ancient city west of the <placeName>Tigris</placeName>, between
                             <placeName>Baghdad</placeName> and <placeName>Mosul</placeName>. In the golden age of the Syrians, it was the seat of
@@ -316,6 +322,22 @@
                     </bibl>
                     <bibl xml:id="bib193-13">
                         <ptr target="http://pleiades.stoa.org/places/894099"/>
+                    </bibl>
+                    <bibl xml:id="bib193-14">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">243</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib193-15">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">407</citedRange>
                     </bibl>
                 </place>
             </listPlace>

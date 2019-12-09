@@ -177,6 +177,10 @@
                         <quote source="#bib211-10">ثم يمتد الفرات على ديار العرب حتى ينتهي الى الرقة
                             وقرقيسيا والرحبة والدالية وعانة والحديثة وهيت والانبارالى الكوفة</quote>
                     </desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib211-13">ولم أر في الدنيا مثلها، غير مسيرة أربعة أيام من الأنبار الى عانة.</quote></desc>
+                    <desc xml:lang="ar">
+                        <quote source="#bib211-14">ثم رحلت من بغداد فوصلت الى مدينة الأنبار.</quote></desc>
                     <location type="gps" source="#bib211-12">
                         <geo>33.375 43.71667</geo>
                     </location>
@@ -271,6 +275,22 @@
                     </bibl>
                     <bibl xml:id="bib211-12">
                         <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Anbar_(town)&amp;params=33_22.5_N_43_43_E_region:IQ_type:city"/>
+                    </bibl>
+                    <bibl xml:id="bib211-13">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">655</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib211-14">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">663</citedRange>
                     </bibl>
                 </place>
             </listPlace>
