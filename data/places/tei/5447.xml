@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +69,9 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -79,13 +83,26 @@
           <placeName xml:id="name5447-3" xml:lang="en">Zion</placeName>
           <placeName xml:id="name5447-4" xml:lang="ar" source="#bib5447-1">صهيون</placeName>
           <desc type="abstract" xml:id="abstract5447-1" xml:lang="en" source="#bib5447-2">“[A] stronghold of the D̲j̲abal al-ʿAlawiyyīn (Nuṣayrī Mountains), situated about 25 km/15 miles north-east of the Syrian port of ¶ al-Lād̲h̲iḳiyya (Latakia), near the town of al-Ḥaffeh.” (Morray)</desc>
+                    <location type="gps" source="#bib5447-3">
+                        <geo>35.59593 36.05714</geo>
+                    </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5447</idno>
           <idno type="URI">http://syriaca.org/place/5447</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2281725</idno>
           <bibl xml:id="bib5447-1">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">92</citedRange>
-          </bibl><bibl xml:id="bib5447-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6479"/></bibl>
+          </bibl>
+                    <bibl xml:id="bib5447-2">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6479"/>
+                    </bibl>
+                    <bibl xml:id="bib5447-3">
+                        <ptr target="http://gazetteer.dainst.org/place/2281725"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>

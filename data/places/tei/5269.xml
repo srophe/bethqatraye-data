@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +38,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -63,7 +65,8 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -74,13 +77,21 @@
           <placeName xml:id="name5269-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
           <placeName xml:id="name5269-3" xml:lang="ar" source="#bib5269-1">دارين</placeName>
           <desc type="abstract" xml:id="abstract5269-1" xml:lang="en">An island on the coast of Bahrain.</desc>
+                    <location type="gps" source="#bib5269-2">
+                        <geo>26.540066 50.083585</geo>
+                    </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5269</idno>
           <idno type="URI">http://syriaca.org/place/5269</idno>
           <idno type="URI">https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين</idno>
           <bibl xml:id="bib5269-1">
-            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title><author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author><ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
+            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
+                        <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
+                        <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
             <citedRange unit="pp">839</citedRange>
           </bibl>
+                    <bibl xml:id="bib5269-2">
+                        <ptr target="https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>

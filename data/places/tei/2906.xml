@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -105,7 +107,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2017-08-09-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -138,7 +140,8 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2906-5">Merged in data from [duplicate record with same URI].</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2906-5">Merged in data from [duplicate record with same URI].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2906-4">Merged in data from [duplicate record with same URI]. [duplicate
         record with same URI]</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2906-3">Merged in data from [duplicate record with same URI]. [duplicate
@@ -180,6 +183,9 @@
             <quote source="#bib2906-5">فان قلنا جيد فقد يكون اجود منه ....... ..... الطائفى ونيل
               اريحا خير منه الزبيدى وخوخ مكة اسرى منه الدارقى</quote>
           </desc>
+                    <location type="gps" source="#bib2906-8">
+                        <geo>21.42664 39.82563</geo>
+                    </location>
           <location type="gps" source="#bib2906-2">
             <geo>21.426804 39.815421</geo>
           </location>
@@ -247,6 +253,9 @@
             <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
             <citedRange unit="pp">3, 14, 23, 30, 56, 59, 80-182, 205, 208</citedRange>
           </bibl>
+                    <bibl xml:id="bib2906-8">
+                        <ptr target="http://gazetteer.dainst.org/place/2283160"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>

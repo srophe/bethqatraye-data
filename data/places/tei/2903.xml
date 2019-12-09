@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -122,7 +124,9 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#dmichelson" when="2018-08-14-05:00">ADDED: temporary coordinates and Pleiades URI</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
+            <change who="http://syriaca.org/documentation/editors.xml#dmichelson" when="2018-08-14-05:00">ADDED: temporary coordinates and Pleiades URI</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn al-Faqih citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn Khurradadhbih citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">CREATED: place</change>
@@ -156,6 +160,9 @@
                             تدخله الألف واللام [...] وقال ابن موسى : هجر قصبة بلاد البحرين بينه وبين
                             سرين سبعة أيام.</quote>
                     </desc>
+                    <location type="gps" source="#bib2903-11">
+                        <geo>25.429444 49.621944</geo>
+                    </location>
                     <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>26.877823 48.726603</geo>
                     </location>
@@ -231,9 +238,19 @@
                         <citedRange unit="pp">152</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-9">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">287</citedRange>
-                    </bibl><bibl xml:id="bib2903-10"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/></bibl>
+                    </bibl>
+                    <bibl xml:id="bib2903-10">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
+                    </bibl>
+                    <bibl xml:id="bib2903-11">
+                        <ptr target="https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa"/>
+                    </bibl>
                 </place>
             </listPlace>
         </body>

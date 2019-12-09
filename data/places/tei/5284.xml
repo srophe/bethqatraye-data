@@ -1,8 +1,11 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">Ḥaḍramawt - <foreign xml:lang="ar">حضرموت</foreign></title>
+        <title level="a" xml:lang="en">Ḥaḍramawt - <foreign xml:lang="ar">حضرموت</foreign>
+                </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>         <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>         <funder>Qatar National Research Foundation</funder>
         <principal>Haya Al Thani</principal>
@@ -91,7 +94,9 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5284-1">Merged in data from
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5284-1">Merged in data from
         [http://bqgazetteer.bethmardutho.org/place/5285].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5285]</change>
@@ -114,18 +119,33 @@
               على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل
               اليمن الى جدة ثم يمتدعلى الجار ومدين حتى ينتهي الى أيلة</quote>
           </desc>
+                    <location type="gps" source="#bib5284-4">
+                        <geo>16.0 49.0</geo>
+                    </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5284</idno>
           <idno type="URI">http://syriaca.org/place/5284</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2402351</idno>
           <idno type="URI">http://sws.geonames.org/75411</idno>
           <bibl xml:id="bib5284-1">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">267</citedRange>
           </bibl>
           <bibl xml:id="bib5284-2">
-            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>
+                        <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
+                        <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">17</citedRange>
-          </bibl><bibl xml:id="bib5284-3"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0251"/></bibl>
+          </bibl>
+                    <bibl xml:id="bib5284-3">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0251"/>
+                    </bibl>
+                    <bibl xml:id="bib5284-4">
+                        <ptr target="http://gazetteer.dainst.org/place/2402351"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>

@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -66,7 +68,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2014-06-30-04:00</date>
+                <date>2019-12-09-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -100,6 +102,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change153-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change153-1">Merged in data from [duplicate record
@@ -135,6 +138,9 @@
                     <desc xml:lang="ar">
                         <quote source="#bib153-4">وتدمر وسلمية وهما من عمل حمص</quote>
                     </desc>
+                    <location type="gps" source="#bib153-6">
+                        <geo>34.551395750000005 38.2667172</geo>
+                    </location>
                     <location type="gps" source="#bib153-1">
                         <geo>34.56 38.26722</geo>
                     </location>
@@ -157,27 +163,39 @@
                         <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac
                             Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
-                        <citedRange unit="pp">29, 363, 425</citedRange><citedRange unit="maps">Map I
-                            B2</citedRange></bibl>
+                        <citedRange unit="pp">29, 363, 425</citedRange>
+                        <citedRange unit="maps">Map I
+                            B2</citedRange>
+                    </bibl>
                     <bibl xml:id="bib153-2">
                         <title xml:lang="en">The Comprehensive Bibliography on Syriac
                             Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
-                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Palmyra&amp;sT=keywords">Palmyra</citedRange></bibl>
+                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Palmyra&amp;sT=keywords">Palmyra</citedRange>
+                    </bibl>
                     <bibl xml:id="bib153-3">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">II:20</citedRange></bibl>
+                        <citedRange unit="pp">II:20</citedRange>
+                    </bibl>
                     <bibl xml:id="bib153-4">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa
-                            al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
-                        <citedRange unit="pp">17</citedRange></bibl>
+                            al-mamālik</title>
+                        <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
+                        <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+                        <citedRange unit="pp">17</citedRange>
+                    </bibl>
                     <bibl xml:id="bib153-5">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
-                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn
-                            Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">663</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib153-6">
+                        <ptr target="http://pleiades.stoa.org/places/668331"/>
                     </bibl>
                 </place>
             </listPlace>

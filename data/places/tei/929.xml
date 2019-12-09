@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -71,7 +73,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2017-08-09-05:00</date>
+                <date>2019-12-09-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -111,6 +113,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change929-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change929-1">Merged in data from [duplicate record
@@ -147,6 +150,9 @@
                         <quote source="#bib929-4">السوس كورة باقصى المغرب ومدينة باوله واخرى بهيطل
                             وكورة بخوزستان وبالمغرب سوسة ايضا</quote>
                     </desc>
+                    <location type="gps" source="#bib929-5">
+                        <geo>32.5 48.5</geo>
+                    </location>
                     <event type="attestation" xml:id="attestation929-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib929-2">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="ar">الأَهْوَاز</foreign> and <foreign xml:lang="ar">خُوْزستان</foreign>
                             in the <title xml:lang="en" level="m">Muʿjam al-buldān</title> of
@@ -192,6 +198,9 @@
                         <author>Muḥammad ibn Aḥmad Maqdisī</author>
                         <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
                         <citedRange unit="pp">24</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib929-5">
+                        <ptr target="http://pleiades.stoa.org/places/912843"/>
                     </bibl>
                 </place>
             </listPlace>

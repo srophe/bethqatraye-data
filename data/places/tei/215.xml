@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -131,7 +133,9 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change215-3">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change215-3">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change215-2">Merged in data from [duplicate record
                 with same URI]. [duplicate record with same URI]</change>
@@ -184,6 +188,9 @@
                     <desc xml:lang="ar">
                         <quote source="#bib215-8">وتدمر وسلمية وهما من عمل حمص</quote>
                     </desc>
+                    <location type="gps" source="#bib215-12">
+                        <geo>34.751899 36.724237</geo>
+                    </location>
                     <location type="gps" source="#bib215-2">
                         <geo>34.730833 36.709444</geo>
                     </location>
@@ -212,53 +219,79 @@
                         <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the
                             Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
-                        <citedRange unit="pp">196-197</citedRange></bibl>
+                        <citedRange unit="pp">196-197</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-2">
                         <title xml:lang="en">The Gorgias Encyclopedic Dictionary of the Syriac
                             Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">5, 42 (fig. 15), 59, 62, 77, 87, 103, 110, 111, 117,
                             130, 155, 163, 178, 196–197, 208, 234, 270, 313, 342–343, 353, 360, 389,
-                            393, 425</citedRange><citedRange unit="maps">Map I B2, II A2,
-                            V</citedRange></bibl>
+                            393, 425</citedRange>
+                        <citedRange unit="maps">Map I B2, II A2,
+                            V</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-3">
                         <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                         <ptr target="http://syriaca.org/bibl/3"/>
-                        <citedRange unit="pp">539</citedRange></bibl>
+                        <citedRange unit="pp">539</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-4">
                         <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب
                             السريانية</title>
                         <ptr target="http://syriaca.org/bibl/2"/>
-                        <citedRange unit="pp">507</citedRange></bibl>
+                        <citedRange unit="pp">507</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-5">
                         <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature
                             and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
-                        <citedRange unit="pp">553</citedRange></bibl>
+                        <citedRange unit="pp">553</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-6">
                         <title xml:lang="en">The Comprehensive Bibliography on Syriac
                             Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
-                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Homs&amp;sT=keywords">Homs</citedRange><citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Emesa&amp;sT=keywords">Emesa</citedRange></bibl>
+                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=H&amp;sK=Homs&amp;sT=keywords">Homs</citedRange>
+                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=E&amp;sK=Emesa&amp;sT=keywords">Emesa</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-7">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">II:347</citedRange></bibl>
+                        <citedRange unit="pp">II:347</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-8">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa
-                            al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
-                        <citedRange unit="pp">17</citedRange></bibl>
+                            al-mamālik</title>
+                        <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
+                        <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+                        <citedRange unit="pp">17</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-9">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn
-                            Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/>
-                        <citedRange unit="pp">255-259</citedRange></bibl>
+                        <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+                        <author>Ibn
+                            Jubayr</author>
+                        <editor>M.J. de Goeje</editor>
+                        <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
+                        <citedRange unit="pp">255-259</citedRange>
+                    </bibl>
                     <bibl xml:id="bib215-10">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
-                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn
-                            Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">83, 84, 94, 664, 665</citedRange>
-                    </bibl><bibl xml:id="bib215-11"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0289"/></bibl>
+                    </bibl>
+                    <bibl xml:id="bib215-11">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0289"/>
+                    </bibl>
+                    <bibl xml:id="bib215-12">
+                        <ptr target="http://pleiades.stoa.org/places/668261"/>
+                    </bibl>
                 </place>
             </listPlace>
         </body>

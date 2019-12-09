@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -79,7 +81,9 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -96,21 +100,40 @@
           <desc xml:lang="ar">
             <quote source="#bib5109-1">الصفا : [...] ومنه الصفا والمروة : وهما جبلان بين بطحاء مكة والمسجد، أما الصفا فمكان مرتفع من جبل أبي قبيس بينه وبين المسجد الحرام عرض الوادي الذي هو طريق وسوق، ومن وقف على الصفا كان بحذاء الحجر الأسود والمشعر الحرام بين الصفا والمروة</quote>
           </desc>
+                    <location type="gps" source="#bib5109-5">
+                        <geo>21.423611 39.827222</geo>
+                    </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5109</idno>
           <idno type="URI">http://syriaca.org/place/5109</idno>
           <idno type="URI">https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة</idno>
           <bibl xml:id="bib5109-1">
-            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><author>Farīd ʿAbd al-ʿAzīz al-Jundī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+                        <author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author>
+                        <author>Farīd ʿAbd al-ʿAzīz al-Jundī</author>
+                        <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 3, p. 411</citedRange>
           </bibl>
           <bibl xml:id="bib5109-2">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">133, 144, 152, 154, 155, 172, 176, 249</citedRange>
           </bibl>
           <bibl xml:id="bib5109-3">
-            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+                        <author>Ibn Jubayr</author>
+                        <editor>M.J. de Goeje</editor>
+                        <ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">81, 91, 106-110, 115, 121, 130, 167</citedRange>
-          </bibl><bibl xml:id="bib5109-4"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6434"/></bibl>
+          </bibl>
+                    <bibl xml:id="bib5109-4">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6434"/>
+                    </bibl>
+                    <bibl xml:id="bib5109-5">
+                        <ptr target="https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>

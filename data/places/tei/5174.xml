@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +69,9 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -83,13 +87,26 @@
           <desc xml:lang="ar">
             <quote source="#bib5174-1">فاما مملكة الاسلام فان شرقيها ارض الهند وبحر فارس وغربيها مملكة السودان السكان على البحر المحيط المتصلين ببرارى أودغشت وصحاريها تجاه أوليل وشماليها بلاد الروم وما يتصل بها من الارض واللان والران والسرير والخزر والروس وبلغار والصقالبة وطائفه من الترك ومن شماليها مملكة الصين وما اتصل بها من بلد الاتراك وجنوبيها بحر فارس</quote>
           </desc>
+                    <location type="gps" source="#bib5174-3">
+                        <geo>17.4235 -10.406</geo>
+                    </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5174</idno>
           <idno type="URI">http://syriaca.org/place/5174</idno>
           <idno type="URI">http://www.geonames.org/2381516/aoudaghost.html</idno>
           <bibl xml:id="bib5174-1">
-            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>
+                        <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
+                        <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">10</citedRange>
-          </bibl><bibl xml:id="bib5174-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0869"/></bibl>
+          </bibl>
+                    <bibl xml:id="bib5174-2">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0869"/>
+                    </bibl>
+                    <bibl xml:id="bib5174-3">
+                        <ptr target="http://www.geonames.org/2381516/aoudaghost.html"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>

@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +69,9 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,13 +82,27 @@
           <placeName xml:id="name5117-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السماوة</placeName>
           <placeName xml:id="name5117-3" xml:lang="ar" source="#bib5117-1">السماوة</placeName>
           <desc type="abstract" xml:id="abstract5117-1" xml:lang="en" source="#bib5117-2">“Al-Samāwa was the name given, in the definition of al-Bakrī ( Muʿd̲j̲am mā staʿd̲j̲am , Cairo 1364-71/1945-51, iii, 754, copied by Yāḳūt, Buldān , ed. Beirut, iii, 245), during mediaeval Islamic times to the desert and steppeland lying between al-Kūfa and Syria.” (C.E. Bosworth)</desc>
+                    <location type="gps" source="#bib5117-3">
+                        <geo>31.33198 45.2944</geo>
+                    </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5117</idno>
           <idno type="URI">http://syriaca.org/place/5117</idno>
           <idno type="URI">http://sws.geonames.org/98530</idno>
           <bibl xml:id="bib5117-1">
-            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
+            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+                        <author>Ibn Jubayr</author>
+                        <editor>M.J. de Goeje</editor>
+                        <ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">260</citedRange>
-          </bibl><bibl xml:id="bib5117-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6574"/></bibl>
+          </bibl>
+                    <bibl xml:id="bib5117-2">
+                        <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
+                        <editor>P. Bearman</editor>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6574"/>
+                    </bibl>
+                    <bibl xml:id="bib5117-3">
+                        <ptr target="http://sws.geonames.org/98530"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>

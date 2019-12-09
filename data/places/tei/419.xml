@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -88,7 +90,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2014-06-30-04:00</date>
+                <date>2019-12-09-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -122,6 +124,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change419-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
@@ -160,6 +163,9 @@
                             <placeName>Damascus</placeName>, at the foot of <placeName>Qasyun Mountain</placeName>. It has now become part of
                             <placeName>Damascus</placeName>.</quote>
                     </desc>
+                    <location type="gps" source="#bib419-6">
+                        <geo>33.5315138 36.1493723</geo>
+                    </location>
                     <event type="attestation" xml:id="attestation419-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib419-4">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الصالحية</foreign> in the <title xml:lang="en" level="m">Muʿjam
                                 al-buldān</title> of <persName>Yāqūt al-Ḥamawī</persName>.</p>
@@ -174,27 +180,36 @@
                     <bibl xml:id="bib419-1">
                         <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                         <ptr target="http://syriaca.org/bibl/3"/>
-                        <citedRange unit="pp">557</citedRange></bibl>
+                        <citedRange unit="pp">557</citedRange>
+                    </bibl>
                     <bibl xml:id="bib419-2">
                         <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب
                             السريانية</title>
                         <ptr target="http://syriaca.org/bibl/2"/>
-                        <citedRange unit="pp">517</citedRange></bibl>
+                        <citedRange unit="pp">517</citedRange>
+                    </bibl>
                     <bibl xml:id="bib419-3">
                         <title xml:lang="en">The Scattered Pearls: A History of Syriac Literature
                             and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
-                        <citedRange unit="pp">558</citedRange></bibl>
+                        <citedRange unit="pp">558</citedRange>
+                    </bibl>
                     <bibl xml:id="bib419-4">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">III:442</citedRange></bibl>
+                        <citedRange unit="pp">III:442</citedRange>
+                    </bibl>
                     <bibl xml:id="bib419-5">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
-                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn
-                            Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">116, 117</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib419-6">
+                        <ptr target="https://www.google.com/maps/place/Al+Salhiyeh,+Damascus,+Syria/@33.5315138,36.1493723,11z/data=!4m5!3m4!1s0x1518e73080431fa7:0x923962e45a827d57!8m2!3d33.529055!4d36.287486"/>
                     </bibl>
                 </place>
             </listPlace>

@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +54,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-09-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -85,7 +87,8 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -97,17 +100,22 @@
           <placeName xml:id="name5359-3" xml:lang="en">Madiane</placeName>
           <placeName xml:id="name5359-4" xml:lang="en">Midian</placeName>
           <placeName xml:id="name5359-5" xml:lang="ar" source="#bib5359-1">مدين</placeName>
-          <desc type="abstract" xml:id="abstract5359-1" xml:lang="en"><quote source="#bib5359-2">[A] town on the east side of
+          <desc type="abstract" xml:id="abstract5359-1" xml:lang="en">
+                        <quote source="#bib5359-2">[A] town on the east side of
             the <placeName>Gulf of Akaba</placeName>. The name is, connected with that of the tribe of Midianites known
             from the Old Testament (lxx.: Μαδιαμ, Μαδιαν; in Josephus Μαδιηνίται, ή Μαδιηνὴ χωρα)
             but it can hardly be used without further consideration to identify the original home of
             this tribe, as the town might be a later Midianite settlement and besides it is
-            difficult to fix the real home of such wandering tribes.</quote></desc>
+            difficult to fix the real home of such wandering tribes.</quote>
+                    </desc>
           <desc xml:lang="ar">
             <quote source="#bib5359-1">ويحيط بها بحر فارس من عبادان وهو مصب ماء دجلة في البحر فيمتد
               على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل
               اليمن الى جدة ثم يمتدعلى الجار ومدين حتى ينتهي الى أيلة</quote>
           </desc>
+                    <location type="gps" source="#bib5359-3">
+                        <geo>28.75 34.75</geo>
+                    </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5359</idno>
           <idno type="URI">http://syriaca.org/place/5359</idno>
           <idno type="URI">http://pleiades.stoa.org/places/746776</idno>
@@ -122,6 +130,9 @@
             <editor>M. Th.Houtsma</editor>
             <ptr target="http://dx.doi.org/10.1163/2214-871X_ei1_SIM_4420"/>
           </bibl>
+                    <bibl xml:id="bib5359-3">
+                        <ptr target="http://pleiades.stoa.org/places/746776"/>
+                    </bibl>
         </place>
       </listPlace>
     </body>
