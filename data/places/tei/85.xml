@@ -115,6 +115,9 @@
                     <desc type="abstract" xml:lang="en" xml:id="abstract85-1">A city on the coast south-east of
                             <placeName ref="http://syriaca.org/place/118">Laodicea</placeName> and
                         west of <placeName ref="http://syriaca.org/place/11">Apamea</placeName>.</desc>
+                    <desc xml:lang="ar"><quote source="#bib85-5">ثم سافرت من حصون الفداوية إلى مدينة جبلة، وهي ذات أنهار مطردة وأشجار، والبحر على نحو ميل منها. وبها قبر الولي الصالح الشهير إبراهيم بن أدهم رضي الله عنه، وهو الذي نبذ الملك، وانقطع إلى الله تعالى، حسبما شهر ذلك. ولم يكن ابراهيم من بيت ملك كما يظنه الناس انما ورث الملك عن جده أبي أمه. وأما أبوه أدهم فكان من الفقراء الصالحين السائحين المتعبدين الورعين المنقطعين.</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib85-6">ثم إنه أمرهم بالتجهيز لقتال المسلمين وأن يبدأوا بمدينة جبلة وأمرهم أن يأخذوا عوض السيوف قضبان الآس، ووعدهم أنها تصير في أيديهم سيوفا عند القتال فغدروا مدينة جبلة، وأهلها في صلاة الجمعة.</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib85-7">فوصلنا إلى مدينة غزّة ثم إلى مدينة الخليل عليه السلام وتكرّرت لنا زيارته، ثمّ إلى بيت المقدّس ثم إلى مدينة الرّملة ثم إلى مدينة عكّا ثم إلى مدينة طرابلس ثم إلى مدينة جبلة </quote></desc>
                     <location type="gps" source="#bib85-4">
                         <geo>35.378062 35.922327</geo>
                     </location>
@@ -157,6 +160,27 @@
                     </bibl>
                     <bibl xml:id="bib85-4">
                         <ptr target="http://pleiades.stoa.org/places/668250"/>
+                    </bibl>
+                    <bibl xml:id="bib85-5">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">95</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib85-6">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">97</citedRange>
+                    </bibl>                    
+                    <bibl xml:id="bib85-7">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">250</citedRange>
                     </bibl>
                 </place>
             </listPlace>
