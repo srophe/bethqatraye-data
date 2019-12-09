@@ -129,6 +129,13 @@
                         It stands on a cliff to the west of which runs the river <placeName>Kārūn</placeName> [q.v.], the
                         middle course of which begins a few miles north of the town.</quote></desc>
                     <desc xml:lang="en">A city in <placeName>Khuzistan</placeName>.</desc>
+                    <desc xml:lang="ar"><quote source="#bib186-8">ثم وصلت إلى مدينة تستر، وهي آخر البسيط من بلاد أتابك، وأول الجبال مدينة كبيرة رائقة نضرة.</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib186-9">انظر لشاذروان تستر واعجب
+                        من جمعه ماء لريّ بلاده
+                        كکمی قوم جمّعت أمواله
+                        فغدا يفرّقها على أجناده</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib186-10">وكان مجلسه مجلس علم ووعظ وبركة وتبادر التائبون فأخذ عليهم العهد وجز نواصيهم، وكانوا خمسة عشر رجلا من الطلبة قدّموا من البصرة برسم ذلك، وعشر رجال من عوّام تستر.</quote></desc>
+                    <desc xml:lang="ar"><quote source="#bib186-11">ثم سافرنا من مدينة تستر ثلاثا في جبال شامخة.</quote></desc>
                     <location type="gps" source="#bib186-7">
                         <geo>32.049999 48.849999</geo>
                     </location>
@@ -194,6 +201,38 @@
                     </bibl>
                     <bibl xml:id="bib186-7">
                         <ptr target="https://pleiades.stoa.org/places/912941"/>
+                    </bibl>
+                    <bibl xml:id="bib186-8">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">202</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib186-9">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">203</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib186-10">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">204</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib186-11">
+                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
+                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author>Ibn
+                            Baṭṭūta</author>
+                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+                        <citedRange unit="pp">205</citedRange>
                     </bibl>
                 </place>
             </listPlace>
