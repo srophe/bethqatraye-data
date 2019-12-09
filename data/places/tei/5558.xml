@@ -77,7 +77,7 @@
           <placeName xml:id="name5558-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿIrāq al-ʿAjam</placeName>
           <placeName xml:id="name5558-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عراق العجم</placeName>
           <placeName xml:id="name5558-3" xml:lang="ar" source="#bib5558-1">عراق العجم</placeName>
-          <desc type="abstract" xml:id="abstract5558-1" xml:lang="en" source="#bib5558-2">“ʿIrāḳ ʿAd̲j̲amī indicated, from the late medieval period onwards, Iranian Media (which the ancient geographers had called al-Ḏj̲ibāl ), to distinguish it from ʿIrāḳ ʿArabī , which is ʿIrāḳ proper.” (Gabrieli)</desc>
+          <desc type="abstract" xml:id="abstract5558-1" xml:lang="en" source="#bib5558-2"><quote>ʿIrāḳ ʿAd̲j̲amī indicated, from the late medieval period onwards, Iranian Media (which the ancient geographers had called al-Ḏj̲ibāl ), to distinguish it from ʿIrāḳ ʿArabī , which is ʿIrāḳ proper.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5558</idno>
           <idno type="URI">http://syriaca.org/place/5558</idno>
           <bibl xml:id="bib5558-1">

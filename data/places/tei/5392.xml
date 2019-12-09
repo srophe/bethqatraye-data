@@ -86,7 +86,7 @@
           <placeName xml:id="name5392-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نجد</placeName>
           <placeName xml:id="name5392-3" xml:lang="ar" source="#bib5392-1">نجد</placeName>
           <placeName xml:id="name5392-4" xml:lang="ar" source="#bib5392-2">نجد</placeName>
-          <desc type="abstract" xml:id="abstract5392-1" xml:lang="en" source="#bib5392-3">The Najd is “conventionally defined as the plateau region of the Arabian peninsula lying to the east of the Red Sea lowlands (al-Tihāma [q.v.]) and the mountain barrier running down through the western side of the peninsula (al-Ḥid̲j̲āz [q.v.]).” (Grohmann)</desc>
+          <desc type="abstract" xml:id="abstract5392-1" xml:lang="en" source="#bib5392-3">The Najd is <quote>conventionally defined as the plateau region of the Arabian peninsula lying to the east of the Red Sea lowlands (al-Tihāma [q.v.]) and the mountain barrier running down through the western side of the peninsula (al-Ḥid̲j̲āz [q.v.]).</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5392</idno>
           <idno type="URI">http://syriaca.org/place/5392</idno>
           <bibl xml:id="bib5392-1">

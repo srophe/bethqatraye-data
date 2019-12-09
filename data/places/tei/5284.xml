@@ -109,11 +109,11 @@
           <placeName xml:id="name5284-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Ḥaḍramawt</placeName>
           <placeName xml:id="name5284-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5284-2">حضرموت</placeName>
           <placeName xml:id="name5284-3" xml:lang="ar" source="#bib5284-1 #bib5284-2">حضرموت</placeName>
-          <desc type="abstract" xml:id="abstract5284-1" xml:lang="en" source="#bib5284-3">“The name Ḥaḍramawt is applicable in its strictest sense to the deep
+          <desc type="abstract" xml:id="abstract5284-1" xml:lang="en" source="#bib5284-3"><quote>The name Ḥaḍramawt is applicable in its strictest sense to the deep
             valley running parallel to the southern coast of Arabia from roughly 48° E. to 50° E.,
             between precipitous walls rising to a high plateau (the Djol), which on the south
             separates it from the narrow coastal plain and on the north from an arid tract merging
-            into the sand desert of the Empty Quarter of Arabia.” (A.F.L. Beeston)</desc>
+            into the sand desert of the Empty Quarter of Arabia.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5284-2">ويحيط بها بحر فارس من عبادان وهو مصب ماء دجلة في البحر فيمتد
               على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل

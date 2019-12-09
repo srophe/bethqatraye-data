@@ -77,7 +77,7 @@
           <placeName xml:id="name5180-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Athūr</placeName>
           <placeName xml:id="name5180-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اثور</placeName>
           <placeName xml:id="name5180-3" xml:lang="ar" source="#bib5180-1">اثور</placeName>
-          <desc type="abstract" xml:id="abstract5180-1" xml:lang="en" source="#bib5180-2">“Modern ḳalʿat s̲h̲arḳāt , a large ancient mound on the west bank of the River Tigris in the vilāyet of Mawṣil, about 250 km. north of Bag̲h̲dād and about 100 km. south of Mawsil, in 35° 30′ N and 45° 15′ E.”</desc>
+          <desc type="abstract" xml:id="abstract5180-1" xml:lang="en" source="#bib5180-2"><quote>Modern ḳalʿat s̲h̲arḳāt , a large ancient mound on the west bank of the River Tigris in the vilāyet of Mawṣil, about 250 km. north of Bag̲h̲dād and about 100 km. south of Mawsil, in 35° 30′ N and 45° 15′ E.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5180-1">وسنجار مدينة باثور</quote>
           </desc>

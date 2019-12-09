@@ -196,11 +196,10 @@
                     <placeName xml:id="name409-8" xml:lang="ar" source="#bib409-7">سِجِستان</placeName>
                     <placeName xml:lang="en" xml:id="name409-9">Sīstān</placeName>
                     <placeName xml:lang="ar" xml:id="name409-10">سيستان</placeName>
-                    <desc type="abstract" xml:lang="en" source="#bib409-12">“[A] region of eastern Persia lying to the
+                    <desc type="abstract" xml:lang="en" source="#bib409-12"><quote>[A] region of eastern Persia lying to the
                         south of <placeName>K̲h̲urāsān</placeName> and to the north of
                             <placeName>Balūčistān</placeName>, now administratively divided between
-                        <placeName>Persia</placeName> and <placeName>Afghanistan</placeName>.”
-                        (Bosworth)</desc>
+                        <placeName>Persia</placeName> and <placeName>Afghanistan</placeName>.</quote></desc>
                     <desc xml:lang="en"><quote source="#bib409-6">A region located around
                                 <placeName>Lake Hāmūn</placeName> and the <placeName>Helmand
                                 river</placeName> in modern

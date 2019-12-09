@@ -90,7 +90,7 @@
           <placeName xml:id="name5043-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الحلة</placeName>
           <placeName xml:id="name5043-3" xml:lang="ar" source="#bib5043-1">الحلة</placeName>
           <placeName xml:id="name5043-4" xml:lang="ar" source="#bib5043-2">الحلة</placeName>
-          <desc type="abstract" xml:id="abstract5043-1" xml:lang="en" source="#bib5043-3">“[A] town situated on the Euphrates midway between al-Kūfa and Bag̲h̲dād near the ruins of ancient Bābil.” (Lassner)</desc>
+          <desc type="abstract" xml:id="abstract5043-1" xml:lang="en" source="#bib5043-3"><quote>[A] town situated on the Euphrates midway between al-Kūfa and Bag̲h̲dād near the ruins of ancient Bābil.</quote></desc>
                     <location type="gps" source="#bib5043-4">
                         <geo>32.46367 44.41963</geo>
                     </location>

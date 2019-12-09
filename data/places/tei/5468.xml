@@ -85,7 +85,7 @@
           <placeName xml:id="name5468-5" xml:lang="en">Shirvan</placeName>
           <placeName xml:id="name5468-6" xml:lang="ar">شيروان</placeName>
           <placeName xml:id="name5468-7" xml:lang="ar" source="#bib5468-1">شروان</placeName>
-          <desc type="abstract" xml:id="abstract5468-1" xml:lang="en" source="#bib5468-2">“A region of eastern Caucasia, known by this name in both mediaeval Islamic and modern times.” (W. Barthold and C.E. Bosworth)</desc>
+          <desc type="abstract" xml:id="abstract5468-1" xml:lang="en" source="#bib5468-2"><quote>A region of eastern Caucasia, known by this name in both mediaeval Islamic and modern times.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5468-1">وقال قوم صخرة موسى بشروان والبحر بحيرة طبرستان والقرية باجروان وقتل الغلام بقرية خزران</quote>
           </desc>

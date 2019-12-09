@@ -84,7 +84,7 @@
           <placeName xml:id="name5276-4" xml:lang="en">Pasitigris</placeName>
           <placeName xml:id="name5276-5" xml:lang="ar">كارون</placeName>
           <placeName xml:id="name5276-6" xml:lang="ar" source="#bib5276-1">دجيل</placeName>
-          <desc type="abstract" xml:id="abstract5276-1" xml:lang="en" source="#bib5276-2">“[T]he largest river in southern Persia. It rises in the north-eastern part of the district of ʿArabistān (earlier called K̲h̲ūzistān), a little above Lat. 32º N. on the Zarda-Kūh, which belongs to the Bak̲h̲tiyārī mountain system or, to be more accurate, on one of the ranges named Kūh-i Rang, one of the highest mountains in south-western Persia (estimated at 13,000 feet).” (M. Streck/J. Lassner)</desc>
+          <desc type="abstract" xml:id="abstract5276-1" xml:lang="en" source="#bib5276-2"><quote>[T]he largest river in southern Persia. It rises in the north-eastern part of the district of ʿArabistān (earlier called K̲h̲ūzistān), a little above Lat. 32º N. on the Zarda-Kūh, which belongs to the Bak̲h̲tiyārī mountain system or, to be more accurate, on one of the ranges named Kūh-i Rang, one of the highest mountains in south-western Persia (estimated at 13,000 feet).</quote></desc>
                     <location type="gps" source="#bib5276-3">
                         <geo>27.0000001 50.9999999</geo>
                     </location>

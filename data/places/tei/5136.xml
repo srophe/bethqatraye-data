@@ -82,7 +82,7 @@
           <placeName xml:id="name5136-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السويس</placeName>
           <placeName xml:id="name5136-3" xml:lang="en">Suez</placeName>
           <placeName xml:id="name5136-4" xml:lang="ar" source="#bib5136-1">السويس</placeName>
-          <desc type="abstract" xml:id="abstract5136-1" xml:lang="en" source="#bib5136-2">“[A] seaport in Egypt, located at the northern end of the Red Sea (lat. 29° 59′ N., long. 32° 33′ E.). The town centre is situated closely south to the ancient town of Ḳulzum [...] which continued the Ptolemaic settlement of Κλυσμα or Κλειυσμα at the western shore of the bay of Suways and of which only a few ruins remain, known as Kūm al-Ḳulzum.” (Schulze)</desc>
+          <desc type="abstract" xml:id="abstract5136-1" xml:lang="en" source="#bib5136-2"><quote>[A] seaport in Egypt, located at the northern end of the Red Sea (lat. 29° 59′ N., long. 32° 33′ E.). The town centre is situated closely south to the ancient town of Ḳulzum [...] which continued the Ptolemaic settlement of Κλυσμα or Κλειυσμα at the western shore of the bay of Suways and of which only a few ruins remain, known as Kūm al-Ḳulzum.</quote></desc>
                     <location type="gps" source="#bib5136-3">
                         <geo>29.97371 32.52627</geo>
                     </location>

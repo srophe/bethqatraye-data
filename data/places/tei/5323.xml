@@ -85,7 +85,7 @@
           <placeName xml:id="name5323-5" xml:lang="ar">جبل النور</placeName>
           <placeName xml:id="name5323-6" xml:lang="ar" source="#bib5323-1">حراء</placeName>
           <placeName xml:id="name5323-7" xml:lang="ar" source="#bib5323-1">جبل حراء</placeName>
-          <desc type="abstract" xml:id="abstract5323-1" xml:lang="en" source="#bib5323-2">“[A] mountain three Arabian miles to the north-east of Mecca, often mentioned along with another mountain opposite, T̲h̲abīr [q.v.]. [...] Muḥammad is said to have been in the habit of spending a month each year in a cave on Ḥirāʾ engaged in taḥannut̲h̲, presumably some form of religious devotion, and to have been visited here by an angel [...].” (T.H. Weir and W. Montgomery Watt)</desc>
+          <desc type="abstract" xml:id="abstract5323-1" xml:lang="en" source="#bib5323-2"><quote>[A] mountain three Arabian miles to the north-east of Mecca, often mentioned along with another mountain opposite, T̲h̲abīr [q.v.]. [...] Muḥammad is said to have been in the habit of spending a month each year in a cave on Ḥirāʾ engaged in taḥannut̲h̲, presumably some form of religious devotion, and to have been visited here by an angel [...].</quote></desc>
                     <location type="gps" source="#bib5323-3">
                         <geo>21.4075415 39.8127483</geo>
                     </location>

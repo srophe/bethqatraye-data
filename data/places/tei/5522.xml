@@ -82,7 +82,7 @@
           <placeName xml:id="name5522-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
           <placeName xml:id="name5522-3" xml:lang="ar" source="#bib5522-1">يبرين</placeName>
           <placeName xml:id="name5522-4" xml:lang="ar" source="#bib5522-2">يبرين</placeName>
-          <desc type="abstract" xml:id="abstract5522-1" xml:lang="en" source="#bib5522-3">“[A] sandy region of Eastern Arabia belonging to Banū Saʿd.” (G.R. Smith)</desc>
+          <desc type="abstract" xml:id="abstract5522-1" xml:lang="en" source="#bib5522-3"><quote>[A] sandy region of Eastern Arabia belonging to Banū Saʿd.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5522-1">يبرين : [...] وقيل : هو رمل لا تدرك أطرافه عن يمين مطلع الشمس من حجر اليمامة، وقال السكري : يبرين بأعلى بلاد بني سعد، وفي كتاب نصر : يبرين من أصقاع البحرين به منبران وهناك الرمل الموصوف بالكثرة، بينه وبين الفلج ثلاث مراحل، وبينه وبين الأحساء وهجر مرحلتان، وهو فيما بينهما وبين مطلع سهيل</quote>
           </desc>

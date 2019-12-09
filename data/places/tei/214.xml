@@ -134,13 +134,13 @@
                     <placeName xml:id="name214-5" xml:lang="en" source="#bib214-5">Hawran</placeName>
                     <placeName xml:id="name214-6" xml:lang="ar" source="#bib214-7">حَوران</placeName>
                     <placeName xml:lang="en" xml:id="name214-7">Ḥaurān</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract214-1" source="#bib214-9">A “region of southern
+                    <desc type="abstract" xml:lang="en" xml:id="abstract214-1" source="#bib214-9">A <quote>region of southern
                         <placeName>Syria</placeName> bounded to the east by the volcanic massif of the <placeName>D̲j̲abal al-Durūz</placeName>,
                         to the north by the plateau of the <placeName>Lad̲j̲āʾ</placeName> and the <placeName>Damascus</placeName> plain, to the
                         west by <placeName>D̲j̲awlān</placeName> [q.v.] and to the south by the <placeName>Yarmūk</placeName>, a region which |
                         corresponds roughly to the administrative area, or liwāʾ , of the same name
                         and which extends for about 100 kilometres from north to south and 75 from
-                        east to west.” (Sourdel)</desc>
+                        east to west.</quote></desc>
                     <desc xml:lang="en">A region south of <placeName ref="http://syriaca.org/place/66">Damascus</placeName> and east of the
                         <placeName>Sea of Galilee</placeName>.</desc>
                     <location type="gps" source="#bib214-6">

@@ -90,7 +90,7 @@
           <placeName xml:id="name5387-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">منى</placeName>
           <placeName xml:id="name5387-3" xml:lang="ar" source="#bib5387-1">منى</placeName>
           <placeName xml:id="name5387-4" xml:lang="ar" source="#bib5387-2">منی</placeName>
-          <desc type="abstract" xml:id="abstract5387-1" xml:lang="en" source="#bib5387-3">“[A] place in the hills east of Mecca on the road from it to ʿArafa [...].” (Buhl)</desc>
+          <desc type="abstract" xml:id="abstract5387-1" xml:lang="en" source="#bib5387-3"><quote>[A] place in the hills east of Mecca on the road from it to ʿArafa [...].</quote></desc>
                     <location type="gps" source="#bib5387-4">
                         <geo>21.413333333333 39.893333333333</geo>
                     </location>

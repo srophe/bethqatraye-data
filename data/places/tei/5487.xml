@@ -82,7 +82,7 @@
           <placeName xml:id="name5487-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تبوك</placeName>
           <placeName xml:id="name5487-3" xml:lang="en">Baclanaza</placeName>
           <placeName xml:id="name5487-4" xml:lang="ar" source="#bib5487-1">تبوك</placeName>
-          <desc type="abstract" xml:id="abstract5487-1" xml:lang="en" source="#bib5487-2">“[A] town of northwestern Arabia, now the centre of an imāra or province of Saudi Arabia (lat. 28° 22′ N., long. 36° 32′ E., altitude 6,500 m/2,250 feet), some 233 km/145 south-south-east of Maʿān and separated from the Red Sea and Gulf of ʿAkaba by the Ḥismā mountains.” (al-Bakhit)</desc>
+          <desc type="abstract" xml:id="abstract5487-1" xml:lang="en" source="#bib5487-2"><quote>[A] town of northwestern Arabia, now the centre of an imāra or province of Saudi Arabia (lat. 28° 22′ N., long. 36° 32′ E., altitude 6,500 m/2,250 feet), some 233 km/145 south-south-east of Maʿān and separated from the Red Sea and Gulf of ʿAkaba by the Ḥismā mountains.</quote></desc>
                     <location type="gps" source="#bib5487-3">
                         <geo>28.3857 36.572302</geo>
                     </location>

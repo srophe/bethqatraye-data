@@ -82,7 +82,7 @@
           <placeName xml:id="name5052-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخليل</placeName>
           <placeName xml:id="name5052-3" xml:lang="en">Hebron</placeName>
           <placeName xml:id="name5052-4" xml:lang="ar" source="#bib5052-1">الخليل</placeName>
-          <desc type="abstract" xml:id="abstract5052-1" xml:lang="en" source="#bib5052-2">“The Arabic name for Hebron, a town in southern Palestine, 32 km. south of Jerusalem (31° N 34° E), the only urban centre in the southern Judaean hills and their virtual capital and commercial centre.” (Sharon)</desc>
+          <desc type="abstract" xml:id="abstract5052-1" xml:lang="en" source="#bib5052-2"><quote>The Arabic name for Hebron, a town in southern Palestine, 32 km. south of Jerusalem (31° N 34° E), the only urban centre in the southern Judaean hills and their virtual capital and commercial centre.</quote></desc>
                     <location type="gps" source="#bib5052-3">
                         <geo>31.530219 35.098486</geo>
                     </location>

@@ -77,7 +77,7 @@
           <placeName xml:id="name5426-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qūhistān</placeName>
           <placeName xml:id="name5426-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قوهستان</placeName>
           <placeName xml:id="name5426-3" xml:lang="ar" source="#bib5426-1">قوهستان</placeName>
-          <desc type="abstract" xml:id="abstract5426-1" xml:lang="en" source="#bib5426-2">“This is the mountainous and partially arable region which stretches south of Nīs̲h̲āpūr as far as Sīstān in the south-east.” (J.H. Kramers)</desc>
+          <desc type="abstract" xml:id="abstract5426-1" xml:lang="en" source="#bib5426-2"><quote>This is the mountainous and partially arable region which stretches south of Nīs̲h̲āpūr as far as Sīstān in the south-east.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5426-1">قوهستان كورة بخراسان ومدينة بكرمان</quote>
           </desc>

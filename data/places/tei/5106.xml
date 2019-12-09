@@ -81,7 +81,7 @@
           <placeName xml:id="name5106-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
           <placeName xml:id="name5106-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الرصافة</placeName>
           <placeName xml:id="name5106-3" xml:lang="ar" source="#bib5106-1">الرصافة</placeName>
-          <desc type="abstract" xml:id="abstract5106-1" xml:lang="en" source="#bib5106-2">“[T]he name of a quarter of the city of Bag̲h̲dād [q.v.] founded soon after the caliph al-Manṣūr [q.v.] built his Round City.” (C.E. Bosworth)</desc>
+          <desc type="abstract" xml:id="abstract5106-1" xml:lang="en" source="#bib5106-2"><quote>[T]he name of a quarter of the city of Bag̲h̲dād [q.v.] founded soon after the caliph al-Manṣūr [q.v.] built his Round City.</quote></desc>
                     <location type="gps" source="#bib5106-3">
                         <geo>33.3430618 44.3377829</geo>
                     </location>

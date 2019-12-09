@@ -81,7 +81,7 @@
           <placeName xml:id="name5386-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Maʿān</placeName>
           <placeName xml:id="name5386-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">معان</placeName>
           <placeName xml:id="name5386-3" xml:lang="ar" source="#bib5386-1">معان</placeName>
-          <desc type="abstract" xml:id="abstract5386-1" xml:lang="en" source="#bib5386-2">“[A] town of the south of Jordan, lying in lat. 30° 12′ N. and long. 35° 44′ E. at an altitude of 3,523 ft./1,074 m., and the chef-lieu of the governorate which is to the south of the Karak [q.v.] one and to the east of the Wādī ʿAraba. The name is said to come from Maʿān, son of Lot.” (Elifféeff)</desc>
+          <desc type="abstract" xml:id="abstract5386-1" xml:lang="en" source="#bib5386-2"><quote>[A] town of the south of Jordan, lying in lat. 30° 12′ N. and long. 35° 44′ E. at an altitude of 3,523 ft./1,074 m., and the chef-lieu of the governorate which is to the south of the Karak [q.v.] one and to the east of the Wādī ʿAraba. The name is said to come from Maʿān, son of Lot.</quote></desc>
                     <location type="gps" source="#bib5386-3">
                         <geo>30.33333 36.58333</geo>
                     </location>

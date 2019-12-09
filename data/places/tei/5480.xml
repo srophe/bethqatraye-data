@@ -116,12 +116,12 @@
           <placeName xml:lang="ar" xml:id="name5480-9">سامّرا</placeName>
           <placeName xml:lang="ar" xml:id="name5480-10" source="#bib5480-2">سرّ من رأي
             (سامّرا)</placeName>
-          <desc type="abstract" xml:id="abstract5480-1" xml:lang="en" source="#bib5480-3">“[A] town on the east bank of
+          <desc type="abstract" xml:id="abstract5480-1" xml:lang="en" source="#bib5480-3"><quote>[A] town on the east bank of
             the middle Tigris in ʿIrāḳ, 125 km north of Bag̲h̲dād, of about 35 ha in 1924, and ca.
             120 ha in the 1970s. Between 221/836 and 279/892 it was the capital of the ʿAbbāsid
             caliphs, and expanded to an occupied area of 57 km2, one of the largest cities of
             ancient times, whose remains of collapsed pisé and brick walls are still largely
-            visible.” (A. Northedge)</desc>
+            visible.</quote></desc>
                     <location type="gps" source="#bib5480-4">
                         <geo>34.19663 43.8739</geo>
                     </location>

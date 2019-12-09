@@ -85,7 +85,7 @@
           <placeName xml:id="name5231-5" xml:lang="ar">جنة البقيع</placeName>
           <placeName xml:id="name5231-6" xml:lang="ar">البقيع</placeName>
           <placeName xml:id="name5231-7" xml:lang="ar" source="#bib5231-1">بقيع الغرقد</placeName>
-          <desc type="abstract" xml:id="abstract5231-1" xml:lang="en" source="#bib5231-2">Baqīʿ al-Gharqad “is the oldest and the first Islamic cemetery of al-Madīna.” (A.J. Wensinck/A.S. Bazmee Ansari)</desc>
+          <desc type="abstract" xml:id="abstract5231-1" xml:lang="en" source="#bib5231-2">Baqīʿ al-Gharqad <quote>is the oldest and the first Islamic cemetery of al-Madīna.</quote></desc>
                     <location type="gps" source="#bib5231-3">
                         <geo>24.4672192 39.6138277</geo>
                     </location>

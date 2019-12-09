@@ -122,9 +122,9 @@
                <placeName xml:id="name2991-2" xml:lang="ar" srophe:tags="#headword" source="#bib2991-2 #bib2991-3">قم</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2991-3">Qum</placeName>
                <placeName xml:lang="en" xml:id="name2991-4">Qom</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2991-1" source="#bib2991-4">“[A] city of central Iran
+               <desc type="abstract" xml:lang="en" xml:id="abstract2991-1" source="#bib2991-4"><quote>[A] city of central Iran
                   (Media in ancient times, later D̲j̲ibāl or ʿIrāḳ-i ad̲j̲am) situated in lat.
-                  34°38′ N. and long. 50°58′ E., 150 km. to the south of Tehran.” (Calmard)</desc>
+                  34°38′ N. and long. 50°58′ E., 150 km. to the south of Tehran.</quote></desc>
                <desc xml:lang="en">A city east of <placeName ref="http://syriaca.org/place/823">Hamadān</placeName> and north of <placeName ref="http://syriaca.org/place/830">Ispahan</placeName>
                </desc>
                     <location type="gps" source="#bib2991-5">

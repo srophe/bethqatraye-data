@@ -170,11 +170,10 @@
                     <placeName xml:id="name429-8" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">‘Ānāt</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name429-9">ʿĀna</placeName>
                     <placeName xml:lang="en" xml:id="name429-10">Anato</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract429-1" source="#bib429-7">“In the Middle Ages
+                    <desc type="abstract" xml:lang="en" xml:id="abstract429-1" source="#bib429-7"><quote>In the Middle Ages
                         also ʿānāt , and in Turkish official usage ʿana —is a town of modern <placeName>ʿIrāḳ</placeName>
                         situated on the <placeName>Euphrates</placeName> right bank (41° 58’ E, 34° 28’ N.), some 245
-                        kilometers southeast of <placeName>Dayr al-Zūr</placeName> and 148 north-west of <placeName>Hīt</placeName>.”
-                        (Longrigg)</desc>
+                        kilometers southeast of <placeName>Dayr al-Zūr</placeName> and 148 north-west of <placeName>Hīt</placeName>.</quote></desc>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib429-1">ܐܰܬܪܐ ܗܘ ܕܰܠܡܰܥܪܒܳܐ ܕܰܦܪܳܬ. ܘܰܠܬܰܝܡܢܳܐ ܡܰܕܢܚܳܝܐ
                             ܕܕܰܝܪ ܐܠܙܘܪ. ܡܶܢ ܐܰܬܪ̈ܘܬܐ ܕܥܪܰܐܩ.</quote>
