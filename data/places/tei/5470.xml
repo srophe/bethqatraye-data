@@ -102,7 +102,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5470</idno>
           <idno type="URI">http://syriaca.org/place/5470</idno>
           <bibl xml:id="bib5470-1">
-            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Yāqūt b. ʿAbdallāh al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 3, p. 353</citedRange>
           </bibl>
         </place>
