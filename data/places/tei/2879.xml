@@ -106,7 +106,7 @@
         <body>
             <listPlace>
                 <place xml:id="place-2879" type="diocese">
-                    <placeName xml:id="name2879-1" xml:lang="en" srophe:tags="#headword" source="#bib2879-1">Mashmahig</placeName>
+                    <placeName xml:id="name2879-1" xml:lang="en" srophe:tags="#headword" source="#bib2879-1 #bib2879-5">Mashmahig</placeName>
                     <placeName xml:id="name2879-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سَماهيج</placeName>
                     <placeName xml:id="name2879-3" xml:lang="syr" srophe:tags="#headword" source="#bib2879-2">ܡܫܡܗܝܓ</placeName>
                     <placeName xml:id="name2879-4" xml:lang="syr" source="#bib2879-2">ܡܝܫܡܗܓ</placeName>
