@@ -207,10 +207,10 @@
                                 <placeName>Tabriz</placeName> and east of <placeName>Lake
                                 Urmiya</placeName>.</quote>
                     </desc>
-                    <location type="gps" source="#bib129-10">
+                    <location type="gps" subtype="alternate" source="#bib129-10">
                         <geo>37.39206 46.23909</geo>
                     </location>
-                    <location type="gps" source="#bib129-1">
+                    <location type="gps" subtype="preferred" source="#bib129-1">
                         <geo>37.383333 46.266667</geo>
                     </location>
                     <event type="attestation" xml:id="attestation129-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib129-6">
