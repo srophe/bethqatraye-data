@@ -187,7 +187,7 @@
                     <placeName xml:id="name508-1" xml:lang="en" srophe:tags="#headword">Yemen</placeName>
                     <placeName xml:id="name508-2" xml:lang="syr" srophe:tags="#headword">ܝܡܢ</placeName>
                     <placeName xml:id="name508-3" xml:lang="syr-Syrj" source="#bib508-1">ܝܰܡܰܢ</placeName>
-                    <placeName xml:id="name508-4" xml:lang="ar" srophe:tags="#headword" source="#bib508-2 #bib508-5 #bib508-6">اليمن</placeName>
+                    <placeName xml:id="name508-4" xml:lang="ar" srophe:tags="#headword" source="#bib508-2 #bib508-5 #bib508-6 #bib508-7 #bib508-8">اليمن</placeName>
                     <placeName xml:id="name508-5" xml:lang="en" source="#bib508-3">Yaman</placeName>
                     <placeName xml:id="name508-6" xml:lang="ar" source="#bib508-4">اليَمَن</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name508-7">al-Yaman</placeName>
