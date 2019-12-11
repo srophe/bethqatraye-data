@@ -91,7 +91,6 @@
           </desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5522</idno>
           <idno type="URI">http://syriaca.org/place/5522</idno>
-          <idno type="URI">http://www.geonames.org/maps/google_23.263_48.981.html</idno>
           <bibl xml:id="bib5522-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
@@ -109,9 +108,6 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7932"/>
-                    </bibl>
-                    <bibl xml:id="bib5522-4">
-                        <ptr target="http://www.geonames.org/maps/google_23.263_48.981.html"/>
                     </bibl>
         </place>
       </listPlace>
