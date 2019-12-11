@@ -91,7 +91,6 @@
           </desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5472</idno>
           <idno type="URI">http://syriaca.org/place/5472</idno>
-          <idno type="URI">http://www.geonames.org/maps/google_31.28_-4.28.html</idno>
           <bibl xml:id="bib5472-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>
                         <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
@@ -102,9 +101,6 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7009"/>
-                    </bibl>
-                    <bibl xml:id="bib5472-3">
-                        <ptr target="http://www.geonames.org/maps/google_31.28_-4.28.html"/>
                     </bibl>
         </place>
       </listPlace>
