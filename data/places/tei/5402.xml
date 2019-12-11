@@ -86,16 +86,12 @@
           </desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5402</idno>
           <idno type="URI">http://syriaca.org/place/5402</idno>
-          <idno type="URI">http://www.geonames.org/maps/google_24.4_39.65.html</idno>
           <bibl xml:id="bib5402-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>
                         <author>Muḥammad ibn Aḥmad Maqdisī</author>
                         <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">27</citedRange>
           </bibl>
-                    <bibl xml:id="bib5402-2">
-                        <ptr target="http://www.geonames.org/maps/google_24.4_39.65.html"/>
-                    </bibl>
         </place>
       </listPlace>
     </body>
