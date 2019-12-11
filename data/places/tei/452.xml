@@ -186,7 +186,7 @@
                     <placeName xml:id="name452-1" xml:lang="en" srophe:tags="#headword" source="#bib452-1">al-Kūfa</placeName>
                     <placeName xml:id="name452-2" xml:lang="syr" srophe:tags="#headword" source="#bib452-2">ܟܘܦܗ</placeName>
                     <placeName xml:id="name452-3" xml:lang="syr-Syrj" source="#bib452-2">ܥܰܐܩܘܠܐ</placeName>
-                    <placeName xml:id="name452-4" xml:lang="ar" srophe:tags="#headword" source="#bib452-3 #bib452-6">الكوفة</placeName>
+                    <placeName xml:id="name452-4" xml:lang="ar" srophe:tags="#headword" source="#bib452-3 #bib452-6 #bib452-8 #bib452-9">الكوفة</placeName>
                     <placeName xml:id="name452-5" xml:lang="ar" source="#bib452-3">عاقولا</placeName>
                     <placeName xml:id="name452-6" xml:lang="en" source="#bib452-4">Kufa</placeName>
                     <placeName xml:id="name452-7" xml:lang="en" source="#bib452-4">Aqula</placeName>
