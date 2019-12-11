@@ -195,7 +195,7 @@
                     <placeName xml:id="name109-5" xml:lang="syr" srophe:tags="#headword">ܩܐܠܘܢܝܩܝ</placeName>
                     <placeName xml:id="name109-6" xml:lang="syr-Syrj" source="#bib109-2">ܩܰܐܠܘܢܝܩܝ</placeName>
                     <placeName xml:id="name109-7" xml:lang="syr-Syrj" source="#bib109-2">ܪܰܩܰܗ̈</placeName>
-                    <placeName xml:id="name109-8" xml:lang="ar" srophe:tags="#headword" source="#bib109-3 #bib109-7">الرقة</placeName>
+                    <placeName xml:id="name109-8" xml:lang="ar" srophe:tags="#headword" source="#bib109-3 #bib109-7 #bib109-9">الرقة</placeName>
                     <placeName xml:id="name109-9" xml:lang="ar" source="#bib109-3">قالونيقس</placeName>
                     <placeName xml:id="name109-10" xml:lang="en" source="#bib109-4">al-Raqqa</placeName>
                     <placeName xml:id="name109-11" xml:lang="en" source="#bib109-4">Callinicus</placeName>
