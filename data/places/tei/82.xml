@@ -159,7 +159,7 @@
                     <placeName xml:id="name82-1" xml:lang="en" srophe:tags="#headword" source="#bib82-1 #bib82-4 #bib82-5">Euphrates</placeName>
                     <placeName xml:id="name82-2" xml:lang="syr" srophe:tags="#headword">ܦܪܬ</placeName>
                     <placeName xml:id="name82-3" xml:lang="syr-Syrj" source="#bib82-2">ܦܪܰܬ</placeName>
-                    <placeName xml:id="name82-4" xml:lang="ar" srophe:tags="#headword" source="#bib82-3 #bib82-7">الفرات</placeName>
+                    <placeName xml:id="name82-4" xml:lang="ar" srophe:tags="#headword" source="#bib82-3 #bib82-7 #bib82-8">الفرات</placeName>
                     <placeName xml:id="name82-5" xml:lang="ar" source="#bib82-6">الفُرات</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name82-6">al-Furāt</placeName>
                     <placeName xml:lang="en" xml:id="name82-7">Ufrātu</placeName>
