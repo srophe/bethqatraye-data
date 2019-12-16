@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">Khārik - <foreign xml:lang="ar">خارك</foreign>
+        <title level="a" xml:lang="en">Kharg - <foreign xml:lang="ar">خارك</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>         <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>         <funder>Qatar National Research Foundation</funder>
@@ -64,6 +64,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00">ADDED: Place name from Bedjan</change>
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -72,15 +73,21 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name4160-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Khārik</placeName>
+          <placeName xml:id="name4160-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Khārik</placeName>
           <placeName xml:id="name4160-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">خارك</placeName>
-          <placeName xml:id="name4160-3" xml:lang="en">Kharg</placeName>
+          <placeName xml:id="name4160-3" xml:lang="en" srophe:tags="#headword">Kharg</placeName>
           <placeName xml:id="name4160-4" xml:lang="en">Khark</placeName>
           <placeName xml:id="name4160-5" xml:lang="ar" source="#bib4160-1">خارك</placeName>
-          <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in the Persian/Arabian Gulf.</desc>
+          <placeName xml:id="name4160-6" xml:lang="en" source="#bib4160-4">Black Island</placeName>
+          <placeName xml:id="name4160-7" xml:lang="syr" source="#bib4160-3">​ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</placeName>
+          <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>.</desc>
                     <location type="gps" source="#bib4160-2">
                         <geo>29.230338 50.30604</geo>
                     </location>
+          <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+            <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
+          </location>
+          <note type="incerta" source="#bib4160-3 #bib4160-4 #bib4160-5">The island of Kharg is likely referred to as the <ref target="#name4160-6">Black Island</ref>, <ref target="#name4160-7">ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</ref>, in the History of Mar Yawnan. See M. Kozah, Introduction, in M. Kozah et al. (eds.), Beth Qaṭraye. A Lexical and Toponymical Survey, Piscataway: Gorgias Press (forthcoming).</note>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4160</idno>
           <idno type="URI">http://syriaca.org/place/4160</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912881</idno>
@@ -93,6 +100,27 @@
                     <bibl xml:id="bib4160-2">
                         <ptr target="http://pleiades.stoa.org/places/912881"/>
                     </bibl>
+          <bibl xml:id="bib4160-3">
+            <title xml:lang="en" level="m">Acta martyrum et sanctorum</title>
+            <editor>Paul Bedjan</editor>
+            <ptr target="http://syriaca.org/bibl/1697"/>
+            <citedRange unit="volume">I</citedRange>
+            <citedRange unit="pp">466, 486</citedRange>
+          </bibl>
+          <bibl xml:id="bib4160-4">
+            <title xml:lang="en" level="a">The History of Mar Yawnan</title>
+            <editor>S.P. Brock</editor>
+            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title>
+            <ptr target="http://syriaca.org/bibl/G8EF93RK"/>
+            <citedRange unit="pp">1-42</citedRange>
+          </bibl>
+          <bibl xml:id="bib4160-5">
+            <title xml:lang="en" level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>
+            <author>M. Kozah</author>
+            <editor>M. Kozah, et al.</editor>
+            <ptr target="http://syriaca.org/bibl/24XBRXP5"/>
+            <citedRange unit="part">Introduction</citedRange>
+          </bibl>
         </place>
       </listPlace>
     </body>
