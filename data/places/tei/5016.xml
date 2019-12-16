@@ -71,7 +71,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -88,7 +88,7 @@
           <desc type="abstract" xml:id="abstract5016-1" xml:lang="en">A town on the island of al-Baḥrain. A city in the provinve of al-Baḥrayn.</desc><desc xml:lang="ar"><quote source="#bib5016-4">فيأخذ الجوهر في دينه أو ما وجب له منه، ثم سافرنا من سيراف إلى مدينة البحرين، وهي مدينة كبيرة حسنة ذات بساتين وأشجار وأنهار، وماؤها قريب المؤونة يحفر عليه بالأيدي فيوجد، وبها حدائق النخل والرمان والأترج، يزرع بها القطن وهي شديدة الحر كثيرة الرمال وربما غلب الرمل على بعض منازلها وكان فيما بينها وبين عمان طريق استولت عليه الرمال وانقطع</quote></desc>
                     <location type="gps" source="#bib5016-3">
                         <geo>26.03333 50.55</geo>
-                    </location>
+                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5016</idno>
           <idno type="URI">http://syriaca.org/place/5016</idno>
           <idno type="URI">https://gazetteer.dainst.org/app/#!/show/2043228</idno>

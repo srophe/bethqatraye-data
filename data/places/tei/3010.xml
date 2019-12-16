@@ -56,7 +56,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-13-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -88,7 +88,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Synodicon citation and attestation</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Synodicon citation and attestation</change>
       <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -110,7 +110,7 @@
             <quote source="#bib3010-1">ܘܐܢܬܘܢ ܡܗܝ̈ܡܢܐ ܐܝܠܝܢ ܕܒܐܝܕ̈ܝܟܘܢ ܣܝܡܐ ܡܫܠܛܘܬܐ ܡܥܕܪܢܝܬܐ ܕܓܙܪ̈ܬܐ
               ܘܕܝܬܒ̈ܝ ܡܕܒܪܐ: ܗܢܘ ܕܝܢ ܕܕܝܪܝܢ ܘܕܡܫܡܗܝܓ ܘܕܬܠܘܢ ܘܕܚܛܐ ܘܕܗܓܪ ܐܬܚܦܛܘ ܒܙܒܢܐ ܗܢܐ ܝܬܝܪ ܡܢ
               ܕܒܟܠܙܒܢ ܥܠ ܥܘܕܪܢܐ ܕܗܝܡܢܘܬܟܘܢ.</quote>
-          </desc>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
           <event type="attestation" xml:id="attestation3010-1" when="0585" source="#bib3010-1">
             <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܬܐܠܘܢ</foreign> in the
                 <title xml:lang="en" level="m">Synodicon Orientale</title>.</p>

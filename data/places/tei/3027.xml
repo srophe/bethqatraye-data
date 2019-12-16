@@ -52,7 +52,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2017-08-09-05:00</date>
+            <date>2019-12-16-06:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -85,7 +85,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3027-1">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3027-1">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Synodicon citation and attestation</change>
          <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">CREATED: place</change>
@@ -104,7 +104,7 @@
                   de Tȏdourou</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name3027-5">Arday and Tuduru</placeName>
                <desc type="abstract" xml:id="abstract3027-1" xml:lang="en">A diocese for the islands of <placeName ref="http://syriaca.org/place/3008">Arday</placeName> and <placeName ref="http://syriaca.org/place/3009">Toduru</placeName> in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>
-               </desc>
+               </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
                <event type="attestation" xml:id="attestation3027-1" when="0410" source="#bib3027-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܓܙܪ̈ܬܐ ܕܐܪܕܝ
                         ܘܕܬܘܕܘܪܘ</foreign> in the <title xml:lang="en" level="m">Synodicon
