@@ -87,7 +87,7 @@
           <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
             <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
           </location>
-          <note type="incerta" source="#bib4160-3 #bib4160-4 #bib4160-5">The island of Kharg is likely referred to as the <ref target="#name4160-6">Black Island</ref>, <ref target="#name4160-7">ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</ref>, in the History of Mar Yawnan. See M. Kozah, Introduction, in M. Kozah et al. (eds.), Beth Qaṭraye. A Lexical and Toponymical Survey, Piscataway: Gorgias Press (forthcoming).</note>
+          <note type="incerta" source="#bib4160-3 #bib4160-4 #bib4160-5">The island of Kharg is likely referred to as the <ref target="#name4160-6">Black Island</ref>, <ref target="#name4160-7"><foreign xml:lang="syr-Syrj">ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</foreign></ref>, in the <title level="m">History of Mar Yawnan</title>. See M. Kozah, <title level="a">Introduction</title>, in M. Kozah et al. (eds.), <title level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>./note>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4160</idno>
           <idno type="URI">http://syriaca.org/place/4160</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912881</idno>

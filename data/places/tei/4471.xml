@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">Ramath - <foreign xml:lang="ar">رمث</foreign> - <foreign xml:lang="syr">ܪܡܬ</foreign>
+        <title level="a" xml:lang="en">Failaka - <foreign xml:lang="ar">رمث</foreign> - <foreign xml:lang="syr">ܪܡܬ</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
@@ -96,7 +96,7 @@
             source="#bib4471-1">رمث</placeName>
           <placeName xml:id="name4471-3" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">ܪܡܬ</placeName>
           <placeName xml:id="name4471-4" xml:lang ="ar" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">Failaka island</placeName>
+            resp="http://bqgazetteer.bethmardutho.org">Failaka</placeName>
           <desc type="abstract" xml:id="abstract4471-1" xml:lang="en">An island in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>.</desc>
           <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
             <geo>29.43889 48.33333</geo>
@@ -104,7 +104,7 @@
           <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
             <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
           </location>
-          <note type="incerta" source="#bib4471-1 #bib4471-2">Failaka island is likely referred to as <ref target="#name4471-2">رمث</ref> in the Chronicle of Seert. See M. Kozah, Introduction, in M. Kozah et al. (eds.), Beth Qaṭraye. A Lexical and Toponymical Survey, Piscataway: Gorgias Press (forthcoming).</note>
+          <note type="incerta" source="#bib4471-1 #bib4471-2">Failaka island is likely referred to as <ref target="#name4471-2"><foreign xml:lang="ar">رمث</foreign></ref> in the <title level="m">Chronicle of Seert</title>. See M. Kozah, <title level="a">Introduction</title>, in M. Kozah et al. (eds.), <title level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>.</note>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4471</idno>
           <idno type="URI">http://syriaca.org/place/4471</idno>
           <bibl xml:id="bib4471-1">
