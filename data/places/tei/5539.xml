@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -81,7 +81,7 @@
           <placeName xml:id="name5539-4" xml:lang="en">Abadan</placeName>
           <placeName xml:id="name5539-5" xml:lang="ar">آبادان</placeName>
           <placeName xml:id="name5539-6" xml:lang="ar" source="#bib5539-1">عبادن</placeName>
-          <desc type="abstract" xml:id="abstract5539-1" xml:lang="en">A town in Khuzestan Province close to the Persian/Arabian Gulf.</desc>
+          <desc type="abstract" xml:id="abstract5539-1" xml:lang="en">A town in Khuzestan Province close to the Persian/Arabian Gulf.</desc><desc xml:lang="ar"><quote source="#bib5539-3">قال ابن جزي: عبّادان كانت بلدا فيما تقدّم، وهي مجدبة لا زرع بها، وانّما بجلب اليها، والماء أيضا بها قليل.</quote></desc><desc xml:lang="ar"><quote source="#bib5539-4">من مبلغ أندلسا أنّني#حللت عبّادان أقصى الثّرى#أوحش ما أبصرت لا كنّني#قصدت فيها ذكرها في الورى#الخبز فيها يتهادونه#وشربة الماء بها تشترى.#[...] وذكر لي أهل هذه الزاوية أنّ بعبّادان عابدا كبير القدر [...] فلمّا وصلنا عبّادان لم يكن لي شأن إلا طلبه [...] ومن عادة ذلك الفقير أن يأتي عبّادان كلّ ليلة فيسرج السرج بمساجدها، ثم يعود إلى زاويته. فلما وصل إلى عبّادان وجد الرجل العابد فأعطاه سمكة طريّة</quote></desc>
                     <location type="gps" source="#bib5539-2">
                         <geo>30.3392 48.3043</geo>
                     </location>
@@ -96,7 +96,7 @@
           </bibl>
                     <bibl xml:id="bib5539-2">
                         <ptr target="http://gazetteer.dainst.org/place/2109605"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5539-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">200</citedRange></bibl><bibl xml:id="bib5539-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">201</citedRange></bibl>
         </place>
       </listPlace>
     </body>

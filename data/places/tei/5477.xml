@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -80,7 +80,7 @@
           <placeName xml:id="name5477-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صحار</placeName>
           <placeName xml:id="name5477-3" xml:lang="en">Sohar</placeName>
           <placeName xml:id="name5477-4" xml:lang="ar" source="#bib5477-1">صحار</placeName>
-          <desc type="abstract" xml:id="abstract5477-1" xml:lang="en" source="#bib5477-2">A town <quote>situated in the middle of the flat and sandy bay which is found on the coast of Arabia between Masḳaṭ in the south-east and the peninsula of Musandam in the north-east.</quote></desc>
+          <desc type="abstract" xml:id="abstract5477-1" xml:lang="en" source="#bib5477-2">A town <quote>situated in the middle of the flat and sandy bay which is found on the coast of Arabia between Masḳaṭ in the south-east and the peninsula of Musandam in the north-east.</quote></desc><desc xml:lang="ar"><quote source="#bib5477-1">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc>
                     <location type="gps" source="#bib5477-3">
                         <geo>24.377793 56.731518</geo>
                     </location>

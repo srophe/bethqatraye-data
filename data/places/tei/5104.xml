@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -87,7 +87,7 @@
           <placeName xml:id="name5104-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الروحاء</placeName>
           <placeName xml:id="name5104-3" xml:lang="ar" source="#bib5104-1">الروحاء</placeName>
           <placeName xml:id="name5104-4" xml:lang="ar" source="#bib5104-2">الروحاء</placeName>
-          <desc type="abstract" xml:id="abstract5104-1" xml:lang="en">A town located in the southwest of Mecca known for the well Biʾr Dhāt al-ʿIlm.</desc>
+          <desc type="abstract" xml:id="abstract5104-1" xml:lang="en">A town located in the southwest of Mecca known for the well Biʾr Dhāt al-ʿIlm.</desc><desc xml:lang="ar"><quote source="#bib5104-1">ثم رحلنا ونزلنا بالروحاء، وبها بئر تعرف ببئر ذات العلم. ويقال: إن علياً عليه السلام قاتل بها الجن.</quote></desc>
                     <location type="gps" source="#bib5104-3">
                         <geo>24.0836833 36.9195434</geo>
                     </location>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -80,7 +80,7 @@
           <placeName xml:id="name5526-3" xml:lang="en">Izadkhast</placeName>
           <placeName xml:id="name5526-4" xml:lang="ar">ايزدخواست</placeName>
           <placeName xml:id="name5526-5" xml:lang="ar" source="#bib5526-1">يزدخاص</placeName>
-          <desc type="abstract" xml:id="abstract5526-1" xml:lang="en">A town to the south of Isfahan in Iran.</desc>
+          <desc type="abstract" xml:id="abstract5526-1" xml:lang="en">A town to the south of Isfahan in Iran.</desc><desc xml:lang="ar"><quote source="#bib5526-3">ثم سرنا منها إلى يزد خاص (وضبط اسمها بفتح الياء آخر الحروف واسكان الزاي وضم الدال المهمل)، [...] وهذا الرباط عمره الأمير محمد شاه ينجو، والد السلطان أبي إسحاق ملك شيراز، وفي يزد خاص يصنع الجبن اليزد خاصي، ولا نظير له في طيبه ووزن الجبنة منه من أوقيتين إلى أربع.</quote></desc><desc xml:lang="ar"><quote source="#bib5526-4">ثم سافرت إلى ماين، ثم إلى يزدخاص، ثم إلى كليل، ثم إلى كشك زر، ثم إلى أصبهان، ثم إلى تستر، ثم إلى الحويزا، ثم إلى البصرة</quote></desc>
                     <location type="gps" source="#bib5526-2">
                         <geo>31.516111 52.12389</geo>
                     </location>
@@ -95,7 +95,7 @@
           </bibl>
                     <bibl xml:id="bib5526-2">
                         <ptr target="http://vici.org/vici/23064"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5526-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">213</citedRange></bibl><bibl xml:id="bib5526-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">662</citedRange></bibl>
         </place>
       </listPlace>
     </body>

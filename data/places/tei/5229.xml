@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -94,7 +94,7 @@
           <desc type="abstract" xml:id="abstract5229-1" xml:lang="en" source="#bib5229-3">A district in the Balkh region. <quote>In mediaeval Islamic times, Pand̲j̲hīr was a famed centre for silver mining [see maʿdin at V, 964, 967, 968 for details], and coins were minted there by the Ṣaffārids [q.v.], Abū Dāwūdids or Bānīd̲j̲ūrids [q.v.in Suppl.] and Sāmānids [q.v.] (see E. von Zambaur, Die Münzprägungen des Islam , i, Wiesbaden 1968, 79).</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5229-1">وعسكر بنجهير ناحية ببلخ</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib5229-2">ونزلنا عنده وأكرمنا. وكان متى غسلنا أيدينا من الطعام يشرب الماء الذي غسلناها به لحسن اعتقاده وفضله. وسافر معنا إلى أن صعدنا جبل هندوكوش المذكور. ووجدنا بهذا الجبل عين ماء حارة فغسلنا منها وجوهنا فتقشرت وتألّمنا لذلك، ثم نزلنا بموضع يعرف ببنج هير، ومعنى بنج خمسة وهير الجبل، فمعناه خمسة جبال. وكانت هنالك مدينة حسنة كثيرة العمارة على نهر عظيم أزرق، كأنه بحر ينزل من جبال بدخشان. وبهذه الجبال يوجد الياقوت الذي يعرفه الناس بالبلخش. وخرب هذه البلاد تنكيز ملك التتر، فلم تعمر بعده. وبهذه المدينة مزار الشيخ سعيد المكي وهو معظم عندهم.</quote></desc>
                     <location type="gps" source="#bib5229-4">
                         <geo>36.305803 69.347036</geo>
                     </location>

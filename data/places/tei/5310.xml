@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -82,7 +82,7 @@
           <placeName xml:id="name5310-5" xml:lang="en">Mugh Astān</placeName>
           <placeName xml:id="name5310-6" xml:lang="ar">موغ استان</placeName>
           <placeName xml:id="name5310-7" xml:lang="ar" source="#bib5310-1">هرمز (موغ استان)</placeName>
-          <desc type="abstract" xml:id="abstract5310-1" xml:lang="en">An town located on Hormuz Island.</desc>
+          <desc type="abstract" xml:id="abstract5310-1" xml:lang="en">An town located on Hormuz Island.</desc><desc xml:lang="ar"><quote source="#bib5310-3">ورکبوا بحر فارس من الأبلة الى هومز</quote></desc><desc xml:lang="ar"><quote source="#bib5310-4">قصدته من هرمز متبركا بلقائه</quote></desc><desc xml:lang="ar"><quote source="#bib5310-5">ثم سافرنا إلى مرسى شبّة (وضبط اسمها بفتح الشين المعجم وفتح الباء الموحدة وتشديدها)، ثم إلى مرسى كلبة، ولفظها على لفظ مؤنتة الكلب، ثم إلى قلهات، وقد تقدم ذكرها. وهذه البلاد كلّها من عمالة هرمز، وهي محسوبة من بلاد عمان. ثم سافرنا إلى هرمز، وأقمنا بها ثلاثا.</quote></desc>
                     <location type="gps" source="#bib5310-2">
                         <geo>27.5026 54.2839</geo>
                     </location>
@@ -97,7 +97,7 @@
           </bibl>
                     <bibl xml:id="bib5310-2">
                         <ptr target="http://gazetteer.dainst.org/place/2733859"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5310-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">170 (settlement, region, island or province)</citedRange></bibl><bibl xml:id="bib5310-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">217 (settlement or island)</citedRange></bibl><bibl xml:id="bib5310-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">661 (province or settlement)</citedRange></bibl>
         </place>
       </listPlace>
     </body>

@@ -59,7 +59,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -91,7 +91,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5555-1">Merged in data from
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5555-1">Merged in data from
         [http://bqgazetteer.bethmardutho.org/place/5556].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5556]</change>
@@ -106,7 +106,7 @@
           <placeName xml:id="name5555-3" xml:lang="ar" source="#bib5555-1 #bib5555-2">عين
             الرصد</placeName>
           <desc type="abstract" xml:id="abstract5555-1" xml:lang="en">A village in Iraq close to
-            Mosul.</desc>
+            Mosul.</desc><desc xml:lang="ar"><quote source="#bib5555-1">ثم رحلنا من الموصل ونزلنا قرية تعرف بعين الرّصد وهي على نهر عليه جسر مبني، وبها خان كبير. ثم رحلنا ونزلنا قرية تعرف بالمويلحة</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5555</idno>
           <idno type="URI">http://syriaca.org/place/5555</idno>
           <bibl xml:id="bib5555-1">

@@ -49,7 +49,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -81,7 +81,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5311-1">Merged in data from
         [http://bqgazetteer.bethmardutho.org/place/5312].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
@@ -102,7 +102,7 @@
             استان)</placeName>
           <desc type="abstract" xml:id="abstract5311-1" xml:lang="en">A province that politically
             belonged to the ʿUmān region.</desc>
-          <desc xml:lang="en">An region containing Hormuz Island.</desc>
+          <desc xml:lang="en">An region containing Hormuz Island.</desc><desc xml:lang="ar"><quote source="#bib5311-3">ورکبوا بحر فارس من الأبلة الى هومز</quote></desc><desc xml:lang="ar"><quote source="#bib5311-4">وذكر لي أن السلطان قطب الدين تمتهن بن طوران شاه صاحب هرمز نازلها مرّة في البرّ والبحر</quote></desc><desc xml:lang="ar"><quote source="#bib5311-5">لكنهم لا يقدرون على إظهار مذهبهم، لأنهم تحت طاعة السلطان قطت الدين نمهتن ملك هرمز، وهو من أهل السنة.</quote></desc><desc xml:lang="ar"><quote source="#bib5311-6">وبها الموز المعروف بالمرواري والمرواري بالفارسية هو الجوهري (المرور الجوهر)، وهو كثير بها، وجلب منها الى هرمز وسواها.</quote></desc><desc xml:lang="ar"><quote source="#bib5311-7">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc><desc xml:lang="ar"><quote source="#bib5311-8">وإذا خرج به وصل إلى غيرها من البلاد، بعث الله عليه آفة تفني ما بيده، كمثل ما اتفق لشهاب الدين هذا، فإنه أخذ له في الفتنة التي كانت بين ملك هرمز وابني أخيه جميع ما عنده، وخرج سليباً من ماله.</quote></desc><desc xml:lang="ar"><quote source="#bib5311-9">بعثه السلطان بأموال يستجلب بها من قدر عليه من العرب من أرض هرمز والقطيف لمحبته في العرب</quote></desc><desc xml:lang="ar"><quote source="#bib5311-10">ثم سافرنا إلى مرسى شبّة (وضبط اسمها بفتح الشين المعجم وفتح الباء الموحدة وتشديدها)، ثم إلى مرسى كلبة، ولفظها على لفظ مؤنتة الكلب، ثم إلى قلهات، وقد تقدم ذكرها. وهذه البلاد كلّها من عمالة هرمز، وهي محسوبة من بلاد عمان. ثم سافرنا إلى هرمز، وأقمنا بها ثلاثا.</quote></desc>
                     <location type="gps" source="#bib5311-2">
                         <geo>27.5026 54.2839</geo>
                     </location>
@@ -117,7 +117,7 @@
           </bibl>
                     <bibl xml:id="bib5311-2">
                         <ptr target="http://gazetteer.dainst.org/place/2733859"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5311-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">170 (settlement, region, island or province)</citedRange></bibl><bibl xml:id="bib5311-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">269 (province)</citedRange></bibl><bibl xml:id="bib5311-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">278 (province)</citedRange></bibl><bibl xml:id="bib5311-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">279 (province, island, or region)</citedRange></bibl><bibl xml:id="bib5311-7"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">280 (province)</citedRange></bibl><bibl xml:id="bib5311-8"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">465 (province)</citedRange></bibl><bibl xml:id="bib5311-9"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">581 (probably province)</citedRange></bibl><bibl xml:id="bib5311-10"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">661 (province or settlement)</citedRange></bibl>
         </place>
       </listPlace>
     </body>

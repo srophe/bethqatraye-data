@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -81,7 +81,7 @@
           <placeName xml:id="name5410-4" xml:lang="en">Qarabağ</placeName>
           <placeName xml:id="name5410-5" xml:lang="en">Ղարաբաղ</placeName>
           <placeName xml:id="name5410-6" xml:lang="ar" source="#bib5410-1">قراباغ</placeName>
-          <desc type="abstract" xml:id="abstract5410-1" xml:lang="en">A mountainous region between Tabrīz and al-Sulṭāniyya.</desc>
+          <desc type="abstract" xml:id="abstract5410-1" xml:lang="en">A mountainous region between Tabrīz and al-Sulṭāniyya.</desc><desc xml:lang="ar"><quote source="#bib5410-3">ووصلوا إلى الملك محمد خدابنده سلطان العراق، وهو بموضع مصيفه المسمى قراباغ (بفتح القاف والراء والباء الموحدة والغين المعجمة)، وهو ما بين السلطانية وتبريز</quote></desc><desc xml:lang="ar"><quote source="#bib5410-4">فرجعت الرسل إلى الملك فأخبروه بما جرى في ذلك فأمر أن يؤتي بقضاة المدن الثلاث. فكان أول من أتي به منهم القاضي مجد الدين قاضي شيراز والسلطان إذ ذاك في موضع يعرف بقراباغ، وهو موضع مصيفه.</quote></desc>
                     <location type="gps" source="#bib5410-2">
                         <geo>39.6347291 45.342603</geo>
                     </location>
@@ -96,7 +96,7 @@
           </bibl>
                     <bibl xml:id="bib5410-2">
                         <ptr target="https://www.google.com/maps/place/Nagorno-Karabakh/@39.6347291,45.342603,8z/data=!3m1!4b1!4m5!3m4!1s0x403e60450d8c91c7:0x3ce54512602132df!8m2!3d39.796249!4d46.6550799"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5410-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">94</citedRange></bibl><bibl xml:id="bib5410-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">216</citedRange></bibl>
         </place>
       </listPlace>
     </body>

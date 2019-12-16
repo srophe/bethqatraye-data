@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -86,7 +86,7 @@
           <placeName xml:id="name5518-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">وادي محسر</placeName>
           <placeName xml:id="name5518-3" xml:lang="ar" source="#bib5518-1">وادي محسر</placeName>
           <placeName xml:id="name5518-4" xml:lang="ar" source="#bib5518-2">وادي محسر</placeName>
-          <desc type="abstract" xml:id="abstract5518-1" xml:lang="en">A valley between Minā and Muzdalifa.</desc>
+          <desc type="abstract" xml:id="abstract5518-1" xml:lang="en">A valley between Minā and Muzdalifa.</desc><desc xml:lang="ar"><quote source="#bib5518-3">فيمرون في طريقهم بوادي محسّر، ويهزولون، وذلك سنة. ووادي محسّر هو الحد بين مزدلفة ومنى</quote></desc><desc xml:lang="ar"><quote source="#bib5518-4">ومزدلفة كلها موقف إلا وادي محسّر، ففيه تقع الهرولة حتى يخرج عنه.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5518</idno>
           <idno type="URI">http://syriaca.org/place/5518</idno>
           <bibl xml:id="bib5518-1">
@@ -96,7 +96,7 @@
           <bibl xml:id="bib5518-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">172, 177</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5518-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">181</citedRange></bibl><bibl xml:id="bib5518-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">183</citedRange></bibl>
         </place>
       </listPlace>
     </body>

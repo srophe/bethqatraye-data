@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -81,7 +81,7 @@
           <placeName xml:id="name5249-3" xml:lang="en">Borsippa</placeName>
           <placeName xml:id="name5249-4" xml:lang="en">Birs Nimrūd</placeName>
           <placeName xml:id="name5249-5" xml:lang="ar" source="#bib5249-1">بُرص</placeName>
-          <desc type="abstract" xml:id="abstract5249-1" xml:lang="en" source="#bib5249-2">A village in al-ʿIrāq that is now <quote>a ruined site 9 miles S.W. of the town of Ḥilla on the Euphrates, about 12 miles S.S.W. of Babylon on the eastern shore of the Lake of Hindiyya.</quote></desc>
+          <desc type="abstract" xml:id="abstract5249-1" xml:lang="en" source="#bib5249-2">A village in al-ʿIrāq that is now <quote>a ruined site 9 miles S.W. of the town of Ḥilla on the Euphrates, about 12 miles S.S.W. of Babylon on the eastern shore of the Lake of Hindiyya.</quote></desc><desc xml:lang="ar"><quote source="#bib5249-4">وقد رأيت ببلاد العراق قرية تعرف ببرص (بضم الباء والموحدة وآخرها صاد مهمل)</quote></desc>
                     <location type="gps" source="#bib5249-3">
                         <geo>32.389256 44.34719</geo>
                     </location>
@@ -101,7 +101,7 @@
                     </bibl>
                     <bibl xml:id="bib5249-3">
                         <ptr target="http://pleiades.stoa.org/places/893964"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5249-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">117</citedRange></bibl>
         </place>
       </listPlace>
     </body>

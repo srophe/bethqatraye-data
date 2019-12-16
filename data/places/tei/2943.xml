@@ -81,7 +81,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -114,7 +114,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2943-3">Merged in data from [duplicate record with same URI].</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2943-3">Merged in data from [duplicate record with same URI].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2943-2">Merged in data from [duplicate record with same URI]. [duplicate
         record with same URI]</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2943-1">Merged in data from [duplicate record with same URI]. [duplicate
@@ -145,7 +145,7 @@
           <desc xml:lang="ar">
             <quote source="#bib2943-2">وشكلت عطفه عليه لان بحر فارس يعطف من جزيرة مسقط مغربا الى مكة
               والى القلزم عن خمسين فرسخا من عمان ويدعى ذلك راس الجمجمة</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib2943-3">ثم ركبت البحر، فوصلت إلى مسقط (بفتح الميم)، وهي بلدة صغيرة بها السمك الكثير المعروف بقلب الماس</quote></desc>
           <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
             <geo>23.6 58.55</geo>
           </location>

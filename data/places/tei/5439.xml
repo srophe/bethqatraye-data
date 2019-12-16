@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,7 +77,7 @@
           <placeName xml:id="name5439-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Raʾs Abī Muḥammad</placeName>
           <placeName xml:id="name5439-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رأس أبي محمد</placeName>
           <placeName xml:id="name5439-3" xml:lang="ar" source="#bib5439-1">رأس أبي محمد</placeName>
-          <desc type="abstract" xml:id="abstract5439-1" xml:lang="en">Probably a specific location in the Red Sea.</desc>
+          <desc type="abstract" xml:id="abstract5439-1" xml:lang="en">Probably a specific location in the Red Sea.</desc><desc xml:lang="ar"><quote source="#bib5439-1">ولمّا انقضى الحجّ توجّهت إلى جدّة برسم ركوب البحر إلى اليمن والهند فلم يقض لي ذلك، ولا تأتّى لي رفيق، وأقمت بجدة نحو أربعين يوما وكان بها مركب لرجل يعرف بعبد الله التونسي يروم السّفر إلى القصير، من عمالة قوص فصعدت إليه لأنظر حاله فلم يرضني، ولا طابت نفسي بالسفر فيه، وكان ذلك لطفا من الله تعالى، فانّه سافر، فلمّا توسّط البحر غرق بموضع يقال له: رأس أبي محمد، فخرج صاحبه وبعض التجار في العشاريّ بعد جهد عظيم، وأشرفوا على الهلاك، وهلك بعضهم وغرق سائر الناس وكان فيه نحو سبعين من الحجّاج. ثم ركبت البحر بعد ذلك في صنبوق برسم عيذاب، فردّتنا الريح إلى جبل يعرف برأس دواير وسافرنا منه في البرّ مع البجاة، فسلكنا صحراء كثيرة النّعام والغزلان، فيها عرب جهينة وبني كاهل، وطاعتهم للبجاة. ووردنا ماء يعرف بمفرور، وماء يعرف بالجديد. ونفد زادنا فاشترينا من قوم من البجاة وجدناهم بالفلاة أغناما وتزودنا لحومها.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5439</idno>
           <idno type="URI">http://syriaca.org/place/5439</idno>
           <bibl xml:id="bib5439-1">

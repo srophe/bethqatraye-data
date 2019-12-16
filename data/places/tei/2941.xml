@@ -107,7 +107,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-16-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -141,7 +141,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn Rustah citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: al-Ya`qubi citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn Khurradadhbih citation and attestation</change>
@@ -216,7 +216,7 @@
                             حصار طويل، وقد أتينا على مبسوط هذه الحروب والسبب الذي من أجله كانت تخلية
                             أبي سعيد العباس بن عمرو الغنوي في كتابنا الأوسط، وما كان من أمر العباس
                             بن عمرو مع من بالبحرين من قومه وعصبيتهم له.</quote>
-                    </desc>
+                    </desc><desc xml:lang="ar"><quote source="#bib2941-17">وأهل البصرة على مذهب السنة والجماعة، ولا يخاف من يفعل مثل فعلي عندهم، ولو جرى مثل هذا بمشهد الحسين، أو بالحلة، أو بالبحرين، أو قم، أو قاشان، أو ساوة، أو آوه، أو طوس، لهلك فاعله، لأنهم رافضة غالىة.</quote></desc><desc xml:lang="ar"><quote source="#bib2941-18">ذكر المتغلبين على الملك بعد موت السلطان أبي سعيد. فمنهم الشيخ حسن ابن عمته الذي ذكرناه آنفاً، تغلب على عراق العرب جميعاً، ومنهم إبراهيم شاه ابن الأمير سنيته، تغلب على الموصل وديار بكر، ومنهم الأمير أرتنا، تغلب على بلاد التركمان المعروفة أيضاً ببلاد الروم، ومنهم حسن خواجة بن الدمرطاش بن الجوبان، تغلب على تبريز والسلطانية وهمذان وقم وقاشان والري ورامين وفرغان والكرج، ومنهم الأمير طغيتمور تغلب على بعض بلاد خراسان، ومنهم الأمير حسن ابن الأمير غياث الدين تغلب على هراة ومعظم بلاد خراسان، ومنهم ملك دينار تغلب على بلاد مكران وبلاد كبج، ومنهم محمد شاه ابن مظفر تغلب على يزد وكرمان وورقو، ومنهم الملك قطب الدين تمهتن تغلب على هرمز وكيش والقطيف والبحرين وقلهات، ومنهم السلطان أبو إسحاق الذي تقدم ذكره تغلب على شيراز وأصفهان وملك فارس، وذلك مسيرة خمس وأربعين، ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc><desc xml:lang="ar"><quote source="#bib2941-19">ومغاص الجوهر فيما بين سيراف والبحرين في خور راكد مثل الوادي العظيم</quote></desc><desc xml:lang="ar"><quote source="#bib2941-20">وسلطانها كافر يعرف بالسامري، شيخ مسن يحلق لحيته، كما تفعل طائفة الروم، رأيته بها، وسنذكره إن شاء الله. وأمير التجار بها إبراهيم شاه بندرمن أهل البحرين فاضل ذو مكارم</quote></desc>
                     <location type="gps" source="#bib2941-16">
                         <geo>26.03333 50.55</geo>
                     </location>
@@ -344,7 +344,7 @@
                     </bibl>
                     <bibl xml:id="bib2941-16">
                         <ptr target="http://www.geonames.org/290291/kingdom-of-bahrain.html"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib2941-17"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">198</citedRange></bibl><bibl xml:id="bib2941-18"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl><bibl xml:id="bib2941-19"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">286</citedRange></bibl><bibl xml:id="bib2941-20"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">575</citedRange></bibl>
                 </place>
             </listPlace>
         </body>

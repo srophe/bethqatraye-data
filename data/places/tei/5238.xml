@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,7 +77,7 @@
           <placeName xml:id="name5238-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bayt al-Ahba</placeName>
           <placeName xml:id="name5238-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بيت الأهبة</placeName>
           <placeName xml:id="name5238-3" xml:lang="ar" source="#bib5238-1">بيت الأهبة</placeName>
-          <desc type="abstract" xml:id="abstract5238-1" xml:lang="en">A village east of Damascus.</desc>
+          <desc type="abstract" xml:id="abstract5238-1" xml:lang="en">A village east of Damascus.</desc><desc xml:lang="ar"><quote source="#bib5238-1">وأكثر قرى دمشق فيها الحمّامات والمساجد الجامعة والأسواق وسكانها كأهل الحاضرة في مناحيهم، وفي شرقي البلد قرية تعرف ببيت الأهبة (إلاهيّة؟) وكانت فيها كنيسة يقال: إن آزر كان یجلب فيها الأصنام فيكسرها الخليل عليه السلام، وهي الآن مسجد جامع بديع مزين بفصوص الرخام الملونة المنظمة بأعجب نظام وأزين التئام.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5238</idno>
           <idno type="URI">http://syriaca.org/place/5238</idno>
           <bibl xml:id="bib5238-1">

@@ -91,7 +91,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2017-08-09-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -124,7 +124,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2907-5">Merged in data from [duplicate record with same URI].</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2907-5">Merged in data from [duplicate record with same URI].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2907-4">Merged in data from [duplicate record with same URI]. [duplicate
         record with same URI]</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2907-3">Merged in data from [duplicate record with same URI]. [duplicate
@@ -171,7 +171,7 @@
             the <placeName>Red Sea</placeName> and about 350 km. north of <placeName>Mecca</placeName></quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib2907-5">قبا مدينة بفرغانة وقرية بيثرب ومنزل بالبادية</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib2907-7">فمنها بقيع الغرقد، وهو بشرقي المدينة المكرمة، ويخرج إليه على باب يعرف بباب البقيع.</quote></desc><desc xml:lang="ar"><quote source="#bib2907-8">وقبر الحسن بن علي بن أبي طالب عليهم السلام، وهي قبة ذاهبة في الهواء بديعة الإحكام، عن يمين الخارج من باب البقيع، ورأس الحسن إلى رجلي العباس عليهما السلام، وقبراهما مرتفعان عن الارض، متسعان مغشّيان بألواح بديعة الالصاق، مرصّعة بصفائح الصفر البديعة العمل. وبالبقيع قبور المهاجرين والأنصار وسائر الصّحابة رضي الله عنهم. إلا أنها لا يعرف أكثرها. وفي آخر البقيع قبر أمير المؤمنين أبي عمر عثمان ابن عفّان رضي الله عنه.</quote></desc><desc xml:lang="ar"><quote source="#bib2907-9">في التربة التي اتّخذها الجوبان بالقرب من مسجد رسول الله صلى الله عليه وسلم فمنع من ذلك ودفن بالبقيع. والجوبان هو الذي جلب الماء إلى مكّة شرفها الله تعالى.</quote></desc>
           <event type="attestation" xml:id="attestation2907-1" notBefore="0902" notAfter="0914" source="#bib2907-2">
             <p xml:lang="en">Attestation of names <foreign xml:lang="ar">يثرب</foreign> and <foreign xml:lang="ar">المدينة</foreign> in the <title xml:lang="en" level="m">Kitāb al-aʿlāq
                 al-nafīsa</title> of <persName>Aḥmad ibn ʿUmar Ibn Rustah</persName>.</p>
@@ -225,7 +225,7 @@
             <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
             <editor>P. Bearman</editor>
             <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0603"/>
-          </bibl>
+          </bibl><bibl xml:id="bib2907-7"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">138</citedRange></bibl><bibl xml:id="bib2907-8"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">139</citedRange></bibl><bibl xml:id="bib2907-9"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">239</citedRange></bibl>
         </place>
       </listPlace>
     </body>

@@ -67,7 +67,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2019-12-09-06:00</date>
+            <date>2019-12-16-06:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -100,7 +100,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2970-2">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2970-1">Merged in data from [duplicate record with same URI]. [duplicate
@@ -124,7 +124,7 @@
                   D̲j̲ibāl (...). Its ruins may be seen about 5 miles south-southeast of Tehran
                   (...) to the south of a spur projecting from Elburz into the plain.</quote></desc>
                <desc xml:lang="en">A city in northern <placeName ref="http://syriaca.org/place/526">Iran</placeName>
-               </desc>
+               </desc><desc xml:lang="ar"><quote source="#bib2970-6">ذكر المتغلّبين على الملك بعد موت السلطان أبي سعيد (...) ومنهم حسن خواجه بن الدّمرطاش بن الجوبان، تغلب على تبريز والسلطانيّة وهمدان، وقمّ وقاشان والريّ ورامين وفرغان والكرج</quote></desc>
                     <location type="gps" source="#bib2970-5">
                         <geo>35.584692 51.467636</geo>
                     </location>               
@@ -170,7 +170,7 @@
                     </bibl>
                     <bibl xml:id="bib2970-5">
                         <ptr target="http://pleiades.stoa.org/places/903104"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib2970-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
             </place>
          </listPlace>
       </body>

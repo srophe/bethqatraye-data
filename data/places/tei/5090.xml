@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,7 +78,7 @@
           <placeName xml:id="name5090-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القليعة</placeName>
           <placeName xml:id="name5090-3" xml:lang="en">al-Qulayʿa (?)</placeName>
           <placeName xml:id="name5090-4" xml:lang="ar" source="#bib5090-1">القليعة</placeName>
-          <desc type="abstract" xml:id="abstract5090-1" xml:lang="en">A mountain close to Shiraz in Iran.</desc>
+          <desc type="abstract" xml:id="abstract5090-1" xml:lang="en">A mountain close to Shiraz in Iran.</desc><desc xml:lang="ar"><quote source="#bib5090-1">أحدها النهر المعروف بركن آباد وهو عذب الماء شديد البرودة في الصيف، سخن في الشتاء فينبعث من عين في سفح جبل هنالك يسمى القليعة ومسجدها الأعظم يسمى بالمسجد العتيق</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5090</idno>
           <idno type="URI">http://syriaca.org/place/5090</idno>
           <bibl xml:id="bib5090-1">

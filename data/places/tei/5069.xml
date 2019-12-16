@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -86,7 +86,7 @@
           <placeName xml:id="name5069-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المزّة</placeName>
           <placeName xml:id="name5069-3" xml:lang="ar" source="#bib5069-1">المزة</placeName>
           <placeName xml:id="name5069-4" xml:lang="ar" source="#bib5069-2">المزّة</placeName>
-          <desc type="abstract" xml:id="abstract5069-1" xml:lang="en">A village in the vicinity of Damascus.</desc>
+          <desc type="abstract" xml:id="abstract5069-1" xml:lang="en">A village in the vicinity of Damascus.</desc><desc xml:lang="ar"><quote source="#bib5069-2">وفي القبلىّ من هذه القرية قرية المزّة وتعرف بمزّة كلب نسبة إلى قبيلة كلب ابن وبرة بن ثعلب بن حلوان بن عمران ابن الحاف بن قضاعة</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5069</idno>
           <idno type="URI">http://syriaca.org/place/5069</idno>
           <idno type="URI">https://ar.wikipedia.org/wiki/المزة#/map/0</idno>

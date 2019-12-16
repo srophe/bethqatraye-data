@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -81,7 +81,7 @@
           <placeName xml:id="name5058-4" xml:lang="en">Lar</placeName>
           <placeName xml:id="name5058-5" xml:lang="ar">لار</placeName>
           <placeName xml:id="name5058-6" xml:lang="ar" source="#bib5058-1">اللار</placeName>
-          <desc type="abstract" xml:id="abstract5058-1" xml:lang="en">A town southeast of Shiraz in Iran.</desc>
+          <desc type="abstract" xml:id="abstract5058-1" xml:lang="en">A town southeast of Shiraz in Iran.</desc><desc xml:lang="ar"><quote source="#bib5058-3">ومن قراه العظيمة التي تضاهي المدن قرية ميمن، وهي للقاضي المذكور. ومن عجائب هذا الموضع المعروف بجمكان أن نصفه مما يلي شيراز وذلك مسافة اثني عشر فرسخاً شديد البرد وينزل فيه الثلج وأكثر شجره الجوز، والجزء الآخر مما يلي بلاد هنج وبال وبلاد اللار في طريق هرمز شديد الحر وفيه شجر النخيل.</quote></desc><desc xml:lang="ar"><quote source="#bib5058-4">ووصلنا إلى مدينة لار (وآخر اسمها راء)، مدينة كبيرة كثيرة العيون والمياه المطّردة والبساتين. ولها أسواق حسان، ونزلنا منها بزاوية الشيخ العابد أبي دلف محمّد وهو الذي قصدنا زيارته بخنج بال.</quote></desc><desc xml:lang="ar"><quote source="#bib5058-5">ذكر سلطان لار</quote></desc><desc xml:lang="ar"><quote source="#bib5058-6">وسافرنا في البر إلى كورستان ثم إلى اللّار ثم إلى خنج بال</quote></desc>
                     <location type="gps" source="#bib5058-2">
                         <geo>27.6811 54.3404</geo>
                     </location>
@@ -96,7 +96,7 @@
           </bibl>
                     <bibl xml:id="bib5058-2">
                         <ptr target="http://gazetteer.dainst.org/place/2733326"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5058-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">217</citedRange></bibl><bibl xml:id="bib5058-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">284</citedRange></bibl><bibl xml:id="bib5058-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">285</citedRange></bibl><bibl xml:id="bib5058-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">661</citedRange></bibl>
         </place>
       </listPlace>
     </body>

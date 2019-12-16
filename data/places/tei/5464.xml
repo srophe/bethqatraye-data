@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -83,7 +83,7 @@
           <placeName xml:id="name5464-6" xml:lang="ar">شوانكارة</placeName>
           <placeName xml:id="name5464-7" xml:lang="ar">شبانكارة</placeName>
           <placeName xml:id="name5464-8" xml:lang="ar" source="#bib5464-1">شونكارة</placeName>
-          <desc type="abstract" xml:id="abstract5464-1" xml:lang="en">A town in Fars province.</desc>
+          <desc type="abstract" xml:id="abstract5464-1" xml:lang="en">A town in Fars province.</desc><desc xml:lang="ar"><quote source="#bib5464-3">فطلب إرث أخيه، وادّعى الملك، وبايعته العساكر، وقصد بلاد فارس، ونزل بمدينة شونكارة التي بها الإمام عضد الدين الذي تقدم ذكره آنفاً. فلما نزل بخارجها تأخر شيوخها عن الخروج إليه ساعة، ثم خرجوا. فقال لهم: ما منعكم عن تعجيل الخروج إلى مبايعتنا؟ فاعتذروا له. فلم يقبل منهم، وقال لأهل سلاحه: قلنج تجار (جقار) معناه جردوا السيوف. فجردوها، وضربوا أعناقهم، وكانوا جماعة كبيرة. فسمع من يجاور هذه المدينة من الأمراء بما فعله، فغضبوا لذلك، وكتبوا إلى شمس الدين السّمناني، وهو من الأمراء الفقهاء الكبار، فأعلموه بما جرى على أهل شونكارة. #</quote></desc>
                     <location type="gps" source="#bib5464-2">
                         <geo>29.47333 50.99361</geo>
                     </location>
@@ -98,7 +98,7 @@
           </bibl>
                     <bibl xml:id="bib5464-2">
                         <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Shabankareh&amp;params=29_28_24_N_50_59_37_E_region:IR_type:city"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5464-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">468</citedRange></bibl>
         </place>
       </listPlace>
     </body>

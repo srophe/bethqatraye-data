@@ -59,7 +59,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -91,7 +91,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5480-1">Merged in data from
         [http://bqgazetteer.bethmardutho.org/place/5481].</change>
@@ -119,7 +119,7 @@
             120 ha in the 1970s. Between 221/836 and 279/892 it was the capital of the ʿAbbāsid
             caliphs, and expanded to an occupied area of 57 km2, one of the largest cities of
             ancient times, whose remains of collapsed pisé and brick walls are still largely
-            visible.</quote></desc>
+            visible.</quote></desc><desc xml:lang="ar"><quote source="#bib5480-2">ثم رحلنا فنزلنا موضعا على شطّ دجلة بالقرب من حصن يسمّى المعشوق، وهو مبني على الدجلة. وفي الجهة الشرقيّة من هذا الحصن مدينة سرّ من رأى وتسمى أيضا سامرّا. ويقال لها سام راه، ومعناه بالفارسيّة طريق سام وراه هو الطريق</quote></desc>
                     <location type="gps" source="#bib5480-4">
                         <geo>34.19663 43.8739</geo>
                     </location>

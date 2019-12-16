@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,13 +78,13 @@
           <placeName xml:id="name5560-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عُمان</placeName>
           <placeName xml:id="name5560-3" xml:lang="en">Oman</placeName>
           <placeName xml:id="name5560-4" xml:lang="ar" source="#bib5560-1">عُمان</placeName>
-          <desc type="abstract" xml:id="abstract5560-1" xml:lang="en">A region located in the southeast of the Arabian Peninsula.</desc>
+          <desc type="abstract" xml:id="abstract5560-1" xml:lang="en">A region located in the southeast of the Arabian Peninsula.</desc><desc xml:lang="ar"><quote source="#bib5560-2">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc><desc xml:lang="ar"><quote source="#bib5560-3">فيأخذ الجوهر في دينه أو ما وجب له منه، ثم سافرنا من سيراف إلى مدينة البحرين، وهي مدينة كبيرة حسنة ذات بساتين وأشجار وأنهار، وماؤها قريب المؤونة يحفر عليه بالأيدي فيوجد، وبها حدائق النخل والرمان والأترج، يزرع بها القطن وهي شديدة الحر كثيرة الرمال وربما غلب الرمل على بعض منازلها وكان فيما بينها وبين عمان طريق استولت عليه الرمال وانقطع"</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5560</idno>
           <idno type="URI">http://syriaca.org/place/5560</idno>
           <bibl xml:id="bib5560-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">267, 274, 276, 279, 280, 281, 287, 325, 573, 575, 661</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5560-2"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">280</citedRange></bibl><bibl xml:id="bib5560-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">287</citedRange></bibl>
         </place>
       </listPlace>
     </body>

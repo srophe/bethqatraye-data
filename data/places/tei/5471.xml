@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -79,7 +79,7 @@
           <placeName xml:id="name5471-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صفين</placeName>
           <placeName xml:id="name5471-3" xml:lang="en">Siffin</placeName>
           <placeName xml:id="name5471-4" xml:lang="ar" source="#bib5471-1">صفين</placeName>
-          <desc type="abstract" xml:id="abstract5471-1" xml:lang="en">A town located at the Euphrates in the east of Syria and known for the historic Battle of Siffin.</desc>
+          <desc type="abstract" xml:id="abstract5471-1" xml:lang="en">A town located at the Euphrates in the east of Syria and known for the historic Battle of Siffin.</desc><desc xml:lang="ar"><quote source="#bib5471-3"> قال ابن جزي: ويقال: إن أويساً قتل بصفّين مع علي عليه السلام</quote></desc>
                     <location type="gps" source="#bib5471-2">
                         <geo>35.95 39.0167</geo>
                     </location>
@@ -94,7 +94,7 @@
           </bibl>
                     <bibl xml:id="bib5471-2">
                         <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وقعة_صفين&amp;params=35.95_N_39.0167_E_globe:earth_type:landmark"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5471-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">114</citedRange></bibl>
         </place>
       </listPlace>
     </body>

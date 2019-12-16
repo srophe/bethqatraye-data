@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -86,7 +86,7 @@
           <placeName xml:id="name5392-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نجد</placeName>
           <placeName xml:id="name5392-3" xml:lang="ar" source="#bib5392-1">نجد</placeName>
           <placeName xml:id="name5392-4" xml:lang="ar" source="#bib5392-2">نجد</placeName>
-          <desc type="abstract" xml:id="abstract5392-1" xml:lang="en" source="#bib5392-3">The Najd is <quote>conventionally defined as the plateau region of the Arabian peninsula lying to the east of the Red Sea lowlands (al-Tihāma [q.v.]) and the mountain barrier running down through the western side of the peninsula (al-Ḥid̲j̲āz [q.v.]).</quote></desc>
+          <desc type="abstract" xml:id="abstract5392-1" xml:lang="en" source="#bib5392-3">The Najd is <quote>conventionally defined as the plateau region of the Arabian peninsula lying to the east of the Red Sea lowlands (al-Tihāma [q.v.]) and the mountain barrier running down through the western side of the peninsula (al-Ḥid̲j̲āz [q.v.]).</quote></desc><desc xml:lang="ar"><quote source="#bib5392-4">ثم رحلنا من وادي العروس ودخلنا أرض نجد، وهو بسيط من الأرض على مد البصر</quote></desc><desc xml:lang="ar"><quote source="#bib5392-5">ثم رحلنا إلى ماء يعرف بالقارورة، وهي مصانع مملوءة بماء المطر مما صنعته زبيدة ابنة جعفر رحمها الله ونفعها وهذا الموضع هو وسط أرض نجد</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5392</idno>
           <idno type="URI">http://syriaca.org/place/5392</idno>
           <bibl xml:id="bib5392-1">
@@ -96,7 +96,7 @@
           <bibl xml:id="bib5392-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">203, 204</citedRange>
-          </bibl><bibl xml:id="bib5392-3"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0832"/></bibl>
+          </bibl><bibl xml:id="bib5392-3"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0832"/></bibl><bibl xml:id="bib5392-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">185</citedRange></bibl><bibl xml:id="bib5392-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">186</citedRange></bibl>
         </place>
       </listPlace>
     </body>

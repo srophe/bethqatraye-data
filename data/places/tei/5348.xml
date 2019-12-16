@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -88,7 +88,7 @@
           <placeName xml:id="name5348-3" xml:lang="en">Khulaiṣ</placeName>
           <placeName xml:id="name5348-4" xml:lang="ar" source="#bib5348-1">خليص</placeName>
           <placeName xml:id="name5348-5" xml:lang="ar" source="#bib5348-2">خليص</placeName>
-          <desc type="abstract" xml:id="abstract5348-1" xml:lang="en">A town northwest of Mecca.</desc>
+          <desc type="abstract" xml:id="abstract5348-1" xml:lang="en">A town northwest of Mecca.</desc><desc xml:lang="ar"><quote source="#bib5348-4">وسرنا من رابغ ثلاثا إلى خليص، ومررنا بعقبة السّويق، وهي على مسافة نصف يوم من خليص (...) ثم نزلنا بركة خليص وهي في بسيط من الأرض، كثيرة حدائق النخل، لها حصن مشيد في قنّة جبل (...) ثم رحلنا إلى عسفان وهي في بسيط من الأرض، بين جبال، وبها آبار ماء معين، تنسب إحداها إلى عثمان بن عفان رضي الله عنه. والمدرّج المنسوب إلى عثمان أيضا على مسافة نصف يوم من خليص</quote></desc><desc xml:lang="ar"><quote source="#bib5348-5">وفي هذا الركب الأسواق الحافلة والمرافق العظيمة وأنواع الأطعمة والفواكه وهم يسيرون باللّيل ويوقدون المشاعل أمام القطار والمحارات، فترى الأرض تتلألأ نورا والليل قد عاد نهارا ساطعا ثم رحلنا من بطن مرّ إلى عسفان، ثم إلى خليص ثم رحلنا أربع مراحل ونزلنا وادي السمك، ثم رحلنا خمسا ونزلنا في بدر</quote></desc>
                     <location type="gps" source="#bib5348-3">
                         <geo>22.15389 39.31833</geo>
                     </location>
@@ -110,7 +110,7 @@
           </bibl>
                     <bibl xml:id="bib5348-3">
                         <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=خليص&amp;params=22_09_14_N_39_19_06_E_type:city_region:SA"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5348-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">143</citedRange></bibl><bibl xml:id="bib5348-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">185</citedRange></bibl>
         </place>
       </listPlace>
     </body>

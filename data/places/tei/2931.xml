@@ -95,7 +95,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2017-08-09-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -128,7 +128,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2931-4">Merged in data from [duplicate record with same URI].</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2931-4">Merged in data from [duplicate record with same URI].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2931-3">Merged in data from [duplicate record with same URI]. [duplicate
         record with same URI]</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2931-2">Merged in data from [duplicate record with same URI]. [duplicate
@@ -161,7 +161,7 @@
           <desc xml:lang="ar">
             <quote source="#bib2931-3">اما القرماطيون فتعاملهم بالملح والنوبة والنوبة والحبش بالثياب
               والنوبة من وراء مصر والنوجة وراء عيذاب والحبش وراء زيلع</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib2931-5">ومن الغريب أن المطر ببلاد الهند واليمن والحبشة إنّما ينزل في أيام القيظ، وأكثر ما يكون نزوله بعد الظهر من كلّ يوم في ذلك الأوان. فالمسافرون عند الزوال ائلا يصيبهم المطر وأهل المدينة ينصرفون إلى منازلهم لأن امطارها وابلة متدفّقة.</quote></desc><desc xml:lang="ar"><quote source="#bib2931-6">وهم ابن بطوطة في قوله: إت النهر الأعظم الذي وصل إليه هو النيا، فإنما هو نهر النيجر، فهو الذي يمر بالبلدان التي ذكرها، ومنابعها في شمال سير اليون، وليبيريا، ويصب في المحيط الأطلسي، أما نهر النيل فتقع عليه دنقلة، وبلاد النوبة، ومنابعه في أوغندا، وتنغانيقا، وتصل إليه الأمطار التي تسقط صيفا على جبال الحبشة، فيكون فيضانه.</quote></desc>
           <event type="attestation" xml:id="attestation2931-1" when="0891" source="#bib2931-1">
             <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الحبشة</foreign> in the
                 <title xml:lang="en" level="m">Kitāb al-buldān</title> of <persName>Aḥmad ibn Abī
@@ -204,7 +204,7 @@
             <author>Ibn Baṭṭūta</author>
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">259, 693</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib2931-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">259</citedRange></bibl><bibl xml:id="bib2931-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">693 (footnote by the editor)</citedRange></bibl>
         </place>
       </listPlace>
     </body>

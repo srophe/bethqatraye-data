@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -80,7 +80,7 @@
           <placeName xml:id="name5346-3" xml:lang="en">Khonj</placeName>
           <placeName xml:id="name5346-4" xml:lang="en">Khunj</placeName>
           <placeName xml:id="name5346-5" xml:lang="ar" source="#bib5346-1">خنج بال</placeName>
-          <desc type="abstract" xml:id="abstract5346-1" xml:lang="en">A town in Fars Province close to Lār.</desc>
+          <desc type="abstract" xml:id="abstract5346-1" xml:lang="en">A town in Fars Province close to Lār.</desc><desc xml:lang="ar"><quote source="#bib5346-3">ثم سافرنا من مدينة جرون برسم لقاء رجل صالح ببلد خنج بال.</quote></desc><desc xml:lang="ar"><quote source="#bib5346-4">ووصلنا إلى مدينة لار (وآخر اسمها راء)، مدينة كبيرة كثيرة العيون والمياه المطّردة والبساتين. ولها أسواق حسان، ونزلنا منها بزاوية الشيخ العابد أبي دلف محمّد وهو الذي قصدنا زيارته بخنج بال.</quote></desc><desc xml:lang="ar"><quote source="#bib5346-5">ثم سافرنا إلى مدينة خنج بال (وضبط اسمها بضمّ الخاء المعجم وقد يعوّض منه هاء واسكان النون وضم الجيم وباء معقودة والف ولام)، وبها سكنى الشيخ أبي دلف الذي قصدنا زيارته، وبزاويته نزلنا. (...) وسمعت أن بالمدينة خنج بال المذكورة زاوية فيها جملة من الصالحين المتعبّدين، فرحت إليها بالعشيّ، وسلّمت على شيخهم وعليهم </quote></desc><desc xml:lang="ar"><quote source="#bib5346-6">وسافرنا في البر إلى كورستان ثم إلى اللّار ثم إلى خنج بال</quote></desc>
                     <location type="gps" source="#bib5346-2">
                         <geo>27.8913 53.4344</geo>
                     </location>
@@ -95,7 +95,7 @@
           </bibl>
                     <bibl xml:id="bib5346-2">
                         <ptr target="http://sws.geonames.org/127382"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5346-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">283</citedRange></bibl><bibl xml:id="bib5346-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">284</citedRange></bibl><bibl xml:id="bib5346-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">285</citedRange></bibl><bibl xml:id="bib5346-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">661</citedRange></bibl>
         </place>
       </listPlace>
     </body>

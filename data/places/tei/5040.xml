@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -88,7 +88,7 @@
           <placeName xml:id="name5040-11" xml:lang="ar">الهويزة</placeName>
           <placeName xml:id="name5040-12" xml:lang="ar">هویزه‎</placeName>
           <placeName xml:id="name5040-13" xml:lang="ar" source="#bib5040-1">الحويزا</placeName>
-          <desc type="abstract" xml:id="abstract5040-1" xml:lang="en">A city located between Tustar and Baṣra in Khuzestan.</desc>
+          <desc type="abstract" xml:id="abstract5040-1" xml:lang="en">A city located between Tustar and Baṣra in Khuzestan.</desc><desc xml:lang="ar"><quote source="#bib5040-3">والحويزا على مسيرة ثلاث أيام من البصرة</quote></desc><desc xml:lang="ar"><quote source="#bib5040-4">ثم يافرتا منها الى الحويزاء بالزاي، وهي مدينة صغيرة يسكنها العجم، بينها وبين البصرة مسيرة أربع، وبينها وبين الكوفة مسيرة خمس</quote></desc><desc xml:lang="ar"><quote source="#bib5040-5">ثم سافرت إلى ماين، ثم إلى يزدخاص، ثم إلى كليل، ثم إلى كشك زر، ثم إلى أصبهان، ثم إلى تستر، ثم إلى الحويزا، ثم إلى البصرة#</quote></desc>
                     <location type="gps" source="#bib5040-2">
                         <geo>31.4619 48.074</geo>
                     </location>
@@ -103,7 +103,7 @@
           </bibl>
                     <bibl xml:id="bib5040-2">
                         <ptr target="http://sws.geonames.org/130821"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5040-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp"/></bibl><bibl xml:id="bib5040-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">228</citedRange></bibl><bibl xml:id="bib5040-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">662</citedRange></bibl>
         </place>
       </listPlace>
     </body>

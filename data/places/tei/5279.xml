@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -96,7 +96,7 @@
           <desc type="abstract" xml:id="abstract5279-1" xml:lang="en" source="#bib5279-3">Fasā is a city located 164 km from Shiraz close to the Persian/Arabian Gulf. It <quote>is situated in 28° 56′ N. Lat. and 53° 39′ E. Long. (Greenwich); it is 1,561 metres above sea level.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5279-1">وافراوه رباط نسا (فسا)</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib5279-2">ثم سافرنا إلى كارزي، وضبط اسمها بفتح الكاف وسكون الراء وكسر الزاي، وأقمنا بها ثلاثا ثم سافرنا إلى جمكان، وضبط اسمها بفتح الجيم والميم والكاف وآخره نون، ثم سافرنا منها إلى ميمن، وضبط اسمها بفتح الميم وبينهما ياء آخر الحروف مسكنة وآخره نون، ثم سافرنا إلى بسّا ، وضبط اسمها بفتح الباء الموحدة والسين المهملة مع تشديدها، ثم إلى مدينة شيراز فوجدنا سلطانها أبا اسحاق على ملكه إلا أنه كان غائبا عنها، ولقيت بها شيخنا الصالح العالم مجد الدين 1»قاضي القضاة وهو قد كف بصره نفعه الله ونفع به. </quote></desc>
                     <location type="gps" source="#bib5279-4">
                         <geo>28.931476 53.642646</geo>
                     </location>

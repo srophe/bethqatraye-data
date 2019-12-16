@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -80,7 +80,7 @@
           <placeName xml:id="name5487-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تبوك</placeName>
           <placeName xml:id="name5487-3" xml:lang="en">Baclanaza</placeName>
           <placeName xml:id="name5487-4" xml:lang="ar" source="#bib5487-1">تبوك</placeName>
-          <desc type="abstract" xml:id="abstract5487-1" xml:lang="en" source="#bib5487-2"><quote>[A] town of northwestern Arabia, now the centre of an imāra or province of Saudi Arabia (lat. 28° 22′ N., long. 36° 32′ E., altitude 6,500 m/2,250 feet), some 233 km/145 south-south-east of Maʿān and separated from the Red Sea and Gulf of ʿAkaba by the Ḥismā mountains.</quote></desc>
+          <desc type="abstract" xml:id="abstract5487-1" xml:lang="en" source="#bib5487-2"><quote>[A] town of northwestern Arabia, now the centre of an imāra or province of Saudi Arabia (lat. 28° 22′ N., long. 36° 32′ E., altitude 6,500 m/2,250 feet), some 233 km/145 south-south-east of Maʿān and separated from the Red Sea and Gulf of ʿAkaba by the Ḥismā mountains.</quote></desc><desc xml:lang="ar"><quote source="#bib5487-4">ثم إلى تبوك وهو الموضع الذي غزاه رسول الله صلى الله عليه وسلم. وفيها عين تبضّ بشيء من الماء. فلما نزلها رسول الله صلى الله عليه وسلم وتوضأ منها، جادت بالماء المعين.</quote></desc><desc xml:lang="ar"><quote source="#bib5487-5">ومن عادة حجاج الشام إذا وصلوا منزل تبوك، أخذوا أسلحتهم، وجرّدوا سيوفهم، وحملوا على المنزل وضربوا النخيل بسيوفهم، ويقولون: هكذا دخلها رسول الله صلى الله عليه وسلم. وينزل الركب العظيم على هذه العين فيروي منها جميعهم، ويقيمون أربعة أيام للراحة وإرواء الجمال واستعداد الماء للبرية المخوفة التي بين العلا وتبوك.</quote></desc><desc xml:lang="ar"><quote source="#bib5487-6">ثم سافرنا من المدينة الشريفة الى العلا وتبوك#</quote></desc>
                     <location type="gps" source="#bib5487-3">
                         <geo>28.3857 36.572302</geo>
                     </location>
@@ -100,7 +100,7 @@
                     </bibl>
                     <bibl xml:id="bib5487-3">
                         <ptr target="http://pleiades.stoa.org/places/814662"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5487-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">126</citedRange></bibl><bibl xml:id="bib5487-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">127</citedRange></bibl><bibl xml:id="bib5487-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">667</citedRange></bibl>
         </place>
       </listPlace>
     </body>

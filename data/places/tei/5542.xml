@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -88,7 +88,7 @@
           <placeName xml:id="name5542-3" xml:lang="en">Aden</placeName>
           <placeName xml:id="name5542-4" xml:lang="ar" source="#bib5542-1">عدن</placeName>
           <placeName xml:id="name5542-5" xml:lang="ar" source="#bib5542-2">عدن</placeName>
-          <desc type="abstract" xml:id="abstract5542-1" xml:lang="en">A port city in Yemen.</desc>
+          <desc type="abstract" xml:id="abstract5542-1" xml:lang="en">A port city in Yemen.</desc><desc xml:lang="ar"><quote source="#bib5542-4">فذهبوا الى عدن، ومات بها وشل.</quote></desc><desc xml:lang="ar"><quote source="#bib5542-5">والخلع التي ساقها إنما اشتراها بعدن</quote></desc><desc xml:lang="ar"><quote source="#bib5542-6">وجامع صنعاء من أحسن الجوامع، وفيه قبر نبي من الأنبياء عليهم السلام. ثم سافرنا منها الى مدينة عدن، مرسى بلاد اليمن، على ساحل البحرالأعظم.</quote></desc><desc xml:lang="ar"><quote source="#bib5542-7">وسافرت من مدينة عدن في البحر أربعة أيام، ووصلت الى مدينة زيلع وهي مدينة البرابرة</quote></desc><desc xml:lang="ar"><quote source="#bib5542-8">وبين ظفار وعدن في البرّ مسيرة شهر في صحراء، وبينها وبين حضرموت ستة عشر يوماً، وبينها وبين عمان عشرون يوماً</quote></desc>
                     <location type="gps" source="#bib5542-3">
                         <geo>12.77944 45.03667</geo>
                     </location>
@@ -110,7 +110,7 @@
           </bibl>
                     <bibl xml:id="bib5542-3">
                         <ptr target="http://gazetteer.dainst.org/place/2287356"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5542-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">168</citedRange></bibl><bibl xml:id="bib5542-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">171</citedRange></bibl><bibl xml:id="bib5542-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">260</citedRange></bibl><bibl xml:id="bib5542-7"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">261</citedRange></bibl><bibl xml:id="bib5542-8"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">267</citedRange></bibl>
         </place>
       </listPlace>
     </body>

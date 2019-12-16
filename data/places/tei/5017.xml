@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -91,7 +91,7 @@
           <desc type="abstract" xml:id="abstract5017-1" xml:lang="en" source="#bib5017-3"><quote>[N]ame given by the Arab authors either to the whole of the Transjordanian territory corresponding approximately to the ancient countries of Ammon, Moab and even Gilead, or to the middle part of it, having, depending on the period, ʿAmmān, [q.v.], Ḥusbān or al-Ṣalt as its chief town.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5017-1">وجنوبيها [من ديار العرب] وشيء من غربيهاثم يمتد عليها من ايلة على مدائن قوم لوط والبحيرة المنتنة التي تعرف ببحيرة زغر الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة ونواحى بعلبك وذلك من عمل دمشق</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib5017-5">ذكر ياقوت في معجم البلدان أن اسمها: زيزاء، وهي من قرى البلقاء.</quote></desc>
                     <location type="gps" source="#bib5017-4">
                         <geo>32 35.66667</geo>
                     </location>
@@ -117,7 +117,7 @@
                     </bibl>
                     <bibl xml:id="bib5017-4">
                         <ptr target="http://sws.geonames.org/250751"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5017-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">126 (footnote for زيرا)</citedRange></bibl>
         </place>
       </listPlace>
     </body>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,14 +78,14 @@
           <placeName xml:id="name5115-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الصالحية</placeName>
           <placeName xml:id="name5115-3" xml:lang="en">al-Ṣāliḥīya</placeName>
           <placeName xml:id="name5115-4" xml:lang="ar" source="#bib5115-1">الصالحية</placeName>
-          <desc type="abstract" xml:id="abstract5115-1" xml:lang="en">A town in Egypt located at the edge of the Sinai Peninsula.</desc>
+          <desc type="abstract" xml:id="abstract5115-1" xml:lang="en">A town in Egypt located at the edge of the Sinai Peninsula.</desc><desc xml:lang="ar"><quote source="#bib5115-2">ثم وصلت الى الصالحية. ومنها دخلنا الرمال</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5115</idno>
           <idno type="URI">http://syriaca.org/place/5115</idno>
           <idno type="URI">https://www.google.com/maps/place/El+Salheya,+As+Saleheyah,+Markaz+Fakous,+Ash+Sharqia+Governorate,+Egypt/data=!4m2!3m1!1s0x14f8480ff0ea337d:0x299172130ae0f3b1?sa=X&amp;ved=2ahUKEwjmkJ3t7s3jAhXXQs0KHZ4sDYAQ8gEwGnoECAkQBA</idno>
           <bibl xml:id="bib5115-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">72</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5115-2"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">72</citedRange></bibl>
         </place>
       </listPlace>
     </body>

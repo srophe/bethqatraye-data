@@ -61,7 +61,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-16-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -95,7 +95,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change874-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
@@ -114,7 +114,7 @@
                     <placeName xml:lang="ar" srophe:tags="#headword" source="#bib874-2" xml:id="name874-4">السلطانية</placeName>
                     <placeName xml:lang="en" xml:id="name874-5">Soltaniyeh</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract874-1">A town in the <placeName>Zanjān</placeName>
-                        province in northwest <placeName>Iran</placeName>.</desc>
+                        province in northwest <placeName>Iran</placeName>.</desc><desc xml:lang="ar"><quote source="#bib874-4"> ووصلوا إلى الملك محمد خدابنده سلطان العراق، وهو بموضع مصيفه المسمى قراباغ (بفتح القاف والراء والباء الموحدة والغين المعجمة)، وهو ما بين السلطانية وتبريز</quote></desc><desc xml:lang="ar"><quote source="#bib874-5">ذكر المتغلّبين على الملك بعد موت السلطان أبي سعيد (...) ومنهم حسن خواجه بن الدّمرطاش بن الجوبان، تغلب على تبريز والسلطانيّة وهمدان، وقمّ وقاشان والريّ ورامين وفرغان والكرج</quote></desc>
                     <location type="gps" source="#bib874-3">
                         <geo>36.43472 48.7975</geo>
                     </location>
@@ -141,7 +141,7 @@
                     </bibl>
                     <bibl xml:id="bib874-3">
                         <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Soltaniyeh&amp;params=36_26_05_N_48_47_51_E_region:IR_type:city"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib874-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">94</citedRange></bibl><bibl xml:id="bib874-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
                 </place>
             </listPlace>
         </body>

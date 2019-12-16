@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -78,7 +78,7 @@
           <placeName xml:id="name5113-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ṣafrāʾ</placeName>
           <placeName xml:id="name5113-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الصفراء</placeName>
           <placeName xml:id="name5113-3" xml:lang="ar" source="#bib5113-1">الصفراء</placeName>
-          <desc type="abstract" xml:id="abstract5113-1" xml:lang="en">A valley southwest of Medina.</desc>
+          <desc type="abstract" xml:id="abstract5113-1" xml:lang="en">A valley southwest of Medina.</desc><desc xml:lang="ar"><quote source="#bib5113-1">ثم رحلنا ونزلنا بالصفراء. وهو واد معمور، فيه ماء ونخل وبنيان، وقصر يسكنه الشّرفاء الحسنيون وسواهم، وفيها حصن كبير، ووتواليه حصون كثيرة وقرى متصلة،</quote></desc>
                     <location type="gps" source="#bib5113-2">
                         <geo>24.01277778 38.92277778</geo>
                     </location>

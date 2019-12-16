@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -78,7 +78,7 @@
           <placeName xml:id="name5107-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الرصافة</placeName>
           <placeName xml:id="name5107-3" xml:lang="en">Rusafa</placeName>
           <placeName xml:id="name5107-4" xml:lang="ar" source="#bib5107-1">الرصافة</placeName>
-          <desc type="abstract" xml:id="abstract5107-1" xml:lang="en">َA mosque located in the quarter of Ruṣāfa east of the Tigris in Baghdād.</desc>
+          <desc type="abstract" xml:id="abstract5107-1" xml:lang="en">َA mosque located in the quarter of Ruṣāfa east of the Tigris in Baghdād.</desc><desc xml:lang="ar"><quote source="#bib5107-1">والجامع الثاني جامع السلطان، وهو خارج البلد وتتّصل به قصور تنسب للسلطان، والجامع الثالث جامع الرصافة وبينه وبين جامع السلطان نحو الميل. ذكر قبور الخلفاء ببغداد وقبور بعض العلماء والصالحين بها. وقبور الخلفاء العبّاسييّن رضى الله عنهم بالرّصافة.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5107</idno>
           <idno type="URI">http://syriaca.org/place/5107</idno>
           <idno type="URI">https://www.google.com/maps/place/Rusafa,+Baghdad,+Iraq/data=!4m2!3m1!1s0x1557825e0fd7971d:0x656292d073e44a39?sa=X&amp;ved=2ahUKEwjxy92KrMvjAhVBYKwKHdg6D9IQ8gEwAHoECAoQAQ</idno>

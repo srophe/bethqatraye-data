@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,7 +77,7 @@
           <placeName xml:id="name5529-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zakī</placeName>
           <placeName xml:id="name5529-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زكي</placeName>
           <placeName xml:id="name5529-3" xml:lang="ar" source="#bib5529-1">زكي</placeName>
-          <desc type="abstract" xml:id="abstract5529-1" xml:lang="en">A town located in modern day-Fujayra, previously part of the ʿUmān region.</desc>
+          <desc type="abstract" xml:id="abstract5529-1" xml:lang="en">A town located in modern day-Fujayra, previously part of the ʿUmān region.</desc><desc xml:lang="ar"><quote source="#bib5529-1">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5529</idno>
           <idno type="URI">http://syriaca.org/place/5529</idno>
           <bibl xml:id="bib5529-1">

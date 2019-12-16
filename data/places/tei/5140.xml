@@ -59,7 +59,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -91,7 +91,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5140-1">Merged in data from
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5140-1">Merged in data from
         [http://bqgazetteer.bethmardutho.org/place/5141].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5141]</change>
@@ -108,7 +108,7 @@
           <desc type="abstract" xml:id="abstract5140-1" xml:lang="en">A town in the north of the
             Arabian Peninsula. The town is part of the Darb Zubayda, the famous pilgrim highway,
             from al-ʿIrāq to Ḥijāz.</desc>
-          <desc xml:lang="en">This settlement is about a three-day journey from Kufa.</desc>
+          <desc xml:lang="en">This settlement is about a three-day journey from Kufa.</desc><desc xml:lang="ar"><quote source="#bib5140-2">ثم رحلنا ونزلنا الثعلبية، ولها حصن خرب بازائه مصنع هائل ينزل إليه في درج، وبه من ماء المطر ما يعم الركب. ويجتمع من العرب بهذا الموضع جمع عظيم فيبيعون الجمال والغنم والسمن واللبن. ومن هذا الموضع إلى الكوفة ثلاث مراحل.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5140</idno>
           <idno type="URI">http://syriaca.org/place/5140</idno>
           <bibl xml:id="bib5140-1">

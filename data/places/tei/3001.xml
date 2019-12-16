@@ -81,7 +81,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -114,7 +114,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3001-3">Merged in data from [duplicate record with same URI].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3001-2">Merged in data from [duplicate record with same URI]. [duplicate
         record with same URI]</change>
@@ -140,7 +140,7 @@
           <desc xml:lang="ar">
             <quote source="#bib3001-2">ورأيت شيخا بسرخس قد فصل الاشكال وصور بلد الكفر والاسلام كله
               خطأ الا القليل وقلت له هل سافرت قال ما جاوزت سرخس</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib3001-5">ثم غزاهم طغيتمور بنفسه في خمسين ألفاً من التجر فهزموه، وملكوا البلاد، وتغلبوا على سرخس والزاوة وطوس، وهي من أعظم بلاد خراسان.</quote></desc><desc xml:lang="ar"><quote source="#bib3001-6">ثم سافرنا الى مدينة سرخس، وإليها ينسب الشيخ الصالح لقمان السرخسي رضي الله عنه.</quote></desc>
                     <location type="gps" source="#bib3001-4">
                         <geo>36.5449 61.1577</geo>
                     </location>
@@ -179,7 +179,7 @@
           </bibl>
                     <bibl xml:id="bib3001-4">
                         <ptr target="http://www.geonames.org/1159716/sarakhs.html"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib3001-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">390</citedRange></bibl><bibl xml:id="bib3001-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">394</citedRange></bibl>
         </place>
       </listPlace>
     </body>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,13 +77,13 @@
           <placeName xml:id="name5226-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāl</placeName>
           <placeName xml:id="name5226-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بال</placeName>
           <placeName xml:id="name5226-3" xml:lang="ar" source="#bib5226-1">بال</placeName>
-          <desc type="abstract" xml:id="abstract5226-1" xml:lang="en">A city or region in southern Iran close to Lār and Hanj.</desc>
+          <desc type="abstract" xml:id="abstract5226-1" xml:lang="en">A city or region in southern Iran close to Lār and Hanj.</desc><desc xml:lang="ar"><quote source="#bib5226-2">ومن قراه العظيمة التي تضاهي المدن قرية ميمن، وهي للقاضي المذكور. ومن عجائب هذا الموضع المعروف بجمكان أن نصفه مما يلي شيراز وذلك مسافة اثني عشر فرسخاً شديد البرد وينزل فيه الثلج وأكثر شجره الجوز، والجزء الآخر مما يلي بلاد هنج وبال وبلاد اللار في طريق هرمز شديد الحر وفيه شجر النخيل.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5226</idno>
           <idno type="URI">http://syriaca.org/place/5226</idno>
           <bibl xml:id="bib5226-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">217</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5226-2"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">217</citedRange></bibl>
         </place>
       </listPlace>
     </body>

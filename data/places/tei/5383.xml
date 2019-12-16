@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -80,13 +80,13 @@
           <placeName xml:id="name5383-4" xml:lang="ar">ماين</placeName>
           <placeName xml:id="name5383-5" xml:lang="ar" source="#bib5383-1">مایين</placeName>
           <placeName xml:id="name5383-6" xml:lang="ar" source="#bib5383-1">ماين</placeName>
-          <desc type="abstract" xml:id="abstract5383-1" xml:lang="en">A town near Shiraz.</desc>
+          <desc type="abstract" xml:id="abstract5383-1" xml:lang="en">A town near Shiraz.</desc><desc xml:lang="ar"><quote source="#bib5383-2">ثم سافرنا الى مايين (واسمها بياءين مسفولتين أولاهما مكسورة) وهي بلدة صغيرة كثيرة الأنهار والبساتين حسنة الأسواق، وأكثر أشجارها الجوز. ثم سافرنا منها الى مدينة شيراز.</quote></desc><desc xml:lang="ar"><quote source="#bib5383-3">ثم ساقرت الى ماين، ثم الى يزدخاص، ثم الى كليل</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5383</idno>
           <idno type="URI">http://syriaca.org/place/5383</idno>
           <bibl xml:id="bib5383-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">213, 662</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5383-2"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">213</citedRange></bibl><bibl xml:id="bib5383-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">662</citedRange></bibl>
         </place>
       </listPlace>
     </body>

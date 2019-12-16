@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -88,7 +88,7 @@
           <placeName xml:id="name5550-3" xml:lang="en">Asfan</placeName>
           <placeName xml:id="name5550-4" xml:lang="ar" source="#bib5550-1">عسفان</placeName>
           <placeName xml:id="name5550-5" xml:lang="ar" source="#bib5550-2">عسفان</placeName>
-          <desc type="abstract" xml:id="abstract5550-1" xml:lang="en">A town northwest of Mecca.</desc>
+          <desc type="abstract" xml:id="abstract5550-1" xml:lang="en">A town northwest of Mecca.</desc><desc xml:lang="ar"><quote source="#bib5550-4"> ثم رحلنا إلى عسفان وهي في بسيط من الأرض، بين جبال، وبها آبار ماء معين، تنسب إحداها إلى عثمان بن عفان رضي الله عنه. والمدرّج المنسوب إلى عثمان أيضا على مسافة نصف يوم من خليص</quote></desc><desc xml:lang="ar"><quote source="#bib5550-5">وفي هذا الركب الأسواق الحافلة والمرافق العظيمة وأنواع الأطعمة والفواكه وهم يسيرون باللّيل ويوقدون المشاعل أمام القطار والمحارات، فترى الأرض تتلألأ نورا والليل قد عاد نهارا ساطعا ثم رحلنا من بطن مرّ إلى عسفان، ثم إلى خليص ثم رحلنا أربع مراحل ونزلنا وادي السمك، ثم رحلنا خمسا ونزلنا في بدر</quote></desc>
                     <location type="gps" source="#bib5550-3">
                         <geo>21.9000603 39.3109892</geo>
                     </location>
@@ -110,7 +110,7 @@
           </bibl>
                     <bibl xml:id="bib5550-3">
                         <ptr target="https://www.google.com/maps/place/Asfan+Saudi+Arabia/@21.9000603,39.3109892,12z/data=!3m1!4b1!4m5!3m4!1s0x15c19ee2f4f5a3e7:0x59be183140bf0904!8m2!3d21.9001621!4d39.3828571"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5550-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">143</citedRange></bibl><bibl xml:id="bib5550-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">185</citedRange></bibl>
         </place>
       </listPlace>
     </body>

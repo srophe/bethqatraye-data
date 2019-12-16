@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -87,7 +87,7 @@
           <placeName xml:id="name5001-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بطن عرنة</placeName>
           <placeName xml:id="name5001-3" xml:lang="ar" source="#bib5001-1">بطن عرنة</placeName>
           <placeName xml:id="name5001-4" xml:lang="ar" source="#bib5001-2">بطن عرنة</placeName>
-          <desc type="abstract" xml:id="abstract5001-1" xml:lang="en">A small depression close to Mecca and ʿArafat.</desc>
+          <desc type="abstract" xml:id="abstract5001-1" xml:lang="en">A small depression close to Mecca and ʿArafat.</desc><desc xml:lang="ar"><quote source="#bib5001-4">ولعرفة ثلاث أسماء، وهي، عرفة وجمع والمشعر الحرام، وعرفات بسيط من الأرض فسيح أفيح، تحدق به جبال كثيرة. وفي آخر بسيط عرفات جبل الرّحمة، وفيه الموقف، وفيما حوله، والعلمان قبله بنحو ميل، وهما الحد ما بين الحل والحرم. وبمقربة منهما مما يلي عرفة بطن عرنة الذي أمر النبي صلى الله عليه وسلم بالارتفاع عنه، ويجب التحفظ منه، ويجب أيضا الإمساك عن النّفور حتى يتمكن سقوط الشمس. فإن الجمّالين، ربّما استحثوا كثيرا من الناس، وحذّروهم الزحام في النّفر، واستدرجوهم إلى أن يصلوا بهم بطن عرنة، فيبطل حجهم.#</quote></desc>
                     <location type="gps" source="#bib5001-3">
                         <geo>21.3635089 39.9481021</geo>
                     </location>
@@ -109,7 +109,7 @@
           </bibl>
                     <bibl xml:id="bib5001-3">
                         <ptr target="https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5001-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">181 and p. 182</citedRange></bibl>
         </place>
       </listPlace>
     </body>

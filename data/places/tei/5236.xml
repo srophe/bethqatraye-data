@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -82,7 +82,7 @@
           <placeName xml:id="name5236-5" xml:lang="ar">سبزار</placeName>
           <placeName xml:id="name5236-6" xml:lang="ar">سبزوار</placeName>
           <placeName xml:id="name5236-7" xml:lang="ar" source="#bib5236-1">بيهق</placeName>
-          <desc type="abstract" xml:id="abstract5236-1" xml:lang="en">A city in western Khurāsān.</desc>
+          <desc type="abstract" xml:id="abstract5236-1" xml:lang="en">A city in western Khurāsān.</desc><desc xml:lang="ar"><quote source="#bib5236-1">كان بخراسان رجلان: أحدهما يسمى بمسعود والآخر يسمى بمحمد. وكان لهما خمسة من الأصحاب، وهم من الفتّاك، ويعرفون بالعراق بالشطّار، ويعرفون بخراسان بسرابداران (سربداران)، ويعرفون بالمغرب بالصّقور. فاتفق سبعتهم على الفساد وقطع الطرق وسلب الأموال، وشاع خبرهم، وسكنوا جبلا منيعا بمقربة من مدينة بيهق، وتسمى أيضا مدينة سيزار (سيزوار). وكانوا يكمنون بالنهار. ويخرجون بالليل والعشي، فيضربون على القرى، ويقطعون الطرق، ويأخذون الأموال.</quote></desc>
                     <location type="gps" source="#bib5236-2">
                         <geo>36.5 57.5</geo>
                     </location>

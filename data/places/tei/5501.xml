@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -78,7 +78,7 @@
           <placeName xml:id="name5501-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Tīzīn</placeName>
           <placeName xml:id="name5501-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تيزين</placeName>
           <placeName xml:id="name5501-3" xml:lang="ar" source="#bib5501-1">تيزين</placeName>
-          <desc type="abstract" xml:id="abstract5501-1" xml:lang="en">A village in the vicinity of Aleppo.</desc>
+          <desc type="abstract" xml:id="abstract5501-1" xml:lang="en">A village in the vicinity of Aleppo.</desc><desc xml:lang="ar"><quote source="#bib5501-3">ثم سافرت منها إلى مدينة تيزين. وهي على طريق قنّسرين (وضبط اسمها بتاء معلوة مكسورة وياء مدّ وزاي مكسورة وياء مد ثانية ونون)، وهي حديثة اتخذها التركمان.</quote></desc><desc xml:lang="ar"><quote source="#bib5501-4">ولقيت هذا الأمير ومعه قاضي بغراس شرف الدين الحموي، بموضع يقال له: العمق متوسط بين أنطاكية وتيزين وبغراس، ينزله التركمان بمواشيهم، لخصبه وسعته.</quote></desc>
                     <location type="gps" source="#bib5501-2">
                         <geo>36.26441 36.6524</geo>
                     </location>
@@ -93,7 +93,7 @@
           </bibl>
                     <bibl xml:id="bib5501-2">
                         <ptr target="http://gazetteer.dainst.org/place/2194338"/>
-                    </bibl>
+                    </bibl><bibl xml:id="bib5501-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">90-91</citedRange></bibl><bibl xml:id="bib5501-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">92</citedRange></bibl>
         </place>
       </listPlace>
     </body>

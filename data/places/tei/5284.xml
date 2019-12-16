@@ -60,7 +60,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -92,7 +92,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5284-1">Merged in data from
         [http://bqgazetteer.bethmardutho.org/place/5285].</change>
@@ -116,7 +116,7 @@
             <quote source="#bib5284-2">ويحيط بها بحر فارس من عبادان وهو مصب ماء دجلة في البحر فيمتد
               على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل
               اليمن الى جدة ثم يمتدعلى الجار ومدين حتى ينتهي الى أيلة</quote>
-          </desc>
+          </desc><desc xml:lang="ar"><quote source="#bib5284-1">وبين ظفار وعدن في البرّ مسيرة شهر في صحراء، وبينها وبين حضرموت ستة عشر يوماً، وبينها وبين عمان عشرون يوماً</quote></desc>
                     <location type="gps" source="#bib5284-4">
                         <geo>16.0 49.0</geo>
                     </location>

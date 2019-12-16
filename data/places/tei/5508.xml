@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,13 +77,13 @@
           <placeName xml:id="name5508-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Umm ʿUbayda</placeName>
           <placeName xml:id="name5508-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أم عبيدة</placeName>
           <placeName xml:id="name5508-3" xml:lang="ar" source="#bib5508-1">أم عبيدة</placeName>
-          <desc type="abstract" xml:id="abstract5508-1" xml:lang="en">A village in the region of al-Baṭīḥa in lower Iraq.</desc>
+          <desc type="abstract" xml:id="abstract5508-1" xml:lang="en">A village in the region of al-Baṭīḥa in lower Iraq.</desc><desc xml:lang="ar"><quote source="#bib5508-2">يحكى أن الشيخ الولي أحمد الرفاعي رضي الله عنه كان مسكنه بأم عبيدة بمقربة من مدينة واسط</quote></desc><desc xml:lang="ar"><quote source="#bib5508-3">فسنح لي زيارة قبر الولي أبي العباس أحمد الرفاعي، وهو بقرية تعرف بأم عبيدة، على مسيرة يوم من واسط.</quote></desc>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5508</idno>
           <idno type="URI">http://syriaca.org/place/5508</idno>
           <bibl xml:id="bib5508-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">114, 195</citedRange>
-          </bibl>
+          </bibl><bibl xml:id="bib5508-2"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">114</citedRange></bibl><bibl xml:id="bib5508-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">195</citedRange></bibl>
         </place>
       </listPlace>
     </body>

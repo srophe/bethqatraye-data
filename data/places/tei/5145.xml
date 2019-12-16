@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-16-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -82,7 +82,7 @@
           <placeName xml:id="name5145-4" xml:lang="ar">حجر</placeName>
           <placeName xml:id="name5145-5" xml:lang="ar" source="#bib5145-1">اليمامة</placeName>
           <placeName xml:id="name5145-6" xml:lang="ar" source="#bib5145-1">حجر</placeName>
-          <desc type="abstract" xml:id="abstract5145-1" xml:lang="en" source="#bib5145-2"><quote>[A]t the present time a town in the Kingdom of Saudi Arabia about 70 km/45 miles south-east of the capital al-Riyāḍ [q.v.] and situated in the region of al-K̲h̲ard̲j̲ within the al-Riyāḍ emirate, close to Maḥaṭṭat al-K̲h̲ard̲j̲ on the al-Riyāḍ to al-Ẓahrān (Dhahran) railway [...].</quote></desc>
+          <desc type="abstract" xml:id="abstract5145-1" xml:lang="en" source="#bib5145-2"><quote>[A]t the present time a town in the Kingdom of Saudi Arabia about 70 km/45 miles south-east of the capital al-Riyāḍ [q.v.] and situated in the region of al-K̲h̲ard̲j̲ within the al-Riyāḍ emirate, close to Maḥaṭṭat al-K̲h̲ard̲j̲ on the al-Riyāḍ to al-Ẓahrān (Dhahran) railway [...].</quote></desc><desc xml:lang="ar"><quote source="#bib5145-1">ثم سافرنا منها إلى مدينة اليمامة وتسمى أيضا بحجر (بفتح الحاء المهمل واسكان الجيم) مدينة حسنة خصبة ذات أنهار وأشجار، يسكنها طوائف من العرب، من بني حنيفة، وهي بلدهم قديماً، وأميرهم طفيل بن غانم.</quote></desc>
                     <location type="gps" source="#bib5145-3">
                         <geo>24.1799096 46.7549995</geo>
                     </location>
