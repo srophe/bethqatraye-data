@@ -118,9 +118,6 @@
                         <quote source="#bib677-4">ورومية وأثيناس مدينتان بهما مجمع النصارى وتقربان
                             من البحر</quote>
                     </desc>
-                    <location type="gps" source="#bib677-5">
-                        <geo>37.972819149500474 23.72374385186998</geo>
-                    </location>
                     <location type="gps" source="#bib677-3">
                         <geo>37.971687 23.726464</geo>
                     </location>
@@ -153,9 +150,6 @@
                         <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
                         <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
                         <citedRange unit="pp">135</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib677-5">
-                        <ptr target="http://pleiades.stoa.org/places/579885"/>
                     </bibl>
                 </place>
             </listPlace>

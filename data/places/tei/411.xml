@@ -168,9 +168,6 @@
                     <desc xml:lang="ar">
                         <quote source="#bib411-7">وتدمر وسلمية وهما من عمل حمص</quote>
                     </desc>
-                    <location type="gps" source="#bib411-9">
-                        <geo>35.050807 37.057146</geo>
-                    </location>
                     <location type="gps" source="#bib411-5">
                         <geo>35.050807 37.057146</geo>
                     </location>
@@ -232,11 +229,7 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6525"/>
-                    </bibl>
-                    <bibl xml:id="bib411-9">
-                        <ptr target="http://pleiades.stoa.org/places/668362"/>
-                    </bibl>
-                </place>
+                    </bibl>                </place>
             </listPlace>
         </body>
     </text>

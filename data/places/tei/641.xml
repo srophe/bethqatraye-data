@@ -170,9 +170,6 @@
                             المقدس محدث لم يكن في ايام الحواريين واتخذوه بعدهم ليغظم به بيت
                             المقدس</quote>
                     </desc>
-                    <location type="gps" source="#bib641-11">
-                        <geo>41.891775 12.486137</geo>
-                    </location>
                     <location type="gps" source="#bib641-7">
                         <geo>41.8917375 12.4861685</geo>
                     </location>
@@ -261,9 +258,6 @@
                         <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
                         <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
                         <citedRange unit="pp">135</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib641-11">
-                        <ptr target="http://pleiades.stoa.org/places/423025"/>
                     </bibl>
                 </place>
             </listPlace>

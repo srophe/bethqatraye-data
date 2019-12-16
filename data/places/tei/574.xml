@@ -121,9 +121,6 @@
                     <desc xml:lang="ar">
                         <quote source="#bib574-4">ثم الخناصرة وبالس وهما من عمل قنسرين</quote>
                     </desc>
-                    <location type="gps" source="#bib574-6">
-                        <geo>35.809864 37.518964</geo>
-                    </location>
                     <location type="gps" source="#bib574-2">
                         <geo>35.809864 37.518964</geo>
                     </location>
@@ -171,9 +168,6 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4331"/>
-                    </bibl>
-                    <bibl xml:id="bib574-6">
-                        <ptr target="http://pleiades.stoa.org/places/668187"/>
                     </bibl>
                 </place>
             </listPlace>

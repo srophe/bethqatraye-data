@@ -121,9 +121,6 @@
                     <desc type="abstract" xml:lang="en" xml:id="abstract147-1">A river of <placeName ref="http://syriaca.org/place/486">Syria</placeName> which runs from
                         southwest of <placeName ref="http://syriaca.org/place/215">Emesa</placeName>
                         north to <placeName ref="http://syriaca.org/place/10">Antioch</placeName>.</desc>
-                    <location type="gps" source="#bib147-6">
-                        <geo>35.2728339 36.4825754</geo>
-                    </location>
                     <location type="gps" source="#bib147-3">
                         <geo>35.2728339 36.4825754</geo>
                     </location>
@@ -172,9 +169,6 @@
                         <editor>M.J. de Goeje</editor>
                         <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
                         <citedRange unit="pp">257, 258</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib147-6">
-                        <ptr target="http://pleiades.stoa.org/places/658560"/>
                     </bibl>
                 </place>
             </listPlace>

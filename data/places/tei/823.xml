@@ -156,9 +156,6 @@
                         34° 48′ N., altitude ca. 1800 metres/5900 ft.</quote>
                     </desc>
                     <desc xml:lang="ar"><quote source="#bib823-5">ذكر المتغلّبين على الملك بعد موت السلطان أبي سعيد (...) ومنهم حسن خواجه بن الدّمرطاش بن الجوبان، تغلب على تبريز والسلطانيّة وهمدان، وقمّ وقاشان والريّ ورامين وفرغان والكرج</quote></desc>
-                    <location type="gps" source="#bib823-7">
-                        <geo>34.792088 48.508172</geo>
-                    </location>
                     <location type="gps" source="#bib823-2">
                         <geo>34.799294 48.512209</geo>
                     </location>
@@ -213,9 +210,6 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2653"/>
-                    </bibl>
-                    <bibl xml:id="bib823-7">
-                        <ptr target="http://pleiades.stoa.org/places/903021"/>
                     </bibl>
                 </place>
             </listPlace>

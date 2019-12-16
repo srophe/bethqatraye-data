@@ -225,9 +225,6 @@
                     <desc xml:lang="ar">
                         <quote source="#bib184-12">ثمّ رحلنا إلى مدينة سنجار، وهي مدينة كبيرة كثيرة الفواكه والأشجار والعيون المطردة والأنهار</quote>
                     </desc>
-                    <location type="gps" source="#bib184-13">
-                        <geo>36.3236 41.8644</geo>
-                    </location>
                     <location type="gps" source="#bib184-7">
                         <geo>36.321337 41.859566</geo>
                     </location>
@@ -323,9 +320,6 @@
                             Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">246</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib184-13">
-                        <ptr target="http://pleiades.stoa.org/places/874699"/>
                     </bibl>
                 </place>
             </listPlace>

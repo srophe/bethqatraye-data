@@ -125,9 +125,6 @@
                             الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة
                             ونواحى بعلبك وذلك من عمل دمشق</quote>
                     </desc>
-                    <location type="gps" source="#bib577-5">
-                        <geo>34.015363 36.200556</geo>
-                    </location>
                     <location type="gps" source="#bib577-2">
                         <geo>34.006664 36.203685</geo>
                     </location>
@@ -172,9 +169,6 @@
                         <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
                         <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
                         <citedRange unit="pp">17</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib577-5">
-                        <ptr target="http://pleiades.stoa.org/places/678179"/>
                     </bibl>
                 </place>
             </listPlace>
