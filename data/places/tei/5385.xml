@@ -92,15 +92,15 @@
         <body>
             <listPlace>
                 <place type="province">
-                    <placeName xml:id="name2880-1" xml:lang="en" srophe:tags="#headword" source="#bib2880-1">Mazun</placeName>
-                    <placeName xml:id="name2880-2" xml:lang="ar">مَزون</placeName>
-                    <placeName xml:id="name2880-3" xml:lang="syr" srophe:tags="#headword" source="#bib2880-2">ܡܙܘܢ</placeName>
-                    <placeName xml:id="name2880-4" xml:lang="fr" source="#bib2880-2">Mazȏn</placeName>
-                    <placeName xml:id="name2880-5" xml:lang="en">Beth Mazunaye</placeName>
-                    <placeName xml:id="name2880-6" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مازون</placeName>
-                    <placeName xml:id="name2880-7" xml:lang="en">Māzūn</placeName>
-                    <placeName xml:id="name2880-8" xml:lang="la" source="#bib2880-4">Mazun</placeName>
-                    <placeName xml:id="name2880-9" xml:lang="syr">ܡܪܘܢ</placeName>
+                    <placeName xml:id="name5385-1" xml:lang="en" srophe:tags="#headword" source="#bib5385-1">Mazun</placeName>
+                    <placeName xml:id="name5385-2" xml:lang="ar">مَزون</placeName>
+                    <placeName xml:id="name5385-3" xml:lang="syr" srophe:tags="#headword" source="#bib5385-2">ܡܙܘܢ</placeName>
+                    <placeName xml:id="name5385-4" xml:lang="fr" source="#bib5385-2">Mazȏn</placeName>
+                    <placeName xml:id="name5385-5" xml:lang="en">Beth Mazunaye</placeName>
+                    <placeName xml:id="name5385-6" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مازون</placeName>
+                    <placeName xml:id="name5385-7" xml:lang="en">Māzūn</placeName>
+                    <placeName xml:id="name5385-8" xml:lang="la" source="#bib5385-4">Mazun</placeName>
+                    <placeName xml:id="name5385-9" xml:lang="syr">ܡܪܘܢ</placeName>
                     <desc type="abstract" xml:id="abstract5385-1" xml:lang="en">A region of the
                         southeastern <placeName ref="http://syriaca.org/place/716">Arabian
                             Peninsula</placeName> on the shores of the <placeName ref="http://syriaca.org/place/156">Persian Gulf</placeName>.</desc>
@@ -111,39 +111,39 @@
                         <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth
                             Qaṭraye</region>
                     </location>
-                    <event type="attestation" xml:id="attestation2880-1" when="0424" source="#bib2880-2">
+                    <event type="attestation" xml:id="attestation5385-1" when="0424" source="#bib5385-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܡܙܘܢ</foreign>
                             in the <title xml:lang="en" level="m">Synodicon Orientale</title>.</p>
-                        <link target="#name2880-3 #attestation2880-1"/>
+                        <link target="#name5385-3 #attestation5385-1"/>
                     </event>
-                    <event type="attestation" xml:id="attestation2880-2" when="0554" source="#bib2880-2">
+                    <event type="attestation" xml:id="attestation5385-2" when="0554" source="#bib5385-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܡܙܘܢ</foreign>
                             in the <title xml:lang="en" level="m">Synodicon Orientale</title>.</p>
-                        <link target="#name2880-3 #attestation2880-2"/>
+                        <link target="#name5385-3 #attestation5385-2"/>
                     </event>
-                    <event type="attestation" xml:id="attestation2880-3" when="0576" source="#bib2880-2">
+                    <event type="attestation" xml:id="attestation5385-3" when="0576" source="#bib5385-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܡܙܘܢ</foreign>
                             in the <title xml:lang="en" level="m">Synodicon Orientale</title>.</p>
-                        <link target="#name2880-3 #attestation2880-3"/>
+                        <link target="#name5385-3 #attestation5385-3"/>
                     </event>
                     <note type="deprecation" xml:id="name5383-9-deprecation">Sometimes incorrectly
                         written as ܡܪܘܢ (Marun).</note>
                     <link target="#name5383-9 #name5383-9-deprecation"/>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5385</idno>
                     <idno type="URI">http://syriaca.org/place/5385</idno>
-                    <bibl xml:id="bib2880-1">
+                    <bibl xml:id="bib5385-1">
                         <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the
                             Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">73</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2880-2">
+                    <bibl xml:id="bib5385-2">
                         <title xml:lang="en" level="m">Synodicon Orientale</title>
                         <editor>Jean Baptiste Chabot</editor>
                         <ptr target="http://syriaca.org/bibl/1383"/>
                         <citedRange unit="pp">43, 76, 110, 285, 328, 368</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2880-3">
+                    <bibl xml:id="bib5385-3">
                         <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the
                             Qataris</title>
                         <author>Ishoʿyahb III of Adiabene</author>
@@ -151,7 +151,7 @@
                         <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
                         <citedRange unit="pp">72</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2880-4">
+                    <bibl xml:id="bib5385-4">
                         <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the
                             Qataris</title>
                         <author>Ishoʿyahb III of Adiabene</author>
