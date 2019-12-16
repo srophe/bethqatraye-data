@@ -120,7 +120,7 @@
                     <placeName xml:id="name642-1" xml:lang="en" srophe:tags="#headword" source="#bib642-1 #bib642-2">Socotra</placeName>
                     <placeName xml:id="name642-2" xml:lang="ar" source="#bib642-3">سُقُطْرَى</placeName>
                     <placeName xml:id="name642-3" xml:lang="ar" srophe:tags="#headword" source="#bib642-4">سقوطرة</placeName>
-                    <desc xml:id="abstract-en-642" xml:lang="en">An island off the <placeName>horn of
+                    <desc type="abstract" xml:id="abstract642-1" xml:lang="en">An island off the <placeName>horn of
                         <placeName>Africa</placeName></placeName>.</desc>
                     <location type="gps" source="#bib642-5">
                         <geo>12.4805981 53.9293594</geo>
