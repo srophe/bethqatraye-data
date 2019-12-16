@@ -1,0 +1,127 @@
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:syriaca="http://syriaca.org" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a" xml:lang="en">Ramath - <foreign xml:lang="ar">رمث</foreign> - <foreign xml:lang="syr">ܪܡܬ</foreign>
+        </title>
+        <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
+        <funder>Qatar National Research Foundation</funder>
+        <principal>Haya Al Thani</principal>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al
+          Thani</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+          al-Murikhi</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn"
+          >Abdulrahim Abu-Husayn</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul
+          Rahman Chamseddine</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario
+          Kozah</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
+          Carlson</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David
+          A. Michelson</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William
+          L. Potter</editor>
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
+        <respStmt>
+          <resp>Data merging and XML by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Beth Mardutho: The Syriac Institute</authority>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4471/tei</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/3.0/">
+            <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+          </licence>
+        </availability>
+        <date>2019-12-16-06:00</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>This record created following the guidelines for TEI encoding established by Syriaca.org.
+          Documentation available at: <ref target="http://syriaca.org/documentation"
+            >http://syriaca.org/documentation</ref>.</p>
+        <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place
+          was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning
+          monastery or church, an administrative province). Natural features always in existence
+          have no <gi>state</gi> element of @type="existence".</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="headword">
+            <catDesc>The name used by the Srophé App for document titles, citation, and
+              disambiguation. These names have been created according to the Syriaca.org guidelines
+              for headwords: <ref target="http://syriaca.org/documentation/headwords.html"
+                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation
+          available at: <ref target="http://syriaca.org/documentation/isostandards.xml"
+            >http://syriaca.org/documentation/isostandards.xml</ref>
+        </p>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00"
+        >CREATED: place</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+        <place type="island">
+          <placeName xml:id="name4471-1" xml:lang="en" srophe:tags="#headword"
+            resp="http://bqgazetteer.bethmardutho.org">Ramath</placeName>
+          <placeName xml:id="name4471-2" xml:lang="ar" srophe:tags="#headword"
+            source="#bib4471-1">رمث</placeName>
+          <placeName xml:id="name4471-3" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">ܪܡܬ</placeName>
+          <placeName xml:id="name4471-4" xml:lang ="ar" source="#bib4471-2">Failaka island</placeName>
+          <desc type="abstract" xml:id="abstract4471-1" xml:lang="en">An island in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>.</desc>
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
+            <geo>29.43889 48.33333</geo>
+          </location>
+          <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+            <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
+          </location>
+          <note type="incerta" source="#bib4471-2">Probably <ref target="#name4471-4">Failaka island</ref>. See M. Kozah, Introduction, in M. Kozah et al. (eds.), Beth Qaṭraye. A Lexical and Toponymical Survey, Piscataway: Gorgias Press (forthcoming).</note>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4471</idno>
+          <idno type="URI">http://syriaca.org/place/4471</idno>
+          <bibl xml:id="bib4471-1">
+            <title xml:lang="en" level="m">Chronicle of Seert</title>
+            <author>A. Scher</author>
+            <ptr target="http://syriaca.org/bibl/1345"/>
+            <citedRange unit="volume">5.2</citedRange>
+            <citedRange unit="pp">217-344</citedRange>
+          </bibl>
+          <bibl xml:id="bib4471-2">
+            <title xml:lang="en" level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>
+            <author>M. Kozah</author>
+            <editor>M. Kozah, et al.</editor>
+            <ptr target="http://syriaca.org/bibl/24XBRXP5"/>
+            <citedRange unit="part">Introduction</citedRange>
+          </bibl>
+        </place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>
