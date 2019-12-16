@@ -16,6 +16,7 @@
         <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
         <respStmt>
           <resp>al-Bakri data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif Al-Murikhi</name>
@@ -30,7 +31,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5347/tei</idno>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4160/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -71,25 +72,25 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5347-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Khārik</placeName>
-          <placeName xml:id="name5347-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">خارك</placeName>
-          <placeName xml:id="name5347-3" xml:lang="en">Kharg</placeName>
-          <placeName xml:id="name5347-4" xml:lang="en">Khark</placeName>
-          <placeName xml:id="name5347-5" xml:lang="ar" source="#bib5347-1">خارك</placeName>
-          <desc type="abstract" xml:id="abstract5347-1" xml:lang="en">An island in the Persian/Arabian Gulf.</desc>
-                    <location type="gps" source="#bib5347-2">
+          <placeName xml:id="name4160-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Khārik</placeName>
+          <placeName xml:id="name4160-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">خارك</placeName>
+          <placeName xml:id="name4160-3" xml:lang="en">Kharg</placeName>
+          <placeName xml:id="name4160-4" xml:lang="en">Khark</placeName>
+          <placeName xml:id="name4160-5" xml:lang="ar" source="#bib4160-1">خارك</placeName>
+          <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in the Persian/Arabian Gulf.</desc>
+                    <location type="gps" source="#bib4160-2">
                         <geo>29.230338 50.30604</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5347</idno>
-          <idno type="URI">http://syriaca.org/place/5347</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4160</idno>
+          <idno type="URI">http://syriaca.org/place/4160</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912881</idno>
-          <bibl xml:id="bib5347-1">
+          <bibl xml:id="bib4160-1">
             <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
             <citedRange unit="pp">vol. 1, 371-372</citedRange>
           </bibl>
-                    <bibl xml:id="bib5347-2">
+                    <bibl xml:id="bib4160-2">
                         <ptr target="http://pleiades.stoa.org/places/912881"/>
                     </bibl>
         </place>
