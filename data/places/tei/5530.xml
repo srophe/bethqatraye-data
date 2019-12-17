@@ -99,7 +99,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_8112"/>
                     </bibl>
                     <bibl xml:id="bib5530-3">
-                        <title>https://goo.gl/maps/EACi1QdptcHre1LK9</title> <ptr target="https://goo.gl/maps/EACi1QdptcHre1LK9"/>
+                        <title level="a">https://goo.gl/maps/EACi1QdptcHre1LK9</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://goo.gl/maps/EACi1QdptcHre1LK9"/>
                     </bibl>
         </place>
       </listPlace>

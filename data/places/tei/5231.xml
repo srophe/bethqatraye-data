@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1101"/>
                     </bibl>
                     <bibl xml:id="bib5231-3">
-                        <title>https://goo.gl/maps/MjZy3HVF2mNdD48c7</title> <ptr target="https://goo.gl/maps/MjZy3HVF2mNdD48c7"/>
+                        <title level="a">https://goo.gl/maps/MjZy3HVF2mNdD48c7</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://goo.gl/maps/MjZy3HVF2mNdD48c7"/>
                     </bibl>
         </place>
       </listPlace>

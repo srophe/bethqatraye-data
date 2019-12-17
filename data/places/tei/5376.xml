@@ -93,7 +93,7 @@
             <citedRange unit="pp">189</citedRange>
           </bibl>
                     <bibl xml:id="bib5376-2">
-                        <title>https://goo.gl/maps/co5nawxiDKoi7C5H8</title> <ptr target="https://goo.gl/maps/co5nawxiDKoi7C5H8"/>
+                        <title level="a">https://goo.gl/maps/co5nawxiDKoi7C5H8</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://goo.gl/maps/co5nawxiDKoi7C5H8"/>
                     </bibl>
         </place>
       </listPlace>
