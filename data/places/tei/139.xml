@@ -117,7 +117,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -157,7 +157,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change139-4">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change139-3">Merged in data from [duplicate record
@@ -224,10 +224,10 @@
                     <desc xml:lang="ar">
                         <quote source="#bib139-14">ثم رحلنا من الموصل ونزلنا قرية تعرف بعين الرّصد وهي على نهر عليه جسر مبنيّ، وبها خان كبير. ثم رحلنا ونزلنا قرية تعرف بالمويلحة</quote>
                     </desc>
-                    <location type="gps" source="#bib139-13">
+                    <location type="gps" source="#bib139-13" subtype="alternate">
                         <geo>36.335572 43.13713</geo>
                     </location>
-                    <location type="gps" source="#bib139-2">
+                    <location type="gps" source="#bib139-2" subtype="preferred">
                         <geo>36.366667 43.116667</geo>
                     </location>
                     <event type="attestation" xml:id="attestation139-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib139-8">

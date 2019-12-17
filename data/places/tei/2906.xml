@@ -105,7 +105,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-17-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -138,7 +138,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2906-5">Merged in data from [duplicate record with same URI].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2906-4">Merged in data from [duplicate record with same URI]. [duplicate
         record with same URI]</change>
@@ -181,10 +181,10 @@
             <quote source="#bib2906-5">فان قلنا جيد فقد يكون اجود منه ....... ..... الطائفى ونيل
               اريحا خير منه الزبيدى وخوخ مكة اسرى منه الدارقى</quote>
           </desc>
-                    <location type="gps" source="#bib2906-8">
+                    <location type="gps" source="#bib2906-8" subtype="alternate">
                         <geo>21.42664 39.82563</geo>
                     </location>
-          <location type="gps" source="#bib2906-2">
+          <location type="gps" source="#bib2906-2" subtype="preferred">
             <geo>21.426804 39.815421</geo>
           </location>
           <event type="attestation" xml:id="attestation2906-1" when="0891" source="#bib2906-3">

@@ -67,7 +67,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2019-12-09-06:00</date>
+            <date>2019-12-17-06:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -100,7 +100,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2932-2">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2932-1">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI]</change>
@@ -133,10 +133,10 @@
                <desc xml:lang="en">A gulf connecting to the <placeName>Red
                   Sea</placeName> in the west located between <placeName>Somalia</placeName>, the <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/716"> <placeName ref="http://syriaca.org/place/716">Arabian Peninsula</placeName> </ref>, and the <placeName>Arabian
                   Sea</placeName>.</desc>
-                    <location type="gps" source="#bib2932-4">
+                    <location type="gps" source="#bib2932-4" subtype="alternate">
                         <geo>12.0000001 47.9999999</geo>
                     </location>
-               <location type="gps" source="#bib2932-1">
+               <location type="gps" source="#bib2932-1" subtype="preferred">
                   <geo>12.0000001 47.9999999</geo>
                </location>
                <event type="attestation" xml:id="attestation2932-1" notBefore="0902" notAfter="0914" source="#bib2932-2">

@@ -93,7 +93,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -133,7 +133,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change61-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change61-1">Merged in data from [duplicate record
@@ -179,10 +179,10 @@
                             والطرق والانهار العذبة كاكرس والكر الى ان رسمت بحيرة خلاط وبحيرة كبوذان
                             وكلاهما لا يتصل ببحر طبرستان وجبل القبق مطل عليه</quote>
                     </desc>
-                    <location type="gps" source="#bib61-9">
+                    <location type="gps" source="#bib61-9" subtype="alternate">
                         <geo>42.47680139838509 49.85071903012941</geo>
                     </location>
-                    <location type="gps" source="#bib61-5">
+                    <location type="gps" source="#bib61-5" subtype="preferred">
                         <geo>38.5 50.5</geo>
                     </location>
                     <event type="attestation" xml:id="attestation61-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib61-6">

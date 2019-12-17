@@ -102,7 +102,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -142,7 +142,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change62-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change62-1">Merged in data from [duplicate record
@@ -209,10 +209,10 @@
                         <quote source="#bib62-8">ثم يمتد الفرات على ديار العرب حتى ينتهي الى الرقة
                             وقرقيسيا والرحبة والدالية وعانة والحديثة وهيت والانبارالى الكوفة</quote>
                     </desc>
-                    <location type="gps" source="#bib62-10">
+                    <location type="gps" source="#bib62-10" subtype="alternate">
                         <geo>35.156614 40.430045</geo>
                     </location>
-                    <location type="gps" source="#bib62-1">
+                    <location type="gps" source="#bib62-1" subtype="preferred">
                         <geo>35.15676 40.42574</geo>
                     </location>
                     <event type="attestation" xml:id="attestation62-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib62-5">

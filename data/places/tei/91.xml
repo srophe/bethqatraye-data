@@ -87,7 +87,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -121,7 +121,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change91-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change91-1">Merged in data from [duplicate record
@@ -152,10 +152,10 @@
                     <placeName xml:lang="en" xml:id="name91-9">Hama</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract91-1">A city on the <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/147"> <placeName ref="http://syriaca.org/place/147">Orontes river</placeName> </ref> north of
                             <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/215"> <placeName ref="http://syriaca.org/place/215">Emesa</placeName> </ref>.</desc>
-                    <location type="gps" source="#bib91-9">
+                    <location type="gps" source="#bib91-9" subtype="alternate">
                         <geo>35.163546 36.757062</geo>
                     </location>
-                    <location type="gps" source="#bib91-1">
+                    <location type="gps" source="#bib91-1" subtype="preferred">
                         <geo>35.13333 36.75</geo>
                     </location>
                     <event type="attestation" xml:id="attestation91-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib91-6">

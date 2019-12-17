@@ -67,7 +67,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2019-12-09-06:00</date>
+            <date>2019-12-17-06:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -100,7 +100,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2983-2">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2983-1">Merged in data from [duplicate record with same URI]. [duplicate
@@ -126,10 +126,10 @@
                <desc xml:lang="ar">
                   <quote source="#bib2983-3">قزوين مدينة للري وقزوينك قرية بالدينور</quote>
                </desc>
-                    <location type="gps" source="#bib2983-5">
+                    <location type="gps" source="#bib2983-5" subtype="alternate">
                         <geo>34.584336 47.439729</geo>
                     </location>
-               <location type="gps" source="#bib2983-1">
+               <location type="gps" source="#bib2983-1" subtype="preferred">
                   <geo>34.584336 47.439729</geo>
                </location>
                <event type="attestation" xml:id="attestation2983-1" when="0891" source="#bib2983-2">

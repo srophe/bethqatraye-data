@@ -96,7 +96,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-16-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -130,7 +130,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#dmichelson" when="2018-08-14-05:00">ADDED: temporary coordinates and Pleiades URI</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn al-Faqih citation and attestation</change>
@@ -183,10 +183,10 @@
                     <desc xml:lang="ar">
                         <quote source="#bib2903-13">وشعره في الغزل وغيره أكثر من أن نأتي عليه، وأكثر الغناء المحدث في وقتنا هذا من شعره؛ وقد أشيع بموته وأن البريدي غرفه لأنه كان هجاه؛ وقيل : بل هرب من البصرة ولحق بهجر والأحساء بأبي طاهر بن سليمان بن الحسن صاحب البحرين.</quote>
                     </desc><desc xml:lang="ar"><quote source="#bib2903-9">ثم سافرنا منها إلى مدينة هجر وتسمى الآن بالحسا (بفتح الحاء والسين واهمالها) وهي التي يضرب المثل بها، فيقال: كجالب التّمر إلى هجر، وبها من النخيل ما ليس ببلد سواها ومنه يعلفون دوابهم، وأهلها عرب، وأكثرهم من قبيلة عبد القيس بن أقصى.</quote></desc>
-                    <location type="gps" source="#bib2903-11">
+                    <location type="gps" source="#bib2903-11" subtype="alternate">
                         <geo>25.429444 49.621944</geo>
                     </location>
-                    <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
+                    <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="preferred">
                         <geo>26.877823 48.726603</geo>
                     </location>
                     <location type="nested" resp="http://bqgazetteer.bethmardutho.org">

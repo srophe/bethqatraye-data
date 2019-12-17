@@ -92,7 +92,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -126,7 +126,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change211-2">Merged in data from [duplicate record
                 with same URI].</change>
@@ -179,10 +179,10 @@
                         <quote source="#bib211-13">ولم أر في الدنيا مثلها، غير مسيرة أربعة أيام من الأنبار الى عانة.</quote></desc>
                     <desc xml:lang="ar">
                         <quote source="#bib211-14">ثم رحلت من بغداد فوصلت الى مدينة الأنبار.</quote></desc>
-                    <location type="gps" source="#bib211-12">
+                    <location type="gps" source="#bib211-12" subtype="alternate">
                         <geo>33.375 43.71667</geo>
                     </location>
-                    <location type="gps" source="#bib211-7">
+                    <location type="gps" source="#bib211-7" subtype="preferred">
                         <geo>33.4000693333 43.640686</geo>
                     </location>
                     <event type="attestation" xml:id="attestation211-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib211-8">

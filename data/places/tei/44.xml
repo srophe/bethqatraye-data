@@ -101,7 +101,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -141,7 +141,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change44-4">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change44-3">Merged in data from [duplicate record
@@ -196,10 +196,10 @@
                     <desc xml:lang="ar"><quote source="#bib44-13">ثم رحلنا منه ونزلنا بالقرب من البصرة، ثم رحلنا فدخلنا ضحوة النهار الى مدينة البصرة.</quote></desc>
                     <desc xml:lang="ar"><quote source="#bib44-14">والبصرة ثلاث محلّات: إحداها محلّة هذيل، وكبيرها الشيخ الفاضل علاء الدين بن الأثير، من الكرماء الفضلاء، أضافني وبعث اليّ بثياب ودراهم، والمحلّة الثانية محلّة بني حرام، كبيرها السيّد الشريف مجد الدين موسى الحسنى، ذو مكارم وفواضل، أضافني وبعث اليّ التمر والسّيلان والدراهم، والمحلّة الثالثة محلّة العجم، كبيرها جمال الدين بن اللّوكيّ. وأهل البصرة لهم مكارم أخلاق وإيناس للغريب وقيام بحقّه، فلا يستوحش فيما بينهم غريب. وهم يصلّون الجمعة في مسجد أمير المؤمنين علي رضي الله عنه الذي ذكرته، ثم يسدّ فلا يأتونه إلا في الجمعة.</quote></desc>
                     <desc xml:lang="ar"><quote source="#bib44-15">وأهل البصرة على مذهب السنة والجماعة، ولا يخاف من يفعل مثل فعلي عندهم، ولو جرى مثل هذا بمشهد الحسين، أو بالحلة، أو بالبحرين، أو قم، أو قاشان، أو ساوة، أو آوه، أو طوس، لهلك فاعله، لأنهم رافضة غالىة.</quote></desc>
-                    <location type="gps" source="#bib44-10">
+                    <location type="gps" source="#bib44-10" subtype="alternate">
                         <geo>30.503217 47.820635</geo>
                     </location>
-                    <location type="gps" source="#bib44-1">
+                    <location type="gps" source="#bib44-1" subtype="preferred">
                         <geo>30.5 47.816667</geo>
                     </location>
                     <event type="attestation" xml:id="attestation44-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib44-4">

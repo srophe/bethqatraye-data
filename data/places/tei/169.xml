@@ -56,7 +56,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -90,7 +90,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change169-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
@@ -115,10 +115,10 @@
                         of the <placeName ref="http://syriaca.org/place/156">Persian
                             Gulf</placeName>.</desc>
                     <desc xml:lang="ar"><quote source="#bib169-4">ثم وصلنا إلى مدينة رامز، وأول حروفها (راء وآخرها زاي وميمها مكسورة)، وهي مدينة حسنة ذات فواكه وأنهار ونزلنا بها عند القاضي حسام الدين محمود</quote></desc>
-                    <location type="gps" source="#bib169-5">
+                    <location type="gps" source="#bib169-5" subtype="alternate">
                         <geo>31.282166 49.608606</geo>
                     </location>
-                    <location type="gps" source="#bib169-1">
+                    <location type="gps" source="#bib169-1" subtype="preferred">
                         <geo>31.28217 49.60861</geo>
                     </location>
                     <event type="attestation" xml:id="attestation169-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib169-3">

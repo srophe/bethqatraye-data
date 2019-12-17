@@ -87,7 +87,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -121,7 +121,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change178-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
@@ -161,10 +161,10 @@
                         <quote source="#bib178-6">واما حدودها ومسافاتها فمن مخرج الفرات في حد ملطية
                             الى سميساط يومان ومن سميساط الى جسر منبج ايام</quote>
                     </desc>
-                    <location type="gps" source="#bib178-7">
+                    <location type="gps" source="#bib178-7" subtype="alternate">
                         <geo>37.525756 38.530357</geo>
                     </location>
-                    <location type="gps" source="#bib178-1">
+                    <location type="gps" source="#bib178-1" subtype="preferred">
                         <geo>37.56452 38.47134</geo>
                     </location>
                     <event type="attestation" xml:id="attestation178-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib178-5">

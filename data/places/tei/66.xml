@@ -112,7 +112,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -152,7 +152,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change66-3">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change66-2">Merged in data from [duplicate record
@@ -194,10 +194,10 @@
                         <quote source="#bib66-10">وقلدت منه الاعمال واضيفت اليه كور الاقاليم مثل
                             دمشق والقيروان والشيراز</quote>
                     </desc>
-                    <location type="gps" source="#bib66-12">
+                    <location type="gps" source="#bib66-12" subtype="alternate">
                         <geo>33.511612 36.309102</geo>
                     </location>
-                    <location type="gps" source="#bib66-2">
+                    <location type="gps" source="#bib66-2" subtype="preferred">
                         <geo>33.513 36.292</geo>
                     </location>
                     <event type="attestation" xml:id="attestation66-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib66-8">

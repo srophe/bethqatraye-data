@@ -76,7 +76,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -110,7 +110,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change201-3">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change201-2">Merged in data from [duplicate record
@@ -153,10 +153,10 @@
                     </desc>
                     <desc xml:lang="ar">
                         <quote source="#bib201-5">ثم سافرت منها إلى مدينة طبرية. وكانت فيما مضى مدينة كبيرة ضخمة، ولم يبق منها إلا رسوم تنبيء عن ضخامتها، وعظم شأنها. وبها الحمامات العجيبة؛ لها بيتان أحدهما للرجال، والثاني للنساء. وماؤها شديد الحرارة. ولها البحيرة الشهيرة، طولها نحو ستة فراسخ، وعرضها أزيد من ثلاثة فراسخ. وبطبرية مسجد يعرف بمسجد الأنبياء، فيه قبر شعيب عليه السلام، وبنته زوج موسى الكليم عليه السلام، وقبر سليمان عليه السلام، وقبر يهودا، وقبر روبيل صلوات الله وسلامه على نبينا وعليهم.</quote></desc>
-                    <location type="gps" source="#bib201-6">
+                    <location type="gps" source="#bib201-6" subtype="alternate">
                         <geo>32.795859 35.530973</geo>
                     </location>
-                    <location type="gps" source="#bib201-1">
+                    <location type="gps" source="#bib201-1" subtype="preferred">
                         <geo>32.7966 35.53572</geo>
                     </location>
                     <event type="attestation" xml:id="attestation201-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib201-2">

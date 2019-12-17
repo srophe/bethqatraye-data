@@ -91,7 +91,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -131,7 +131,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change572-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change572-1">Merged in data from [duplicate record
@@ -169,10 +169,10 @@
                             المقدس محدث لم يكن في ايام الحواريين واتخذوه بعدهم ليغظم به بيت
                             المقدس</quote>
                     </desc>
-                    <location type="gps" source="#bib572-12">
+                    <location type="gps" source="#bib572-12" subtype="alternate">
                         <geo>31.201435 29.909773</geo>
                     </location>
-                    <location type="gps" source="#bib572-7">
+                    <location type="gps" source="#bib572-7" subtype="preferred">
                         <geo>31.195371 29.904133</geo>
                     </location>
                     <event type="attestation" xml:id="attestation572-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib572-8">

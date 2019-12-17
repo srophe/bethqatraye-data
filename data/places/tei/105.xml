@@ -61,7 +61,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -95,7 +95,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change105-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
@@ -125,10 +125,10 @@
                         <quote source="#bib105-5">فان قلنا جيد فقد يكون اجود منه ....... .....
                             الطائفى ونيل اريحا خير منه الزبيدى وخوخ مكة اسرى منه الدارقى</quote>
                     </desc>
-                    <location type="gps" source="#bib105-6">
+                    <location type="gps" source="#bib105-6" subtype="alternate">
                         <geo>31.870028 35.443871</geo>
                     </location>
-                    <location type="gps" source="#bib105-1">
+                    <location type="gps" source="#bib105-1" subtype="preferred">
                         <geo>31.855444 35.462181</geo>
                     </location>
                     <event type="attestation" xml:id="attestation105-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib105-4">

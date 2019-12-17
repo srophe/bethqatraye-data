@@ -66,7 +66,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-17-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -100,7 +100,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change153-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change153-1">Merged in data from [duplicate record
@@ -139,10 +139,10 @@
                     <desc xml:lang="ar">
                         <quote source="#bib153-5">ثم سافرنا إلى تدمر، مدينة نبي الله سليمان عليه السلام، التي بنتها له الجن، كما قال النّابغة: يبنون تدمر بالصفّاح والعمد.</quote>
                     </desc>
-                    <location type="gps" source="#bib153-6">
+                    <location type="gps" source="#bib153-6" subtype="alternate">
                         <geo>34.551395750000005 38.2667172</geo>
                     </location>
-                    <location type="gps" source="#bib153-1">
+                    <location type="gps" source="#bib153-1" subtype="preferred">
                         <geo>34.56 38.26722</geo>
                     </location>
                     <event type="attestation" xml:id="attestation153-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib153-3">
