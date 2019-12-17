@@ -196,7 +196,7 @@
                         <citedRange unit="pp">663</citedRange>
                     </bibl>
                     <bibl xml:id="bib153-6">
-                        <ptr target="http://pleiades.stoa.org/places/668331"/>
+                        <title>http://pleiades.stoa.org/places/668331</title> <ptr target="http://pleiades.stoa.org/places/668331"/>
                     </bibl>
                 </place>
             </listPlace>

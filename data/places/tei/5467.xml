@@ -111,7 +111,7 @@
             <citedRange unit="pp">22, 213, 124, 215, 216, 217, 218, 219, 220, 222, 223, 225, 226, 227, 240, 293, 304, 383, 465, 467, 662</citedRange>
           </bibl>
                     <bibl xml:id="bib5467-3">
-                        <ptr target="http://pleiades.stoa.org/places/922706"/>
+                        <title>http://pleiades.stoa.org/places/922706</title> <ptr target="http://pleiades.stoa.org/places/922706"/>
                     </bibl>
         </place>
       </listPlace>

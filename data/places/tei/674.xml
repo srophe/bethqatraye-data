@@ -157,7 +157,7 @@
                         <citedRange unit="pp">24</citedRange>
                     </bibl>
                     <bibl xml:id="bib674-5">
-                        <ptr target="https://pleiades.stoa.org/places/687839"/>
+                        <title>https://pleiades.stoa.org/places/687839</title> <ptr target="https://pleiades.stoa.org/places/687839"/>
                     </bibl>
                 </place>
             </listPlace>

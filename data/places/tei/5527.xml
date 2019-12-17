@@ -94,7 +94,7 @@
             <citedRange unit="pp">85</citedRange>
           </bibl>
                     <bibl xml:id="bib5527-2">
-                        <ptr target="http://pleiades.stoa.org/places/39439"/>
+                        <title>http://pleiades.stoa.org/places/39439</title> <ptr target="http://pleiades.stoa.org/places/39439"/>
                     </bibl>
         </place>
       </listPlace>

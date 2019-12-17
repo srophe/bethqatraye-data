@@ -98,7 +98,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7699"/>
                     </bibl>
                     <bibl xml:id="bib5166-3">
-                        <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Al-%60Ula&amp;params=26_37_N_37_55_E_type:city_region:SA"/>
+                        <title>https://tools.wmflabs.org/geohack/geohack.php?pagename=Al-%60Ula&amp;params=26_37_N_37_55_E_type:city_region:SA</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Al-%60Ula&amp;params=26_37_N_37_55_E_type:city_region:SA"/>
                     </bibl><bibl xml:id="bib5166-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">127</citedRange></bibl><bibl xml:id="bib5166-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">667</citedRange></bibl>
         </place>
       </listPlace>

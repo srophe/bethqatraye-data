@@ -176,7 +176,7 @@
                   <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4511"/>
                </bibl>
                     <bibl xml:id="bib2994-5">
-                        <ptr target="http://pleiades.stoa.org/places/942287"/>
+                        <title>http://pleiades.stoa.org/places/942287</title> <ptr target="http://pleiades.stoa.org/places/942287"/>
                     </bibl>
             </place>
          </listPlace>

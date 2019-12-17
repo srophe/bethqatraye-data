@@ -153,7 +153,7 @@
                   <citedRange unit="pp">7</citedRange>
                </bibl>
                     <bibl xml:id="bib2961-3">
-                        <ptr target="http://sws.geonames.org/1164807"/>
+                        <title>http://sws.geonames.org/1164807</title> <ptr target="http://sws.geonames.org/1164807"/>
                     </bibl>
             </place>
          </listPlace>

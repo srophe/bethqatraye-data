@@ -94,7 +94,7 @@
             <citedRange unit="pp">vol. 2, p. 70</citedRange>
           </bibl>
                     <bibl xml:id="bib5498-2">
-                        <ptr target="https://pleiades.stoa.org/places/932483"/>
+                        <title>https://pleiades.stoa.org/places/932483</title> <ptr target="https://pleiades.stoa.org/places/932483"/>
                     </bibl>
         </place>
       </listPlace>

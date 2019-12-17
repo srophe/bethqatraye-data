@@ -98,7 +98,7 @@
             <citedRange unit="pp">vol. 1, 371-372</citedRange>
           </bibl>
                     <bibl xml:id="bib4160-2">
-                        <ptr target="http://pleiades.stoa.org/places/912881"/>
+                        <title>http://pleiades.stoa.org/places/912881</title> <ptr target="http://pleiades.stoa.org/places/912881"/>
                     </bibl>
           <bibl xml:id="bib4160-3">
             <title xml:lang="en" level="m">Acta martyrum et sanctorum</title>

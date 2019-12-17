@@ -106,7 +106,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4503"/>
                     </bibl>
                     <bibl xml:id="bib5098-3">
-                        <ptr target="http://pleiades.stoa.org/places/727101"/>
+                        <title>http://pleiades.stoa.org/places/727101</title> <ptr target="http://pleiades.stoa.org/places/727101"/>
                     </bibl>
         </place>
       </listPlace>

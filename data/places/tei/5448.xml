@@ -158,7 +158,7 @@
             <citedRange unit="pp">34, 36</citedRange>
           </bibl>
                     <bibl xml:id="bib5448-7">
-                        <ptr target="https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج"/>
+                        <title>https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج</title> <ptr target="https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج"/>
                     </bibl>
         </place>
       </listPlace>

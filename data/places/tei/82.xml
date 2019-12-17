@@ -241,7 +241,7 @@
                         <citedRange unit="pp">207, 209, 210, 212-217, 226, 247, 248</citedRange>
                     </bibl>
                     <bibl xml:id="bib82-9">
-                        <ptr target="http://pleiades.stoa.org/places/912849"/>
+                        <title>http://pleiades.stoa.org/places/912849</title> <ptr target="http://pleiades.stoa.org/places/912849"/>
                     </bibl>
                 </place>
             </listPlace>

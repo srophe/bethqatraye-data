@@ -319,7 +319,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7346"/>
                     </bibl>
                     <bibl xml:id="bib193-13">
-                        <ptr target="http://pleiades.stoa.org/places/894099"/>
+                        <title>http://pleiades.stoa.org/places/894099</title> <ptr target="http://pleiades.stoa.org/places/894099"/>
                     </bibl>
                     <bibl xml:id="bib193-14">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

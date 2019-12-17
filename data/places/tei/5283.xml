@@ -98,7 +98,7 @@
             <citedRange unit="pp">52</citedRange>
           </bibl>
                     <bibl xml:id="bib5283-2">
-                        <ptr target="http://pleiades.stoa.org/places/295267"/>
+                        <title>http://pleiades.stoa.org/places/295267</title> <ptr target="http://pleiades.stoa.org/places/295267"/>
                     </bibl>
         </place>
       </listPlace>

@@ -96,7 +96,7 @@
             <citedRange unit="pp">170, 217, 661</citedRange>
           </bibl>
                     <bibl xml:id="bib5310-2">
-                        <ptr target="http://gazetteer.dainst.org/place/2733859"/>
+                        <title>http://gazetteer.dainst.org/place/2733859</title> <ptr target="http://gazetteer.dainst.org/place/2733859"/>
                     </bibl><bibl xml:id="bib5310-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">170 (settlement, region, island or province)</citedRange></bibl><bibl xml:id="bib5310-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">217 (settlement or island)</citedRange></bibl><bibl xml:id="bib5310-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">661 (province or settlement)</citedRange></bibl>
         </place>
       </listPlace>

@@ -98,7 +98,7 @@
             <citedRange unit="pp">216</citedRange>
           </bibl>
                     <bibl xml:id="bib5493-2">
-                        <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Taq_Kasra&amp;params=33_5_37_N_44_34_51_E_type:landmark"/>
+                        <title>https://tools.wmflabs.org/geohack/geohack.php?pagename=Taq_Kasra&amp;params=33_5_37_N_44_34_51_E_type:landmark</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Taq_Kasra&amp;params=33_5_37_N_44_34_51_E_type:landmark"/>
                     </bibl>
         </place>
       </listPlace>

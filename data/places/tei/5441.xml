@@ -122,7 +122,7 @@
             <citedRange unit="pp">63</citedRange>
           </bibl>
                     <bibl xml:id="bib5441-3">
-                        <ptr target="https://pleiades.stoa.org/places/922711"/>
+                        <title>https://pleiades.stoa.org/places/922711</title> <ptr target="https://pleiades.stoa.org/places/922711"/>
                     </bibl>
         </place>
       </listPlace>

@@ -228,7 +228,7 @@
                         <citedRange unit="pp">255-257, 308</citedRange>
                     </bibl>
                     <bibl xml:id="bib91-9">
-                        <ptr target="http://pleiades.stoa.org/places/668182"/>
+                        <title>http://pleiades.stoa.org/places/668182</title> <ptr target="http://pleiades.stoa.org/places/668182"/>
                     </bibl>
                 </place>
             </listPlace>

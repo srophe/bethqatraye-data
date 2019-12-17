@@ -93,7 +93,7 @@
             <citedRange unit="pp">225</citedRange>
           </bibl>
                     <bibl xml:id="bib5050-2">
-                        <ptr target="https://goo.gl/maps/yKK141VsoThUu5kU9"/>
+                        <title>https://goo.gl/maps/yKK141VsoThUu5kU9</title> <ptr target="https://goo.gl/maps/yKK141VsoThUu5kU9"/>
                     </bibl>
         </place>
       </listPlace>

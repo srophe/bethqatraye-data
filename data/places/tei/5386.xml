@@ -98,7 +98,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4717"/>
                     </bibl>
                     <bibl xml:id="bib5386-3">
-                        <ptr target="http://gazetteer.dainst.org/place/2289339"/>
+                        <title>http://gazetteer.dainst.org/place/2289339</title> <ptr target="http://gazetteer.dainst.org/place/2289339"/>
                     </bibl>
         </place>
       </listPlace>

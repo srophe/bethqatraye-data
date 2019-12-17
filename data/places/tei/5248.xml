@@ -102,7 +102,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1508"/>
                     </bibl>
                     <bibl xml:id="bib5248-3">
-                        <ptr target="http://www.geonames.org/1217662/bukhara.html"/>
+                        <title>http://www.geonames.org/1217662/bukhara.html</title> <ptr target="http://www.geonames.org/1217662/bukhara.html"/>
                     </bibl>
         </place>
       </listPlace>

@@ -235,7 +235,7 @@
                             662</citedRange>
                     </bibl>
                     <bibl xml:id="bib830-8">
-                        <ptr target="http://gazetteer.dainst.org/place/2089954"/>
+                        <title>http://gazetteer.dainst.org/place/2089954</title> <ptr target="http://gazetteer.dainst.org/place/2089954"/>
                     </bibl>
                 </place>
             </listPlace>

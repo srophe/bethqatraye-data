@@ -343,7 +343,7 @@
                         <citedRange unit="pp">184, 240, 242, 243, 244, 245, 248, 396</citedRange>
                     </bibl>
                     <bibl xml:id="bib139-13">
-                        <ptr target="http://pleiades.stoa.org/places/874609"/>
+                        <title>http://pleiades.stoa.org/places/874609</title> <ptr target="http://pleiades.stoa.org/places/874609"/>
                     </bibl>
                     <bibl xml:id="bib139-14">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

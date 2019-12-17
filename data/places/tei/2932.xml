@@ -169,7 +169,7 @@
                   <citedRange unit="pp">59, 59d</citedRange>
                </bibl>
                     <bibl xml:id="bib2932-4">
-                        <ptr target="http://pleiades.stoa.org/places/39305"/>
+                        <title>http://pleiades.stoa.org/places/39305</title> <ptr target="http://pleiades.stoa.org/places/39305"/>
                     </bibl>
             </place>
          </listPlace>

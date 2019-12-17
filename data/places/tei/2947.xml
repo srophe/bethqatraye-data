@@ -165,7 +165,7 @@
                   <citedRange unit="pp">297</citedRange>
                </bibl>
                     <bibl xml:id="bib2947-4">
-                        <ptr target="http://pleiades.stoa.org/places/59885"/>
+                        <title>http://pleiades.stoa.org/places/59885</title> <ptr target="http://pleiades.stoa.org/places/59885"/>
                     </bibl>
             </place>
          </listPlace>

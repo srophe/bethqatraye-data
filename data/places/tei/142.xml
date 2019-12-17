@@ -297,7 +297,7 @@
                         <citedRange unit="pp">246</citedRange>
                     </bibl>
                     <bibl xml:id="bib142-11">
-                        <ptr target="http://pleiades.stoa.org/places/874623"/>
+                        <title>http://pleiades.stoa.org/places/874623</title> <ptr target="http://pleiades.stoa.org/places/874623"/>
                     </bibl>
                 </place>
             </listPlace>

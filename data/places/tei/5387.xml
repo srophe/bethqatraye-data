@@ -114,7 +114,7 @@
                         <ptr target="http://dx.doi.org/10.1163/2214-871X_ei1_SIM_4676"/>
                     </bibl>
                     <bibl xml:id="bib5387-4">
-                        <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark"/>
+                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark"/>
                     </bibl>
         </place>
       </listPlace>

@@ -166,7 +166,7 @@
                         <citedRange unit="pp">202</citedRange>
                     </bibl>
                     <bibl xml:id="bib169-5">
-                        <ptr target="http://pleiades.stoa.org/places/912926"/>
+                        <title>http://pleiades.stoa.org/places/912926</title> <ptr target="http://pleiades.stoa.org/places/912926"/>
                     </bibl>
                 </place>
             </listPlace>

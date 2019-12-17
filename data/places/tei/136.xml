@@ -253,7 +253,7 @@
                         <citedRange unit="pp">139</citedRange>
                     </bibl>
                     <bibl xml:id="bib136-9">
-                        <ptr target="http://pleiades.stoa.org/places/629040"/>
+                        <title>http://pleiades.stoa.org/places/629040</title> <ptr target="http://pleiades.stoa.org/places/629040"/>
                     </bibl>
                 </place>
             </listPlace>

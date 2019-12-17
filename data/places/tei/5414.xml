@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0460"/>
                     </bibl>
                     <bibl xml:id="bib5414-3">
-                        <ptr target="http://sws.geonames.org/1269320"/>
+                        <title>http://sws.geonames.org/1269320</title> <ptr target="http://sws.geonames.org/1269320"/>
                     </bibl>
         </place>
       </listPlace>

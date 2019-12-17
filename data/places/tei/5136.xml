@@ -99,7 +99,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7224"/>
                     </bibl>
                     <bibl xml:id="bib5136-3">
-                        <ptr target="http://sws.geonames.org/359796"/>
+                        <title>http://sws.geonames.org/359796</title> <ptr target="http://sws.geonames.org/359796"/>
                     </bibl>
         </place>
       </listPlace>

@@ -140,7 +140,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2911"/>
                     </bibl>
                     <bibl xml:id="bib5307-4">
-                        <ptr target="http://pleiades.stoa.org/places/894008"/>
+                        <title>http://pleiades.stoa.org/places/894008</title> <ptr target="http://pleiades.stoa.org/places/894008"/>
                     </bibl>
         </place>
       </listPlace>

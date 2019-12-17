@@ -93,7 +93,7 @@
             <citedRange unit="pp">105</citedRange>
           </bibl>
                     <bibl xml:id="bib5303-2">
-                        <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الحزورة&amp;params=21_25_18.3_N_39_49_33.6_E_type:city_region:SA"/>
+                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الحزورة&amp;params=21_25_18.3_N_39_49_33.6_E_type:city_region:SA</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الحزورة&amp;params=21_25_18.3_N_39_49_33.6_E_type:city_region:SA"/>
                     </bibl>
         </place>
       </listPlace>

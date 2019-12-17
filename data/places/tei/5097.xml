@@ -93,7 +93,7 @@
             <citedRange unit="pp">233</citedRange>
           </bibl>
                     <bibl xml:id="bib5097-2">
-                        <ptr target="http://sws.geonames.org/99003"/>
+                        <title>http://sws.geonames.org/99003</title> <ptr target="http://sws.geonames.org/99003"/>
                     </bibl>
         </place>
       </listPlace>

@@ -106,7 +106,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_ei3_COM_24998"/>
                     </bibl>
                     <bibl xml:id="bib5178-3">
-                        <ptr target="http://www.geonames.org/144233/alestan.html"/>
+                        <title>http://www.geonames.org/144233/alestan.html</title> <ptr target="http://www.geonames.org/144233/alestan.html"/>
                     </bibl>
         </place>
       </listPlace>

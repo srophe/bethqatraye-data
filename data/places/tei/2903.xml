@@ -273,7 +273,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
                     </bibl>
                     <bibl xml:id="bib2903-11">
-                        <ptr target="https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa"/>
+                        <title>https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa</title> <ptr target="https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa"/>
                     </bibl>
                     <bibl xml:id="bib2903-12">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>

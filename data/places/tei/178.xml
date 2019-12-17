@@ -219,7 +219,7 @@
                         <citedRange unit="pp">139</citedRange>
                     </bibl>
                     <bibl xml:id="bib178-7">
-                        <ptr target="http://pleiades.stoa.org/places/658587"/>
+                        <title>http://pleiades.stoa.org/places/658587</title> <ptr target="http://pleiades.stoa.org/places/658587"/>
                     </bibl>
                 </place>
             </listPlace>

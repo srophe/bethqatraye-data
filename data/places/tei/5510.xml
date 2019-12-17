@@ -125,7 +125,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0089"/>
                     </bibl>
                     <bibl xml:id="bib5510-5">
-                        <ptr target="http://pleiades.stoa.org/places/932485"/>
+                        <title>http://pleiades.stoa.org/places/932485</title> <ptr target="http://pleiades.stoa.org/places/932485"/>
                     </bibl>
         </place>
       </listPlace>

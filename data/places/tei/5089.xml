@@ -129,7 +129,7 @@
             <citedRange unit="pp">47#238</citedRange>
           </bibl>
                     <bibl xml:id="bib5089-5">
-                        <ptr target="http://www.geonames.org/2473449/kairouan.html"/>
+                        <title>http://www.geonames.org/2473449/kairouan.html</title> <ptr target="http://www.geonames.org/2473449/kairouan.html"/>
                     </bibl>
         </place>
       </listPlace>

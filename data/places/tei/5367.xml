@@ -92,7 +92,7 @@
             <citedRange unit="pp">274</citedRange>
           </bibl>
                     <bibl xml:id="bib5367-2">
-                        <ptr target="https://www.google.com/maps/place/Hasik,+Oman/@17.4426547,54.7094906,9z/data=!4m5!3m4!1s0x3dd35b1faa2e85bd:0x98411eeef44e1564!8m2!3d17.4437123!4d55.268653"/>
+                        <title>https://www.google.com/maps/place/Hasik,+Oman/@17.4426547,54.7094906,9z/data=!4m5!3m4!1s0x3dd35b1faa2e85bd:0x98411eeef44e1564!8m2!3d17.4437123!4d55.268653</title> <ptr target="https://www.google.com/maps/place/Hasik,+Oman/@17.4426547,54.7094906,9z/data=!4m5!3m4!1s0x3dd35b1faa2e85bd:0x98411eeef44e1564!8m2!3d17.4437123!4d55.268653"/>
                     </bibl>
         </place>
       </listPlace>

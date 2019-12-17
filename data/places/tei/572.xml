@@ -260,7 +260,7 @@
                         <citedRange unit="pp">135</citedRange>
                     </bibl>
                     <bibl xml:id="bib572-12">
-                        <ptr target="https://pleiades.stoa.org/places/727070"/>
+                        <title>https://pleiades.stoa.org/places/727070</title> <ptr target="https://pleiades.stoa.org/places/727070"/>
                     </bibl>
                 </place>
             </listPlace>

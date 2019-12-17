@@ -95,7 +95,7 @@
             <citedRange unit="pp">47</citedRange>
           </bibl>
                     <bibl xml:id="bib5129-2">
-                        <ptr target="http://www.geonames.org/114259/sirjan.html"/>
+                        <title>http://www.geonames.org/114259/sirjan.html</title> <ptr target="http://www.geonames.org/114259/sirjan.html"/>
                     </bibl>
         </place>
       </listPlace>

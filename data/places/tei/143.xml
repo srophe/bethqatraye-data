@@ -202,7 +202,7 @@
                         <citedRange unit="pp">26</citedRange>
                     </bibl>
                     <bibl xml:id="bib143-7">
-                        <ptr target="http://pleiades.stoa.org/places/678085"/>
+                        <title>http://pleiades.stoa.org/places/678085</title> <ptr target="http://pleiades.stoa.org/places/678085"/>
                     </bibl>
                 </place>
             </listPlace>

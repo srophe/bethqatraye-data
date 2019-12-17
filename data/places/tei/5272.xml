@@ -110,7 +110,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_DUM_0934"/>
                     </bibl>
                     <bibl xml:id="bib5272-3">
-                        <ptr target="http://pleiades.stoa.org/places/697709"/>
+                        <title>http://pleiades.stoa.org/places/697709</title> <ptr target="http://pleiades.stoa.org/places/697709"/>
                     </bibl>
         </place>
       </listPlace>

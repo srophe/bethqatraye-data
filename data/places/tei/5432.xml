@@ -93,7 +93,7 @@
             <citedRange unit="pp">142, 143</citedRange>
           </bibl>
                     <bibl xml:id="bib5432-2">
-                        <ptr target="https://www.geonames.org/103035/rabigh.html"/>
+                        <title>https://www.geonames.org/103035/rabigh.html</title> <ptr target="https://www.geonames.org/103035/rabigh.html"/>
                     </bibl><bibl xml:id="bib5432-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">142</citedRange></bibl><bibl xml:id="bib5432-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">143</citedRange></bibl>
         </place>
       </listPlace>

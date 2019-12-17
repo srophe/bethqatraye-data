@@ -95,7 +95,7 @@
             <citedRange unit="pp">88</citedRange>
           </bibl>
                     <bibl xml:id="bib5393-2">
-                        <ptr target="http://www.geonames.org/103628/mintaqat-najran.html"/>
+                        <title>http://www.geonames.org/103628/mintaqat-najran.html</title> <ptr target="http://www.geonames.org/103628/mintaqat-najran.html"/>
                     </bibl>
         </place>
       </listPlace>

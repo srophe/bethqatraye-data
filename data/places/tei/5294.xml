@@ -95,7 +95,7 @@
             <citedRange unit="pp">25</citedRange>
           </bibl>
                     <bibl xml:id="bib5294-2">
-                        <ptr target="http://www.geonames.org/355795/halwan.html"/>
+                        <title>http://www.geonames.org/355795/halwan.html</title> <ptr target="http://www.geonames.org/355795/halwan.html"/>
                     </bibl>
         </place>
       </listPlace>

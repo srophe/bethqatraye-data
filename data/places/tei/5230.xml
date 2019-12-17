@@ -97,7 +97,7 @@
             <citedRange unit="pp">50</citedRange>
           </bibl>
                     <bibl xml:id="bib5230-2">
-                        <ptr target="http://pleiades.stoa.org/places/315038"/>
+                        <title>http://pleiades.stoa.org/places/315038</title> <ptr target="http://pleiades.stoa.org/places/315038"/>
                     </bibl>
         </place>
       </listPlace>

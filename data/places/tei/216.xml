@@ -237,7 +237,7 @@
                         <citedRange unit="pp">5, 243-248</citedRange>
                     </bibl>
                     <bibl xml:id="bib216-9">
-                        <ptr target="http://pleiades.stoa.org/places/658427"/>
+                        <title>http://pleiades.stoa.org/places/658427</title> <ptr target="http://pleiades.stoa.org/places/658427"/>
                     </bibl>
                 </place>
             </listPlace>

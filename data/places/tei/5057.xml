@@ -94,7 +94,7 @@
             <citedRange unit="pp">126</citedRange>
           </bibl>
                     <bibl xml:id="bib5057-2">
-                        <ptr target="http://gazetteer.dainst.org/place/2345187"/>
+                        <title>http://gazetteer.dainst.org/place/2345187</title> <ptr target="http://gazetteer.dainst.org/place/2345187"/>
                     </bibl>
         </place>
       </listPlace>

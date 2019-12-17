@@ -94,7 +94,7 @@
             <citedRange unit="pp">vol. 2, p. 174</citedRange>
           </bibl>
                     <bibl xml:id="bib5334-2">
-                        <ptr target="https://www.google.com/maps/place/Juatha+Saudi-Arabien/@25.4491286,49.3834317,10z/data=!4m5!3m4!1s0x3e379571fd48a6f3:0x9f33617728792bef!8m2!3d25.445337!4d49.6554124"/>
+                        <title>https://www.google.com/maps/place/Juatha+Saudi-Arabien/@25.4491286,49.3834317,10z/data=!4m5!3m4!1s0x3e379571fd48a6f3:0x9f33617728792bef!8m2!3d25.445337!4d49.6554124</title> <ptr target="https://www.google.com/maps/place/Juatha+Saudi-Arabien/@25.4491286,49.3834317,10z/data=!4m5!3m4!1s0x3e379571fd48a6f3:0x9f33617728792bef!8m2!3d25.445337!4d49.6554124"/>
                     </bibl>
         </place>
       </listPlace>

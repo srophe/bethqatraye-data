@@ -93,7 +93,7 @@
             <citedRange unit="pp">205</citedRange>
           </bibl>
                     <bibl xml:id="bib5513-2">
-                        <ptr target="https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia"/>
+                        <title>https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia</title> <ptr target="https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia"/>
                     </bibl>
         </place>
       </listPlace>

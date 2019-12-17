@@ -157,7 +157,7 @@
                   <citedRange unit="pp">26</citedRange>
                </bibl>
                     <bibl xml:id="bib3000-3">
-                        <ptr target="http://www.geonames.org/1123004/taloqan.html"/>
+                        <title>http://www.geonames.org/1123004/taloqan.html</title> <ptr target="http://www.geonames.org/1123004/taloqan.html"/>
                     </bibl>
             </place>
          </listPlace>

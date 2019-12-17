@@ -98,7 +98,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1007"/>
                     </bibl>
                     <bibl xml:id="bib5456-3">
-                        <ptr target="https://www.google.com/maps/place/Sawa+Lake/@31.3129455,44.9935196,14z/data=!3m1!4b1!4m5!3m4!1s0x3fe1d5edc5e59e61:0x3f3e3c3e981d1a09!8m2!3d31.3142549!4d45.0069946"/>
+                        <title>https://www.google.com/maps/place/Sawa+Lake/@31.3129455,44.9935196,14z/data=!3m1!4b1!4m5!3m4!1s0x3fe1d5edc5e59e61:0x3f3e3c3e981d1a09!8m2!3d31.3142549!4d45.0069946</title> <ptr target="https://www.google.com/maps/place/Sawa+Lake/@31.3129455,44.9935196,14z/data=!3m1!4b1!4m5!3m4!1s0x3fe1d5edc5e59e61:0x3f3e3c3e981d1a09!8m2!3d31.3142549!4d45.0069946"/>
                     </bibl><bibl xml:id="bib5456-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">198</citedRange></bibl>
         </place>
       </listPlace>

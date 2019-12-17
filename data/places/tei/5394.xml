@@ -93,7 +93,7 @@
             <citedRange unit="pp">302</citedRange>
           </bibl>
                     <bibl xml:id="bib5394-2">
-                        <ptr target="http://pleiades.stoa.org/places/300354624"/>
+                        <title>http://pleiades.stoa.org/places/300354624</title> <ptr target="http://pleiades.stoa.org/places/300354624"/>
                     </bibl>
         </place>
       </listPlace>

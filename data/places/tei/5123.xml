@@ -102,7 +102,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0305"/>
                     </bibl>
                     <bibl xml:id="bib5123-3">
-                        <ptr target="https://pleiades.stoa.org/places/869702586"/>
+                        <title>https://pleiades.stoa.org/places/869702586</title> <ptr target="https://pleiades.stoa.org/places/869702586"/>
                     </bibl>
         </place>
       </listPlace>

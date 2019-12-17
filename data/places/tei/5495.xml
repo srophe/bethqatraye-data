@@ -97,7 +97,7 @@
             <citedRange unit="pp">17</citedRange>
           </bibl>
                     <bibl xml:id="bib5495-2">
-                        <ptr target="http://pleiades.stoa.org/places/594456491"/>
+                        <title>http://pleiades.stoa.org/places/594456491</title> <ptr target="http://pleiades.stoa.org/places/594456491"/>
                     </bibl>
         </place>
       </listPlace>

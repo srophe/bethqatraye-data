@@ -250,7 +250,7 @@
                         <citedRange unit="pp">8</citedRange>
                     </bibl>
                     <bibl xml:id="bib61-9">
-                        <ptr target="http://pleiades.stoa.org/places/884130"/>
+                        <title>http://pleiades.stoa.org/places/884130</title> <ptr target="http://pleiades.stoa.org/places/884130"/>
                     </bibl>
                 </place>
             </listPlace>

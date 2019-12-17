@@ -284,7 +284,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_3936"/>
                     </bibl>
                     <bibl xml:id="bib62-10">
-                        <ptr target="http://pleiades.stoa.org/places/893974"/>
+                        <title>http://pleiades.stoa.org/places/893974</title> <ptr target="http://pleiades.stoa.org/places/893974"/>
                     </bibl>
                 </place>
             </listPlace>

@@ -130,7 +130,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6434"/>
                     </bibl>
                     <bibl xml:id="bib5109-5">
-                        <ptr target="https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة"/>
+                        <title>https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة</title> <ptr target="https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة"/>
                     </bibl>
         </place>
       </listPlace>

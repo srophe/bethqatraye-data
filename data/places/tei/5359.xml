@@ -129,7 +129,7 @@
             <ptr target="http://dx.doi.org/10.1163/2214-871X_ei1_SIM_4420"/>
           </bibl>
                     <bibl xml:id="bib5359-3">
-                        <ptr target="http://pleiades.stoa.org/places/746776"/>
+                        <title>http://pleiades.stoa.org/places/746776</title> <ptr target="http://pleiades.stoa.org/places/746776"/>
                     </bibl>
         </place>
       </listPlace>

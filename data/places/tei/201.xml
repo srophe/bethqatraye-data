@@ -213,7 +213,7 @@
                         <citedRange unit="pp">80</citedRange>
                     </bibl>
                     <bibl xml:id="bib201-6">
-                        <ptr target="http://gazetteer.dainst.org/place/2043674"/>
+                        <title>http://gazetteer.dainst.org/place/2043674</title> <ptr target="http://gazetteer.dainst.org/place/2043674"/>
                     </bibl>
                 </place>
             </listPlace>

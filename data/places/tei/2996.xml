@@ -187,7 +187,7 @@
             <citedRange unit="pp">311, 388, 389, 394, 395</citedRange>
           </bibl>
                     <bibl xml:id="bib2996-5">
-                        <ptr target="http://pleiades.stoa.org/places/952092"/>
+                        <title>http://pleiades.stoa.org/places/952092</title> <ptr target="http://pleiades.stoa.org/places/952092"/>
                     </bibl>
         </place>
       </listPlace>

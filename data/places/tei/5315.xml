@@ -95,7 +95,7 @@
             <citedRange unit="pp">47</citedRange>
           </bibl>
                     <bibl xml:id="bib5315-2">
-                        <ptr target="http://www.geonames.org/1160939/iranshahr.html"/>
+                        <title>http://www.geonames.org/1160939/iranshahr.html</title> <ptr target="http://www.geonames.org/1160939/iranshahr.html"/>
                     </bibl>
         </place>
       </listPlace>

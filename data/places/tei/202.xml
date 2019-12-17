@@ -262,7 +262,7 @@
                         <citedRange unit="pp">216-218, 225-235</citedRange>
                     </bibl>
                     <bibl xml:id="bib202-10">
-                        <ptr target="http://pleiades.stoa.org/places/912964"/>
+                        <title>http://pleiades.stoa.org/places/912964</title> <ptr target="http://pleiades.stoa.org/places/912964"/>
                     </bibl>
                 </place>
             </listPlace>

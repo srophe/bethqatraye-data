@@ -111,7 +111,7 @@
             <citedRange unit="pp">72-73</citedRange>
           </bibl>
                     <bibl xml:id="bib5544-3">
-                        <ptr target="http://gazetteer.dainst.org/place/2289336"/>
+                        <title>http://gazetteer.dainst.org/place/2289336</title> <ptr target="http://gazetteer.dainst.org/place/2289336"/>
                     </bibl><bibl xml:id="bib5544-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">126</citedRange></bibl><bibl xml:id="bib5544-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">667</citedRange></bibl>
         </place>
       </listPlace>

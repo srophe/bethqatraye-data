@@ -101,7 +101,7 @@
             <citedRange unit="pp">8</citedRange>
           </bibl>
                     <bibl xml:id="bib5150-2">
-                        <ptr target="https://pleiades.stoa.org/places/570577"/>
+                        <title>https://pleiades.stoa.org/places/570577</title> <ptr target="https://pleiades.stoa.org/places/570577"/>
                     </bibl>
         </place>
       </listPlace>

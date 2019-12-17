@@ -116,7 +116,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1151"/>
                     </bibl>
                     <bibl xml:id="bib5017-4">
-                        <ptr target="http://sws.geonames.org/250751"/>
+                        <title>http://sws.geonames.org/250751</title> <ptr target="http://sws.geonames.org/250751"/>
                     </bibl><bibl xml:id="bib5017-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">126 (footnote for زيرا)</citedRange></bibl>
         </place>
       </listPlace>

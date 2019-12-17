@@ -272,7 +272,7 @@
                         <citedRange unit="pp">248</citedRange>
                     </bibl>
                     <bibl xml:id="bib122-10">
-                        <ptr target="http://pleiades.stoa.org/places/658480"/>
+                        <title>http://pleiades.stoa.org/places/658480</title> <ptr target="http://pleiades.stoa.org/places/658480"/>
                     </bibl>
                 </place>
             </listPlace>

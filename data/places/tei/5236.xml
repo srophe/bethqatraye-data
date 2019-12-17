@@ -96,7 +96,7 @@
             <citedRange unit="pp">389</citedRange>
           </bibl>
                     <bibl xml:id="bib5236-2">
-                        <ptr target="http://pleiades.stoa.org/places/300354630"/>
+                        <title>http://pleiades.stoa.org/places/300354630</title> <ptr target="http://pleiades.stoa.org/places/300354630"/>
                     </bibl>
         </place>
       </listPlace>

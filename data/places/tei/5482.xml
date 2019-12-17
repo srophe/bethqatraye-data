@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1128"/>
                     </bibl>
                     <bibl xml:id="bib5482-3">
-                        <ptr target="https://pleiades.stoa.org/places/373732"/>
+                        <title>https://pleiades.stoa.org/places/373732</title> <ptr target="https://pleiades.stoa.org/places/373732"/>
                     </bibl>
         </place>
       </listPlace>

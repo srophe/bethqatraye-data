@@ -109,7 +109,7 @@
             <citedRange unit="pp">81, 107, 109, 115, 121, 130</citedRange>
           </bibl>
                     <bibl xml:id="bib5065-3">
-                        <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark"/>
+                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark"/>
                     </bibl>
         </place>
       </listPlace>

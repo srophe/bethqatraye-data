@@ -119,7 +119,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0380"/>
                     </bibl>
                     <bibl xml:id="bib5316-4">
-                        <ptr target="http://www.geonames.org/418862/isfahan.html"/>
+                        <title>http://www.geonames.org/418862/isfahan.html</title> <ptr target="http://www.geonames.org/418862/isfahan.html"/>
                     </bibl>
         </place>
       </listPlace>

@@ -92,7 +92,7 @@
             <citedRange unit="pp">142</citedRange>
           </bibl>
                     <bibl xml:id="bib5113-2">
-                        <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وادي_الصفراء&amp;params=24.01277778_N_38.92277778_E_globe:earth_type:landmark"/>
+                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وادي_الصفراء&amp;params=24.01277778_N_38.92277778_E_globe:earth_type:landmark</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وادي_الصفراء&amp;params=24.01277778_N_38.92277778_E_globe:earth_type:landmark"/>
                     </bibl>
         </place>
       </listPlace>

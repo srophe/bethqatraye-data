@@ -264,7 +264,7 @@
             <citedRange unit="pp">vol. 1, p. 129</citedRange>
           </bibl>
                     <bibl xml:id="bib3013-9">
-                        <ptr target="http://pleiades.stoa.org/places/932479"/>
+                        <title>http://pleiades.stoa.org/places/932479</title> <ptr target="http://pleiades.stoa.org/places/932479"/>
                     </bibl><bibl xml:id="bib3013-10"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
         </place>
       </listPlace>

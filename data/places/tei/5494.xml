@@ -104,7 +104,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7470"/>
                     </bibl>
                     <bibl xml:id="bib5494-3">
-                        <ptr target="https://pleiades.stoa.org/places/814739"/>
+                        <title>https://pleiades.stoa.org/places/814739</title> <ptr target="https://pleiades.stoa.org/places/814739"/>
                     </bibl>
         </place>
       </listPlace>

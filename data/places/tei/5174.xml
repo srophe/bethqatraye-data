@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0869"/>
                     </bibl>
                     <bibl xml:id="bib5174-3">
-                        <ptr target="http://www.geonames.org/2381516/aoudaghost.html"/>
+                        <title>http://www.geonames.org/2381516/aoudaghost.html</title> <ptr target="http://www.geonames.org/2381516/aoudaghost.html"/>
                     </bibl>
         </place>
       </listPlace>

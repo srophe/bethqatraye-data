@@ -102,7 +102,7 @@
             <citedRange unit="pp">64, 228, 662</citedRange>
           </bibl>
                     <bibl xml:id="bib5040-2">
-                        <ptr target="http://sws.geonames.org/130821"/>
+                        <title>http://sws.geonames.org/130821</title> <ptr target="http://sws.geonames.org/130821"/>
                     </bibl><bibl xml:id="bib5040-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp"/></bibl><bibl xml:id="bib5040-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">228</citedRange></bibl><bibl xml:id="bib5040-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">662</citedRange></bibl>
         </place>
       </listPlace>

@@ -94,7 +94,7 @@
             <citedRange unit="pp">213, 662</citedRange>
           </bibl>
                     <bibl xml:id="bib5526-2">
-                        <ptr target="http://vici.org/vici/23064"/>
+                        <title>http://vici.org/vici/23064</title> <ptr target="http://vici.org/vici/23064"/>
                     </bibl><bibl xml:id="bib5526-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">213</citedRange></bibl><bibl xml:id="bib5526-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">662</citedRange></bibl>
         </place>
       </listPlace>

@@ -145,7 +145,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6573"/>
                     </bibl>
                     <bibl xml:id="bib5480-4">
-                        <ptr target="http://gazetteer.dainst.org/place/2283182"/>
+                        <title>http://gazetteer.dainst.org/place/2283182</title> <ptr target="http://gazetteer.dainst.org/place/2283182"/>
                     </bibl>
         </place>
       </listPlace>

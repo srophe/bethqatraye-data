@@ -298,7 +298,7 @@
                         <citedRange unit="pp">13, 16, 17, 19, 258-298</citedRange>
                     </bibl>
                     <bibl xml:id="bib66-12">
-                        <ptr target="http://pleiades.stoa.org/places/678106"/>
+                        <title>http://pleiades.stoa.org/places/678106</title> <ptr target="http://pleiades.stoa.org/places/678106"/>
                     </bibl>
                 </place>
             </listPlace>

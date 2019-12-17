@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/2214-871X_ei1_SIM_1383"/>
                     </bibl>
                     <bibl xml:id="bib5018-3">
-                        <ptr target="http://pleiades.stoa.org/places/678054"/>
+                        <title>http://pleiades.stoa.org/places/678054</title> <ptr target="http://pleiades.stoa.org/places/678054"/>
                     </bibl>
         </place>
       </listPlace>

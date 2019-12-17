@@ -102,7 +102,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2525"/>
                     </bibl>
                     <bibl xml:id="bib5032-3">
-                        <ptr target="https://mapper.acme.com/?ll=33.5,36.420833&amp;z=15&amp;t=H&amp;marker0=33.5,36.420833,Ghouta"/>
+                        <title>https://mapper.acme.com/?ll=33.5,36.420833&amp;z=15&amp;t=H&amp;marker0=33.5,36.420833,Ghouta</title> <ptr target="https://mapper.acme.com/?ll=33.5,36.420833&amp;z=15&amp;t=H&amp;marker0=33.5,36.420833,Ghouta"/>
                     </bibl>
         </place>
       </listPlace>

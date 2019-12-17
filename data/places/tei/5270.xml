@@ -92,7 +92,7 @@
             <citedRange unit="pp">vol. 2, p. 432</citedRange>
           </bibl>
                     <bibl xml:id="bib5270-2">
-                        <ptr target="https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين"/>
+                        <title>https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين</title> <ptr target="https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين"/>
                     </bibl>
         </place>
       </listPlace>

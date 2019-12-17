@@ -92,7 +92,7 @@
             <citedRange unit="pp">127</citedRange>
           </bibl>
                     <bibl xml:id="bib5034-2">
-                        <ptr target="http://gazetteer.dainst.org/place/2105911"/>
+                        <title>http://gazetteer.dainst.org/place/2105911</title> <ptr target="http://gazetteer.dainst.org/place/2105911"/>
                     </bibl>
         </place>
       </listPlace>

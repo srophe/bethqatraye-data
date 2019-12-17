@@ -95,7 +95,7 @@
             <citedRange unit="pp">46</citedRange>
           </bibl>
                     <bibl xml:id="bib5328-2">
-                        <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Jarmaq&amp;params=33_23_7.6_N_35_32_5.77_E_type:city_region:LB-JA"/>
+                        <title>https://tools.wmflabs.org/geohack/geohack.php?pagename=Jarmaq&amp;params=33_23_7.6_N_35_32_5.77_E_type:city_region:LB-JA</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Jarmaq&amp;params=33_23_7.6_N_35_32_5.77_E_type:city_region:LB-JA"/>
                     </bibl>
         </place>
       </listPlace>

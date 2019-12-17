@@ -99,7 +99,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4725"/>
                     </bibl>
                     <bibl xml:id="bib5060-3">
-                        <ptr target="http://gazetteer.dainst.org/place/2345186"/>
+                        <title>http://gazetteer.dainst.org/place/2345186</title> <ptr target="http://gazetteer.dainst.org/place/2345186"/>
                     </bibl>
         </place>
       </listPlace>

@@ -107,7 +107,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7976"/>
                     </bibl>
                     <bibl xml:id="bib5145-3">
-                        <ptr target="https://goo.gl/maps/G9meAo9ZXmvdNrQCA"/>
+                        <title>https://goo.gl/maps/G9meAo9ZXmvdNrQCA</title> <ptr target="https://goo.gl/maps/G9meAo9ZXmvdNrQCA"/>
                     </bibl>
         </place>
       </listPlace>

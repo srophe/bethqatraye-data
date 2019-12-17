@@ -99,7 +99,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7267"/>
                     </bibl>
                     <bibl xml:id="bib5487-3">
-                        <ptr target="http://pleiades.stoa.org/places/814662"/>
+                        <title>http://pleiades.stoa.org/places/814662</title> <ptr target="http://pleiades.stoa.org/places/814662"/>
                     </bibl><bibl xml:id="bib5487-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">126</citedRange></bibl><bibl xml:id="bib5487-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">127</citedRange></bibl><bibl xml:id="bib5487-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">667</citedRange></bibl>
         </place>
       </listPlace>

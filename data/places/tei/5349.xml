@@ -94,7 +94,7 @@
             <citedRange unit="pp">280</citedRange>
           </bibl>
                     <bibl xml:id="bib5349-2">
-                        <ptr target="http://sws.geonames.org/291696"/>
+                        <title>http://sws.geonames.org/291696</title> <ptr target="http://sws.geonames.org/291696"/>
                     </bibl>
         </place>
       </listPlace>

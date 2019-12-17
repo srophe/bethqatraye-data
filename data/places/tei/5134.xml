@@ -95,7 +95,7 @@
             <citedRange unit="pp">24</citedRange>
           </bibl>
                     <bibl xml:id="bib5134-2">
-                        <ptr target="https://mapper.acme.com/?ll=32.19417,48.24361&amp;z=11&amp;t=M&amp;marker0=32.19417,48.24361,السوس%20%28مدينة%29"/>
+                        <title>https://mapper.acme.com/?ll=32.19417,48.24361&amp;z=11&amp;t=M&amp;marker0=32.19417,48.24361,السوس%20%28مدينة%29</title> <ptr target="https://mapper.acme.com/?ll=32.19417,48.24361&amp;z=11&amp;t=M&amp;marker0=32.19417,48.24361,السوس%20%28مدينة%29"/>
                     </bibl>
         </place>
       </listPlace>

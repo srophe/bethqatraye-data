@@ -129,7 +129,7 @@
             <citedRange unit="pp">50, 51, 55</citedRange>
           </bibl>
                     <bibl xml:id="bib5564-6">
-                        <ptr target="https://pleiades.stoa.org/places/922698"/>
+                        <title>https://pleiades.stoa.org/places/922698</title> <ptr target="https://pleiades.stoa.org/places/922698"/>
                     </bibl>
         </place>
       </listPlace>

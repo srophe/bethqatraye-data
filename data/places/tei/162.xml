@@ -289,7 +289,7 @@
                         <citedRange unit="pp">189, 190</citedRange>
                     </bibl>
                     <bibl xml:id="bib162-10">
-                        <ptr target="http://pleiades.stoa.org/places/668226"/>
+                        <title>http://pleiades.stoa.org/places/668226</title> <ptr target="http://pleiades.stoa.org/places/668226"/>
                     </bibl>
                 </place>
             </listPlace>

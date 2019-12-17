@@ -287,7 +287,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0289"/>
                     </bibl>
                     <bibl xml:id="bib215-12">
-                        <ptr target="http://pleiades.stoa.org/places/668261"/>
+                        <title>http://pleiades.stoa.org/places/668261</title> <ptr target="http://pleiades.stoa.org/places/668261"/>
                     </bibl>
                 </place>
             </listPlace>

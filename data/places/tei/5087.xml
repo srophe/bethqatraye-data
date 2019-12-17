@@ -109,7 +109,7 @@
             <citedRange unit="pp">207e, 210</citedRange>
           </bibl>
                     <bibl xml:id="bib5087-3">
-                        <ptr target="http://pleiades.stoa.org/places/912923"/>
+                        <title>http://pleiades.stoa.org/places/912923</title> <ptr target="http://pleiades.stoa.org/places/912923"/>
                     </bibl>
         </place>
       </listPlace>

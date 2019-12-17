@@ -233,7 +233,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1137"/>
                     </bibl>
                     <bibl xml:id="bib308-9">
-                        <ptr target="http://gazetteer.dainst.org/place/2109526"/>
+                        <title>http://gazetteer.dainst.org/place/2109526</title> <ptr target="http://gazetteer.dainst.org/place/2109526"/>
                     </bibl>
                     <bibl xml:id="bib308-10">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

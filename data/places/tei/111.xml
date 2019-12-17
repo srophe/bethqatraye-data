@@ -177,7 +177,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1343"/>
                     </bibl>
                     <bibl xml:id="bib111-6">
-                        <ptr target="http://pleiades.stoa.org/places/912880"/>
+                        <title>http://pleiades.stoa.org/places/912880</title> <ptr target="http://pleiades.stoa.org/places/912880"/>
                     </bibl>
                 </place>
             </listPlace>
