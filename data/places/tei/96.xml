@@ -122,8 +122,8 @@
                     <placeName xml:id="name96-2" xml:lang="en" source="#bib96-3">Ahwaz</placeName>
                     <placeName xml:id="name96-3" xml:lang="ar" srophe:tags="#headword" source="#bib96-4">الاهواز</placeName>
                     <desc xml:id="abstract-en-96" xml:lang="en">A city of southeastern Mesopotamia
-                        between <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/44"> <placeName ref="http://syriaca.org/place/44">Baṣra</placeName></ref> and
-                            <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/186"> <placeName ref="http://syriaca.org/place/186">Shushtar</placeName></ref>.</desc>
+                        between <ref rend="bold" target="https://gedsh.bethmardutho.org/44"> <placeName ref="http://syriaca.org/place/44">Baṣra</placeName></ref> and
+                            <ref rend="bold" target="https://gedsh.bethmardutho.org/186"> <placeName ref="http://syriaca.org/place/186">Shushtar</placeName></ref>.</desc>
                     <location type="gps" source="#bib96-1">
                         <geo>31.31671 48.68438</geo>
                     </location>

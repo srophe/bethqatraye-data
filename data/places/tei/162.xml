@@ -179,8 +179,8 @@
                     <placeName xml:id="name162-4" xml:lang="en" source="#bib162-3">Qinneshrin</placeName>
                     <placeName xml:id="name162-5" xml:lang="ar" source="#bib162-5">قِنَّسرين</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name162-6">Qinnasrīn</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract162-1">A city southwest of <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/18"> <placeName ref="http://syriaca.org/place/18">Aleppo</placeName></ref> and east of
-                            <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/10"> <placeName ref="http://syriaca.org/place/10">Antioch</placeName></ref>.</desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract162-1">A city southwest of <ref rend="bold" target="https://gedsh.bethmardutho.org/18"> <placeName ref="http://syriaca.org/place/18">Aleppo</placeName></ref> and east of
+                            <ref rend="bold" target="https://gedsh.bethmardutho.org/10"> <placeName ref="http://syriaca.org/place/10">Antioch</placeName></ref>.</desc>
                     <desc xml:lang="ar">
                         <quote source="#bib162-2">كورة ومدينة مرحلة عن حلب بينها وبين حمص
                             مندثرة.</quote>
