@@ -119,7 +119,7 @@
                <placeName xml:id="name2994-2" xml:lang="ar" srophe:tags="#headword" source="#bib2994-2 #bib2994-3">قومس</placeName>
                <placeName xml:lang="en" xml:id="name2994-3">Komisene</placeName>
                <placeName xml:lang="en" xml:id="name2994-4">Komish</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2994-1">A region between <placeName ref="http://syriaca.org/place/2970">al-Ray</placeName> and <placeName ref="http://syriaca.org/place/2997">Naysābūr</placeName>, around <placeName ref="http://syriaca.org/place/2995">al-Dāmaghān</placeName>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2994-1">A region between <ref rend="bold" target="https://gedsh.bethmardutho.org/2970"> <placeName ref="http://syriaca.org/place/2970">al-Ray</placeName> and <placeName ref="http://syriaca.org/place/2997">Naysābūr</placeName>, around <placeName ref="http://syriaca.org/place/2995">al-Dāmaghān</placeName></ref>
                </desc>
                <desc xml:lang="en">
                         <quote source="#bib2994-4">[A] small province of

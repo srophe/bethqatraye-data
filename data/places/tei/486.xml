@@ -187,7 +187,7 @@
                             River</placeName> and the Taurus Mountains, on the west by the
                             <placeName ref="http://syriaca.org/place/135">Mediterranean
                             Sea</placeName>, on the east by the desert, and on the south by
-                            <placeName ref="http://syriaca.org/place/698">Palestine</placeName>,
+                            <ref rend="bold" target="https://gedsh.bethmardutho.org/698"> <placeName ref="http://syriaca.org/place/698">Palestine</placeName></ref>,
                         which during the medieval period was considered the southernmost district of
                         Syria.</desc>
                     <event type="attestation" xml:id="attestation486-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib486-6">

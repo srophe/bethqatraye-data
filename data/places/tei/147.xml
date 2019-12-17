@@ -118,9 +118,9 @@
                     <placeName xml:id="name147-6" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">‘Āṣī</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name147-7">al-ʿĀṣī</placeName>
                     <placeName xml:lang="en" xml:id="name147-8">Assi</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract147-1">A river of <placeName ref="http://syriaca.org/place/486">Syria</placeName> which runs from
-                        southwest of <placeName ref="http://syriaca.org/place/215">Emesa</placeName>
-                        north to <placeName ref="http://syriaca.org/place/10">Antioch</placeName>.</desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract147-1">A river of <ref rend="bold" target="https://gedsh.bethmardutho.org/486"> <placeName ref="http://syriaca.org/place/486">Syria</placeName></ref> which runs from
+                        southwest of <ref rend="bold" target="https://gedsh.bethmardutho.org/215"> <placeName ref="http://syriaca.org/place/215">Emesa</placeName></ref>
+                        north to <ref rend="bold" target="https://gedsh.bethmardutho.org/10"> <placeName ref="http://syriaca.org/place/10">Antioch</placeName></ref>.</desc>
                     <location type="gps" source="#bib147-3">
                         <geo>35.2728339 36.4825754</geo>
                     </location>

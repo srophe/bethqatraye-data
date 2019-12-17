@@ -113,8 +113,8 @@
                     <placeName xml:lang="ar" xml:id="name672-5" srophe:tags="#headword" source="#bib672-4">ارجان</placeName>
                     <placeName xml:lang="ar" xml:id="name672-6" source="#bib672-4">الارجان</placeName>
                     <desc xml:lang="en">A village situated between the
-                        provinces of <placeName ref="http://syriaca.org/place/84">Fars</placeName> and <placeName>Khuzistān</placeName>.</desc>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract672-1">A village in <placeName ref="http://syriaca.org/place/84">Fars</placeName>.</desc>
+                        provinces of <ref rend="bold" target="https://gedsh.bethmardutho.org/84"> <placeName ref="http://syriaca.org/place/84">Fars</placeName> and <placeName>Khuzistān</placeName></ref>.</desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract672-1">A village in <ref rend="bold" target="https://gedsh.bethmardutho.org/84"> <placeName ref="http://syriaca.org/place/84">Fars</placeName></ref>.</desc>
                     <desc xml:lang="ar">
                         <quote source="#bib672-4">وعند اهل اللغة المصر كل ما حجز بين جهتين مثل
                             البصرة والرقة والرجان (وارجان)</quote>

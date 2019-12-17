@@ -217,7 +217,7 @@
                     </desc>
                     <desc xml:lang="en">
                         <quote source="#bib409-3">a vast territory, ten days’ journey south of
-                                <placeName ref="http://syriaca.org/place/523">Herat</placeName>.</quote>
+                                <ref rend="bold" target="https://gedsh.bethmardutho.org/523"> <placeName ref="http://syriaca.org/place/523">Herat</placeName></ref>.</quote>
                     </desc>
                     <desc xml:lang="ar">
                         <quote source="#bib409-10">الحيرة مدينة كانت بالكوفة وقرية بفارس ومنزل
