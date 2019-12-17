@@ -105,7 +105,7 @@
           <placeName xml:id="name3010-4" xml:lang="fr" source="#bib3010-2">Tâlwân</placeName>
           <desc type="abstract" xml:id="abstract3010-1" xml:lang="en">A Syriac form derived from
             Tilmun or Dilmun. Possibly the modern island of Bahrain. Certainly one of the islands of
-            Beth Qaṭraye in the vicinity of <placeName ref="http://syriaca.org/place/3007">Daray</placeName>.</desc>
+            Beth Qaṭraye in the vicinity of <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/3007"> <placeName ref="http://syriaca.org/place/3007">Daray</placeName> </ref>.</desc>
           <desc xml:lang="syr">
             <quote source="#bib3010-1">ܘܐܢܬܘܢ ܡܗܝ̈ܡܢܐ ܐܝܠܝܢ ܕܒܐܝܕ̈ܝܟܘܢ ܣܝܡܐ ܡܫܠܛܘܬܐ ܡܥܕܪܢܝܬܐ ܕܓܙܪ̈ܬܐ
               ܘܕܝܬܒ̈ܝ ܡܕܒܪܐ: ܗܢܘ ܕܝܢ ܕܕܝܪܝܢ ܘܕܡܫܡܗܝܓ ܘܕܬܠܘܢ ܘܕܚܛܐ ܘܕܗܓܪ ܐܬܚܦܛܘ ܒܙܒܢܐ ܗܢܐ ܝܬܝܪ ܡܢ

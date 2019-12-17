@@ -149,7 +149,7 @@
                     <placeName xml:id="name310-4" xml:lang="ar" srophe:tags="#headword" source="#bib310-2 #bib310-6">تفليس</placeName>
                     <placeName xml:id="name310-5" xml:lang="en" source="#bib310-3">Tiflis</placeName>
                     <placeName xml:id="name310-6" xml:lang="ar" source="#bib310-5">تَفليس</placeName>
-                    <desc xml:id="abstract-en-310" xml:lang="en">A major city in <placeName ref="http://syriaca.org/place/528">Georgia</placeName>
+                    <desc xml:id="abstract-en-310" xml:lang="en">A major city in <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/528"> <placeName ref="http://syriaca.org/place/528">Georgia</placeName> </ref>
                     </desc>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib310-1">ܡܕܺܝܢܬܐ ܥܰܬܝܩܬܐ ܕܒܰܩܠܝܡܳܐ ܕܐܺܝܒܰܪܝܰܐ ܘܰܠܬܝܡܰܢ

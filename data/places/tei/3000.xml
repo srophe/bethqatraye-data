@@ -119,7 +119,7 @@
                <placeName xml:id="name3000-2" xml:lang="ar" srophe:tags="#headword" source="#bib3000-1 #bib3000-2">الطالقان</placeName>
                <placeName xml:lang="en" xml:id="name3000-3">Tāleqān</placeName>
                <placeName xml:lang="en" xml:id="name3000-4">Tālīqān</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract3000-1">A town of <placeName ref="http://syriaca.org/place/603">Khurasan</placeName>
+               <desc type="abstract" xml:lang="en" xml:id="abstract3000-1">A town of <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/603"> <placeName ref="http://syriaca.org/place/603">Khurasan</placeName> </ref>
                </desc>
                <desc xml:lang="en">A city (madīna) in the region
                   of Daylam.</desc>

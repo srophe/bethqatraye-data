@@ -109,9 +109,9 @@
                     <placeName xml:id="name3007-3" xml:lang="syr" srophe:tags="#headword" source="#bib3007-1">ܕܪ̈ܝ</placeName>
                     <placeName xml:id="name3007-4" xml:lang="syr" source="#bib3007-1">ܕܪܝ</placeName>
                     <placeName xml:id="name3007-5" xml:lang="fr" source="#bib3007-1">Darai</placeName>
-                    <desc type="abstract" xml:id="abstract3007-1" xml:lang="en">One of the islands in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName> in the
-                        vicinity of <placeName ref="http://syriaca.org/place/3010">Talun</placeName>
-                        and <placeName ref="http://syriaca.org/place/3011">Rūḥa</placeName>
+                    <desc type="abstract" xml:id="abstract3007-1" xml:lang="en">One of the islands in <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/37"> <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName> </ref> in the
+                        vicinity of <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/3010"> <placeName ref="http://syriaca.org/place/3010">Talun</placeName> </ref>
+                        and <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/3011"> <placeName ref="http://syriaca.org/place/3011">Rūḥa</placeName> </ref>
                     </desc>
                    <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
                       <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
