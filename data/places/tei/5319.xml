@@ -82,7 +82,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5319-1">ثم تلوتها بصورة أذربيجان وشكلت ما فيها من الجبال والطرق والانهار العذبة كاكرس والكر الى ان رسمت بحيرة خلاط وبحيرة كبوذان وكلاهما لا يتصل ببحر طبرستان وجبل القبق مطل عليه</quote>
           </desc>
-                    <location type="gps" source="#bib5319-2">
+                    <location type="gps" subtype="representative" source="#bib5319-2">
                         <geo>42.5 43.5</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5319</idno>

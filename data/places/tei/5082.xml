@@ -88,7 +88,7 @@
           <placeName xml:id="name5082-3" xml:lang="ar" source="#bib5082-1">المزدلفة</placeName>
           <placeName xml:id="name5082-4" xml:lang="ar" source="#bib5082-2">مزدلفة</placeName>
           <desc type="abstract" xml:id="abstract5082-1" xml:lang="en">An open area southeast of Mina and associated the ḥajj pilgrimage.</desc><desc xml:lang="ar"><quote source="#bib5082-4">والمناسك كلها: منى وعرفة والمزدلفة</quote></desc><desc xml:lang="ar"><quote source="#bib5082-5">ووادي محسر هو الحد ما بين مزدلفة ومنى، ومزدلفة بسيط من الأرض فسيح بين جبلين</quote></desc><desc xml:lang="ar"><quote source="#bib5082-6">ولما صلینا الصبح بمزدلفة غدونا منها الى منى بعد الوقوف والدعاء بالمشعر الحرام. ومزدلفة كلها موقف إلا وادي محسر، ففيه تقع الهرولة حتى يخرج عنه.#</quote></desc>
-                    <location type="gps" source="#bib5082-3">
+                    <location type="gps" subtype="representative" source="#bib5082-3">
                         <geo>21.38611 39.91222</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5082</idno>

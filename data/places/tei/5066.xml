@@ -79,7 +79,7 @@
           <placeName xml:id="name5066-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المشعر الحرام</placeName>
           <placeName xml:id="name5066-3" xml:lang="ar" source="#bib5066-1">المشعر الحرام</placeName>
           <desc type="abstract" xml:id="abstract5066-1" xml:lang="en">A mountain in Muzdalifa.</desc>
-                    <location type="gps" source="#bib5066-2">
+                    <location type="gps" subtype="representative" source="#bib5066-2">
                         <geo>21.3866751 39.8950803</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5066</idno>

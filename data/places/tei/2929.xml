@@ -104,7 +104,7 @@
                <placeName xml:id="name2929-2" xml:lang="ar" srophe:tags="#headword" source="#bib2929-2">بحر الهند وفارس والصين</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2929-1">The ocean bordering <placeName>East
                   Africa</placeName>, <placeName>South Asia</placeName>, and <placeName>Australia</placeName></desc>
-               <location type="gps" source="#bib2929-1">
+               <location type="gps" subtype="representative" source="#bib2929-1">
                   <geo>-20 80</geo>
                </location>
                <event type="attestation" xml:id="attestation2929-1" notBefore="0902" notAfter="0914" source="#bib2929-2">

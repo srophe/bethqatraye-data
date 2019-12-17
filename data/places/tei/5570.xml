@@ -79,7 +79,7 @@
           <placeName xml:id="name5570-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جبل الرحمة</placeName>
           <placeName xml:id="name5570-3" xml:lang="ar" source="#bib5570-1">جبل الرحمة</placeName>
           <desc type="abstract" xml:id="abstract5570-1" xml:lang="en">A mountain in Mecca.</desc>
-                    <location type="gps" source="#bib5570-2">
+                    <location type="gps" subtype="representative" source="#bib5570-2">
                         <geo>21.3562935 39.8478719</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5570</idno>

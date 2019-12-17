@@ -82,7 +82,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5134-1">السوس كورة باقصى المغرب ومدينة باوله واخرى بهيطل وكورة بخوزستان وبالمغرب سوسة ايضا</quote>
           </desc>
-                    <location type="gps" source="#bib5134-2">
+                    <location type="gps" subtype="representative" source="#bib5134-2">
                         <geo>32.19417 48.24361</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5134</idno>

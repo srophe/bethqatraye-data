@@ -82,7 +82,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5451-1">مخاليف اليمن: مخلاف صنعاء والخشب ورحابة ومرمل مخلاف البون مخلاف خيوان</quote>
           </desc>
-                    <location type="gps" source="#bib5451-2">
+                    <location type="gps" subtype="representative" source="#bib5451-2">
                         <geo>15.26069 44.42489</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5451</idno>

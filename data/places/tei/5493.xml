@@ -84,7 +84,7 @@
           <placeName xml:id="name5493-7" xml:lang="ar">طاق کسری</placeName>
           <placeName xml:id="name5493-8" xml:lang="ar" source="#bib5493-1">إيوان كسري</placeName>
           <desc type="abstract" xml:id="abstract5493-1" xml:lang="en">A collection of remains of the city of Ctesiphon near Salman Pak in Iraq.</desc>
-                    <location type="gps" source="#bib5493-2">
+                    <location type="gps" subtype="representative" source="#bib5493-2">
                         <geo>33.09361 44.58083</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5493</idno>

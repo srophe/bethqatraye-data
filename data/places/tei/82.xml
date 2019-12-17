@@ -167,7 +167,7 @@
                         river of <placeName>Mesopotamia</placeName>, flowing from eastern
                             <placeName>Turkey</placeName> to <placeName>the Persian
                         Gulf</placeName>.</desc>
-                    <location type="gps" source="#bib82-9">
+                    <location type="gps" subtype="representative" source="#bib82-9">
                         <geo>34.7141123794017 41.14435946777027</geo>
                     </location>
                     <event type="attestation" xml:id="attestation82-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib82-6">

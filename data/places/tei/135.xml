@@ -153,7 +153,7 @@
                             <placeName>Europe</placeName> from <placeName>Africa</placeName> and
                         whose eastern waters reach <placeName>Anatolia</placeName>,
                             <placeName>Syria</placeName>, and <placeName>Egypt</placeName>.</desc>
-                    <location type="gps" source="#bib135-5">
+                    <location type="gps" subtype="representative" source="#bib135-5">
                         <geo>35.0000035 19.9999957</geo>
                     </location>
                     <event type="attestation" xml:id="attestation135-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib135-6">

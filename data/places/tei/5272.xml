@@ -92,7 +92,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5272-1">ثم صورت الشام واجناده وجباله ومياهه من انهاره وبحره وما على ساحله من المدن وبحيرة طبرية وبحيرة زغر وتيه بنى اسرآئيل وموقعه منه</quote>
           </desc>
-                    <location type="gps" source="#bib5272-3">
+                    <location type="gps" subtype="representative" source="#bib5272-3">
                         <geo>31.577850349494952 35.52394311313131</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5272</idno>

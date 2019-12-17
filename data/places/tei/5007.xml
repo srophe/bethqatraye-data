@@ -79,7 +79,7 @@
           <placeName xml:id="name5007-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الأبطح</placeName>
           <placeName xml:id="name5007-3" xml:lang="ar" source="#bib5007-1">الأبطح</placeName>
           <desc type="abstract" xml:id="abstract5007-1" xml:lang="en">A place located between Mecca and Minā.</desc>
-                    <location type="gps" source="#bib5007-2">
+                    <location type="gps" subtype="representative" source="#bib5007-2">
                         <geo>21.4404236 39.8401544</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5007</idno>

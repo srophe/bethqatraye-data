@@ -126,7 +126,7 @@
                     <placeName xml:id="name156-4" xml:lang="ar" srophe:tags="#headword" source="#bib156-5">الخليج الفارسي</placeName>
                     <desc xml:id="abstract-en-156" xml:lang="en">The sea that separates the <placeName>Arabian
                         peninsula</placeName> from <placeName>Iran</placeName>.</desc>
-                    <location type="gps" source="#bib156-3">
+                    <location type="gps" subtype="representative" source="#bib156-3">
                         <geo>27.0000001 50.9999999</geo>
                     </location>
                     <location type="nested" resp="http://bqgazetteer.bethmardutho.org">

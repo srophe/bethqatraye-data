@@ -82,7 +82,7 @@
           <placeName xml:id="name5119-4" xml:lang="ar">السروات</placeName>
           <placeName xml:id="name5119-5" xml:lang="ar" source="#bib5119-1">السراة</placeName>
           <desc type="abstract" xml:id="abstract5119-1" xml:lang="en" source="#bib5119-2"><quote>[T]he collective name, not particularly widespread, of the chains of mountains which run from the Gulf of ʿAḳaba down to the Gulf of Aden [...].</quote></desc>
-                    <location type="gps" source="#bib5119-3">
+                    <location type="gps" subtype="representative" source="#bib5119-3">
                         <geo>18.267222222222 42.368055555556</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5119</idno>

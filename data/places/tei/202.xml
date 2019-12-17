@@ -181,7 +181,7 @@
                             ومنها سقى مزارعهم والماء بالبصرة ضيق لأنه يحمل في السفن من
                             الأبلة</quote>
                     </desc>
-                    <location type="gps" source="#bib202-10">
+                    <location type="gps" subtype="representative" source="#bib202-10">
                         <geo>34.96632866849093 43.763668531650715</geo>
                     </location>
                     <event type="attestation" xml:id="attestation202-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib202-6">

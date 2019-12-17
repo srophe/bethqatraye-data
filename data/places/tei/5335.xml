@@ -85,7 +85,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5335-1">اليهودية قصبة اصفهان وقصبة جوزجان، الانبار مدينة لبغداد وانبار مدينة بجوزجان [...] باراب رستاق باسبيجاب وفارياب بجوزجان</quote>
           </desc>
-                    <location type="gps" source="#bib5335-3">
+                    <location type="gps" subtype="representative" source="#bib5335-3">
                         <geo>36.83333 65.83333</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5335</idno>

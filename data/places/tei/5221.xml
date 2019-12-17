@@ -82,7 +82,7 @@
           <placeName xml:id="name5221-5" xml:lang="ar">خليج السويس</placeName>
           <placeName xml:id="name5221-6" xml:lang="ar" source="#bib5221-1">بحر القلزم</placeName>
           <desc type="abstract" xml:id="abstract5221-1" xml:lang="en">A gulf west of the Sinai Peninsula demarcating the north end of the Red Sea.</desc>
-                    <location type="gps" source="#bib5221-2">
+                    <location type="gps" subtype="representative" source="#bib5221-2">
                         <geo>29.958988 32.567728</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5221</idno>

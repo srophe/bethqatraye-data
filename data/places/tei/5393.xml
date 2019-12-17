@@ -82,7 +82,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5393-1">ومن نحو الطائف مخلاف نجران وتربة والمهجرة وكثبة وجرش</quote>
           </desc>
-                    <location type="gps" source="#bib5393-2">
+                    <location type="gps" subtype="representative" source="#bib5393-2">
                         <geo>18.41667 46.91667</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5393</idno>

@@ -84,7 +84,7 @@
           <placeName xml:id="name5324-7" xml:lang="ar" source="#bib5324-1">جبل ثور</placeName>
           <placeName xml:id="name5324-8" xml:lang="ar" source="#bib5324-1">جبل أبي ثور</placeName>
           <desc type="abstract" xml:id="abstract5324-1" xml:lang="en">A mountain south of Mecca.</desc>
-                    <location type="gps" source="#bib5324-2">
+                    <location type="gps" subtype="representative" source="#bib5324-2">
                         <geo>21.3730669 39.7859779</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5324</idno>

@@ -82,7 +82,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5293-1">حلوان كورة بالعراق ومدينة بمصر وقرية بنيسابور واخرى بقوهستان</quote>
           </desc>
-                    <location type="gps" source="#bib5293-2">
+                    <location type="gps" subtype="representative" source="#bib5293-2">
                         <geo>34.465114 45.85589</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5293</idno>

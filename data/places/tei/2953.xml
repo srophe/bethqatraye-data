@@ -106,7 +106,7 @@
                      <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/576"> <placeName ref="http://syriaca.org/place/576">Armenia</placeName> </ref> and
                      <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/5"> <placeName ref="http://syriaca.org/place/5">Adharbayjān</placeName> </ref>
                </desc>
-               <location type="gps" source="#bib2953-1">
+               <location type="gps" subtype="representative" source="#bib2953-1">
                   <geo>38.5 46.5</geo>
                </location>
                <event type="attestation" xml:id="attestation2953-1" notBefore="0902" notAfter="0914" source="#bib2953-2">
