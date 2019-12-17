@@ -99,7 +99,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6479"/>
                     </bibl>
                     <bibl xml:id="bib5447-3">
-                        <title>http://gazetteer.dainst.org/place/2281725</title> <ptr target="http://gazetteer.dainst.org/place/2281725"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2281725</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2281725"/>
                     </bibl><bibl xml:id="bib5447-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">92</citedRange></bibl>
         </place>
       </listPlace>

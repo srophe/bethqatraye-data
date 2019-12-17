@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1166"/>
                     </bibl>
                     <bibl xml:id="bib5146-3">
-                        <title>http://gazetteer.dainst.org/place/2110999</title> <ptr target="http://gazetteer.dainst.org/place/2110999"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2110999</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2110999"/>
                     </bibl>
         </place>
       </listPlace>

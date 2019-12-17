@@ -203,7 +203,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0598"/>
                     </bibl>
                     <bibl xml:id="bib499-8">
-                        <title>http://gazetteer.dainst.org/place/2043139</title> <ptr target="http://gazetteer.dainst.org/place/2043139"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2043139</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2043139"/>
                     </bibl>
                 </place>
             </listPlace>

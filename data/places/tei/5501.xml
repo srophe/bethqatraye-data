@@ -92,7 +92,7 @@
             <citedRange unit="pp">90, 92</citedRange>
           </bibl>
                     <bibl xml:id="bib5501-2">
-                        <title>http://gazetteer.dainst.org/place/2194338</title> <ptr target="http://gazetteer.dainst.org/place/2194338"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2194338</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2194338"/>
                     </bibl><bibl xml:id="bib5501-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">90-91</citedRange></bibl><bibl xml:id="bib5501-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">92</citedRange></bibl>
         </place>
       </listPlace>

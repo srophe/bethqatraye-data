@@ -98,7 +98,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1363"/>
                     </bibl>
                     <bibl xml:id="bib5525-3">
-                        <title>http://gazetteer.dainst.org/place/2109639</title> <ptr target="http://gazetteer.dainst.org/place/2109639"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2109639</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2109639"/>
                     </bibl><bibl xml:id="bib5525-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
         </place>
       </listPlace>

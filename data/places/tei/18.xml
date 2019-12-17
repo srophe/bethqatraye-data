@@ -258,7 +258,7 @@
                         <citedRange unit="pp">249-254, 258</citedRange>
                     </bibl>
                     <bibl xml:id="bib18-11">
-                        <title>http://gazetteer.dainst.org/place/2280212</title> <ptr target="http://gazetteer.dainst.org/place/2280212"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2280212</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2280212"/>
                     </bibl>
                 </place>
             </listPlace>

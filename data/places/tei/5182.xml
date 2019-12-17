@@ -96,7 +96,7 @@
             <citedRange unit="pp">190, 198, 579</citedRange>
           </bibl>
                     <bibl xml:id="bib5182-2">
-                        <title>http://gazetteer.dainst.org/place/2733089</title> <ptr target="http://gazetteer.dainst.org/place/2733089"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2733089</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2733089"/>
                     </bibl><bibl xml:id="bib5182-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">190</citedRange></bibl><bibl xml:id="bib5182-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">198</citedRange></bibl><bibl xml:id="bib5182-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">579</citedRange></bibl>
         </place>
       </listPlace>

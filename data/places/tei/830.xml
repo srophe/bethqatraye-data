@@ -235,7 +235,7 @@
                             662</citedRange>
                     </bibl>
                     <bibl xml:id="bib830-8">
-                        <title>http://gazetteer.dainst.org/place/2089954</title> <ptr target="http://gazetteer.dainst.org/place/2089954"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2089954</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2089954"/>
                     </bibl>
                 </place>
             </listPlace>
