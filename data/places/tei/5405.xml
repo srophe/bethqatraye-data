@@ -97,7 +97,7 @@
             <citedRange unit="pp">27</citedRange>
           </bibl>
                     <bibl xml:id="bib5405-2">
-                        <title>http://www.geonames.org/1526979/quva.html</title> <ptr target="http://www.geonames.org/1526979/quva.html"/>
+                        <title level="a">http://www.geonames.org/1526979/quva.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/1526979/quva.html"/>
                     </bibl>
         </place>
       </listPlace>

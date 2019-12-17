@@ -178,7 +178,7 @@
             <citedRange unit="pp">390, 394</citedRange>
           </bibl>
                     <bibl xml:id="bib3001-4">
-                        <title>http://www.geonames.org/1159716/sarakhs.html</title> <ptr target="http://www.geonames.org/1159716/sarakhs.html"/>
+                        <title level="a">http://www.geonames.org/1159716/sarakhs.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/1159716/sarakhs.html"/>
                     </bibl><bibl xml:id="bib3001-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">390</citedRange></bibl><bibl xml:id="bib3001-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">394</citedRange></bibl>
         </place>
       </listPlace>
