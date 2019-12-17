@@ -102,7 +102,7 @@
                <placeName xml:id="name2924-1" xml:lang="en" srophe:tags="#headword">ʿAyn
                   Shams</placeName>
                <placeName xml:id="name2924-2" xml:lang="ar" srophe:tags="#headword" source="#bib2924-2">عين شمس</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2924-1">A city in <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/715"> <placeName ref="http://syriaca.org/place/715">Egypt</placeName> </ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2924-1">A city in <ref target="https://bqgazetteer.bethmardutho.org/place/715"> <placeName ref="http://syriaca.org/place/715">Egypt</placeName> </ref>
                </desc>
                <location type="gps" source="#bib2924-1">
                   <geo>30.131757 31.284786</geo>
