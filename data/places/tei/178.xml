@@ -145,8 +145,8 @@
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name178-6">Samīsāṭ</placeName>
                     <placeName xml:lang="en" xml:id="name178-7">Samīsaṭ</placeName>
                     <placeName xml:lang="ar" xml:id="name178-8">سميسط</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract178-1">A town on the <ref rend="bold" target="https://gedsh.bethmardutho.org/82"> <placeName ref="http://syriaca.org/place/82">Euphrates</placeName></ref> northwest of
-                            <ref rend="bold" target="https://gedsh.bethmardutho.org/78"> <placeName ref="http://syriaca.org/place/78">Edessa</placeName></ref>.</desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract178-1">A town on the <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/82"> <placeName ref="http://syriaca.org/place/82">Euphrates</placeName></ref> northwest of
+                            <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/78"> <placeName ref="http://syriaca.org/place/78">Edessa</placeName></ref>.</desc>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib178-2">ܐܰܬܪܐ ܗܘ ܕܰܠܡܰܥܪܒܗ ܕܰܦܪܳܬ ܘܰܠܓܰܪܒܝܗ
                             ܕܐܘܪܗܳܝ.</quote>

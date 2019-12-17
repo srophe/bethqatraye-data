@@ -120,8 +120,8 @@
                     <placeName xml:id="name140-2" xml:lang="en" source="#bib140-1">Çağçağ</placeName>
                     <placeName xml:id="name140-3" xml:lang="ar" source="#bib140-2">الهِرماس</placeName>
                     <placeName xml:id="name140-4" xml:lang="ar" srophe:tags="#headword" source="#bib140-3">الهرماس</placeName>
-                    <desc xml:id="abstract-en-140" xml:lang="en">A tributary of the <ref rend="bold" target="https://gedsh.bethmardutho.org/114"> <placeName ref="http://syriaca.org/place/114">Khabur river</placeName></ref> which flows
-                        past <ref rend="bold" target="https://gedsh.bethmardutho.org/142"> <placeName ref="http://syriaca.org/place/142">Nisibis</placeName></ref>.</desc>
+                    <desc xml:id="abstract-en-140" xml:lang="en">A tributary of the <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/114"> <placeName ref="http://syriaca.org/place/114">Khabur river</placeName></ref> which flows
+                        past <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/142"> <placeName ref="http://syriaca.org/place/142">Nisibis</placeName></ref>.</desc>
                     <event type="attestation" xml:id="attestation140-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib140-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الهِرماس</foreign> in the <title xml:lang="en" level="m">Muʿjam
                                 al-buldān</title> of <persName>Yāqūt al-Ḥamawī</persName>.</p>

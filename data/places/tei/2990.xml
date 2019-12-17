@@ -101,7 +101,7 @@
             <place xml:id="place-2990" type="settlement">
                <placeName xml:id="name2990-1" xml:lang="en" srophe:tags="#headword">al-Karaj</placeName>
                <placeName xml:id="name2990-2" xml:lang="ar" srophe:tags="#headword" source="#bib2990-1">الكرج</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2990-1">A city between <ref rend="bold" target="https://gedsh.bethmardutho.org/823"> <placeName ref="http://syriaca.org/place/823">Hamadān</placeName> and <placeName ref="http://syriaca.org/place/830">Ispahan</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2990-1">A city between <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/823"> <placeName ref="http://syriaca.org/place/823">Hamadān</placeName> and <placeName ref="http://syriaca.org/place/830">Ispahan</placeName></ref>
                </desc>
                <event type="attestation" xml:id="attestation2990-1" when="0891" source="#bib2990-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الكرج</foreign> in the

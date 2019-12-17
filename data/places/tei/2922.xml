@@ -101,7 +101,7 @@
             <place xml:id="place-2922" type="region">
                <placeName xml:id="name2922-1" xml:lang="en" srophe:tags="#headword">Maʾrib</placeName>
                <placeName xml:id="name2922-2" xml:lang="ar" srophe:tags="#headword" source="#bib2922-1">مأرب</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2922-1">A region in <ref rend="bold" target="https://gedsh.bethmardutho.org/508"> <placeName ref="http://syriaca.org/place/508">Yemen</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2922-1">A region in <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/508"> <placeName ref="http://syriaca.org/place/508">Yemen</placeName></ref>
                </desc>
                <event type="attestation" xml:id="attestation2922-1" notBefore="0902" notAfter="0914" source="#bib2922-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">مأرب</foreign> in the
