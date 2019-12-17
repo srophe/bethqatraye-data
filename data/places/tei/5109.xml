@@ -98,12 +98,11 @@
           <desc xml:lang="ar">
             <quote source="#bib5109-1">الصفا : [...] ومنه الصفا والمروة : وهما جبلان بين بطحاء مكة والمسجد، أما الصفا فمكان مرتفع من جبل أبي قبيس بينه وبين المسجد الحرام عرض الوادي الذي هو طريق وسوق، ومن وقف على الصفا كان بحذاء الحجر الأسود والمشعر الحرام بين الصفا والمروة</quote>
           </desc>
-                    <location type="gps" source="#bib5109-5">
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>21.423611 39.827222</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5109</idno>
           <idno type="URI">http://syriaca.org/place/5109</idno>
-          <idno type="URI">https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة</idno>
           <bibl xml:id="bib5109-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
@@ -128,9 +127,6 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6434"/>
-                    </bibl>
-                    <bibl xml:id="bib5109-5">
-                        <title>https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة</title> <ptr target="https://mapper.acme.com/?ll=21.423611,39.827222&amp;z=15&amp;t=M&amp;marker0=21.423611,39.827222,الصفا%20والمروة"/>
                     </bibl>
         </place>
       </listPlace>

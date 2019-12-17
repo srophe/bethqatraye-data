@@ -84,12 +84,11 @@
           <desc xml:lang="ar">
             <quote source="#bib5032-1">وجنوبيها [من ديار العرب] وشيء من غربيهاثم يمتد عليها من ايلة على مدائن قوم لوط والبحيرة المنتنة التي تعرف ببحيرة زغر الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة ونواحى بعلبك وذلك من عمل دمشق</quote>
           </desc>
-                    <location type="gps" subtype="representative" source="#bib5032-3">
+          <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>33.5 36.420833</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5032</idno>
           <idno type="URI">http://syriaca.org/place/5032</idno>
-          <idno type="URI">https://mapper.acme.com/?ll=33.5,36.420833&amp;z=15&amp;t=H&amp;marker0=33.5,36.420833,Ghouta</idno>
           <bibl xml:id="bib5032-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>
                         <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
@@ -100,9 +99,6 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2525"/>
-                    </bibl>
-                    <bibl xml:id="bib5032-3">
-                        <title>https://mapper.acme.com/?ll=33.5,36.420833&amp;z=15&amp;t=H&amp;marker0=33.5,36.420833,Ghouta</title> <ptr target="https://mapper.acme.com/?ll=33.5,36.420833&amp;z=15&amp;t=H&amp;marker0=33.5,36.420833,Ghouta"/>
                     </bibl>
         </place>
       </listPlace>

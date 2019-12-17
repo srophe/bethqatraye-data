@@ -115,12 +115,11 @@
           <desc xml:lang="ar">
             <quote source="#bib5448-1">وقيل : هي قرية على جانب البحرين ومن جواثا</quote>
           </desc>
-                    <location type="gps" source="#bib5448-7">
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>26.25 50.616667</geo>
                     </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5448</idno>
           <idno type="URI">http://syriaca.org/place/5448</idno>
-          <idno type="URI">https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج</idno>
           <bibl xml:id="bib5448-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>
             <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
@@ -157,9 +156,6 @@
             <ptr target="http://syriaca.org/bibl/NR45F82X"/>
             <citedRange unit="pp">34, 36</citedRange>
           </bibl>
-                    <bibl xml:id="bib5448-7">
-                        <title>https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج</title> <ptr target="https://mapper.acme.com/?ll=26.25,50.616667&amp;z=12&amp;t=M&amp;marker0=26.25,50.616667,سماهيج"/>
-                    </bibl>
         </place>
       </listPlace>
     </body>

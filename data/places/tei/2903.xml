@@ -183,7 +183,7 @@
                     <desc xml:lang="ar">
                         <quote source="#bib2903-13">وشعره في الغزل وغيره أكثر من أن نأتي عليه، وأكثر الغناء المحدث في وقتنا هذا من شعره؛ وقد أشيع بموته وأن البريدي غرفه لأنه كان هجاه؛ وقيل : بل هرب من البصرة ولحق بهجر والأحساء بأبي طاهر بن سليمان بن الحسن صاحب البحرين.</quote>
                     </desc><desc xml:lang="ar"><quote source="#bib2903-9">ثم سافرنا منها إلى مدينة هجر وتسمى الآن بالحسا (بفتح الحاء والسين واهمالها) وهي التي يضرب المثل بها، فيقال: كجالب التّمر إلى هجر، وبها من النخيل ما ليس ببلد سواها ومنه يعلفون دوابهم، وأهلها عرب، وأكثرهم من قبيلة عبد القيس بن أقصى.</quote></desc>
-                    <location type="gps" source="#bib2903-11" subtype="alternate">
+                    <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="alternate">
                         <geo>25.429444 49.621944</geo>
                     </location>
                     <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="preferred">
@@ -211,7 +211,6 @@
                     </state>
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903</idno>
                     <idno type="URI">http://syriaca.org/place/2903</idno>
-                    <idno type="URI">https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa</idno>
                     <bibl xml:id="bib2903-1">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
@@ -271,9 +270,6 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
-                    </bibl>
-                    <bibl xml:id="bib2903-11">
-                        <title>https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa</title> <ptr target="https://mapper.acme.com/?ll=25.429444,49.621944&amp;z=12&amp;t=H&amp;marker0=25.429444,49.621944,Al-Hasa"/>
                     </bibl>
                     <bibl xml:id="bib2903-12">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
