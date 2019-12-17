@@ -99,7 +99,7 @@
           <desc xml:lang="syr">
             <quote source="#bib5441-1">ܠܗ ܠܫܡܥܘܢ ܗܘ ܕܡܬܩܪܐ ܐܦܣܩܘܦܐ ܕܪܘܐܪܕܫܝܪ.</quote>
           </desc>
-                    <location type="gps" source="#bib5441-3">
+                    <location type="gps" subtype="representative" source="#bib5441-3">
                         <geo>28.925093 50.835601</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5441</idno>

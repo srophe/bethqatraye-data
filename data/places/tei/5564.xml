@@ -87,7 +87,7 @@
           <desc xml:lang="syr">
             <quote source="#bib5564-3">ܗܢܐ ܕܐܦܣ̈ܩܘܦܐ ܕܝܠܟܘܢ ܘܕܦܪܣ ܓܠܝܙܝܢ ܡܢ ܝܕܥܬܗ ܘܡܢ ܚܝܠܗ.</quote>
           </desc>
-                    <location type="gps" source="#bib5564-6">
+                    <location type="gps" subtype="representative" source="#bib5564-6">
                         <geo>30.5 51.5</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5564</idno>
