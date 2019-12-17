@@ -101,7 +101,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7063"/>
                     </bibl>
                     <bibl xml:id="bib5474-3">
-                        <title>http://pleiades.stoa.org/places/29762</title> <ptr target="http://pleiades.stoa.org/places/29762"/>
+                        <title level="a">http://pleiades.stoa.org/places/29762</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/29762"/>
                     </bibl><bibl xml:id="bib5474-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">286</citedRange></bibl><bibl xml:id="bib5474-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">287</citedRange></bibl>
         </place>
       </listPlace>

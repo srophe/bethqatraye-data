@@ -150,7 +150,7 @@
                         <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Nile&amp;sT=keywords">Nile</citedRange>
                     </bibl>
                     <bibl xml:id="bib629-2">
-                        <title>http://pleiades.stoa.org/places/727172</title>
+                        <title level="a">http://pleiades.stoa.org/places/727172</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/727172"/>
                     </bibl>
                     <bibl xml:id="bib629-3">

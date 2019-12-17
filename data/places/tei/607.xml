@@ -193,7 +193,7 @@
                         <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Merv&amp;sT=keywords">Merv</citedRange>
                     </bibl>
                     <bibl xml:id="bib607-6">
-                        <title>http://pleiades.stoa.org/places/961873</title>
+                        <title level="a">http://pleiades.stoa.org/places/961873</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/961873"/>
                     </bibl>
                     <bibl xml:id="bib607-7">

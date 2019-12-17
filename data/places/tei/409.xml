@@ -284,7 +284,7 @@
                         <citedRange unit="pp">17, 344</citedRange>
                     </bibl>
                     <bibl xml:id="bib409-6">
-                        <title>http://pleiades.stoa.org/places/29547</title>
+                        <title level="a">http://pleiades.stoa.org/places/29547</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/29547"/>
                     </bibl>
                     <bibl xml:id="bib409-7">

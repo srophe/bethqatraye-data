@@ -102,7 +102,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_3963"/>
                     </bibl>
                     <bibl xml:id="bib5342-3">
-                        <title>http://pleiades.stoa.org/places/890432541</title> <ptr target="http://pleiades.stoa.org/places/890432541"/>
+                        <title level="a">http://pleiades.stoa.org/places/890432541</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/890432541"/>
                     </bibl>
         </place>
       </listPlace>

@@ -238,7 +238,7 @@
                             112, 210, 211, 267, 267, 327, 351, 352, 358, 362, 363, 364</citedRange>
                     </bibl>
                     <bibl xml:id="bib641-7">
-                        <title>http://pleiades.stoa.org/places/423025</title>
+                        <title level="a">http://pleiades.stoa.org/places/423025</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/423025"/>
                     </bibl>
                     <bibl xml:id="bib641-8">

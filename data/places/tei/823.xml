@@ -184,7 +184,7 @@
                         <citedRange unit="pp">17, 18, 183, 278, 280, 322, 323</citedRange>
                     </bibl>
                     <bibl xml:id="bib823-2">
-                        <title>http://pleiades.stoa.org/places/903021</title>
+                        <title level="a">http://pleiades.stoa.org/places/903021</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/903021"/>
                     </bibl>
                     <bibl xml:id="bib823-3">

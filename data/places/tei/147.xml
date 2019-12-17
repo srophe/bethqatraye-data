@@ -153,7 +153,7 @@
                         <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=O&amp;sK=Orontes&amp;sT=keywords">Orontes</citedRange>
                     </bibl>
                     <bibl xml:id="bib147-3">
-                        <title>http://pleiades.stoa.org/places/658560</title>
+                        <title level="a">http://pleiades.stoa.org/places/658560</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/658560"/>
                     </bibl>
                     <bibl xml:id="bib147-4">

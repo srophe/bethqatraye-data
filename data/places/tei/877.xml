@@ -155,7 +155,7 @@
                         <citedRange unit="pp">343</citedRange>
                     </bibl>
                     <bibl xml:id="bib877-2">
-                        <title>http://pleiades.stoa.org/places/952108</title>
+                        <title level="a">http://pleiades.stoa.org/places/952108</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/952108"/>
                     </bibl>
                     <bibl xml:id="bib877-3">

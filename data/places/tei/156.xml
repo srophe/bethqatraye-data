@@ -167,7 +167,7 @@
                         <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=P&amp;sK=Persian                             gulf&amp;sT=keywords">Persian gulf</citedRange>
                     </bibl>
                     <bibl xml:id="bib156-3">
-                        <title>http://pleiades.stoa.org/places/29713</title>
+                        <title level="a">http://pleiades.stoa.org/places/29713</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/29713"/>
                     </bibl>
                     <bibl xml:id="bib156-4">

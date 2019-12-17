@@ -237,7 +237,7 @@
                         <citedRange unit="pp">5, 243-248</citedRange>
                     </bibl>
                     <bibl xml:id="bib216-9">
-                        <title>http://pleiades.stoa.org/places/658427</title> <ptr target="http://pleiades.stoa.org/places/658427"/>
+                        <title level="a">http://pleiades.stoa.org/places/658427</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/658427"/>
                     </bibl>
                 </place>
             </listPlace>

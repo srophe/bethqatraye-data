@@ -129,7 +129,7 @@
             <ptr target="http://dx.doi.org/10.1163/2214-871X_ei1_SIM_4420"/>
           </bibl>
                     <bibl xml:id="bib5359-3">
-                        <title>http://pleiades.stoa.org/places/746776</title> <ptr target="http://pleiades.stoa.org/places/746776"/>
+                        <title level="a">http://pleiades.stoa.org/places/746776</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/746776"/>
                     </bibl>
         </place>
       </listPlace>

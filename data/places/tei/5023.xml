@@ -95,7 +95,7 @@
             <citedRange unit="pp">26</citedRange>
           </bibl>
                     <bibl xml:id="bib5023-2">
-                        <title>https://pleiades.stoa.org/places/893962</title> <ptr target="https://pleiades.stoa.org/places/893962"/>
+                        <title level="a">https://pleiades.stoa.org/places/893962</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="https://pleiades.stoa.org/places/893962"/>
                     </bibl>
         </place>
       </listPlace>

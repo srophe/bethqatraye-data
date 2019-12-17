@@ -93,7 +93,7 @@
             <citedRange unit="pp">302</citedRange>
           </bibl>
                     <bibl xml:id="bib5394-2">
-                        <title>http://pleiades.stoa.org/places/300354624</title> <ptr target="http://pleiades.stoa.org/places/300354624"/>
+                        <title level="a">http://pleiades.stoa.org/places/300354624</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/300354624"/>
                     </bibl>
         </place>
       </listPlace>

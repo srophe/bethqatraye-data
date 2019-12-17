@@ -281,7 +281,7 @@
                         <citedRange unit="pp">217, 229, 232</citedRange>
                     </bibl>
                     <bibl xml:id="bib44-10">
-                        <title>http://pleiades.stoa.org/places/912821</title> <ptr target="http://pleiades.stoa.org/places/912821"/>
+                        <title level="a">http://pleiades.stoa.org/places/912821</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/912821"/>
                     </bibl>                    
                     <bibl xml:id="bib44-11">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

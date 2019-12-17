@@ -198,7 +198,7 @@
                         <citedRange unit="pp">558</citedRange>
                     </bibl>
                     <bibl xml:id="bib410-4">
-                        <title>http://pleiades.stoa.org/places/668366</title>
+                        <title level="a">http://pleiades.stoa.org/places/668366</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/668366"/>
                     </bibl>
                     <bibl xml:id="bib410-5">

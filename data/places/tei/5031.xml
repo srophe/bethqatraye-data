@@ -99,7 +99,7 @@
             <citedRange unit="pp">47</citedRange>
           </bibl>
                     <bibl xml:id="bib5031-2">
-                        <title>https://pleiades.stoa.org/places/727082</title> <ptr target="https://pleiades.stoa.org/places/727082"/>
+                        <title level="a">https://pleiades.stoa.org/places/727082</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="https://pleiades.stoa.org/places/727082"/>
                     </bibl>
         </place>
       </listPlace>

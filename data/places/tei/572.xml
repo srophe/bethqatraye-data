@@ -238,7 +238,7 @@
                         <citedRange unit="pp">64-65, 364</citedRange>
                     </bibl>
                     <bibl xml:id="bib572-7">
-                        <title>http://pleiades.stoa.org/places/727070</title>
+                        <title level="a">http://pleiades.stoa.org/places/727070</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/727070"/>
                     </bibl>
                     <bibl xml:id="bib572-8">
@@ -260,7 +260,7 @@
                         <citedRange unit="pp">135</citedRange>
                     </bibl>
                     <bibl xml:id="bib572-12">
-                        <title>https://pleiades.stoa.org/places/727070</title> <ptr target="https://pleiades.stoa.org/places/727070"/>
+                        <title level="a">https://pleiades.stoa.org/places/727070</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="https://pleiades.stoa.org/places/727070"/>
                     </bibl>
                 </place>
             </listPlace>

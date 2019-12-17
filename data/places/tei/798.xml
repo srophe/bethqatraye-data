@@ -176,7 +176,7 @@
                         <citedRange unit="pp">323</citedRange>
                     </bibl>
                     <bibl xml:id="bib798-2">
-                        <title>http://pleiades.stoa.org/places/884119</title>
+                        <title level="a">http://pleiades.stoa.org/places/884119</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/884119"/>
                     </bibl>
                     <bibl xml:id="bib798-3">

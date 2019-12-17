@@ -241,7 +241,7 @@
                         <citedRange unit="pp">207, 209, 210, 212-217, 226, 247, 248</citedRange>
                     </bibl>
                     <bibl xml:id="bib82-9">
-                        <title>http://pleiades.stoa.org/places/912849</title> <ptr target="http://pleiades.stoa.org/places/912849"/>
+                        <title level="a">http://pleiades.stoa.org/places/912849</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/912849"/>
                     </bibl>
                 </place>
             </listPlace>
