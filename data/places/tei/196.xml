@@ -139,8 +139,8 @@
                     <placeName xml:id="name196-5" xml:lang="ar" source="#bib196-3 #bib196-7" srophe:tags="#headword">طرسوس</placeName>
                     <placeName xml:id="name196-6" xml:lang="ar" source="#bib196-6">طَرَسون</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name196-7">Ṭarsūs</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract196-1">A city in <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/56"> <placeName ref="http://syriaca.org/place/56">Cilicia I</placeName> </ref> west of
-                            <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/15"> <placeName ref="http://syriaca.org/place/15">Adana</placeName> </ref>.</desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract196-1">A city in <ref target="https://bqgazetteer.bethmardutho.org/place/56"> <placeName ref="http://syriaca.org/place/56">Cilicia I</placeName> </ref> west of
+                            <ref target="https://bqgazetteer.bethmardutho.org/place/15"> <placeName ref="http://syriaca.org/place/15">Adana</placeName> </ref>.</desc>
                     <desc xml:lang="ar">
                         <quote source="#bib196-7">واما جبل لكام فانه اعمر جبال الشام واكبرها واكثرها
                             ثمارا وهو اليوم بيد الارمن وطرسوس من ورائه وانطاكية دونه</quote>
