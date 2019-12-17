@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">al-Sabkha - <foreign xml:lang="ar">السَّبَخَةُ</foreign>
+        <title level="a" xml:lang="en">al-Sabkha - <foreign xml:lang="ar">السبخة</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>         <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>         <funder>Qatar National Research Foundation</funder>
@@ -71,7 +71,7 @@
       <listPlace>
         <place type="quarter">
           <placeName xml:id="name5108-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sabkha</placeName>
-          <placeName xml:id="name5108-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السَّبَخَةُ</placeName>
+          <placeName xml:id="name5108-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السَّبخَةُ</placeName>
           <placeName xml:id="name5108-3" xml:lang="ar" source="#bib5108-1">السبخة</placeName>
           <desc type="abstract" xml:id="abstract5108-1" xml:lang="en">A quarter in al-Baṣra.</desc>
           <desc xml:lang="ar">
