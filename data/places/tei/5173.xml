@@ -87,7 +87,7 @@
           <location type="gps" subtype="representative" source="#bib5173-2">
                         <geo>36.76984 31.90215</geo>
                     </location>
-          <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="preferred">
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="alternate">
             <geo>36.8874 30.7075</geo>
           </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5173</idno>
