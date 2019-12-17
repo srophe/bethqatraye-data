@@ -136,7 +136,7 @@
                     <location type="gps" source="#bib2932-4" subtype="alternate">
                         <geo>12.0000001 47.9999999</geo>
                     </location>
-               <location type="gps" source="#bib2932-1" subtype="preferred">
+               <location type="gps" source="#bib2932-1" subtype="representative">
                   <geo>12.0000001 47.9999999</geo>
                </location>
                <event type="attestation" xml:id="attestation2932-1" notBefore="0902" notAfter="0914" source="#bib2932-2">
