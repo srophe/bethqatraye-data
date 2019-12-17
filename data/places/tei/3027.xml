@@ -103,7 +103,7 @@
                <placeName xml:id="name3027-4" xml:lang="fr" source="#bib3027-1">Les Ȋles de Ardai et
                   de Tȏdourou</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name3027-5">Arday and Tuduru</placeName>
-               <desc type="abstract" xml:id="abstract3027-1" xml:lang="en">A diocese for the islands of <ref rend="bold" target="https://gedsh.bethmardutho.org/3008"> <placeName ref="http://syriaca.org/place/3008">Arday</placeName> and <placeName ref="http://syriaca.org/place/3009">Toduru</placeName> in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>
+               <desc type="abstract" xml:id="abstract3027-1" xml:lang="en">A diocese for the islands of <placeName ref="http://syriaca.org/place/3008">Arday</placeName> and <placeName ref="http://syriaca.org/place/3009">Toduru</placeName> in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>
                </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
                <event type="attestation" xml:id="attestation3027-1" when="0410" source="#bib3027-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܓܙܪ̈ܬܐ ܕܐܪܕܝ

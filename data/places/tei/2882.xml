@@ -144,7 +144,7 @@
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2882-7">Tarout</placeName>
                <placeName xml:lang="en" xml:id="name2882-8">Tarūt</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2882-9">Darin</placeName>
-               <desc type="abstract" xml:id="abstract-en-2882" xml:lang="en">One of the islands in <ref rend="bold" target="https://gedsh.bethmardutho.org/37"> <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName> located east of <placeName>al-Qaṭīf</placeName></ref>.</desc>
+               <desc type="abstract" xml:id="abstract-en-2882" xml:lang="en">One of the islands in <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName> located east of <placeName>al-Qaṭīf</placeName>.</desc>
                <desc xml:lang="en">The island of Dayrin well known
                   for its production of musk.</desc>
                <location type="gps" resp="http://bqgazetteer.bethmardutho.org">

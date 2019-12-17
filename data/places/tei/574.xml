@@ -117,7 +117,7 @@
                         100 km. to the north-east of <placeName>Ḥamāt</placeName>, on a route through the desert—on the
                         fringes of which it lies—connecting <placeName>Aleppo</placeName> with <placeName>Bag̲h̲dād</placeName>.</quote></desc>
                     <desc xml:lang="en">A Roman village southeast of
-                            <ref rend="bold" target="https://gedsh.bethmardutho.org/18"> <placeName ref="http://syriaca.org/place/18">Aleppo</placeName></ref>.</desc>
+                            <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>.</desc>
                     <desc xml:lang="ar">
                         <quote source="#bib574-4">ثم الخناصرة وبالس وهما من عمل قنسرين</quote>
                     </desc>

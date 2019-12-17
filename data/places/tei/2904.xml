@@ -111,7 +111,7 @@
                 <placeName xml:id="name2904-8" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Tarout</placeName>
                 <placeName xml:id="name2904-9" xml:lang="la" source="#bib2904-3">Dayrin</placeName>
                 <desc type="abstract" xml:id="abstract2904-4" xml:lang="en">The diocese of the
-                   <ref rend="bold" target="https://gedsh.bethmardutho.org/2882"> <placeName ref="http://syriaca.org/place/2882">island of Dayrīn</placeName></ref> in <placeName>Beth
+                   <placeName ref="http://syriaca.org/place/2882">island of Dayrīn</placeName> in <placeName>Beth
                       Qatraye</placeName> located east of
                    <placeName>al-Qaṭīf</placeName></desc>
                 <desc xml:lang="syr">
