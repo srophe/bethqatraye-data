@@ -96,7 +96,7 @@
             <citedRange unit="pp">205</citedRange>
           </bibl>
                     <bibl xml:id="bib5450-2">
-                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=سميراء&amp;params=26_48_N_42_12_E_type:city</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=سميراء&amp;params=26_48_N_42_12_E_type:city"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=سميراء&amp;params=26_48_N_42_12_E_type:city</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=سميراء&amp;params=26_48_N_42_12_E_type:city"/>
                     </bibl>
         </place>
       </listPlace>

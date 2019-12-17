@@ -93,7 +93,7 @@
             <citedRange unit="pp">114</citedRange>
           </bibl>
                     <bibl xml:id="bib5471-2">
-                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وقعة_صفين&amp;params=35.95_N_39.0167_E_globe:earth_type:landmark</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وقعة_صفين&amp;params=35.95_N_39.0167_E_globe:earth_type:landmark"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وقعة_صفين&amp;params=35.95_N_39.0167_E_globe:earth_type:landmark</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وقعة_صفين&amp;params=35.95_N_39.0167_E_globe:earth_type:landmark"/>
                     </bibl><bibl xml:id="bib5471-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">114</citedRange></bibl>
         </place>
       </listPlace>

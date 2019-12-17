@@ -109,7 +109,7 @@
             <citedRange unit="pp">184, 186</citedRange>
           </bibl>
                     <bibl xml:id="bib5348-3">
-                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=خليص&amp;params=22_09_14_N_39_19_06_E_type:city_region:SA</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=خليص&amp;params=22_09_14_N_39_19_06_E_type:city_region:SA"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=خليص&amp;params=22_09_14_N_39_19_06_E_type:city_region:SA</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=خليص&amp;params=22_09_14_N_39_19_06_E_type:city_region:SA"/>
                     </bibl><bibl xml:id="bib5348-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">143</citedRange></bibl><bibl xml:id="bib5348-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">185</citedRange></bibl>
         </place>
       </listPlace>

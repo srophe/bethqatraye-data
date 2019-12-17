@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1006"/>
                     </bibl>
                     <bibl xml:id="bib5224-3">
-                        <title>https://tools.wmflabs.org/geohack/geohack.php?pagename=Bəcirəvan,_Jalilabad&amp;params=39_06_01_N_48_32_15_E_region:AZ_type:city(2322)</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Bəcirəvan,_Jalilabad&amp;params=39_06_01_N_48_32_15_E_region:AZ_type:city(2322)"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Bəcirəvan,_Jalilabad&amp;params=39_06_01_N_48_32_15_E_region:AZ_type:city(2322)</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Bəcirəvan,_Jalilabad&amp;params=39_06_01_N_48_32_15_E_region:AZ_type:city(2322)"/>
                     </bibl>
         </place>
       </listPlace>

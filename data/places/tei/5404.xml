@@ -93,7 +93,7 @@
             <citedRange unit="pp">139</citedRange>
           </bibl>
                     <bibl xml:id="bib5404-2">
-                        <title>https://tools.wmflabs.org/geohack/geohack.php?pagename=Qaba%27&amp;params=24_24_N_39_39_E_region:SA_type:city</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Qaba%27&amp;params=24_24_N_39_39_E_region:SA_type:city"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Qaba%27&amp;params=24_24_N_39_39_E_region:SA_type:city</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Qaba%27&amp;params=24_24_N_39_39_E_region:SA_type:city"/>
                     </bibl><bibl xml:id="bib5404-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">139</citedRange></bibl>
         </place>
       </listPlace>

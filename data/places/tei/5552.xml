@@ -102,7 +102,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0846"/>
                     </bibl>
                     <bibl xml:id="bib5552-3">
-                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=مدينة_عثر&amp;params=17_08_09.3_N_42_26_43.6_E_type:</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=مدينة_عثر&amp;params=17_08_09.3_N_42_26_43.6_E_type:"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=مدينة_عثر&amp;params=17_08_09.3_N_42_26_43.6_E_type:</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=مدينة_عثر&amp;params=17_08_09.3_N_42_26_43.6_E_type:"/>
                     </bibl>
         </place>
       </listPlace>

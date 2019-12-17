@@ -101,7 +101,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6626"/>
                     </bibl>
                     <bibl xml:id="bib5119-3">
-                        <title>https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=جبال_السروات&amp;params=18.267222222222_N_42.368055555556_E_globe:earth_type:landmark</title> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=جبال_السروات&amp;params=18.267222222222_N_42.368055555556_E_globe:earth_type:landmark"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=جبال_السروات&amp;params=18.267222222222_N_42.368055555556_E_globe:earth_type:landmark</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=جبال_السروات&amp;params=18.267222222222_N_42.368055555556_E_globe:earth_type:landmark"/>
                     </bibl>
         </place>
       </listPlace>
