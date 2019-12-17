@@ -114,7 +114,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2866"/>
                     </bibl>
                     <bibl xml:id="bib5043-4">
-                        <title>http://sws.geonames.org/99347</title> <ptr target="http://sws.geonames.org/99347"/>
+                        <title level="a">http://sws.geonames.org/99347</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/99347"/>
                     </bibl>
         </place>
       </listPlace>

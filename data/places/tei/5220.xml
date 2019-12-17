@@ -92,7 +92,7 @@
             <citedRange unit="pp">395</citedRange>
           </bibl>
                     <bibl xml:id="bib5220-2">
-                        <title>http://sws.geonames.org/1147540</title> <ptr target="http://sws.geonames.org/1147540"/>
+                        <title level="a">http://sws.geonames.org/1147540</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/1147540"/>
                     </bibl><bibl xml:id="bib5220-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">395</citedRange></bibl>
         </place>
       </listPlace>

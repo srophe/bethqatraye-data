@@ -95,7 +95,7 @@
             <citedRange unit="pp">88</citedRange>
           </bibl>
                     <bibl xml:id="bib5451-2">
-                        <title>http://sws.geonames.org/71132</title> <ptr target="http://sws.geonames.org/71132"/>
+                        <title level="a">http://sws.geonames.org/71132</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/71132"/>
                     </bibl>
         </place>
       </listPlace>

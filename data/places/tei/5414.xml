@@ -103,7 +103,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0460"/>
                     </bibl>
                     <bibl xml:id="bib5414-3">
-                        <title>http://sws.geonames.org/1269320</title> <ptr target="http://sws.geonames.org/1269320"/>
+                        <title level="a">http://sws.geonames.org/1269320</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/1269320"/>
                     </bibl>
         </place>
       </listPlace>

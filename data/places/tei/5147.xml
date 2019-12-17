@@ -102,7 +102,7 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7979"/>
                     </bibl>
                     <bibl xml:id="bib5147-3">
-                        <title>http://sws.geonames.org/100425</title> <ptr target="http://sws.geonames.org/100425"/>
+                        <title level="a">http://sws.geonames.org/100425</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/100425"/>
                     </bibl>
         </place>
       </listPlace>
