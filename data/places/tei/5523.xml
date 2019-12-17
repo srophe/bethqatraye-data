@@ -12,10 +12,10 @@
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman Chamseddine</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
-        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor><editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
         <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>         
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>         
         <respStmt>
           <resp>Yaqūt b. ʿAbdallah al-Ḥamawī data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif Al-Murikhi</name>
