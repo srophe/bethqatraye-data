@@ -82,7 +82,7 @@
           <placeName xml:id="name5410-5" xml:lang="en">Ղարաբաղ</placeName>
           <placeName xml:id="name5410-6" xml:lang="ar" source="#bib5410-1">قراباغ</placeName>
           <desc type="abstract" xml:id="abstract5410-1" xml:lang="en">A mountainous region between Tabrīz and al-Sulṭāniyya.</desc><desc xml:lang="ar"><quote source="#bib5410-3">ووصلوا إلى الملك محمد خدابنده سلطان العراق، وهو بموضع مصيفه المسمى قراباغ (بفتح القاف والراء والباء الموحدة والغين المعجمة)، وهو ما بين السلطانية وتبريز</quote></desc><desc xml:lang="ar"><quote source="#bib5410-4">فرجعت الرسل إلى الملك فأخبروه بما جرى في ذلك فأمر أن يؤتي بقضاة المدن الثلاث. فكان أول من أتي به منهم القاضي مجد الدين قاضي شيراز والسلطان إذ ذاك في موضع يعرف بقراباغ، وهو موضع مصيفه.</quote></desc>
-                    <location type="gps" source="#bib5410-2">
+                    <location type="gps" subtype="representative" source="#bib5410-2">
                         <geo>39.6347291 45.342603</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5410</idno>

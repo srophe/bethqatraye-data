@@ -83,7 +83,7 @@
           <placeName xml:id="name5182-6" xml:lang="en">Āwa</placeName>
           <placeName xml:id="name5182-7" xml:lang="ar" source="#bib5182-1">آوة</placeName>
           <desc type="abstract" xml:id="abstract5182-1" xml:lang="en">Probably a region around the town of Āwa located southwest of Qazwīn.</desc><desc xml:lang="ar"><quote source="#bib5182-3">نسبئ الى بلده آوه من عراق العجم، أهلها رافضة</quote></desc><desc xml:lang="ar"><quote source="#bib5182-4">ولو جرى مثل هذا بمشهد الحسين، أو بالحلة، أو بالبحرين، أو قم، أو قاشان، أو ساوة، أو آوة، أو طوس، لهلك فاعله، لأنهم رافضة غالية.</quote></desc><desc xml:lang="ar"><quote source="#bib5182-5">وبها من التجار المسلمين جماعة، كبيرهم علاء الدين الآوجي من أهل آوه، من بلاد العراق.</quote></desc>
-                    <location type="gps" source="#bib5182-2">
+                    <location type="gps" subtype="representative" source="#bib5182-2">
                         <geo>34.79683 50.42611</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5182</idno>

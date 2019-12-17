@@ -117,7 +117,7 @@
               على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل
               اليمن الى جدة ثم يمتدعلى الجار ومدين حتى ينتهي الى أيلة</quote>
           </desc><desc xml:lang="ar"><quote source="#bib5284-1">وبين ظفار وعدن في البرّ مسيرة شهر في صحراء، وبينها وبين حضرموت ستة عشر يوماً، وبينها وبين عمان عشرون يوماً</quote></desc>
-                    <location type="gps" source="#bib5284-4">
+                    <location type="gps" subtype="representative" source="#bib5284-4">
                         <geo>16.0 49.0</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5284</idno>

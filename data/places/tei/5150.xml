@@ -88,7 +88,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5150-1">ثم بحر الروم وكيفيته في ذاته وشكله في نفسه وما عليه من الجانب الشرقى والمحاذى بلد المغرب ومدن قلورية والأنكبردة والزنقة المعروفة بلبونس والخليج الخارج من بحرالروم الى البحر المحيط ومياه بلد الروم واكابر انهاره ومدنه</quote>
           </desc>
-                    <location type="gps" source="#bib5150-2">
+                    <location type="gps" subtype="representative" source="#bib5150-2">
                         <geo>37.253957640355225 22.31309202680187</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5150</idno>

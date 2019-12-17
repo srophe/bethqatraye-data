@@ -92,7 +92,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5017-1">وجنوبيها [من ديار العرب] وشيء من غربيهاثم يمتد عليها من ايلة على مدائن قوم لوط والبحيرة المنتنة التي تعرف ببحيرة زغر الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة ونواحى بعلبك وذلك من عمل دمشق</quote>
           </desc><desc xml:lang="ar"><quote source="#bib5017-5">ذكر ياقوت في معجم البلدان أن اسمها: زيزاء، وهي من قرى البلقاء.</quote></desc>
-                    <location type="gps" source="#bib5017-4">
+                    <location type="gps" subtype="representative" source="#bib5017-4">
                         <geo>32 35.66667</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5017</idno>

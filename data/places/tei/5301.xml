@@ -84,7 +84,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5301-1">وجنوبيها [من ديار العرب] وشيء من غربيهاثم يمتد عليها من ايلة على مدائن قوم لوط والبحيرة المنتنة التي تعرف ببحيرة زغر الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة ونواحى بعلبك وذلك من عمل دمشق</quote>
           </desc>
-                    <location type="gps" source="#bib5301-3">
+                    <location type="gps" subtype="representative" source="#bib5301-3">
                         <geo>33.023251 36.025648</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5301</idno>

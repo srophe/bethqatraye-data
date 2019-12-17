@@ -91,7 +91,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5177-1">ثم صورت نهر جيحون وما وراء من اعمال بخارا وسمرقند وأشروسنة وأسبيجاب والشاش وخوارزم الى جميع ما تشتمل عليه من المياه وتحيط به من الطرق والمسالك</quote>
           </desc>
-                    <location type="gps" source="#bib5177-3">
+                    <location type="gps" subtype="representative" source="#bib5177-3">
                         <geo>39.9142 69.00328</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5177</idno>

@@ -124,7 +124,7 @@
                <desc xml:lang="ar">
                   <quote source="#bib2961-2">فان قلنا الشرق اردنا ايضا فارس وكرمان والسند</quote>
                </desc>
-                    <location type="gps" source="#bib2961-3">
+                    <location type="gps" subtype="representative" source="#bib2961-3">
                         <geo>26.13333 68.76667</geo>
                     </location>
                <event type="attestation" xml:id="attestation2961-1" when="0891" source="#bib2961-1">

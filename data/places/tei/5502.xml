@@ -85,7 +85,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5502-1">ومن اعظم جباياتها واكثر اموالها ضريبة بلد أطرابيزندة وأنطالية</quote>
           </desc>
-                    <location type="gps" source="#bib5502-2">
+                    <location type="gps" subtype="representative" source="#bib5502-2">
                         <geo>40.86946 39.81255</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5502</idno>

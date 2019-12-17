@@ -85,7 +85,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5361-1">ويحيط بها بحر فارس من عبادان وهو مصب ماء دجلة في البحر فيمتد على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل اليمن الى جدة ثم يمتدعلى الجار ومدين حتى ينتهي الى أيلة</quote>
           </desc>
-                    <location type="gps" source="#bib5361-3">
+                    <location type="gps" subtype="representative" source="#bib5361-3">
                         <geo>17 51.5</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5361</idno>

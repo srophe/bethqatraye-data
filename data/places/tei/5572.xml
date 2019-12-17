@@ -100,7 +100,7 @@
                   <quote source="#bib5572-2">دهستان مدينة بكرمان وناحية بجرجان وناحية
                      ببادغيس</quote>
                </desc>
-               <location type="gps" source="#bib5572-1">
+               <location type="gps" subtype="representative" source="#bib5572-1">
                   <geo>37.232558 55.1454375</geo>
                </location>
                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5572</idno>

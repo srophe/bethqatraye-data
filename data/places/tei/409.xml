@@ -229,7 +229,7 @@
                         <quote source="#bib409-14">كان جمال اللّك من أهل سجستان أعجميّ الاصل</quote></desc>
                     <desc xml:lang="ar">
                         <quote source="#bib409-15">ولما كان بعد هذا، بعث الملك حسين ابن عمه ملك ورنا الذي كان رفيق الفقيه نظام الدين في تغيير المنكر رسولا إلى ملك سجستان.</quote></desc>
-                    <location type="gps" source="#bib409-6">
+                    <location type="gps" subtype="representative" source="#bib409-6">
                         <geo>32.5 62.5</geo>
                     </location>
                     <event type="attestation" xml:id="attestation409-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib409-7">

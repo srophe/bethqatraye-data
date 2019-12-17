@@ -144,7 +144,7 @@
                     <desc xml:lang="en">A region south of <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/66"> <placeName ref="http://syriaca.org/place/66">Damascus</placeName> </ref> and east of the
                         <placeName>Sea of Galilee</placeName>.</desc>
                     <desc xml:lang="ar"><quote source="#bib214-8">ثم ارتحلنا منها إلى بلدة زرعة وهي صغيرة من بلاد حوران نزلنا بالقرب منها ثم ارتحلنا إلى مدينة بُصرى، وهي صغيرة ومن عادة الركب أن يقيم بها أربعا ليلحق بهم من تخلف بدمشق لقضاء مآربه - وإلى بُصرى وصل رسول الله صلى الله عليه وسلم قبل البعث في تجارة خديجة، وبها مبرك ناقته قد بنى عليه مسجد عظيم</quote></desc>
-                    <location type="gps" source="#bib214-6">
+                    <location type="gps" subtype="representative" source="#bib214-6">
                         <geo>32.75 36.25</geo>
                     </location>
                     <event type="attestation" xml:id="attestation214-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib214-7">

@@ -148,7 +148,7 @@
                         <quote source="#bib929-4">السوس كورة باقصى المغرب ومدينة باوله واخرى بهيطل
                             وكورة بخوزستان وبالمغرب سوسة ايضا</quote>
                     </desc>
-                    <location type="gps" source="#bib929-5">
+                    <location type="gps" subtype="representative" source="#bib929-5">
                         <geo>32.5 48.5</geo>
                     </location>
                     <event type="attestation" xml:id="attestation929-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib929-2">

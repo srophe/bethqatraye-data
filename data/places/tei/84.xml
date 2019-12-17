@@ -184,7 +184,7 @@
                     <desc xml:lang="ar">
                         <quote source="#bib84-7">وهذه الروضة ظهرت لها كرامات ثبت بها عندهم أن بها قبر عليّ رضي الله عنه، فمنها أن في ليلة السابع والعشرين من رجب، وتسمى عندهم ليلة المحيا يؤتى الى تلك الروضة بكل مقعد من العراقين وخرسان وبلاد فارس والروم فيجتمع الثلاثون والأربعون ونحو ذلك</quote>
                     </desc>
-                    <location type="gps" source="#bib84-4">
+                    <location type="gps" subtype="representative" source="#bib84-4">
                         <geo>30.5 51.5</geo>
                     </location>
                     <event type="attestation" xml:id="attestation84-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib84-5">

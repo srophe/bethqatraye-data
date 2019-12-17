@@ -85,7 +85,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5414-1">ومملكة الهند يدخل فيها السند وقشمير وطرف من التبت ومن دان بدينهم</quote>
           </desc>
-                    <location type="gps" source="#bib5414-3">
+                    <location type="gps" subtype="representative" source="#bib5414-3">
                         <geo>33.5329 75.40781</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5414</idno>
