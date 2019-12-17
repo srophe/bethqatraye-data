@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5006/tei</idno>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5573/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,35 +75,33 @@
   <text>
     <body>
       <listPlace>
-        <place type="settlement">
-          <placeName xml:id="name5006-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Abyan</placeName>
-          <placeName xml:id="name5006-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أبين</placeName>
-          <placeName xml:id="name5006-3" xml:lang="ar" source="#bib5006-1">أبين</placeName>
-          <desc type="abstract" xml:id="abstract5006-1" xml:lang="en" source="#bib5006-2">Ayban was a settlement in a district of the same name, <ref target="https://bqgazetteer.bethmardutho.org/place/5573">
-            <placeName ref="http://syriaca.org/place/5573">ʿAdan Abyan</placeName></ref>. <quote>[The ʿAdan Abyan] district ( mik̲h̲lāf ) in Yaman in the Wādī Banā, comprising several castles and the seaport of ʿAdan .</quote></desc>
+        <place type="province">
+          <placeName xml:id="name5573-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Abyan</placeName>
+          <placeName xml:id="name5573-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أبين</placeName>
+          <placeName xml:id="name5573-3" xml:lang="ar" source="#bib5573-1">أبين</placeName>
+          <desc type="abstract" xml:id="abstract5573-1" xml:lang="en" source="#bib5573-2"><quote>[The ʿAdan Abyan] district ( mik̲h̲lāf ) in Yaman in the Wādī Banā, comprising several castles and the seaport of ʿAdan .</quote>. There is a settlement of the same name <ref target="https://bqgazetteer.bethmardutho.org/place/5006">
+            <placeName ref="http://syriaca.org/place/5006">Abyan</placeName></ref> contained in the district.</desc>
           <desc xml:lang="ar">
-            <quote source="#bib5006-1">وأبين هى اقدم من عدن واليها تنسب عدن لان برهم وفواكههم وخضرهم منها لكثرة القرى والمزارع بها وكذلك لهج</quote>
+            <quote source="#bib5573-1">وأبين هى اقدم من عدن واليها تنسب عدن لان برهم وفواكههم وخضرهم منها لكثرة القرى والمزارع بها وكذلك لهج</quote>
           </desc>
-                    <location type="gps" source="#bib5006-3">
+                    <location type="gps" subtype="representative" source="#bib5573-3">
                         <geo>13.6291 46.126</geo>
                     </location>
-          <location type="nested" source="#bib5006-1">
-            <region ref="https://bqgazetteer.bethmardutho.org/place/5573">ʿAmādīyā</region>
-          </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5006</idno>
-          <idno type="URI">http://syriaca.org/place/5006</idno>
-          <bibl xml:id="bib5006-1">
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5573</idno>
+          <idno type="URI">http://syriaca.org/place/5573</idno>
+          <idno type="URI">http://sws.geonames.org/80425</idno>
+          <bibl xml:id="bib5573-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>
                         <author>Muḥammad ibn Aḥmad Maqdisī</author>
                         <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">85</citedRange>
           </bibl>
-                    <bibl xml:id="bib5006-2">
+                    <bibl xml:id="bib5573-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0289"/>
                     </bibl>
-                    <bibl xml:id="bib5006-3">
+                    <bibl xml:id="bib5573-3">
                         <title level="a">http://sws.geonames.org/80425</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/80425"/>
                     </bibl>
         </place>
