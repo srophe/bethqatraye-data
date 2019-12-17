@@ -88,7 +88,7 @@
                         <geo>13.6291 46.126</geo>
                     </location>
           <location type="nested" source="#bib5006-1">
-            <region ref="https://bqgazetteer.bethmardutho.org/place/5573">ʿAmādīyā</region>
+            <region ref="https://bqgazetteer.bethmardutho.org/place/5573">ʿAdan Abyan</region>
           </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5006</idno>
           <idno type="URI">http://syriaca.org/place/5006</idno>
