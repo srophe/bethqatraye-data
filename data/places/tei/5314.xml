@@ -81,21 +81,18 @@
           <placeName xml:id="name5314-4" xml:lang="ar">مال أمير</placeName>
           <placeName xml:id="name5314-5" xml:lang="ar" source="#bib5314-1">إيذج</placeName>
           <desc type="abstract" xml:id="abstract5314-1" xml:lang="en">A town in western Iran situated at a tributary of the Kārūn river.</desc><desc xml:lang="ar"><quote source="#bib5314-3">ووصلنا الى مدينة إيذج (وضبط اسمها بكسر الهمزة وياء مد وذال معجم مفتوح وجيم)، تسمى أيضاً مال الأمير، وهي حضرة السلطان أتابك.</quote></desc><desc xml:lang="ar"><quote source="#bib5314-4">ولما دخلت مدينة ايذج أردت رؤية افراسياب المذكور فلم يتأت لي ذلك</quote></desc><desc xml:lang="ar"><quote source="#bib5314-5">ثم كان رحيلي من حضرة ايذج بعد أيام</quote></desc><desc xml:lang="ar"><quote source="#bib5314-6">ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc>
-                    <location type="gps" source="#bib5314-2">
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>31.834167 49.867222</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5314</idno>
           <idno type="URI">http://syriaca.org/place/5314</idno>
-          <idno type="URI">https://mapper.acme.com/?ll=31.834167,49.867222&amp;z=12&amp;t=M&amp;marker0=31.834167,49.867222,إيذج</idno>
           <bibl xml:id="bib5314-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
                         <author>Ibn Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">205, 206, 209, 240</citedRange>
           </bibl>
-                    <bibl xml:id="bib5314-2">
-                        <title>https://mapper.acme.com/?ll=31.834167,49.867222&amp;z=12&amp;t=M&amp;marker0=31.834167,49.867222,إيذج</title> <ptr target="https://mapper.acme.com/?ll=31.834167,49.867222&amp;z=12&amp;t=M&amp;marker0=31.834167,49.867222,إيذج"/>
-                    </bibl><bibl xml:id="bib5314-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">205</citedRange></bibl><bibl xml:id="bib5314-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">206</citedRange></bibl><bibl xml:id="bib5314-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">209</citedRange></bibl><bibl xml:id="bib5314-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
+          <bibl xml:id="bib5314-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">205</citedRange></bibl><bibl xml:id="bib5314-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">206</citedRange></bibl><bibl xml:id="bib5314-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">209</citedRange></bibl><bibl xml:id="bib5314-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
         </place>
       </listPlace>
     </body>

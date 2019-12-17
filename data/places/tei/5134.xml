@@ -82,21 +82,17 @@
           <desc xml:lang="ar">
             <quote source="#bib5134-1">السوس كورة باقصى المغرب ومدينة باوله واخرى بهيطل وكورة بخوزستان وبالمغرب سوسة ايضا</quote>
           </desc>
-                    <location type="gps" source="#bib5134-2">
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>32.19417 48.24361</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5134</idno>
           <idno type="URI">http://syriaca.org/place/5134</idno>
-          <idno type="URI">https://mapper.acme.com/?ll=32.19417,48.24361&amp;z=11&amp;t=M&amp;marker0=32.19417,48.24361,السوس%20%28مدينة%29</idno>
           <bibl xml:id="bib5134-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>
                         <author>Muḥammad ibn Aḥmad Maqdisī</author>
                         <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">24</citedRange>
           </bibl>
-                    <bibl xml:id="bib5134-2">
-                        <title>https://mapper.acme.com/?ll=32.19417,48.24361&amp;z=11&amp;t=M&amp;marker0=32.19417,48.24361,السوس%20%28مدينة%29</title> <ptr target="https://mapper.acme.com/?ll=32.19417,48.24361&amp;z=11&amp;t=M&amp;marker0=32.19417,48.24361,السوس%20%28مدينة%29"/>
-                    </bibl>
         </place>
       </listPlace>
     </body>

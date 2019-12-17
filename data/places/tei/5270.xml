@@ -78,22 +78,17 @@
           <desc xml:lang="ar">
             <quote source="#bib5270-1">دارين: فرضة بالبحرين يجلب إليها المسك من الهند، والنسبة إليها داري؛ قال الفرزدق : كأن تريكة من ماء مزن وداري الذكي من المدام. وفي كتاب سيف : أن المسلمين افتحموا إلى دارين البحر مع العلاء بن الحضرمي فأجازوا ذلك الخليج بإذن الله جميعا يمشون على مثل رملة ميثاء فوقها ماء يغمر أخفاف الإبل، وإن ما بين الساحل ودارين مسيرة يوم وليلة لسفر البحر في بعض الحالات، فالتقوا وقتلوا وسبوا فبلغ منهم الفارس ستة آلاف والراجل ألفين [...]</quote>
           </desc>
-                    <location type="gps" source="#bib5270-2">
+          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>26.540066 50.083585</geo>
                     </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5270</idno>
           <idno type="URI">http://syriaca.org/place/5270</idno>
-          <idno type="URI">https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين</idno>
           <bibl xml:id="bib5270-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
-                        
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 2, p. 432</citedRange>
           </bibl>
-                    <bibl xml:id="bib5270-2">
-                        <title>https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين</title> <ptr target="https://mapper.acme.com/?ll=26.540066,50.083585&amp;z=11&amp;t=M&amp;marker0=26.540066,50.083585,ميناء%20دارين"/>
-                    </bibl>
         </place>
       </listPlace>
     </body>
