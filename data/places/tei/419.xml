@@ -211,7 +211,7 @@
                         <citedRange unit="pp">116, 117</citedRange>
                     </bibl>
                     <bibl xml:id="bib419-6">
-                        <title>https://www.google.com/maps/place/Al+Salhiyeh,+Damascus,+Syria/@33.5315138,36.1493723,11z/data=!4m5!3m4!1s0x1518e73080431fa7:0x923962e45a827d57!8m2!3d33.529055!4d36.287486</title> <ptr target="https://www.google.com/maps/place/Al+Salhiyeh,+Damascus,+Syria/@33.5315138,36.1493723,11z/data=!4m5!3m4!1s0x1518e73080431fa7:0x923962e45a827d57!8m2!3d33.529055!4d36.287486"/>
+                        <title level="a">https://www.google.com/maps/place/Al+Salhiyeh,+Damascus,+Syria/@33.5315138,36.1493723,11z/data=!4m5!3m4!1s0x1518e73080431fa7:0x923962e45a827d57!8m2!3d33.529055!4d36.287486</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://www.google.com/maps/place/Al+Salhiyeh,+Damascus,+Syria/@33.5315138,36.1493723,11z/data=!4m5!3m4!1s0x1518e73080431fa7:0x923962e45a827d57!8m2!3d33.529055!4d36.287486"/>
                     </bibl>
                     <bibl xml:id="bib419-7">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

@@ -108,7 +108,7 @@
             <citedRange unit="pp">172, 173</citedRange>
           </bibl>
                     <bibl xml:id="bib5001-3">
-                        <title>https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193</title> <ptr target="https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193"/>
+                        <title level="a">https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193"/>
                     </bibl><bibl xml:id="bib5001-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">181 and p. 182</citedRange></bibl>
         </place>
       </listPlace>
