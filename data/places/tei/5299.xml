@@ -80,11 +80,10 @@
           <placeName xml:id="name5299-3" xml:lang="ar" source="#bib5299-1">هنج</placeName>
           <desc type="abstract" xml:id="abstract5299-1" xml:lang="en">A city or region in southern Iran close to Lār and Bāl.</desc><desc xml:lang="ar"><quote source="#bib5299-3">ومن قراه العظيمة التي تضاهي المدن قرية ميمن، وهي للقاضي المذكور. ومن عجائب هذا الموضع المعروف بجمكان أن نصفه مما يلي شيراز وذلك مسافة اثني عشر فرسخاً شديد البرد وينزل فيه الثلج وأكثر شجره الجوز، والجزء الآخر مما يلي بلاد هنج وبال وبلاد اللار في طريق هرمز شديد الحر وفيه شجر النخيل.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5299-2">
-                        <geo>26.6815812 56.4144903</geo>
+                      <geo>26.6815812 56.4144903</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5299</idno>
           <idno type="URI">http://syriaca.org/place/5299</idno>
-          <idno type="URI">https://goo.gl/maps/tYLfF4JnA69Kfs4G8 (village in southern Iran)</idno>
           <bibl xml:id="bib5299-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
                         <author>Ibn Baṭṭūta</author>
