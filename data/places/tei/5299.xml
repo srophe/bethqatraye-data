@@ -79,8 +79,8 @@
           <placeName xml:id="name5299-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هنج</placeName>
           <placeName xml:id="name5299-3" xml:lang="ar" source="#bib5299-1">هنج</placeName>
           <desc type="abstract" xml:id="abstract5299-1" xml:lang="en">A city or region in southern Iran close to Lār and Bāl.</desc><desc xml:lang="ar"><quote source="#bib5299-3">ومن قراه العظيمة التي تضاهي المدن قرية ميمن، وهي للقاضي المذكور. ومن عجائب هذا الموضع المعروف بجمكان أن نصفه مما يلي شيراز وذلك مسافة اثني عشر فرسخاً شديد البرد وينزل فيه الثلج وأكثر شجره الجوز، والجزء الآخر مما يلي بلاد هنج وبال وبلاد اللار في طريق هرمز شديد الحر وفيه شجر النخيل.</quote></desc>
-                    <location type="gps" subtype="representative" source="#bib5299-2">
-                      <geo>26.6815812 56.4144903</geo>
+                    <location type="gps" subtype="representative">
+                      <geo>26.680556 57.536944</geo>
                     </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5299</idno>
           <idno type="URI">http://syriaca.org/place/5299</idno>
