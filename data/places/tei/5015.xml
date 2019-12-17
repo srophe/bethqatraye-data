@@ -90,7 +90,7 @@
             <citedRange unit="pp">161</citedRange>
           </bibl>
                     <bibl xml:id="bib5015-2">
-                        <title>https://gazetteer.dainst.org/app/#!/show/2043228</title> <ptr target="https://gazetteer.dainst.org/app/#!/show/2043228"/>
+                        <title level="a">https://gazetteer.dainst.org/app/#!/show/2043228</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="https://gazetteer.dainst.org/app/#!/show/2043228"/>
                     </bibl>
         </place>
       </listPlace>
