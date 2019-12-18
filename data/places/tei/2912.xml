@@ -119,7 +119,7 @@
                <placeName xml:id="name2912-2" xml:lang="ar" srophe:tags="#headword" source="#bib2912-1 #bib2912-2">مسجد الخيف</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2912-3">Masjid al-Khayf</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2912-1">A mosque in <placeName>Minā</placeName>.</desc>
-               <desc xml:lang="en">A mosque near <ref target="https://bqgazetteer.bethmardutho.org/place/2906"> <placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>
+               <desc xml:lang="en">A mosque near <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>
                </desc>
                     <location type="gps" source="#bib2912-3">
                         <geo>21.4151187 39.8759677</geo>

@@ -142,7 +142,7 @@
                     <placeName xml:id="name503-5" xml:lang="ar" source="#bib503-5">بحر
                         بنْطُس</placeName>
                     <placeName xml:id="name503-6" xml:lang="ar" srophe:tags="#headword" source="#bib503-6">بحر بنطس</placeName>
-                    <desc xml:id="abstract-en-503" xml:lang="en">A large sea north of <ref target="https://bqgazetteer.bethmardutho.org/place/504"> <placeName ref="http://syriaca.org/place/504">Anatolia</placeName></ref>.</desc>
+                    <desc xml:id="abstract-en-503" xml:lang="en">A large sea north of <ref target="https://bqgazetteer.bethmardutho.org/place/504"><placeName ref="http://syriaca.org/place/504">Anatolia</placeName></ref>.</desc>
                     <location type="gps" subtype="representative" source="#bib503-4">
                         <geo>43.0786852 34.7425505</geo>
                     </location>

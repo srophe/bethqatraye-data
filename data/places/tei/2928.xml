@@ -101,7 +101,7 @@
             <place xml:id="place-2928" type="church">
                <placeName xml:id="name2928-1" xml:lang="en" srophe:tags="#headword">Cathedral of Emesa</placeName>
                <placeName xml:id="name2928-2" xml:lang="ar" srophe:tags="#headword" source="#bib2928-1">كنيسة حمص</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2928-1">The main church of <ref target="https://bqgazetteer.bethmardutho.org/place/215"> <placeName ref="http://syriaca.org/place/215">Emesa</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2928-1">The main church of <ref target="https://bqgazetteer.bethmardutho.org/place/215"><placeName ref="http://syriaca.org/place/215">Emesa</placeName></ref>
                </desc>
                <event type="attestation" xml:id="attestation2928-1" notBefore="0902" notAfter="0914" source="#bib2928-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">كنيسة حمص</foreign> in

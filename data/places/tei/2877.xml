@@ -107,7 +107,7 @@
                <placeName xml:id="name2877-1" xml:lang="en" srophe:tags="#headword" source="#bib2877-1 #bib2877-2">Hagar</placeName>
                <placeName xml:id="name2877-2" xml:lang="ar" srophe:tags="#headword">هَجَر</placeName>
                <placeName xml:id="name2877-3" xml:lang="syr" srophe:tags="#headword" source="#bib2877-1">ܗܓܪ</placeName>
-               <desc type="abstract" xml:id="abstract-en-2877" xml:lang="en">A diocese in northeastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"> <placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> in the <ref target="https://bqgazetteer.bethmardutho.org/place/37"> <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> region.
+               <desc type="abstract" xml:id="abstract-en-2877" xml:lang="en">A diocese in northeastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> in the <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> region.
                </desc>
                <desc xml:lang="en">A diocese and town in
                   north-east Arabia. Part of Beth Qaṭraye.</desc>

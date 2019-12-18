@@ -101,7 +101,7 @@
             <place xml:id="place-2967" type="quarter">
                <placeName xml:id="name2967-1" xml:lang="en" srophe:tags="#headword">al-Shammāsiyya</placeName>
                <placeName xml:id="name2967-2" xml:lang="ar" srophe:tags="#headword" source="#bib2967-1">الشماسية</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2967-1">A neighborhood of <ref target="https://bqgazetteer.bethmardutho.org/place/41"> <placeName ref="http://syriaca.org/place/41">Baghdad</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2967-1">A neighborhood of <ref target="https://bqgazetteer.bethmardutho.org/place/41"><placeName ref="http://syriaca.org/place/41">Baghdad</placeName></ref>
                </desc>
                <event type="attestation" xml:id="attestation2967-1" when="0891" source="#bib2967-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الشماسية</foreign> in

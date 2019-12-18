@@ -80,7 +80,7 @@
           <placeName xml:id="name4160-5" xml:lang="ar" source="#bib4160-1">خارك</placeName>
           <placeName xml:id="name4160-6" xml:lang="en" source="#bib4160-4">Black Island</placeName>
           <placeName xml:id="name4160-7" xml:lang="syr" source="#bib4160-3">​ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</placeName>
-          <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in <ref target="https://bqgazetteer.bethmardutho.org/place/37"> <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>.</desc>
+          <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>.</desc>
                     <location type="gps" source="#bib4160-2">
                         <geo>29.230338 50.30604</geo>
                     </location>
