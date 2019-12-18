@@ -65,7 +65,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2901/tei</idno>
+                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4156/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -115,11 +115,11 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-2901" type="settlement">
-                    <placeName xml:id="name2901-1" xml:lang="en" srophe:tags="#headword" source="#bib2901-1">Ḥaṭṭa</placeName>
-                    <placeName xml:id="name2901-2" xml:lang="ar" srophe:tags="#headword" source="#bib2901-2 #bib2901-3 #bib2901-4">الخط</placeName>
-                    <placeName xml:id="name2901-2" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">al-Khaṭṭ</placeName>
-                    <desc xml:id="abstract-en-2901" xml:lang="en">A town in northeastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> near <ref target="https://bqgazetteer.bethmardutho.org/place/3013"><placeName ref="http://syriaca.org/place/3013">al-Qaṭīf</placeName></ref>
+                <place xml:id="place-4156" type="settlement">
+                    <placeName xml:id="name4156-1" xml:lang="en" srophe:tags="#headword" source="#bib4156-1">Ḥaṭṭa</placeName>
+                    <placeName xml:id="name4156-2" xml:lang="ar" srophe:tags="#headword" source="#bib4156-2 #bib4156-3 #bib4156-4">الخط</placeName>
+                    <placeName xml:id="name4156-3" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">al-Khaṭṭ</placeName>
+                    <desc xml:id="abstract-en-4156" xml:lang="en">A town in northeastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> near <ref target="https://bqgazetteer.bethmardutho.org/place/3013"><placeName ref="http://syriaca.org/place/3013">al-Qaṭīf</placeName></ref>
                     </desc>
                     <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>26.6 49.9</geo>
@@ -128,45 +128,45 @@
                         <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth
                             Qaṭraye</region>
                     </location>
-                    <event type="attestation" xml:id="attestation2901-1" notBefore="0846" notAfter="0885" source="#bib2901-2">
+                    <event type="attestation" xml:id="attestation4156-1" notBefore="0846" notAfter="0885" source="#bib4156-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الخط</foreign>
                             in the <title xml:lang="en" level="m">Kitāb al-masālik
                                 wa-l-mamālik</title> of <persName>Abuʾl-Qāsim Ibn
                                 Khurradādhbih</persName>.</p>
-                        <link target="#name2901-2 #attestation2901-1"/>
+                        <link target="#name4156-2 #attestation4156-1"/>
                     </event>
-                    <event type="attestation" xml:id="attestation2901-2" notBefore="0902" notAfter="0908" source="#bib2901-3">
+                    <event type="attestation" xml:id="attestation4156-2" notBefore="0902" notAfter="0908" source="#bib4156-3">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الخط</foreign>
                             in the <title xml:lang="en" level="m">Kitāb al-buldān</title> of
                                 <persName>Aḥmad b. Muḥammad al-Hamadhānī Ibn
                             al-Faqīh</persName>.</p>
-                        <link target="#name2901-2 #attestation2901-2"/>
+                        <link target="#name4156-2 #attestation4156-2"/>
                     </event>
                     <state type="existence" from="0676" to="1223">
                         <precision match="@from" notAfter="0676"/>
                         <precision match="@to" notBefore="1223"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2901</idno>
-                    <idno type="URI">http://syriaca.org/place/2901</idno>
-                    <bibl xml:id="bib2901-1">
+                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4156</idno>
+                    <idno type="URI">http://syriaca.org/place/4156</idno>
+                    <bibl xml:id="bib4156-1">
                         <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the
                             Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">73</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2901-2">
+                    <bibl xml:id="bib4156-2">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                         <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">152, 249</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2901-3">
+                    <bibl xml:id="bib4156-3">
                         <title xml:lang="en" level="m">Kitāb al-buldān</title>
                         <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
                         <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                         <citedRange unit="pp">30</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2901-4">
+                    <bibl xml:id="bib4156-4">
                         <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
                         <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
                         <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
