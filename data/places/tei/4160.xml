@@ -24,7 +24,7 @@
         <respStmt>
           <resp>Data merging and XML by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
-        </respStmt>
+        </respStmt><respStmt><resp>Data merging and XML by</resp><name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name></respStmt>            
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
