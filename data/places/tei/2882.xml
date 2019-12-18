@@ -21,6 +21,13 @@
             <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas Carlson</editor>
             <respStmt>
+               <resp>Data correction and integration from Ibn Battuta, al-Bakri, al-Tabari, Nasir Khusraw, Ibn Jubayr, Isho’yahb III, Al-Muqaddasī, Ibn Ḥawqal, Al-Masūdī, Yāqūt b. ʿAbdallāh al-Ḥamawī by</resp>
+               <name ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</name></respStmt>          
+            <respStmt>
+               <resp>al-Tabari data collection by</resp>
+               <name ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</name>
+            </respStmt>
+            <respStmt>
                <resp>Ibn Khurradadhbih data collection by</resp>
                <name ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al
                   Thani</name>
@@ -29,11 +36,10 @@
                <resp>Data merging and XML by</resp>
                <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L.
                   Potter</name>
-            </respStmt><respStmt><resp>Data merging and XML by</resp><name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name></respStmt>            
+            </respStmt>
             <respStmt>
-               <resp>Ibn al-Faqīh data collection by</resp>
-               <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
-                  al-Murikhi</name>
+               <resp>Data merging and XML by</resp>
+               <name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>         
             </respStmt>
             <respStmt>
                <resp>Data merging, Wikipedia linking, and XML by</resp>
@@ -48,11 +54,6 @@
                <resp>Synodicon data correction and integration by</resp>
                <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
                   Carlson</name>
-            </respStmt>
-            <respStmt>
-               <resp>Ibn Khurradadhbih data collection by</resp>
-               <name ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al
-                  Thani</name>
             </respStmt>
             <respStmt>
                <resp>Ibn Khurradadhbih data correction and integration by</resp>
@@ -136,7 +137,7 @@
          <listPlace>
             <place xml:id="place-2882" type="island">
                <placeName xml:id="name2882-1" xml:lang="en" srophe:tags="#headword" source="#bib2882-1">Dayrin</placeName>
-               <placeName xml:id="name2882-2" xml:lang="ar" srophe:tags="#headword" source="#bib2882-3 #bib2882-4">دارين</placeName>
+               <placeName xml:id="name2882-2" xml:lang="ar" srophe:tags="#headword" source="#bib2882-3 #bib2882-4 #bib2882-5">دارين</placeName>
                <placeName xml:id="name2882-3" xml:lang="en" source="#bib2882-1">Dirin</placeName>
                <placeName xml:id="name2882-4" xml:lang="syr" srophe:tags="#headword" source="#bib2882-2">ܕܝܪܝܢ</placeName>
                <placeName xml:id="name2882-5" xml:lang="fr" source="#bib2882-2">Deirȋn</placeName>
@@ -144,10 +145,16 @@
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2882-7">Tarout</placeName>
                <placeName xml:lang="en" xml:id="name2882-8">Tarūt</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2882-9">Darin</placeName>
+               <placeName xml:id="name2882-10" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
+               <placeName xml:id="name2882-11" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
                <desc type="abstract" xml:id="abstract-en-2882" xml:lang="en">One of the islands in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> located east of <placeName>al-Qaṭīf</placeName>.</desc>
                <desc xml:lang="en">The island of Dayrin well known
                   for its production of musk.</desc>
-               <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
+               <desc xml:lang="en">An island on the coast of Bahrain.</desc>
+               <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="preferred">
+                  <geo>26.540066 50.083585</geo>
+               </location>
+               <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="alternate">
                   <geo>26.571 50.056</geo>
                </location>
                <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
@@ -160,8 +167,7 @@
                </event>
                <event type="attestation" xml:id="attestation2882-2" notBefore="0846" notAfter="0885" source="#bib2882-3">
                   <p xml:lang="en">Attestation of names <foreign xml:lang="ar">دارين</foreign> and
-                        <foreign xml:lang="ar">الدارين</foreign> in the <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title> of <persName>Abuʾl-Qāsim Ibn
-                        Khurradādhbih</persName>.</p>
+                        <foreign xml:lang="ar">الدارين</foreign> in the <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title> of <persName>Abuʾl-Qāsim Ibn Khurradādhbih</persName>.</p>
                   <link target="#name2882-2 #attestation2882-2"/>
                   <link target="#name2882-6 #attestation2882-2"/>
                </event>
@@ -197,6 +203,12 @@
                   <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
                   <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                   <citedRange unit="pp">30</citedRange>
+               </bibl>
+               <bibl xml:id="bib2882-5">
+                  <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
+                  <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
+                  <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
+                  <citedRange unit="pp">839</citedRange>
                </bibl>
             </place>
          </listPlace>
