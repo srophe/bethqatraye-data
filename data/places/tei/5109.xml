@@ -31,7 +31,14 @@
           A. Michelson</editor>
         <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William
           L. Potter</editor>
-        <respStmt><resp>Additional research from Encyclopedia of Islam and the Gorgias Encyclopedic Dictionary of the Syriac Heritage by</resp><name ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</name></respStmt>
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+          Scheunchen</editor>
+        <respStmt>
+          <resp>Additional research from Encyclopedia of Islam and the Gorgias Encyclopedic
+            Dictionary of the Syriac Heritage by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+            Scheunchen</name>
+        </respStmt>
         <respStmt>
           <resp>Data correction and integration from Ibn Battuta, al-Bakri, al-Tabari, Nasir
             Khusraw, Ibn Jubayr, Isho’yahb III, Al-Muqaddasī, Ibn Ḥawqal, Al-Masūdī, Yāqūt b.
@@ -159,7 +166,8 @@
             <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
 
             <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="vol">3</citedRange><citedRange unit="pp">411</citedRange>
+            <citedRange unit="vol">3</citedRange>
+            <citedRange unit="pp">411</citedRange>
           </bibl>
           <bibl xml:id="bib5109-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār
