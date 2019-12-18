@@ -76,7 +76,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2882/tei</idno>
+            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4150/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -115,10 +115,10 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2882-3">Merged in data from [duplicate record with same URI].</change>
-         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2882-2">Merged in data from [duplicate record with same URI]. [duplicate
+         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change4150-3">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change4150-2">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI]</change>
-         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2882-1">Merged in data from [duplicate record with same URI]. [duplicate
+         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change4150-1">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI] [duplicate record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI] [duplicate record with same
@@ -135,19 +135,19 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2882" type="island">
-               <placeName xml:id="name2882-1" xml:lang="en" srophe:tags="#headword" source="#bib2882-1">Dayrin</placeName>
-               <placeName xml:id="name2882-2" xml:lang="ar" srophe:tags="#headword" source="#bib2882-3 #bib2882-4 #bib2882-5">دارين</placeName>
-               <placeName xml:id="name2882-3" xml:lang="en" source="#bib2882-1">Dirin</placeName>
-               <placeName xml:id="name2882-4" xml:lang="syr" srophe:tags="#headword" source="#bib2882-2">ܕܝܪܝܢ</placeName>
-               <placeName xml:id="name2882-5" xml:lang="fr" source="#bib2882-2">Deirȋn</placeName>
-               <placeName xml:id="name2882-6" xml:lang="ar" source="#bib2882-3">الدارين</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2882-7">Tarout</placeName>
-               <placeName xml:lang="en" xml:id="name2882-8">Tarūt</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2882-9">Darin</placeName>
-               <placeName xml:id="name2882-10" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
-               <placeName xml:id="name2882-11" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
-               <desc type="abstract" xml:id="abstract-en-2882" xml:lang="en">One of the islands in <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> located east of <placeName>al-Qaṭīf</placeName>.</desc>
+            <place xml:id="place-4150" type="island">
+               <placeName xml:id="name4150-1" xml:lang="en" srophe:tags="#headword" source="#bib4150-1">Dayrin</placeName>
+               <placeName xml:id="name4150-2" xml:lang="ar" srophe:tags="#headword" source="#bib4150-3 #bib4150-4 #bib4150-5">دارين</placeName>
+               <placeName xml:id="name4150-3" xml:lang="en" source="#bib4150-1">Dirin</placeName>
+               <placeName xml:id="name4150-4" xml:lang="syr" srophe:tags="#headword" source="#bib4150-2">ܕܝܪܝܢ</placeName>
+               <placeName xml:id="name4150-5" xml:lang="fr" source="#bib4150-2">Deirȋn</placeName>
+               <placeName xml:id="name4150-6" xml:lang="ar" source="#bib4150-3">الدارين</placeName>
+               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name4150-7">Tarout</placeName>
+               <placeName xml:lang="en" xml:id="name4150-8">Tarūt</placeName>
+               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name4150-9">Darin</placeName>
+               <placeName xml:id="name4150-10" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
+               <placeName xml:id="name4150-11" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
+               <desc type="abstract" xml:id="abstract-en-4150" xml:lang="en">One of the islands in <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> located east of <placeName>al-Qaṭīf</placeName>.</desc>
                <desc xml:lang="en">The island of Dayrin well known
                   for its production of musk.</desc>
                <desc xml:lang="en">An island on the coast of Bahrain.</desc>
@@ -160,51 +160,51 @@
                <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
                   <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
                </location>
-               <event type="attestation" xml:id="attestation2882-1" when="0676" source="#bib2882-2">
+               <event type="attestation" xml:id="attestation4150-1" when="0676" source="#bib4150-2">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܕܝܪܝܢ</foreign> in
                      the <title xml:lang="en" level="m">Synodicon Orientale</title>.</p>
-                  <link target="#name2882-4 #attestation2882-1"/>
+                  <link target="#name4150-4 #attestation4150-1"/>
                </event>
-               <event type="attestation" xml:id="attestation2882-2" notBefore="0846" notAfter="0885" source="#bib2882-3">
+               <event type="attestation" xml:id="attestation4150-2" notBefore="0846" notAfter="0885" source="#bib4150-3">
                   <p xml:lang="en">Attestation of names <foreign xml:lang="ar">دارين</foreign> and
                         <foreign xml:lang="ar">الدارين</foreign> in the <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title> of <persName>Abuʾl-Qāsim Ibn Khurradādhbih</persName>.</p>
-                  <link target="#name2882-2 #attestation2882-2"/>
-                  <link target="#name2882-6 #attestation2882-2"/>
+                  <link target="#name4150-2 #attestation4150-2"/>
+                  <link target="#name4150-6 #attestation4150-2"/>
                </event>
-               <event type="attestation" xml:id="attestation2882-3" notBefore="0902" notAfter="0908" source="#bib2882-4">
+               <event type="attestation" xml:id="attestation4150-3" notBefore="0902" notAfter="0908" source="#bib4150-4">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">دارين</foreign> in the
                         <title xml:lang="en" level="m">Kitāb al-buldān</title> of <persName>Aḥmad b.
                         Muḥammad al-Hamadhānī Ibn al-Faqīh</persName>.</p>
-                  <link target="#name2882-2 #attestation2882-3"/>
+                  <link target="#name4150-2 #attestation4150-3"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2882</idno>
-               <idno type="URI">http://syriaca.org/place/2882</idno>
-               <bibl xml:id="bib2882-1">
+               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4150</idno>
+               <idno type="URI">http://syriaca.org/place/4150</idno>
+               <bibl xml:id="bib4150-1">
                   <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
                      Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">73, 175</citedRange>
                </bibl>
-               <bibl xml:id="bib2882-2">
+               <bibl xml:id="bib4150-2">
                   <title xml:lang="en" level="m">Synodicon Orientale</title>
                   <editor>Jean Baptiste Chabot</editor>
                   <ptr target="http://syriaca.org/bibl/1383"/>
                   <citedRange unit="pp">216, 482</citedRange>
                </bibl>
-               <bibl xml:id="bib2882-3">
+               <bibl xml:id="bib4150-3">
                   <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                   <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                   <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                   <citedRange unit="pp">152, 249</citedRange>
                </bibl>
-               <bibl xml:id="bib2882-4">
+               <bibl xml:id="bib4150-4">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>
                   <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
                   <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                   <citedRange unit="pp">30</citedRange>
                </bibl>
-               <bibl xml:id="bib2882-5">
+               <bibl xml:id="bib4150-5">
                   <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
                   <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
                   <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
