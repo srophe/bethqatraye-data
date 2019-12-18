@@ -133,8 +133,8 @@
             <listPlace>
                 <place xml:id="place-929" type="region">
                     <placeName xml:id="name929-1" xml:lang="en" srophe:tags="#headword" source="#bib929-1">Khuzistan</placeName>
-                    <placeName xml:id="name929-2" xml:lang="ar" source="#bib929-2">الأَهْوَاز</placeName>
-                    <placeName xml:id="name929-3" xml:lang="ar" source="#bib929-2">خُوْزستان</placeName>
+                    <placeName xml:id="name929-2" xml:lang="ar" source="#bib929-2 #bib929-6">الأَهْوَاز</placeName>
+                    <placeName xml:id="name929-3" xml:lang="ar" source="#bib929-2 #bib929-6">خُوْزستان</placeName>
                     <placeName xml:id="name929-4" xml:lang="ar" srophe:tags="#headword" source="#bib929-3">الاهواز</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name929-5">Khūzistān</placeName>
                     <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name929-6" source="#bib929-4">خوزستان</placeName>
@@ -150,7 +150,7 @@
                     <location type="gps" subtype="representative" source="#bib929-5">
                         <geo>32.5 48.5</geo>
                     </location>
-                    <event type="attestation" xml:id="attestation929-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib929-2">
+                    <event type="attestation" xml:id="attestation929-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib929-2 #bib929-6">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="ar">الأَهْوَاز</foreign> and <foreign xml:lang="ar">خُوْزستان</foreign>
                             in the <title xml:lang="en" level="m">Muʿjam al-buldān</title> of
                                 <persName>Yāqūt al-Ḥamawī</persName>.</p>
@@ -181,7 +181,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">I:338; II: 462</citedRange>
+                        <citedRange unit="pp">I:338</citedRange>
                     </bibl>
                     <bibl xml:id="bib929-3">
                         <title xml:lang="en" level="m">Kitāb al-buldān</title>
@@ -198,6 +198,12 @@
                     </bibl>
                     <bibl xml:id="bib929-5">
                         <title level="a">http://pleiades.stoa.org/places/912843</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/912843"/>
+                    </bibl>
+                    <bibl xml:id="bib929-6">
+                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+                        <author>Yāqūt al-Ḥamawī</author>
+                        <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+                        <citedRange unit="pp">II: 462</citedRange>
                     </bibl>
                 </place>
             </listPlace>
