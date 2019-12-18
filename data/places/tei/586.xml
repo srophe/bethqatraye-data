@@ -159,8 +159,8 @@
                     <placeName xml:id="name586-2" xml:lang="syr" srophe:tags="#headword">ܩܘܣܛܢܛܝܢܘܦܘܠܝܣ</placeName>
                     <placeName xml:id="name586-3" xml:lang="syr-Syrj" source="#bib586-2">ܩܘܣܛܰܢܛܝܢܘܦܳܘܠܝܣ</placeName>
                     <placeName xml:id="name586-4" xml:lang="ar" srophe:tags="#headword" source="#bib586-3 #bib586-9">القسطنطينية</placeName>
-                    <placeName xml:id="name586-5" xml:lang="ar" source="#bib586-8">قسطنطينية</placeName>
-                    <placeName xml:id="name586-6" xml:lang="ar" source="#bib586-8">اصطنْبُوْل</placeName>
+                    <placeName xml:id="name586-5" xml:lang="ar" source="#bib586-8 #bib586-12">قسطنطينية</placeName>
+                    <placeName xml:id="name586-6" xml:lang="ar" source="#bib586-8 #bib586-12">اصطنْبُوْل</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name586-7">Byzantium</placeName>
                     <placeName xml:lang="en" xml:id="name586-8">Constantinopolis</placeName>
                     <placeName xml:lang="en" xml:id="name586-9">Istanbul</placeName>
@@ -181,7 +181,7 @@
                     <location type="gps" source="#bib586-7" subtype="preferred">
                         <geo>41.008548 28.979938</geo>
                     </location>
-                    <event type="attestation" xml:id="attestation586-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib586-8">
+                    <event type="attestation" xml:id="attestation586-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib586-8 #bib586-12">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="ar">قسطنطينية</foreign> and <foreign xml:lang="ar">اصطنْبُوْل</foreign>
                             in the <title xml:lang="en" level="m">Muʿjam al-buldān</title> of
                                 <persName>Yāqūt al-Ḥamawī</persName>.</p>
@@ -254,7 +254,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">I:250; IV:495</citedRange>
+                        <citedRange unit="pp">I:250</citedRange>
                     </bibl>
                     <bibl xml:id="bib586-9">
                         <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
@@ -271,7 +271,12 @@
                     <bibl xml:id="bib586-11">
                         <title level="a">http://pleiades.stoa.org/places/520985</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/520985"/>
                     </bibl>
-                    
+                    <bibl xml:id="bib586-12">
+                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+                        <author>Yāqūt al-Ḥamawī</author>
+                        <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+                        <citedRange unit="pp">IV:495</citedRange>
+                    </bibl>
                 </place>
             </listPlace>
         </body>
