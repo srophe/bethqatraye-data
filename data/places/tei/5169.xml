@@ -73,7 +73,7 @@
           <placeName xml:id="name5169-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿUqaid</placeName>
           <placeName xml:id="name5169-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">العقيد</placeName>
           <placeName xml:id="name5169-3" xml:lang="ar" source="#bib5169-1">العقيد</placeName>
-          <desc type="abstract" xml:id="abstract5169-1" xml:lang="en">A city at the coastline of Bahrain province.</desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <desc type="abstract" xml:id="abstract5169-1" xml:lang="en">A city on the coastline of the province of Bahrain.</desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5169</idno>
           <idno type="URI">http://syriaca.org/place/5169</idno>
           <bibl xml:id="bib5169-1">
