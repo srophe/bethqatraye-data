@@ -79,7 +79,7 @@
           <placeName xml:id="name5573-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Abyan</placeName>
           <placeName xml:id="name5573-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أبين</placeName>
           <placeName xml:id="name5573-3" xml:lang="ar" source="#bib5573-1">أبين</placeName>
-          <desc type="abstract" xml:id="abstract5573-1" xml:lang="en" source="#bib5573-2"><quote>[The ʿAdan Abyan] district ( mik̲h̲lāf ) in Yaman in the Wādī Banā, comprising several castles and the seaport of ʿAdan .</quote>. There is a settlement of the same name <ref target="https://bqgazetteer.bethmardutho.org/place/5006">
+          <desc type="abstract" xml:id="abstract5573-1" xml:lang="en" source="#bib5573-2"><quote>[The ʿAdan Abyan] district ( mik̲h̲lāf ) in Yaman in the Wādī Banā, comprising several castles and the seaport of ʿAdan .</quote>. There is a settlement of the same name <ref target="http://bqgazetteer.bethmardutho.org/place/5006">
             <placeName ref="http://syriaca.org/place/5006">Abyan</placeName></ref> contained in the district.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5573-1">وأبين هى اقدم من عدن واليها تنسب عدن لان برهم وفواكههم وخضرهم منها لكثرة القرى والمزارع بها وكذلك لهج</quote>

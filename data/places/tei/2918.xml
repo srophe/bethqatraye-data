@@ -135,10 +135,10 @@
           <placeName xml:id="name2918-1" xml:lang="en" srophe:tags="#headword">al-Ṭāʾif</placeName>
           <placeName xml:id="name2918-2" xml:lang="ar" srophe:tags="#headword" source="#bib2918-1 #bib2918-2 #bib2918-3">الطائف</placeName>
           <desc type="abstract" xml:lang="en" xml:id="abstract2918-1" source="#bib2918-4"><quote>[A] town in <placeName>Arabia</placeName> to the
-            south-east of <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref> which in the early days of Islam belonged to the T̲h̲aḳīf [...]
+            south-east of <ref target="http://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref> which in the early days of Islam belonged to the T̲h̲aḳīf [...]
             tribe. Today it is the fourth largest town in <placeName>Saudi Arabia</placeName>, located at a road junction
-            on the way from <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref> to <placeName>al-Riyāḍ</placeName> [...].</quote></desc>
-          <desc xml:lang="en">A city near <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>
+            on the way from <ref target="http://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref> to <placeName>al-Riyāḍ</placeName> [...].</quote></desc>
+          <desc xml:lang="en">A city near <ref target="http://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>
           </desc><desc xml:lang="ar"><quote source="#bib2918-6">وكل ما يفترق في البلاد من السلع، فيها اجتماعه. وتجلب لها الفواكه والخضر من الطائف ووادي نخلة وبطن مرّ، لطفا من الله بسكان حرمه الأمين ومجاوري بيته العتيق.</quote></desc><desc xml:lang="ar"><quote source="#bib2918-7">وعلى هذه الجبّانة طريق الصاعد إلى عرفات وطريق الذاهب إلى الطائف وإلى العراق.</quote></desc><desc xml:lang="ar"><quote source="#bib2918-8">وأهل الطائف يأتونه بالفواكه. ومن عادتهم أن كل من له بستان من النخيل والعنب والفرسك وهو الخوخ والتين وهم يسمونه الخمط يخرج منه العشر لهذا الرباط. ويوصلون ذلك إليه على جمالهم ومسيرة ما بين مكة والطائف يومان. ومن لم يف بذلك نقصت فواكهه في السنة الآتية وأصابتها الجوائح.</quote></desc>
                     <location type="gps" source="#bib2918-5">
                         <geo>22.5 42.5</geo>

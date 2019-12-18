@@ -118,7 +118,7 @@
                     <placeName xml:id="name4156-1" xml:lang="en" srophe:tags="#headword" source="#bib4156-1">Ḥaṭṭa</placeName>
                     <placeName xml:id="name4156-2" xml:lang="ar" srophe:tags="#headword" source="#bib4156-2 #bib4156-3 #bib4156-4">الخط</placeName>
                     <placeName xml:id="name4156-3" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">al-Khaṭṭ</placeName>
-                    <desc xml:id="abstract-en-4156" xml:lang="en">A town in northeastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> near <ref target="https://bqgazetteer.bethmardutho.org/place/3013"><placeName ref="http://syriaca.org/place/3013">al-Qaṭīf</placeName></ref>
+                    <desc xml:id="abstract-en-4156" xml:lang="en">A town in northeastern <ref target="http://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> near <ref target="http://bqgazetteer.bethmardutho.org/place/3013"><placeName ref="http://syriaca.org/place/3013">al-Qaṭīf</placeName></ref>
                     </desc>
                     <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>26.6 49.9</geo>
