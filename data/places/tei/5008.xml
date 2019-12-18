@@ -98,7 +98,7 @@
             <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
             
             <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 1, pp. 111-112</citedRange>
+            <citedRange unit="vol">1</citedRange><citedRange unit="pp">111-112</citedRange>
           </bibl>
         </place>
       </listPlace>
