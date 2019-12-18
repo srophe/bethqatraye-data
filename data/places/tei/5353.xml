@@ -78,7 +78,7 @@
           <placeName xml:id="name5353-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kīsh</placeName>
           <placeName xml:id="name5353-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كيش</placeName>
           <placeName xml:id="name5353-3" xml:lang="ar" source="#bib5353-1">كيش</placeName>
-          <desc type="abstract" xml:id="abstract5353-1" xml:lang="en">An island in the Persian/Arabian Gulf.</desc><desc xml:lang="ar"><quote source="#bib5353-3">ذكر المتغلبين على الملك بعد موت السلطان أبي سعيد. فمنهم الشيخ حسن ابن عمته الذي ذكرناه آنفاً، تغلب على عراق العرب جميعاً، ومنهم إبراهيم شاه ابن الأمير سنيته، تغلب على الموصل وديار بكر، ومنهم الأمير أرتنا، تغلب على بلاد التركمان المعروفة أيضاً ببلاد الروم، ومنهم حسن خواجة بن الدمرطاش بن الجوبان، تغلب على تبريز والسلطانية وهمذان وقم وقاشان والري ورامين وفرغان والكرج، ومنهم الأمير طغيتمور تغلب على بعض بلاد خراسان، ومنهم الأمير حسن ابن الأمير غياث الدين تغلب على هراة ومعظم بلاد خراسان، ومنهم ملك دينار تغلب على بلاد مكران وبلاد كبج، ومنهم محمد شاه ابن مظفر تغلب على يزد وكرمان وورقو، ومنهم الملك قطب الدين تمهتن تغلب على هرمز وكيش والقطيف والبحرين وقلهات، ومنهم السلطان أبو إسحاق الذي تقدم ذكره تغلب على شيراز وأصفهان وملك فارس، وذلك مسيرة خمس وأربعين، ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc>
+          <desc type="abstract" xml:id="abstract5353-1" xml:lang="en">An island in the Persian/Arabian Gulf.</desc><desc xml:lang="ar"><quote source="#bib5353-1">ذكر المتغلبين على الملك بعد موت السلطان أبي سعيد. فمنهم الشيخ حسن ابن عمته الذي ذكرناه آنفاً، تغلب على عراق العرب جميعاً، ومنهم إبراهيم شاه ابن الأمير سنيته، تغلب على الموصل وديار بكر، ومنهم الأمير أرتنا، تغلب على بلاد التركمان المعروفة أيضاً ببلاد الروم، ومنهم حسن خواجة بن الدمرطاش بن الجوبان، تغلب على تبريز والسلطانية وهمذان وقم وقاشان والري ورامين وفرغان والكرج، ومنهم الأمير طغيتمور تغلب على بعض بلاد خراسان، ومنهم الأمير حسن ابن الأمير غياث الدين تغلب على هراة ومعظم بلاد خراسان، ومنهم ملك دينار تغلب على بلاد مكران وبلاد كبج، ومنهم محمد شاه ابن مظفر تغلب على يزد وكرمان وورقو، ومنهم الملك قطب الدين تمهتن تغلب على هرمز وكيش والقطيف والبحرين وقلهات، ومنهم السلطان أبو إسحاق الذي تقدم ذكره تغلب على شيراز وأصفهان وملك فارس، وذلك مسيرة خمس وأربعين، ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc>
                     <location type="gps" source="#bib5353-2">
                         <geo>27.0000001 50.9999999</geo>
                     </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
@@ -93,7 +93,7 @@
           </bibl>
                     <bibl xml:id="bib5353-2">
                         <title level="a">http://pleiades.stoa.org/places/29630</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/29630"/>
-                    </bibl><bibl xml:id="bib5353-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
+                    </bibl>
         </place>
       </listPlace>
     </body>
