@@ -214,7 +214,7 @@
             <citedRange unit="pp">86, 220</citedRange>
           </bibl>
           <bibl xml:id="bib2906-2">
-            <title level="m" xml:lang="en">https://pleiades.stoa.org/places/29652</title>
+            <title level="a">https://pleiades.stoa.org/places/29652</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
             <ptr target="https://pleiades.stoa.org/places/29652"/>
           </bibl>
           <bibl xml:id="bib2906-3">

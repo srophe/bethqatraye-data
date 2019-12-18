@@ -147,7 +147,7 @@
                <idno type="URI">https://en.wikipedia.org/wiki/Rey,_Iran</idno>
                <idno type="URI">https://dbpedia.org/resource/Rey,_Iran</idno>
                <bibl xml:id="bib2970-1">
-                  <title level="m" xml:lang="en">https://pleiades.stoa.org/places/903104</title>
+                  <title level="a">https://pleiades.stoa.org/places/903104</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
                   <ptr target="https://pleiades.stoa.org/places/903104"/>
                </bibl>
                <bibl xml:id="bib2970-2">

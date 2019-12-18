@@ -121,7 +121,7 @@
                <idno type="URI">https://en.wikipedia.org/wiki/Indus_River</idno>
                <idno type="URI">https://dbpedia.org/resource/Indus_River</idno>
                <bibl xml:id="bib2950-1">
-                  <title level="m" xml:lang="en">https://pleiades.stoa.org/places/59851</title>
+                  <title level="a">https://pleiades.stoa.org/places/59851</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
                   <ptr target="https://pleiades.stoa.org/places/59851"/>
                </bibl>
                <bibl xml:id="bib2950-2">

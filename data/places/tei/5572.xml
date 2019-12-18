@@ -106,7 +106,7 @@
                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5572</idno>
                <idno type="URI">http://syriaca.org/place/5572</idno>
                <bibl xml:id="bib5572-1">
-                  <title level="m" xml:lang="en">https://pleiades.stoa.org/places/942281</title>
+                  <title level="a">https://pleiades.stoa.org/places/942281</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
                   <ptr target="https://pleiades.stoa.org/places/942281"/>
                </bibl>
                <bibl xml:id="bib5572-2">

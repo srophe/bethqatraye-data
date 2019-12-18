@@ -122,7 +122,7 @@
                <idno type="URI">https://en.wikipedia.org/wiki/Kerman</idno>
                <idno type="URI">https://dbpedia.org/resource/Kerman</idno>
                <bibl xml:id="bib2999-1">
-                  <title level="m" xml:lang="en">https://pleiades.stoa.org/places/29802</title>
+                  <title level="a">https://pleiades.stoa.org/places/29802</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
                   <ptr target="https://pleiades.stoa.org/places/29802"/>
                </bibl>
                <bibl xml:id="bib2999-2">
