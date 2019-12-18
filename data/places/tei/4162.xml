@@ -124,7 +124,7 @@
             <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
             
             <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 3, p. 246</citedRange>
+            <citedRange unit="vol">3</citedRange><citedRange unit="pp">246</citedRange>
           </bibl>
           <bibl xml:id="bib4162-2">
             <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>

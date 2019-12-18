@@ -133,7 +133,7 @@
                   <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
                   
                   <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                  <citedRange unit="pp">vol. 2, p. 359</citedRange>
+                  <citedRange unit="vol">2</citedRange><citedRange unit="pp">359</citedRange>
                </bibl>
             </place>
          </listPlace>

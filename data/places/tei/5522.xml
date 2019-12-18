@@ -94,13 +94,13 @@
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
                         
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 5, p. 427</citedRange>
+            <citedRange unit="vol">5</citedRange><citedRange unit="pp">427</citedRange>
           </bibl>
           <bibl xml:id="bib5522-2">
             <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-            <citedRange unit="pp">vol. 2, p. 274</citedRange>
+            <citedRange unit="vol">2</citedRange><citedRange unit="pp">274</citedRange>
           </bibl>
                     <bibl xml:id="bib5522-3">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>

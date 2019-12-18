@@ -85,7 +85,7 @@
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
                         
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 3, p. 126</citedRange>
+            <citedRange unit="vol">3</citedRange><citedRange unit="pp">126</citedRange>
           </bibl>
         </place>
       </listPlace>

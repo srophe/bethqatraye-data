@@ -87,7 +87,7 @@
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
                         
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 4, p. 138</citedRange>
+            <citedRange unit="vol">4</citedRange><citedRange unit="pp">138</citedRange>
           </bibl>
         </place>
       </listPlace>

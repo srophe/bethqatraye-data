@@ -290,7 +290,7 @@
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 1, pp. 45</citedRange>
+                        <citedRange unit="vol">1</citedRange><citedRange unit="pp">45</citedRange>
                     </bibl>
                     <bibl xml:id="bib2941-8">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
@@ -302,7 +302,7 @@
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 1, pp. 166</citedRange>
+                        <citedRange unit="vol">1</citedRange><citedRange unit="pp">166</citedRange>
                     </bibl>
                     <bibl xml:id="bib2941-10">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
@@ -314,13 +314,13 @@
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 2, pp. 44</citedRange>
+                        <citedRange unit="vol">2</citedRange><citedRange unit="pp">44</citedRange>
                     </bibl>
                     <bibl xml:id="bib2941-12">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 2, pp. 169</citedRange>
+                        <citedRange unit="vol">2</citedRange><citedRange unit="pp">169</citedRange>
                     </bibl>
                     <bibl xml:id="bib2941-13">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>

@@ -93,15 +93,15 @@
           <idno type="URI">http://syriaca.org/place/5313</idno>
           <bibl xml:id="bib5313-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 2, pp. 314</citedRange>
+            <citedRange unit="vol">2</citedRange><citedRange unit="pp">314</citedRange>
           </bibl>
           <bibl xml:id="bib5313-2">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 2, pp. 315</citedRange>
+            <citedRange unit="vol">2</citedRange><citedRange unit="pp">315</citedRange>
           </bibl>
           <bibl xml:id="bib5313-3">
             <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>
-            <citedRange unit="pp">vol. 1, 371</citedRange>
+            <citedRange unit="vol">1</citedRange><citedRange unit="pp">371</citedRange>
           </bibl>
         </place>
       </listPlace>

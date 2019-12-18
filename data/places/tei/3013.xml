@@ -247,20 +247,20 @@
             <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
             <author>Abū ʿUbayd al-Bakrī</author>
             <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
-            <citedRange unit="pp">vol. 1, 371</citedRange>
+            <citedRange unit="vol">1</citedRange><citedRange unit="pp">371</citedRange>
           </bibl>
           <bibl xml:id="bib3013-7">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>
             <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
             
             <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 4, p. 378</citedRange>
+            <citedRange unit="vol">4</citedRange><citedRange unit="pp">378</citedRange>
           </bibl>
           <bibl xml:id="bib3013-8">
             <title xml:lang="en" level="m">Murūj al-Dhahab</title>
             <author>al-Masūdī</author>
             <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-            <citedRange unit="pp">vol. 1, p. 129</citedRange>
+            <citedRange unit="vol">1</citedRange><citedRange unit="pp">129</citedRange>
           </bibl>
                     <bibl xml:id="bib3013-9">
                         <title level="a">http://pleiades.stoa.org/places/932479</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/932479"/>

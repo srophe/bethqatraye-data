@@ -133,7 +133,7 @@
                   <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
                   
                   <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                  <citedRange unit="pp">vol. 5, p. 150</citedRange>
+                  <citedRange unit="vol">5</citedRange><citedRange unit="pp">150</citedRange>
                </bibl>
             </place>
          </listPlace>

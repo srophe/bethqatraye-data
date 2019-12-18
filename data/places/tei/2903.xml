@@ -213,14 +213,14 @@
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
-                        <citedRange unit="pp">vol.1, p.377</citedRange>
+                        <citedRange unit="vol">1</citedRange><citedRange unit="pp">377</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-2">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
                         
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">vol. 5, p. 393</citedRange>
+                        <citedRange unit="vol">5</citedRange><citedRange unit="pp">393</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-3">
                         <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
@@ -273,31 +273,31 @@
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 2, p. 267</citedRange>
+                        <citedRange unit="vol">2</citedRange><citedRange unit="pp">267</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-13">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 5, p. 242</citedRange>
+                        <citedRange unit="vol">5</citedRange><citedRange unit="pp">242</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-14">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
-                        <citedRange unit="pp">vol. 1, 371</citedRange>
+                        <citedRange unit="vol">1</citedRange><citedRange unit="pp">371</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-15">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 2, p. 267</citedRange>
+                        <citedRange unit="vol">2</citedRange><citedRange unit="pp">267</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-16">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
-                        <citedRange unit="pp">vol. 5, p. 242</citedRange>
+                        <citedRange unit="vol">5</citedRange><citedRange unit="pp">242</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-17">
                         <title xml:lang="en" level="m">Safar Nāma</title>

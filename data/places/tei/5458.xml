@@ -81,7 +81,7 @@
           <idno type="URI">http://syriaca.org/place/5458</idno>
           <bibl xml:id="bib5458-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="pp">vol. 3, p. 317</citedRange>
+            <citedRange unit="vol">3</citedRange><citedRange unit="pp">317</citedRange>
           </bibl>
         </place>
       </listPlace>
