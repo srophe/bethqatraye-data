@@ -1,41 +1,74 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title level="a" xml:lang="en">(Baṭn) ʿUrana - <foreign xml:lang="ar">بطن عرنة</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
-        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>         <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>         <funder>Qatar National Research Foundation</funder>
+        <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
+        <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
+        <funder>Qatar National Research Foundation</funder>
         <principal>Haya Al Thani</principal>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al Thani</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif al-Murikhi</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman Chamseddine</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
-        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor><editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
-        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
-        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor><respStmt><resp>Data correction and integration from Ibn Battuta, al-Bakri, al-Tabari, Nasir Khusraw, Ibn Jubayr, Isho’yahb III, Al-Muqaddasī, Ibn Ḥawqal, Al-Masūdī, Yāqūt b. ʿAbdallāh al-Ḥamawī by</resp><name ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</name></respStmt>          
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#halthani">Haya Al
+          Thani</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
+          al-Murikhi</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn"
+          >Abdulrahim Abu-Husayn</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul
+          Rahman Chamseddine</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario
+          Kozah</editor>
+        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tcarlson"
+          >Thomas A. Carlson</editor>
+        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tscheunchen"
+          >Tobias Scheunchen</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David
+          A. Michelson</editor>
+        <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William
+          L. Potter</editor>
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+          Scheunchen</editor>
         <respStmt>
-          <resp>Ibn Battuta data collection by</resp>
-          <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</name>
+          <resp>Data correction and integration from Ibn Battuta, al-Bakri, al-Tabari, Nasir
+            Khusraw, Ibn Jubayr, Isho’yahb III, Al-Muqaddasī, Ibn Ḥawqal, Al-Masūdī, Yāqūt b.
+            ʿAbdallāh al-Ḥamawī by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias
+            Scheunchen</name>
         </respStmt>
         <respStmt>
           <resp>Ibn Battuta data collection by</resp>
-          <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman Chamseddine</name>
+          <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
+            Abu-Husayn</name>
+        </respStmt>
+        <respStmt>
+          <resp>Ibn Battuta data collection by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman
+            Chamseddine</name>
         </respStmt>
         <respStmt>
           <resp>Ibn Jubayr data collection by</resp>
-          <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</name>
+          <name ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim
+            Abu-Husayn</name>
         </respStmt>
         <respStmt>
           <resp>Ibn Jubayr data collection by</resp>
-          <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman Chamseddine</name>
+          <name ref="http://syriaca.org/documentation/editors.xml#archamseddine">Abdul Rahman
+            Chamseddine</name>
         </respStmt>
         <respStmt>
           <resp>Data merging and XML by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
-        </respStmt><respStmt><resp>Data merging and XML by</resp><name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name></respStmt>            
+        </respStmt>
+        <respStmt>
+          <resp>Data merging and XML by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A.
+            Michelson</name>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
@@ -56,60 +89,99 @@
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
-        <p>This record created following the guidelines for TEI encoding established by Syriaca.org. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
-        <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning monastery or church, an administrative province).  Natural features always in existence have no <gi>state</gi> element of @type="existence".</p>
+        <p>This record created following the guidelines for TEI encoding established by Syriaca.org.
+          Documentation available at: <ref target="http://syriaca.org/documentation"
+            >http://syriaca.org/documentation</ref>.</p>
+        <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place
+          was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning
+          monastery or church, an administrative province). Natural features always in existence
+          have no <gi>state</gi> element of @type="existence".</p>
       </editorialDecl>
       <classDecl>
         <taxonomy>
           <category xml:id="headword">
-            <catDesc>The name used by the Srophé App for document titles, citation, and disambiguation. These names have been created according to the Syriaca.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+            <catDesc>The name used by the Srophé App for document titles, citation, and
+              disambiguation. These names have been created according to the Syriaca.org guidelines
+              for headwords: <ref target="http://syriaca.org/documentation/headwords.html"
+                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
           </category>
         </taxonomy>
       </classDecl>
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at: 
-                  <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>
+        <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation
+          available at: <ref target="http://syriaca.org/documentation/isostandards.xml"
+            >http://syriaca.org/documentation/isostandards.xml</ref>
         </p>
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00"
+        >CHANGED: Insert new Ibn Battuta quotation and citation</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00"
+        >CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
+        >CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5001-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">(Baṭn) ʿUrana</placeName>
-          <placeName xml:id="name5001-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بطن عرنة</placeName>
+          <placeName xml:id="name5001-1" xml:lang="en" srophe:tags="#headword"
+            resp="http://bqgazetteer.bethmardutho.org">(Baṭn) ʿUrana</placeName>
+          <placeName xml:id="name5001-2" xml:lang="ar" srophe:tags="#headword"
+            resp="http://bqgazetteer.bethmardutho.org">بطن عرنة</placeName>
           <placeName xml:id="name5001-3" xml:lang="ar" source="#bib5001-1">بطن عرنة</placeName>
           <placeName xml:id="name5001-4" xml:lang="ar" source="#bib5001-2">بطن عرنة</placeName>
-          <desc type="abstract" xml:id="abstract5001-1" xml:lang="en">A small depression close to Mecca and ʿArafat.</desc><desc xml:lang="ar"><quote source="#bib5001-4">ولعرفة ثلاث أسماء، وهي، عرفة وجمع والمشعر الحرام، وعرفات بسيط من الأرض فسيح أفيح، تحدق به جبال كثيرة. وفي آخر بسيط عرفات جبل الرّحمة، وفيه الموقف، وفيما حوله، والعلمان قبله بنحو ميل، وهما الحد ما بين الحل والحرم. وبمقربة منهما مما يلي عرفة بطن عرنة الذي أمر النبي صلى الله عليه وسلم بالارتفاع عنه، ويجب التحفظ منه، ويجب أيضا الإمساك عن النّفور حتى يتمكن سقوط الشمس. فإن الجمّالين، ربّما استحثوا كثيرا من الناس، وحذّروهم الزحام في النّفر، واستدرجوهم إلى أن يصلوا بهم بطن عرنة، فيبطل حجهم.#</quote></desc>
-                    <location type="gps" source="#bib5001-3">
-                        <geo>21.3635089 39.9481021</geo>
-                    </location>
+          <desc type="abstract" xml:id="abstract5001-1" xml:lang="en">A small depression close to
+            Mecca and ʿArafat.</desc>
+          <desc xml:lang="ar"><quote source="#bib5001-4">ولعرفة ثلاث أسماء، وهي، عرفة وجمع والمشعر
+              الحرام، وعرفات بسيط من الأرض فسيح أفيح، تحدق به جبال كثيرة. وفي آخر بسيط عرفات جبل
+              الرّحمة، وفيه الموقف، وفيما حوله، والعلمان قبله بنحو ميل، وهما الحد ما بين الحل
+              والحرم. وبمقربة منهما مما يلي عرفة بطن عرنة الذي أمر النبي صلى الله عليه وسلم
+              بالارتفاع عنه، ويجب التحفظ منه، ويجب أيضا الإمساك عن النّفور حتى يتمكن سقوط الشمس. فإن
+              الجمّالين، ربّما استحثوا كثيرا من الناس، وحذّروهم الزحام في النّفر، واستدرجوهم إلى أن
+              يصلوا بهم بطن عرنة، فيبطل حجهم.#</quote></desc>
+          <location type="gps" source="#bib5001-3">
+            <geo>21.3635089 39.9481021</geo>
+          </location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5001</idno>
           <idno type="URI">http://syriaca.org/place/5001</idno>
-          <idno type="URI">https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193</idno>
+          <idno type="URI"
+            >https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193</idno>
           <bibl xml:id="bib5001-1">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
-                        <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār
+              wa-ʿajāʾib al-asfār</title>
+            <author>Ibn Baṭṭūta</author>
+            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">181, 182</citedRange>
           </bibl>
           <bibl xml:id="bib5001-2">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
-                        <author>Ibn Jubayr</author>
-                        <editor>M.J. de Goeje</editor>
-                        <ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
+            <author>Ibn Jubayr</author>
+            <editor>M.J. de Goeje</editor>
+            <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
             <citedRange unit="pp">172, 173</citedRange>
           </bibl>
-                    <bibl xml:id="bib5001-3">
-                        <title level="a">https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193"/>
-                    </bibl><bibl xml:id="bib5001-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">181 and p. 182</citedRange></bibl>
+          <bibl xml:id="bib5001-3">
+            <title level="a"
+              >https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193</title>
+            <title level="m">Google Maps</title>
+            <editor>Andrew Lookingbill</editor>
+            <editor>Ethan Russell</editor>
+            <ptr
+              target="https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193"
+            />
+          </bibl>
+          <bibl xml:id="bib5001-4">
+            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār
+              wa-ʿajāʾib al-asfār</title>
+            <author>Ibn Baṭṭūta</author>
+            <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
+            <citedRange unit="pp">181, 182</citedRange>
+          </bibl>
         </place>
       </listPlace>
     </body>
