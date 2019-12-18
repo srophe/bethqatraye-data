@@ -104,7 +104,7 @@
                   de Tȏdourou</placeName>
                <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name3027-5">Arday and Tuduru</placeName>
                <desc type="abstract" xml:id="abstract3027-1" xml:lang="en">A diocese for the islands of <ref target="http://bqgazetteer.bethmardutho.org/place/3008"><placeName ref="http://syriaca.org/place/3008">Arday</placeName></ref> and <ref target="http://bqgazetteer.bethmardutho.org/place/3009"><placeName ref="http://syriaca.org/place/3009">Toduru</placeName></ref> in <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>
-               </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+               </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                <event type="attestation" xml:id="attestation3027-1" when="0410" source="#bib3027-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܓܙܪ̈ܬܐ ܕܐܪܕܝ
                         ܘܕܬܘܕܘܪܘ</foreign> in the <title xml:lang="en" level="m">Synodicon

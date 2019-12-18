@@ -78,7 +78,7 @@
           <desc type="abstract" xml:id="abstract5449-1" xml:lang="en">An island in the middle of the sea between ʿUmān and al-Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5449-1">وسماهيج اسم جزيرة في وسط البحر بين عمان والبحرين</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5449</idno>
           <idno type="URI">http://syriaca.org/place/5449</idno>
           <bibl xml:id="bib5449-1">

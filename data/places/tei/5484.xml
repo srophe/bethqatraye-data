@@ -76,7 +76,7 @@
           <desc type="abstract" xml:id="abstract5484-1" xml:lang="en">A village in al-Baḥrayn known for the production of dates.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5484-1">وطاب : قرية بالبحرين لعلها سميت بهذا التمر أو هي تنسب إليه.</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5484</idno>
           <idno type="URI">http://syriaca.org/place/5484</idno>
           <bibl xml:id="bib5484-1">

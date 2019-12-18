@@ -82,7 +82,7 @@
           </desc>
                     <location type="gps" source="#bib5334-2">
                         <geo>25.4491286 49.3834317</geo>
-                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5334</idno>
           <idno type="URI">http://syriaca.org/place/5334</idno>
           <idno type="URI">https://www.google.com/maps/place/Juatha+Saudi-Arabien/@25.4491286,49.3834317,10z/data=!4m5!3m4!1s0x3e379571fd48a6f3:0x9f33617728792bef!8m2!3d25.445337!4d49.6554124</idno>

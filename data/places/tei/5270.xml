@@ -80,7 +80,7 @@
           </desc>
           <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
                         <geo>26.540066 50.083585</geo>
-                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5270</idno>
           <idno type="URI">http://syriaca.org/place/5270</idno>
           <bibl xml:id="bib5270-1">

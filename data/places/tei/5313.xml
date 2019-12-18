@@ -88,7 +88,7 @@
           </desc>
           <desc xml:lang="ar">
             <quote source="#bib5313-2">حوارين : [...] بلدة بالبحرين افتتحها زياد فكان يقال له زياد حوارين، وهو زياد ابن عمرو بن المنذر بن عصر وأخوه خلاس بن عمرو، وكان فقيها من أصحاب علي، رضي الله عنه؛ قاله السمعاني، وقال الحفصي : حوارين، بلفظ التثنية وكسر أوله، والجيار قريتان بالبحرين، كأنه ضم الجيار إلى حوار وسماهما حوارين نحو قولهم القمران</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5313</idno>
           <idno type="URI">http://syriaca.org/place/5313</idno>
           <bibl xml:id="bib5313-1">

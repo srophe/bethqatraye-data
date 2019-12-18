@@ -108,8 +108,8 @@
                         <geo>24.342 56.729889</geo>
                     </location>
                     <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
-                        <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth
-                            Qaṭraye</region>
+                        <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth
+                            Qaṭraye</placeName></region>
                     </location>
                     <event type="attestation" xml:id="attestation5385-1" when="0424" source="#bib5385-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܡܙܘܢ</foreign>

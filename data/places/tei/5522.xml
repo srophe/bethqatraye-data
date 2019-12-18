@@ -86,7 +86,7 @@
           </desc>
           <desc xml:lang="ar">
             <quote source="#bib5522-2">vol. 2, p. 274: وأقولهم في مثل هذا كثيرة، والعرب ممن سلف وخلف في الجاهلية والإسلام يخبرون عن هذه الأرض كإخبارهم عن وادي الدو والصمان والدهناء ورمل يبرين وغيرها من الأرضين التي ينزلونها ويجتمعون عليها طلبا للماء والكلاء</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5522</idno>
           <idno type="URI">http://syriaca.org/place/5522</idno>
           <bibl xml:id="bib5522-1">

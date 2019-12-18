@@ -96,7 +96,7 @@
           </desc>
                     <location type="gps" source="#bib5510-5">
                         <geo>26.233137 50.520036</geo>
-                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5510</idno>
           <idno type="URI">http://syriaca.org/place/5510</idno>
           <idno type="URI">http://pleiades.stoa.org/places/932485</idno>

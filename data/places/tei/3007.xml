@@ -113,7 +113,7 @@
                         and <ref target="http://bqgazetteer.bethmardutho.org/place/3011"><placeName ref="http://syriaca.org/place/3011">Rūḥa</placeName></ref>
                     </desc>
                    <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
-                      <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
+                      <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                    </location>
                    <event type="attestation" xml:id="attestation3007-1" when="0585" source="#bib3007-1">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="syr">ܕܪ̈ܝ</foreign>

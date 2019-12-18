@@ -124,8 +124,8 @@
                         <geo>26.6 49.9</geo>
                     </location>
                     <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
-                        <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth
-                            Qaṭraye</region>
+                        <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth
+                            Qaṭraye</placeName></region>
                     </location>
                     <event type="attestation" xml:id="attestation4156-1" notBefore="0846" notAfter="0885" source="#bib4156-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الخط</foreign>

@@ -140,7 +140,7 @@
                      العسكري : الخط والزارة والقطيف قرى بالبحرين وهجر والزارة أيضا : من قرى طرابلس
                      الغرب؛ نسب إليها السلفي إبراهيم الزاري، وكان من أعيان التجار المتمولين، قدم
                      إسكندرية. والزارة أيضا : كورة بالصعيد قرب قفط.</quote>
-               </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+               </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                <event type="attestation" xml:id="attestation3016-1" notBefore="0846" notAfter="0885" source="#bib3016-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الزارة</foreign> in
                      the <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title> of

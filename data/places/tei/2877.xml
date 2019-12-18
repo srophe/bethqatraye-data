@@ -120,7 +120,7 @@
                   <geo>26.877823 48.726603</geo>
                </location>
                <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
-                  <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
+                  <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                </location>
                <event type="attestation" xml:id="attestation2877-1" when="0676" source="#bib2877-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܗܓܪ</foreign> in the

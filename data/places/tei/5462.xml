@@ -76,7 +76,7 @@
           <desc type="abstract" xml:id="abstract5462-1" xml:lang="en">A town between Wāqiṣa and al-Qirʿāʾ about eight miles from al-Aḥsāʾ (al-Ḥasa).</desc>
           <desc xml:lang="ar">
             <quote source="#bib5462-1">وقال أبو عبيد السكوني : شراف بين واقصة والقرعاء على ثمانية أميال من الأحساء التي لبني وهب، ومن شراف إلى واقصة ميلان، وهناك بركة تعريف باللوزة، وفي شراف ثلاث آبار كبار رشاؤها أقل من عشرين قامة وماؤها عذب كثير وبها قلب كبيرة [كثيرة] طيبة الماء يدخلها ماء المطر، وقيل : شراف استنبطه رجل من العماليق اسمه شراف فسمي به، وقال الكلبي شراف وواقصة ابنتا عمرو بن معتق بن زمرة بن عبيل ابن عوض بن إرم بن سام بن نوح، عليه السلام [...]</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5462</idno>
           <idno type="URI">http://syriaca.org/place/5462</idno>
           <bibl xml:id="bib5462-1">

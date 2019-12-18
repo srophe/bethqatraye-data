@@ -90,7 +90,7 @@
             <geo>29.43889 48.33333</geo>
           </location>
           <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
-            <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region>
+            <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
           </location>
           <note type="incerta" source="#bib4471-1 #bib4471-2">Failaka island is likely referred to as <ref target="#name4471-2"><foreign xml:lang="ar">رمث</foreign></ref> in the <title level="m">Chronicle of Seert</title>. See M. Kozah, <title level="a">Introduction</title>, in M. Kozah et al. (eds.), <title level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>.</note>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4471</idno>

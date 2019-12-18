@@ -76,7 +76,7 @@
           <desc type="abstract" xml:id="abstract5289-1" xml:lang="en">A region (nāḥiya) in al-Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5289-1">وقيل : ناحية البحرين كلها هجر، وهو الصواب، قال ابن الكلبي عن الشرقي : إنما سميت عين هجر بهجر بنت المكفف وكانت من العرب المتعربة وكان زوجها محلم بن عبد الله صاحب النهر الذي بالبحرين يقال له نهر محلم وعين محلم [...]</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5289</idno>
           <idno type="URI">http://syriaca.org/place/5289</idno>
           <bibl xml:id="bib5289-1">

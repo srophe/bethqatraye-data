@@ -77,7 +77,7 @@
           <desc type="abstract" xml:id="abstract5053-1" xml:lang="en">A region stretching along the coastline of Oman and Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5053-1">الخط : بفتح أوله، وتشديد الطاء، في كتاب العين : الخط أرض تنسب إليها الرماح الخطية، فإذا جعلت النسبة اسما لازما قلت خطية ولم تذكر الرماح، وهو خط عمان، وقال أبو منصور : وذلك السيف كله يسمى الخط، ومن قرى الخط القطيف والعقير وقطر؛ قلت أنا : وجميع هذا في سيف البحرين وعمان، وهي مواضع كانت تجلب إليها الرماح القنا من الهند فتقوم فيه وتباع على العرب؛ وينسب إليها عيسى بن فاتك الخطي أحد بني تيم الله بن ثعلبة، كان من الخوارج الذين كانوا مع أبي بلاد سرداس بن أدية</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5053</idno>
           <idno type="URI">http://syriaca.org/place/5053</idno>
           <bibl xml:id="bib5053-1">

@@ -76,7 +76,7 @@
           <desc type="abstract" xml:id="abstract5446-1" xml:lang="en">A settlement in al-Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5446-1">وسابور أيضا : موضع بالبحرين فتح على يد العلاء بن الحضرمي في أيام أبي بكر، رضي الله عنه، عنوة في سنة 12، وقال البلاذري : فتح في أيام عمر، رضي الله عنه.</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5446</idno>
           <idno type="URI">http://syriaca.org/place/5446</idno>
           <bibl xml:id="bib5446-1">

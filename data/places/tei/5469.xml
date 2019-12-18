@@ -76,7 +76,7 @@
           <desc type="abstract" xml:id="abstract5469-1" xml:lang="en">ِAn island located between Uwāl/Awāl and Qaṭar with many villages.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5469-1">شفار : [...] وهي من جزيرة بين أوال وقطر فيها قرى كثيرة، وهي من أعمال هجر، أهلها بنو عامر بن الحارث من بني عبد القيس.</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5469</idno>
           <idno type="URI">http://syriaca.org/place/5469</idno>
           <bibl xml:id="bib5469-1">

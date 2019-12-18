@@ -116,8 +116,8 @@
                         <quote source="#bib3004-2">والسبخة : من قوى البحرين.</quote>
                     </desc>
                     <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
-                        <region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth
-                            Qaṭraye</region>
+                        <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth
+                            Qaṭraye</placeName></region>
                     </location>
                     <event type="attestation" xml:id="attestation3004-1" notBefore="0846" notAfter="0885" source="#bib3004-1">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">السبخة</foreign>

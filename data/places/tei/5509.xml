@@ -79,7 +79,7 @@
           <desc type="abstract" xml:id="abstract5509-1" xml:lang="en">A village on the coastline of al-Baḥrayn in the administrative district of Hagar.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5509-1">العقير : [...] قرية على شاطئ البحر بحذاء هجر</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5509</idno>
           <idno type="URI">http://syriaca.org/place/5509</idno>
           <bibl xml:id="bib5509-1">

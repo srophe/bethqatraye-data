@@ -105,7 +105,7 @@
                     <placeName xml:id="name2905-5" xml:lang="fr" source="#bib2905-1">Darai</placeName>
                     <desc xml:id="abstract-en-2905" xml:lang="en">The diocese of the island of
                             <ref target="http://bqgazetteer.bethmardutho.org/place/3007"><placeName ref="http://syriaca.org/place/3007">Daray</placeName></ref>
-                    </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
+                    </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                     <event type="attestation" xml:id="attestation2905-1" when="0585" source="#bib2905-1">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="syr">ܕܪ̈ܝ</foreign>
                             and <foreign xml:lang="syr">ܕܪܝ</foreign> in the <title xml:lang="en" level="m">Synodicon Orientale</title>.</p>
