@@ -238,7 +238,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">II:502</citedRange>
+                        <citedRange unit="vol">II</citedRange><citedRange unit="pp">502</citedRange>
                     </bibl>
                     <bibl xml:id="bib202-7">
                         <title xml:lang="en" level="m">Kitāb al-buldān</title>

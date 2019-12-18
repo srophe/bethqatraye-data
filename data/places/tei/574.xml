@@ -154,7 +154,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">II:446</citedRange>
+                        <citedRange unit="vol">II</citedRange><citedRange unit="pp">446</citedRange>
                     </bibl>
                     <bibl xml:id="bib574-4">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa

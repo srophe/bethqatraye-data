@@ -186,7 +186,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">IV:19</citedRange>
+                        <citedRange unit="vol">IV</citedRange><citedRange unit="pp">19</citedRange>
                     </bibl>
                     <bibl xml:id="bib201-3">
                         <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat

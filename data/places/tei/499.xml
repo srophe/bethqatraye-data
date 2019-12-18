@@ -186,7 +186,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">V:182</citedRange>
+                        <citedRange unit="vol">V</citedRange><citedRange unit="pp">182</citedRange>
                     </bibl>
                     <bibl xml:id="bib499-6">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

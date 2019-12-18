@@ -260,7 +260,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">III:353</citedRange>
+                        <citedRange unit="vol">III</citedRange><citedRange unit="pp">353</citedRange>
                     </bibl>
                     <bibl xml:id="bib486-7">
                         <title xml:lang="en" level="m">Kitāb al-buldān</title>

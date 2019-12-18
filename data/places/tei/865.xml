@@ -149,7 +149,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">III:279</citedRange></bibl>
+                        <citedRange unit="vol">III</citedRange><citedRange unit="pp">279</citedRange></bibl>
                     <bibl xml:id="bib865-4">
                         <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat
                             al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

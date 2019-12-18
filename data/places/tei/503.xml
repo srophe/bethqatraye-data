@@ -190,7 +190,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">I:406</citedRange>
+                        <citedRange unit="vol">I</citedRange><citedRange unit="pp">406</citedRange>
                     </bibl>
                     <bibl xml:id="bib503-6">
                         <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>

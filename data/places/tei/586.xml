@@ -254,7 +254,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">I:250</citedRange>
+                        <citedRange unit="vol">I</citedRange><citedRange unit="pp">250</citedRange>
                     </bibl>
                     <bibl xml:id="bib586-9">
                         <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
@@ -275,7 +275,7 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">IV:495</citedRange>
+                        <citedRange unit="vol">IV</citedRange><citedRange unit="pp">495</citedRange>
                     </bibl>
                 </place>
             </listPlace>
