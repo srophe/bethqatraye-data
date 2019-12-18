@@ -70,7 +70,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2017-08-09-05:00</date>
+            <date>2019-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -103,7 +103,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2958-2">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2958-2">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2958-1">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
@@ -148,27 +148,49 @@
                <idno type="URI">https://en.wikipedia.org/wiki/Daylam</idno>
                <idno type="URI">https://dbpedia.org/resource/Daylam</idno>
                <bibl xml:id="bib2958-1">
-                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
-                     Heritage</title>
+                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">441</citedRange>
-               </bibl>
+               <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
                <bibl xml:id="bib2958-2">
                   <title level="a">https://pleiades.stoa.org/places/884140</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
                   <ptr target="https://pleiades.stoa.org/places/884140"/>
                </bibl>
                <bibl xml:id="bib2958-3">
-                  <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                  <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
+                  <title level="m">Kitāb al-buldān</title>
+                  <author><forename>Aḥmad ibn Abī Yaʿqūb</forename><surname>al-Yaʿqūbī</surname></author>
                   <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                   <citedRange unit="pp">234</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib2958-4">
-                  <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
-                  <author>Aḥmad ibn ʿUmar Ibn Rustah</author>
+                  <title level="m">Kitāb al-aʿlāq al-nafīsa</title>
+                  <author><forename>Aḥmad ibn ʿUmar</forename><surname>Ibn Rustah</surname></author>
                   <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
                   <citedRange unit="pp">89</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
             </place>
          </listPlace>
       </body>

@@ -82,7 +82,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2017-08-09-05:00</date>
+            <date>2019-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -115,7 +115,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change4150-3">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change4150-3">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change4150-2">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change4150-1">Merged in data from [duplicate record with same URI]. [duplicate
@@ -181,32 +181,57 @@
                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4150</idno>
                <idno type="URI">http://syriaca.org/place/4150</idno>
                <bibl xml:id="bib4150-1">
-                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
-                     Heritage</title>
+                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">73, 175</citedRange>
-               </bibl>
+               <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
                <bibl xml:id="bib4150-2">
-                  <title xml:lang="en" level="m">Synodicon Orientale</title>
+                  <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
                   <editor>Jean Baptiste Chabot</editor>
                   <ptr target="http://syriaca.org/bibl/1383"/>
                   <citedRange unit="pp">216, 482</citedRange>
-               </bibl>
+               <author>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Chabot</surname>
+                    </author></bibl>
                <bibl xml:id="bib4150-3">
-                  <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
-                  <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
+                  <title level="m">Kitāb al-masālik wa-l-mamālik</title>
+                  <author><forename>Abuʾl-Qāsim</forename><surname>Ibn Khurradādhbih</surname></author>
                   <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                   <citedRange unit="pp">152, 249</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib4150-4">
-                  <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                  <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
+                  <title level="m">Kitāb al-buldān</title>
+                  <author><forename>Abū Bakr Aḥmad b. Muḥammad</forename><surname>al-Hamadhānī Ibn al-Faqīh</surname></author>
                   <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                   <citedRange unit="pp">30</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib4150-5">
-                  <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
-                  <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
+                  <title level="m">Tārīkh al-rusul wa-l-mulūk</title>
+                  <author><name>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</name></author>
                   <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
                   <citedRange unit="pp">839</citedRange>
                </bibl>

@@ -56,7 +56,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2017-08-09-05:00</date>
+            <date>2019-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -89,7 +89,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2962-1">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2962-1">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: al-Yaʿqūbī citation and attestation</change>
          <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">CREATED: place</change>
@@ -118,11 +118,11 @@
                <idno type="URI">https://en.wikipedia.org/wiki/Tibet</idno>
                <idno type="URI">https://dbpedia.org/resource/Tibet</idno>
                <bibl xml:id="bib2962-1">
-                  <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                  <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
+                  <title level="m">Kitāb al-buldān</title>
+                  <author><forename>Aḥmad ibn Abī Yaʿqūb</forename><surname>al-Yaʿqūbī</surname></author>
                   <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                   <citedRange unit="pp">234</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
             </place>
          </listPlace>
       </body>

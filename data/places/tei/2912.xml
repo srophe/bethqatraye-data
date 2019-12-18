@@ -67,7 +67,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2019-12-09-06:00</date>
+            <date>2019-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -100,7 +100,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2912-2">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2912-1">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI]</change>
@@ -138,18 +138,18 @@
                <idno type="URI">http://syriaca.org/place/2912</idno>
                <idno type="URI">https://goo.gl/maps/QY55HCSUc83jwNT27</idno>
                <bibl xml:id="bib2912-1">
-                  <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
-                  <author>Aḥmad ibn ʿUmar Ibn Rustah</author>
+                  <title level="m">Kitāb al-aʿlāq al-nafīsa</title>
+                  <author><forename>Aḥmad ibn ʿUmar</forename><surname>Ibn Rustah</surname></author>
                   <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
                   <citedRange unit="pp">56</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib2912-2">
-                  <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+                  <title level="m">Riḥlat Ibn Jubayr</title>
                   <author>Ibn Jubayr</author>
-                  <editor>M.J. de Goeje</editor>
+                  <editor><forename>M.J. de</forename><surname>Goeje</surname></editor>
                   <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
                   <citedRange unit="pp">159, 177, 178</citedRange>
-               </bibl>
+               <author><name/></author></bibl>
                     <bibl xml:id="bib2912-3">
                         <title level="a">https://goo.gl/maps/QY55HCSUc83jwNT27</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://goo.gl/maps/QY55HCSUc83jwNT27"/>
                     </bibl>

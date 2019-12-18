@@ -75,7 +75,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-09-06:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -115,7 +115,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change823-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change823-1">Merged in data from [duplicate record
@@ -176,32 +176,40 @@
                     <idno type="URI">http://en.wikipedia.org/wiki/Hamedan</idno>
                     <idno type="URI">http://dbpedia.org/resource/Hamedan</idno>
                     <bibl xml:id="bib823-1">
-                        <author>David Wilmshurst</author>
-                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church
-                            of the East, 1318-1913</title>
+                        <author>
+                        <persName xml:lang="en">
+                            <forename>David</forename>
+                            <surname>Wilmshurst</surname>
+                        </persName>
+                    </author>
+                        <title xml:lang="en" level="m">The ecclesiastical organisation of the Church of the East, 1318-1913</title>
                         <ptr target="http://syriaca.org/bibl/9"/>
                         <citedRange unit="pp">17, 18, 183, 278, 280, 322, 323</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName xml:lang="en">
+                            <forename>Bernard</forename>
+                            <surname>Coulie</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib823-2">
                         <title level="a">http://pleiades.stoa.org/places/903021</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/903021"/>
                     </bibl>
                     <bibl xml:id="bib823-3">
-                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                        <author>Yāqūt al-Ḥamawī</author>
+                        <title level="m">Muʿjam al-buldān</title>
+                        <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="vol">V</citedRange><citedRange unit="pp">461</citedRange>
                     </bibl>
                     <bibl xml:id="bib823-4">
-                        <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                        <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
+                        <title level="m">Kitāb al-buldān</title>
+                        <author><forename>Aḥmad ibn Abī Yaʿqūb</forename><surname>al-Yaʿqūbī</surname></author>
                         <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                         <citedRange unit="pp">272</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                     <bibl xml:id="bib823-5">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
-                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
+                        <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author><name>Ibn Baṭṭūta</name></author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">240</citedRange>
                     </bibl>

@@ -41,7 +41,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -74,7 +74,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -96,16 +96,19 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4471</idno>
           <idno type="URI">http://syriaca.org/place/4471</idno>
           <bibl xml:id="bib4471-1">
-            <title xml:lang="en" level="m">Chronicle of Seert</title>
-            <author>A. Scher</author>
+            <title level="m">Chronicle Of Seert</title>
+            <author>
+                        <forename>Addai</forename>
+                        <surname>Scher</surname>
+                    </author>
             <ptr target="http://syriaca.org/bibl/1345"/>
             <citedRange unit="volume">5.2</citedRange>
             <citedRange unit="pp">217-344</citedRange>
           </bibl>
           <bibl xml:id="bib4471-2">
-            <title xml:lang="en" level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>
+            <title level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>
             <author>M. Kozah</author>
-            <editor>M. Kozah, et al.</editor>
+            <editor><forename>Mario</forename><surname>Kozah</surname></editor>
             <ptr target="http://syriaca.org/bibl/24XBRXP5"/>
             <citedRange unit="part">Introduction</citedRange>
           </bibl>

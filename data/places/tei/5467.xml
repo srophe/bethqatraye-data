@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -99,14 +99,14 @@
           <idno type="URI">http://syriaca.org/place/5467</idno>
           <idno type="URI">http://pleiades.stoa.org/places/922706</idno>
           <bibl xml:id="bib5467-1">
-            <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>
-                        <author>Muḥammad ibn Aḥmad Maqdisī</author>
+            <title level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>
+                        <author><forename>Muḥammad ibn Aḥmad</forename><surname>Maqdisī</surname></author>
                         <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">7</citedRange>
           </bibl>
           <bibl xml:id="bib5467-2">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
+            <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author><name>Ibn Baṭṭūta</name></author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">22, 213, 124, 215, 216, 217, 218, 219, 220, 222, 223, 225, 226, 227, 240, 293, 304, 383, 465, 467, 662</citedRange>
           </bibl>

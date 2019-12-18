@@ -58,7 +58,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -91,7 +91,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -120,41 +120,47 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4162</idno>
           <idno type="URI">http://syriaca.org/place/4162</idno>
           <bibl xml:id="bib4162-1">
-            <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-            <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
+            <title level="m">Muʿjam al-buldān</title>
+            <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
             
             <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="vol">3</citedRange><citedRange unit="pp">246</citedRange>
           </bibl>
           <bibl xml:id="bib4162-2">
-            <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
-            <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
+            <title level="m">Tārīkh al-rusul wa-l-mulūk</title>
+            <author><name>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</name></author>
             <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
           </bibl>
           <bibl xml:id="bib4162-3">
-            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
             <editor>Jean Baptiste Chabot</editor>
             <ptr target="http://syriaca.org/bibl/1383"/>
             <citedRange unit="pp">128</citedRange>
-          </bibl>
+          <author>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Chabot</surname>
+                    </author></bibl>
           <bibl xml:id="bib4162-4">
-            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
             <editor>Jean Baptiste Chabot</editor>
             <ptr target="http://syriaca.org/bibl/1383"/>
             <citedRange unit="pp">273, 275</citedRange>
-          </bibl>
+          <author>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Chabot</surname>
+                    </author></bibl>
           <bibl xml:id="bib4162-5">
-            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
             <editor>Jean Baptiste Chabot</editor>
             <ptr target="http://syriaca.org/bibl/NR45F82X"/>
             <citedRange unit="pp">387</citedRange>
-          </bibl>          
+          <author><forename>Jean Baptiste</forename><surname>Chabot</surname></author></bibl>          
           <bibl xml:id="bib4162-6">
-            <title xml:lang="en" level="m">Synodicon orientale</title>
+            <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
             <editor>Jean Baptiste Chabot</editor>
             <ptr target="http://syriaca.org/bibl/NR45F82X"/>
             <citedRange unit="pp">34, 36</citedRange>
-          </bibl>
+          <author><forename>Jean Baptiste</forename><surname>Chabot</surname></author></bibl>
         </place>
       </listPlace>
     </body>

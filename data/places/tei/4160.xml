@@ -37,7 +37,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -64,7 +64,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00">ADDED: Place name from Bedjan</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00">ADDED: Place name from Bedjan</change>
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -92,32 +92,35 @@
           <idno type="URI">http://syriaca.org/place/4160</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912881</idno>
           <bibl xml:id="bib4160-1">
-            <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
-                        <author>Abū ʿUbayd al-Bakrī</author>
+            <title level="m">Kitāb al-Masālik wa al-mamālik</title>
+                        <author><name>Abū ʿUbayd al-Bakrī</name></author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
             <citedRange unit="vol">1</citedRange><citedRange unit="pp">371-372</citedRange>
-          </bibl>
+          <editor><forename>A.P.</forename><surname>van Leeuwen</surname></editor><editor><forename>A.</forename><surname>Ferre</surname></editor></bibl>
                     <bibl xml:id="bib4160-2">
                         <title level="a">http://pleiades.stoa.org/places/912881</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/912881"/>
                     </bibl>
           <bibl xml:id="bib4160-3">
-            <title xml:lang="en" level="m">Acta martyrum et sanctorum</title>
-            <editor>Paul Bedjan</editor>
+            <title level="m">Acta martyrum et sanctorum</title>
+            <editor>
+                        <forename>Paul</forename>
+                        <surname>Bedjan</surname>
+                    </editor>
             <ptr target="http://syriaca.org/bibl/1697"/>
             <citedRange unit="volume">I</citedRange>
             <citedRange unit="pp">466, 486</citedRange>
           </bibl>
           <bibl xml:id="bib4160-4">
-            <title xml:lang="en" level="a">The History of Mar Yawnan</title>
-            <editor>S.P. Brock</editor>
-            <title xml:lang="en" level="m">An Anthology of Syriac Writers from Qatar in the Seventh Century</title>
+            <title level="a">The History of Mar Yawnan</title>
+            <editor><forename>S.P.</forename><surname>Brock</surname></editor>
+            <title level="a">The History of Mar Yawnan</title>
             <ptr target="http://syriaca.org/bibl/G8EF93RK"/>
             <citedRange unit="pp">1-42</citedRange>
           </bibl>
           <bibl xml:id="bib4160-5">
-            <title xml:lang="en" level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>
+            <title level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>
             <author>M. Kozah</author>
-            <editor>M. Kozah, et al.</editor>
+            <editor><forename>Mario</forename><surname>Kozah</surname></editor>
             <ptr target="http://syriaca.org/bibl/24XBRXP5"/>
             <citedRange unit="part">Introduction</citedRange>
           </bibl>

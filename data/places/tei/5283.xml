@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -92,8 +92,8 @@
           <idno type="URI">http://syriaca.org/place/5283</idno>
           <idno type="URI">http://pleiades.stoa.org/places/295267</idno>
           <bibl xml:id="bib5283-1">
-            <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>
-                        <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
+            <title level="m">Kitāb al-masālik wa al-mamālik</title>
+                        <author><forename>Abū al-Qāsim Muḥammad</forename><surname>Ibn Ḥawqal</surname></author>
                         <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">52</citedRange>
           </bibl>

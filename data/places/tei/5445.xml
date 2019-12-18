@@ -36,7 +36,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -63,7 +63,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -80,7 +80,7 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5445</idno>
           <idno type="URI">http://syriaca.org/place/5445</idno>
           <bibl xml:id="bib5445-1">
-            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <title level="m">Muʿjam al-buldān</title><author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="vol">3</citedRange><citedRange unit="pp">41</citedRange>
           </bibl>
         </place>

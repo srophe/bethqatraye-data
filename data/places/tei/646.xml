@@ -55,7 +55,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2014-06-30-04:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -89,7 +89,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change646-1">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change646-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event
@@ -129,18 +129,21 @@
                     <idno type="URI">
                         http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tibet&amp;sT=keywords </idno>
                     <bibl xml:id="bib646-1">
-                        <title xml:lang="en">The Comprehensive Bibliography on Syriac
-                            Christianity</title>
+                        <title xml:lang="en" level="m">A Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
-                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tibet&amp;sT=keywords">Tibet</citedRange></bibl>
+                        <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=T&amp;sK=Tibet&amp;sT=keywords">Tibet</citedRange><editor>
+                        <persName xml:lang="en">
+                            <forename>Sergey</forename>
+                            <surname>Minov</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib646-2">
-                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                        <author>Yāqūt al-Ḥamawī</author>
+                        <title level="m">Muʿjam al-buldān</title>
+                        <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="vol">II</citedRange><citedRange unit="pp">11</citedRange></bibl>
                     <bibl xml:id="bib646-3">
-                        <title xml:lang="en" level="m">Kitāb al-masālik wa
-                            al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
+                        <title level="m">Kitāb al-masālik wa al-mamālik</title><author><forename>Abū al-Qāsim Muḥammad</forename><surname>Ibn Ḥawqal</surname></author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
                         <citedRange unit="pp">9</citedRange>
                     </bibl>
                 </place>

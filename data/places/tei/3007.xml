@@ -61,7 +61,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2017-08-09-05:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -95,7 +95,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Synodicon citation and attestation</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Synodicon citation and attestation</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
@@ -124,11 +124,14 @@
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3007</idno>
                     <idno type="URI">http://syriaca.org/place/3007</idno>
                     <bibl xml:id="bib3007-1">
-                        <title xml:lang="en" level="m">Synodicon Orientale</title>
+                        <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
                         <editor>Jean Baptiste Chabot</editor>
                         <ptr target="http://syriaca.org/bibl/1383"/>
                         <citedRange unit="pp">165, 196, 424, 455</citedRange>
-                    </bibl>          
+                    <author>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Chabot</surname>
+                    </author></bibl>          
                 </place>
             </listPlace>
         </body>

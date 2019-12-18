@@ -36,7 +36,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -63,7 +63,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -77,9 +77,9 @@
           <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5355</idno>
           <idno type="URI">http://syriaca.org/place/5355</idno>
           <bibl xml:id="bib5355-1">
-            <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>
+            <title level="m">Kitāb al-Masālik wa al-mamālik</title><author><name>Abū ʿUbayd al-Bakrī</name></author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>
             <citedRange unit="vol">1</citedRange><citedRange unit="pp">377-378</citedRange>
-          </bibl>
+          <editor><forename>A.P.</forename><surname>van Leeuwen</surname></editor><editor><forename>A.</forename><surname>Ferre</surname></editor></bibl>
         </place>
       </listPlace>
     </body>

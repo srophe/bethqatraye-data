@@ -72,7 +72,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2019-12-16-06:00</date>
+            <date>2019-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -100,7 +100,7 @@
          <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3016-4">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3016-4">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3016-3">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3016-2">Merged in data from [duplicate record with same URI]. [duplicate
@@ -160,26 +160,26 @@
                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3016</idno>
                <idno type="URI">http://syriaca.org/place/3016</idno>
                <bibl xml:id="bib3016-1">
-                  <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
-                  <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
+                  <title level="m">Kitāb al-masālik wa-l-mamālik</title>
+                  <author><forename>Abuʾl-Qāsim</forename><surname>Ibn Khurradādhbih</surname></author>
                   <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                   <citedRange unit="pp">152</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib3016-2">
-                  <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                  <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
+                  <title level="m">Kitāb al-buldān</title>
+                  <author><forename>Abū Bakr Aḥmad b. Muḥammad</forename><surname>al-Hamadhānī Ibn al-Faqīh</surname></author>
                   <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                   <citedRange unit="pp">30</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib3016-3">
-                  <title xml:lang="en" level="m">Murūj al-Dhahab</title>
-                  <author>al-Masūdī</author>
+                  <title level="m">Murūj al-Dhahab</title>
+                  <author><name>al-Masūdī</name></author>
                   <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                   <citedRange unit="vol">1</citedRange><citedRange unit="pp">129</citedRange>
                </bibl>
                <bibl xml:id="bib3016-4">
-                  <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                  <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
+                  <title level="m">Muʿjam al-buldān</title>
+                  <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                   
                   <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                   <citedRange unit="vol">3</citedRange><citedRange unit="pp">126</citedRange>

@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -96,18 +96,18 @@
           <idno type="URI">http://syriaca.org/place/5065</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark</idno>
           <bibl xml:id="bib5065-1">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
+            <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author><name>Ibn Baṭṭūta</name></author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">133, 144, 154, 155, 172, 176, 249</citedRange>
           </bibl>
           <bibl xml:id="bib5065-2">
-            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+            <title level="m">Riḥlat Ibn Jubayr</title>
                         <author>Ibn Jubayr</author>
-                        <editor>M.J. de Goeje</editor>
+                        <editor><forename>M.J. de</forename><surname>Goeje</surname></editor>
                         <ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">81, 107, 109, 115, 121, 130</citedRange>
-          </bibl>
+          <author><name/></author></bibl>
                     <bibl xml:id="bib5065-3">
                         <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark"/>
                     </bibl>

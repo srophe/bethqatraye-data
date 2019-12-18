@@ -74,7 +74,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2017-08-09-05:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -114,7 +114,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change607-1">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change607-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: al-Yaʿqūbī citation and attestation</change>
@@ -164,50 +164,120 @@
                     <idno type="URI">
                         http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Merv&amp;sT=keywords </idno>
                     <bibl xml:id="bib607-1">
-                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the
-                            Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">215, 420</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib607-2">
-                        <title xml:lang="syr">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
+                        <title xml:lang="syr" level="m">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                         <ptr target="http://syriaca.org/bibl/3"/>
                         <citedRange unit="pp">261</citedRange>
-                    </bibl>
+                    <author ref="http://syriaca.org/person/372">
+                        <persName xml:lang="en">
+                            <forename>Ignatius</forename>
+                            <forename>Afram</forename>
+                            <surname>Barsoum</surname>
+                        </persName>
+                        <persName xml:lang="syr">
+                            <forename>ܐܝܓܢܐܛܝܘܣ</forename>
+                            <forename>ܐܦܪܝܡ</forename>
+                            <addName>ܩܕܡܝܐ</addName>
+                            <surname>ܕܒܝܬ ܒܪܨܘܡ</surname>
+                        </persName>
+                    </author><editor role="translator" ref="http://syriaca.org/person/454">
+                        <persName xml:lang="en">
+                            <forename>Philoxenos</forename>
+                            <forename>Yuḥanon</forename>
+                            <surname>Dolabani</surname>
+                        </persName>
+                        <persName xml:lang="syr">
+                            <forename>ܦܝܠܠܘܟܣܝܢܘܣ</forename>
+                            <forename>ܝܘܚܢܢ</forename>
+                            <surname>ܕܘܠܒܐܢܝ</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib607-3">
-                        <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب
-                            السريانية</title>
+                        <title xml:lang="ar" level="m">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
                         <ptr target="http://syriaca.org/bibl/2"/>
                         <citedRange unit="pp">235</citedRange>
-                    </bibl>
+                    <author ref="http://syriaca.org/person/372">
+                        <persName xml:lang="en">
+                            <forename>Ignatius</forename>
+                            <forename>Afram</forename>
+                            <surname>Barsoum</surname>
+                        </persName>
+                        <persName xml:lang="ar">
+                            <forename>اغناطيوس</forename>
+                            <forename>افرام</forename>
+                            <addName>الاول</addName>
+                            <surname>برصوم</surname>
+                        </persName>
+                    </author></bibl>
                     <bibl xml:id="bib607-4">
-                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac
-                            Literature and Sciences</title>
+                        <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                         <ptr target="http://syriaca.org/bibl/4"/>
                         <citedRange unit="pp">273</citedRange>
-                    </bibl>
+                    <author ref="http://syriaca.org/person/372">
+                        <persName xml:lang="en">
+                            <forename>Ignatius</forename>
+                            <forename>Afram</forename>
+                            <surname>Barsoum</surname>
+                        </persName>
+                    </author><editor role="translator">
+                        <persName xml:lang="en">
+                            <forename>Matti</forename>
+                            <surname>Moosa</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib607-5">
-                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac
-                            Christianity</title>
+                        <title xml:lang="en" level="m">A Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=M&amp;sK=Merv&amp;sT=keywords">Merv</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName xml:lang="en">
+                            <forename>Sergey</forename>
+                            <surname>Minov</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib607-6">
                         <title level="a">http://pleiades.stoa.org/places/961873</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/961873"/>
                     </bibl>
                     <bibl xml:id="bib607-7">
-                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                        <author>Yāqūt al-Ḥamawī</author>
+                        <title level="m">Muʿjam al-buldān</title>
+                        <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="vol">V</citedRange><citedRange unit="pp">132</citedRange>
                     </bibl>
                     <bibl xml:id="bib607-8">
-                        <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                        <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
+                        <title level="m">Kitāb al-buldān</title>
+                        <author><forename>Aḥmad ibn Abī Yaʿqūb</forename><surname>al-Yaʿqūbī</surname></author>
                         <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                         <citedRange unit="pp">279</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                 </place>
             </listPlace>
         </body>

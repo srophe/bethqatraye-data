@@ -51,7 +51,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-11-01-05:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -85,7 +85,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -132,30 +132,53 @@
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5385</idno>
                     <idno type="URI">http://syriaca.org/place/5385</idno>
                     <bibl xml:id="bib5385-1">
-                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the
-                            Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">73</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib5385-2">
-                        <title xml:lang="en" level="m">Synodicon Orientale</title>
+                        <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
                         <editor>Jean Baptiste Chabot</editor>
                         <ptr target="http://syriaca.org/bibl/1383"/>
                         <citedRange unit="pp">43, 76, 110, 285, 328, 368</citedRange>
-                    </bibl>
+                    <author>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Chabot</surname>
+                    </author></bibl>
                     <bibl xml:id="bib5385-3">
-                        <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the
-                            Qataris</title>
-                        <author>Ishoʿyahb III of Adiabene</author>
-                        <editor>Mario Kozah</editor>
+                        <title level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title>
+                        <author><name>Ishoʿyahb III of Adiabene</name></author>
+                        <editor><forename>Mario</forename><surname>Kozah</surname></editor>
                         <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
                         <citedRange unit="pp">72</citedRange>
                     </bibl>
                     <bibl xml:id="bib5385-4">
-                        <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the
-                            Qataris</title>
-                        <author>Ishoʿyahb III of Adiabene</author>
-                        <editor>Mario Kozah</editor>
+                        <title level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title>
+                        <author><name>Ishoʿyahb III of Adiabene</name></author>
+                        <editor><forename>Mario</forename><surname>Kozah</surname></editor>
                         <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
                         <citedRange unit="pp">49</citedRange>
                     </bibl>

@@ -95,7 +95,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2019-12-17-06:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -129,7 +129,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#dmichelson" when="2018-08-14-05:00">ADDED: temporary coordinates and Pleiades URI</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn al-Faqih citation and attestation</change>
@@ -210,57 +210,63 @@
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903</idno>
                     <idno type="URI">http://syriaca.org/place/2903</idno>
                     <bibl xml:id="bib2903-1">
-                        <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
-                        <author>Abū ʿUbayd al-Bakrī</author>
+                        <title level="m">Kitāb al-Masālik wa al-mamālik</title>
+                        <author><name>Abū ʿUbayd al-Bakrī</name></author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
                         <citedRange unit="vol">1</citedRange><citedRange unit="pp">377</citedRange>
-                    </bibl>
+                    <editor><forename>A.P.</forename><surname>van Leeuwen</surname></editor><editor><forename>A.</forename><surname>Ferre</surname></editor></bibl>
                     <bibl xml:id="bib2903-2">
-                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                        <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
+                        <title level="m">Muʿjam al-buldān</title>
+                        <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                         
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="vol">5</citedRange><citedRange unit="pp">393</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-3">
-                        <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
-                        <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
+                        <title level="m">Tārīkh al-rusul wa-l-mulūk</title>
+                        <author><name>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</name></author>
                         <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
                         <citedRange unit="pp">839</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-4">
-                        <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
-                        <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
+                        <title level="m">Kitāb al-masālik wa-l-mamālik</title>
+                        <author><forename>Abuʾl-Qāsim</forename><surname>Ibn Khurradādhbih</surname></author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">152</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                     <bibl xml:id="bib2903-5">
-                        <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                        <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
+                        <title level="m">Kitāb al-buldān</title>
+                        <author><forename>Abū Bakr Aḥmad b. Muḥammad</forename><surname>al-Hamadhānī Ibn al-Faqīh</surname></author>
                         <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                         <citedRange unit="pp">30</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                     <bibl xml:id="bib2903-6">
-                        <title xml:lang="en" level="m">Synodicon Orientale</title>
+                        <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
                         <editor>Jean Baptiste Chabot</editor>
                         <ptr target="http://syriaca.org/bibl/1383"/>
                         <citedRange unit="pp">216</citedRange>
-                    </bibl>
+                    <author>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Chabot</surname>
+                    </author></bibl>
                     <bibl xml:id="bib2903-7">
-                        <title xml:lang="en" level="m">Synodicon Orientale</title>
+                        <title level="m">Synodicon orientale, ou, Recueil de synodes nestoriens</title>
                         <editor>Jean Baptiste Chabot</editor>
                         <ptr target="http://syriaca.org/bibl/1383"/>
                         <citedRange unit="pp">482</citedRange>
-                    </bibl>
+                    <author>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Chabot</surname>
+                    </author></bibl>
                     <bibl xml:id="bib2903-8">
-                        <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
-                        <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
+                        <title level="m">Kitāb al-masālik wa-l-mamālik</title>
+                        <author><forename>Abuʾl-Qāsim</forename><surname>Ibn Khurradādhbih</surname></author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">152</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                     <bibl xml:id="bib2903-9">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
+                        <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author><name>Ibn Baṭṭūta</name></author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">287</citedRange>
                     </bibl>
@@ -270,38 +276,38 @@
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
                     </bibl>
                     <bibl xml:id="bib2903-12">
-                        <title xml:lang="en" level="m">Murūj al-Dhahab</title>
-                        <author>al-Masūdī</author>
+                        <title level="m">Murūj al-Dhahab</title>
+                        <author><name>al-Masūdī</name></author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                         <citedRange unit="vol">2</citedRange><citedRange unit="pp">267</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-13">
-                        <title xml:lang="en" level="m">Murūj al-Dhahab</title>
-                        <author>al-Masūdī</author>
+                        <title level="m">Murūj al-Dhahab</title>
+                        <author><name>al-Masūdī</name></author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                         <citedRange unit="vol">5</citedRange><citedRange unit="pp">242</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-14">
-                        <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
-                        <author>Abū ʿUbayd al-Bakrī</author>
+                        <title level="m">Kitāb al-Masālik wa al-mamālik</title>
+                        <author><name>Abū ʿUbayd al-Bakrī</name></author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
                         <citedRange unit="vol">1</citedRange><citedRange unit="pp">371</citedRange>
-                    </bibl>
+                    <editor><forename>A.P.</forename><surname>van Leeuwen</surname></editor><editor><forename>A.</forename><surname>Ferre</surname></editor></bibl>
                     <bibl xml:id="bib2903-15">
-                        <title xml:lang="en" level="m">Murūj al-Dhahab</title>
-                        <author>al-Masūdī</author>
+                        <title level="m">Murūj al-Dhahab</title>
+                        <author><name>al-Masūdī</name></author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                         <citedRange unit="vol">2</citedRange><citedRange unit="pp">267</citedRange>
                     </bibl>
                     <bibl xml:id="bib2903-16">
-                        <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
-                        <author>Abū ʿUbayd al-Bakrī</author>
+                        <title level="m">Kitāb al-Masālik wa al-mamālik</title>
+                        <author><name>Abū ʿUbayd al-Bakrī</name></author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
                         <citedRange unit="vol">5</citedRange><citedRange unit="pp">242</citedRange>
-                    </bibl>
+                    <editor><forename>A.P.</forename><surname>van Leeuwen</surname></editor><editor><forename>A.</forename><surname>Ferre</surname></editor></bibl>
                     <bibl xml:id="bib2903-17">
-                        <title xml:lang="en" level="m">Safar Nāma</title>
-                        <author>Nāṣir Khusraw</author>
+                        <title level="m">Safar Nāma</title>
+                        <author><name>Nāṣir Khusraw</name></author>
                         <ptr target="http://syriaca.org/bibl/NATHCE76"/>
                         <citedRange unit="pp">158-162</citedRange>
                     </bibl>

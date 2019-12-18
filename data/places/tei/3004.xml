@@ -61,7 +61,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2017-08-09-05:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -95,7 +95,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3004-1">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change3004-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn Khurradadhbih citation and attestation</change>
@@ -130,14 +130,14 @@
                     <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3004</idno>
                     <idno type="URI">http://syriaca.org/place/3004</idno>
                     <bibl xml:id="bib3004-1">
-                        <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
-                        <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
+                        <title level="m">Kitāb al-masālik wa-l-mamālik</title>
+                        <author><forename>Abuʾl-Qāsim</forename><surname>Ibn Khurradādhbih</surname></author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">60, 193</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                     <bibl xml:id="bib3004-2">
-                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                        <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
+                        <title level="m">Muʿjam al-buldān</title>
+                        <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                         
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="vol">3</citedRange><citedRange unit="pp">183</citedRange>

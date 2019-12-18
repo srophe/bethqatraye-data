@@ -94,7 +94,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2017-08-09-05:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -127,7 +127,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2921-4">Merged in data from [duplicate record with same URI].</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2921-4">Merged in data from [duplicate record with same URI].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2921-3">Merged in data from [duplicate record with same URI]. [duplicate
         record with same URI]</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2921-2">Merged in data from [duplicate record with same URI]. [duplicate
@@ -176,38 +176,59 @@
           <idno type="URI">https://en.wikipedia.org/wiki/Hejaz</idno>
           <idno type="URI">https://dbpedia.org/resource/Hejaz</idno>
           <bibl xml:id="bib2921-1">
-            <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
-              Heritage</title>
+            <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
             <ptr target="http://syriaca.org/bibl/1"/>
             <citedRange unit="pp">220</citedRange>
-          </bibl>
+          <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
           <bibl xml:id="bib2921-2">
-            <title xml:lang="en" level="m">Kitāb al-buldān</title>
-            <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
+            <title level="m">Kitāb al-buldān</title>
+            <author><forename>Aḥmad ibn Abī Yaʿqūb</forename><surname>al-Yaʿqūbī</surname></author>
             <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
             <citedRange unit="pp">236</citedRange>
-          </bibl>
+          <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
           <bibl xml:id="bib2921-3">
-            <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
-            <author>Aḥmad ibn ʿUmar Ibn Rustah</author>
+            <title level="m">Kitāb al-aʿlāq al-nafīsa</title>
+            <author><forename>Aḥmad ibn ʿUmar</forename><surname>Ibn Rustah</surname></author>
             <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
             <citedRange unit="pp">60</citedRange>
-          </bibl>
+          <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
           <bibl xml:id="bib2921-4">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār
-              wa-ʿajāʾib al-asfār</title>
-            <author>Ibn Baṭṭūta</author>
+            <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+            <author><name>Ibn Baṭṭūta</name></author>
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">35, 36, 41, 65, 97, 111, 115, 167, 193, 203, 209, 214, 266, 307,
               327, 331, 540, 668</citedRange>
           </bibl>
           <bibl xml:id="bib2921-5">
-            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+            <title level="m">Riḥlat Ibn Jubayr</title>
             <author>Ibn Jubayr</author>
-            <editor>M.J. de Goeje</editor>
+            <editor><forename>M.J. de</forename><surname>Goeje</surname></editor>
             <ptr target="http://syriaca.org/bibl/WDUISTPU"/>
             <citedRange unit="pp">8, 14, 19, 29, 56, 73</citedRange>
-          </bibl>
+          <author><name/></author></bibl>
         </place>
       </listPlace>
     </body>

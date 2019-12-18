@@ -59,7 +59,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2017-08-09-05:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -99,7 +99,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change629-1">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change629-1">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn Rustah citation and attestation</change>
@@ -144,27 +144,31 @@
                     <idno type="URI">
                         http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Nile&amp;sT=keywords </idno>
                     <bibl xml:id="bib629-1">
-                        <title xml:lang="en" level="m">The Comprehensive Bibliography on Syriac
-                            Christianity</title>
+                        <title xml:lang="en" level="m">A Comprehensive Bibliography on Syriac Christianity</title>
                         <ptr target="http://syriaca.org/bibl/5"/>
                         <citedRange unit="entry" target="http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=N&amp;sK=Nile&amp;sT=keywords">Nile</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName xml:lang="en">
+                            <forename>Sergey</forename>
+                            <surname>Minov</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib629-2">
                         <title level="a">http://pleiades.stoa.org/places/727172</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/727172"/>
                     </bibl>
                     <bibl xml:id="bib629-3">
-                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                        <author>Yāqūt al-Ḥamawī</author>
+                        <title level="m">Muʿjam al-buldān</title>
+                        <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="vol">V</citedRange><citedRange unit="pp">385</citedRange>
                     </bibl>
                     <bibl xml:id="bib629-4">
-                        <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
-                        <author>Aḥmad ibn ʿUmar Ibn Rustah</author>
+                        <title level="m">Kitāb al-aʿlāq al-nafīsa</title>
+                        <author><forename>Aḥmad ibn ʿUmar</forename><surname>Ibn Rustah</surname></author>
                         <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
                         <citedRange unit="pp">80</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                 </place>
             </listPlace>
         </body>

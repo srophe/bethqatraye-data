@@ -44,7 +44,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -71,7 +71,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -93,20 +93,20 @@
           <idno type="URI">http://syriaca.org/place/5016</idno>
           <idno type="URI">https://gazetteer.dainst.org/app/#!/show/2043228</idno>
           <bibl xml:id="bib5016-1">
-            <title xml:lang="en" level="m">Safar Nāma</title>
-                        <author>Nāṣir Khusraw</author>
+            <title level="m">Safar Nāma</title>
+                        <author><name>Nāṣir Khusraw</name></author>
                         <ptr target="http://syriaca.org/bibl/NATHCE76"/>
             <citedRange unit="pp">161</citedRange>
           </bibl>
           <bibl xml:id="bib5016-2">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
+            <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author><name>Ibn Baṭṭūta</name></author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">287</citedRange>
           </bibl>
                     <bibl xml:id="bib5016-3">
                         <title level="a">https://gazetteer.dainst.org/app/#!/show/2043228</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="https://gazetteer.dainst.org/app/#!/show/2043228"/>
-                    </bibl><bibl xml:id="bib5016-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">287</citedRange></bibl>
+                    </bibl><bibl xml:id="bib5016-4"><title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author><name>Ibn Baṭṭūta</name></author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">287</citedRange></bibl>
         </place>
       </listPlace>
     </body>

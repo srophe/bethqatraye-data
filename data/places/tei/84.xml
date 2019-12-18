@@ -91,7 +91,7 @@
                             License.</p>
                     </licence>
                 </availability>
-                <date>2017-08-09-05:00</date>
+                <date>2019-12-18-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -131,7 +131,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change84-4">Merged in data from [duplicate record
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change84-4">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change84-3">Merged in data from [duplicate record
                 with same URI]. [duplicate record with same URI]</change>
@@ -207,55 +207,106 @@
                     <idno type="URI">http://pleiades.stoa.org/places/922698</idno>
                     <bibl xml:id="bib84-1">
                         <author>J. T. Walker</author>
-                        <title level="a" xml:lang="en">209. Fars</title>
-                        <title level="m" xml:lang="en">The Gorgias Encyclopedic Dictionary of the
-                            Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">163-164</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib84-2">
-                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the
-                            Syriac Heritage</title>
+                        <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                         <ptr target="http://syriaca.org/bibl/1"/>
                         <citedRange unit="pp">73, 163–164, 216, 411, 441</citedRange>
                         <citedRange unit="maps">Map II D3</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib84-3">
-                        <author>David Wilmshurst</author>
-                        <title xml:lang="en" level="m">The Ecclesiastical Organisation of the Church
-                            of the East, 1318-1913</title>
+                        <author>
+                        <persName xml:lang="en">
+                            <forename>David</forename>
+                            <surname>Wilmshurst</surname>
+                        </persName>
+                    </author>
+                        <title xml:lang="en" level="m">The ecclesiastical organisation of the Church of the East, 1318-1913</title>
                         <ptr target="http://syriaca.org/bibl/9"/>
                         <citedRange unit="pp">17, 344</citedRange>
-                    </bibl>
+                    <editor>
+                        <persName xml:lang="en">
+                            <forename>Bernard</forename>
+                            <surname>Coulie</surname>
+                        </persName>
+                    </editor></bibl>
                     <bibl xml:id="bib84-4">
                         <title level="a">http://pleiades.stoa.org/places/922698</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
                         <ptr target="http://pleiades.stoa.org/places/922698"/>
                     </bibl>
                     <bibl xml:id="bib84-5">
-                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
-                        <author>Yāqūt al-Ḥamawī</author>
+                        <title level="m">Muʿjam al-buldān</title>
+                        <author><forename>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī</forename><surname>Yāqūt al-Ḥamawī</surname></author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
                         <citedRange unit="vol">IV</citedRange><citedRange unit="pp">256</citedRange>
                     </bibl>
                     <bibl xml:id="bib84-6">
-                        <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                        <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
+                        <title level="m">Kitāb al-buldān</title>
+                        <author><forename>Aḥmad ibn Abī Yaʿqūb</forename><surname>al-Yaʿqūbī</surname></author>
                         <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                         <citedRange unit="pp">237</citedRange>
-                    </bibl>
+                    <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                     <bibl xml:id="bib84-7">
-                        <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
-                            gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
+                        <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author><name>Ibn Baṭṭūta</name></author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">200, 215, 219, 223, 281, 286, 335, 346, 412, 468, 571,
                             573, 575</citedRange>
                         <citedRange unit="pp">189</citedRange>
                     </bibl>
                     <bibl xml:id="bib84-9">
-                        <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat
-                            al-aqālīm</title>
-                        <author>Muḥammad ibn Aḥmad Maqdisī</author>
+                        <title level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>
+                        <author><forename>Muḥammad ibn Aḥmad</forename><surname>Maqdisī</surname></author>
                         <ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
                         <citedRange unit="pp">7</citedRange>
                     </bibl>

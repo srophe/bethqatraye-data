@@ -82,7 +82,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2019-12-16-06:00</date>
+            <date>2019-12-18-05:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -115,7 +115,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2920-3">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2920-3">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2920-2">Merged in data from [duplicate record with same URI]. [duplicate
             record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2920-1">Merged in data from [duplicate record with same URI]. [duplicate
@@ -164,26 +164,48 @@
                <idno type="URI">https://en.wikipedia.org/wiki/Al-Yamama</idno>
                <idno type="URI">https://dbpedia.org/resource/Al-Yamama</idno>
                <bibl xml:id="bib2920-1">
-                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac
-                     Heritage</title>
+                  <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac Heritage</title>
                   <ptr target="http://syriaca.org/bibl/1"/>
                   <citedRange unit="pp">72</citedRange>
-               </bibl>
+               <editor>
+                        <persName>
+                            <forename>Sebastian</forename>
+                            <addName type="middle-initial">P.</addName>
+                            <surname>Brock</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Aaron</forename>
+                            <addName type="middle-initial">M.</addName>
+                            <surname>Butts</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>George</forename>
+                            <addName type="middle-initial">A.</addName>
+                            <surname>Kiraz</surname>
+                        </persName>
+                    </editor><editor>
+                        <persName>
+                            <forename>Lucas</forename>
+                            <surname>Van Rompay</surname>
+                        </persName>
+                    </editor></bibl>
                <bibl xml:id="bib2920-2">
-                  <title xml:lang="en" level="m">Kitāb al-buldān</title>
-                  <author>Aḥmad ibn Abī Yaʿqūb al-Yaʿqūbī</author>
+                  <title level="m">Kitāb al-buldān</title>
+                  <author><forename>Aḥmad ibn Abī Yaʿqūb</forename><surname>al-Yaʿqūbī</surname></author>
                   <ptr target="http://syriaca.org/bibl/3Z6CSQF6"/>
                   <citedRange unit="pp">237</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib2920-3">
-                  <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>
-                  <author>Aḥmad ibn ʿUmar Ibn Rustah</author>
+                  <title level="m">Kitāb al-aʿlāq al-nafīsa</title>
+                  <author><forename>Aḥmad ibn ʿUmar</forename><surname>Ibn Rustah</surname></author>
                   <ptr target="http://syriaca.org/bibl/RTTD3V5S"/>
                   <citedRange unit="pp">60</citedRange>
-               </bibl>
+               <editor><forename>M. J.</forename><surname>de Goeje</surname></editor></bibl>
                <bibl xml:id="bib2920-4">
-                  <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>
-                  <author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author>
+                  <title level="m">Kitāb al-masālik wa al-mamālik</title>
+                  <author><forename>Abū al-Qāsim Muḥammad</forename><surname>Ibn Ḥawqal</surname></author>
                   <ptr target="http://syriaca.org/bibl/GZIUD38F"/>
                   <citedRange unit="pp">287</citedRange>
                </bibl>

@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -96,21 +96,21 @@
           <idno type="URI">http://syriaca.org/place/5550</idno>
           <idno type="URI">https://www.google.com/maps/place/Asfan+Saudi+Arabia/@21.9000603,39.3109892,12z/data=!3m1!4b1!4m5!3m4!1s0x15c19ee2f4f5a3e7:0x59be183140bf0904!8m2!3d21.9001621!4d39.3828571</idno>
           <bibl xml:id="bib5550-1">
-            <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
-                        <author>Ibn Baṭṭūta</author>
+            <title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
+                        <author><name>Ibn Baṭṭūta</name></author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">143, 185</citedRange>
           </bibl>
           <bibl xml:id="bib5550-2">
-            <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title>
+            <title level="m">Riḥlat Ibn Jubayr</title>
                         <author>Ibn Jubayr</author>
-                        <editor>M.J. de Goeje</editor>
+                        <editor><forename>M.J. de</forename><surname>Goeje</surname></editor>
                         <ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">184</citedRange>
-          </bibl>
+          <author><name/></author></bibl>
                     <bibl xml:id="bib5550-3">
                         <title level="a">https://www.google.com/maps/place/Asfan+Saudi+Arabia/@21.9000603,39.3109892,12z/data=!3m1!4b1!4m5!3m4!1s0x15c19ee2f4f5a3e7:0x59be183140bf0904!8m2!3d21.9001621!4d39.3828571</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://www.google.com/maps/place/Asfan+Saudi+Arabia/@21.9000603,39.3109892,12z/data=!3m1!4b1!4m5!3m4!1s0x15c19ee2f4f5a3e7:0x59be183140bf0904!8m2!3d21.9001621!4d39.3828571"/>
-                    </bibl><bibl xml:id="bib5550-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">143</citedRange></bibl><bibl xml:id="bib5550-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">185</citedRange></bibl>
+                    </bibl><bibl xml:id="bib5550-4"><title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author><name>Ibn Baṭṭūta</name></author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">143</citedRange></bibl><bibl xml:id="bib5550-5"><title level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author><name>Ibn Baṭṭūta</name></author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">185</citedRange></bibl>
         </place>
       </listPlace>
     </body>

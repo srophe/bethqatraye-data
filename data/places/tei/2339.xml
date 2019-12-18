@@ -53,7 +53,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2019-12-18-05:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -86,7 +86,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED:
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-18-05:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED:
         relation element with shares-name-with attribute for all place headwords that share
         names</change>
       <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED:
@@ -116,27 +116,35 @@
           <idno type="URI">http://syriaca.org/place/2339</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912905</idno>
           <bibl xml:id="bib2339-1">
-            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the
-              Qataris</title>
-            <author>Ishoʿyahb III of Adiabene</author>
-            <editor>Mario Kozah</editor>
+            <title level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title>
+            <author><name>Ishoʿyahb III of Adiabene</name></author>
+            <editor><forename>Mario</forename><surname>Kozah</surname></editor>
             <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">80</citedRange>
           </bibl>
           <bibl xml:id="bib2339-2">
-            <title xml:lang="en" level="a">Ishoʿyahb III of Adiabene's Letters to the
-              Qataris</title>
-            <author>Ishoʿyahb III of Adiabene</author>
-            <editor>Mario Kozah</editor>
+            <title level="a">Ishoʿyahb III of Adiabene's Letters to the Qataris</title>
+            <author><name>Ishoʿyahb III of Adiabene</name></author>
+            <editor><forename>Mario</forename><surname>Kozah</surname></editor>
             <ptr target="http://syriaca.org/bibl/6YEH5ZPJ"/>
             <citedRange unit="pp">59</citedRange>
           </bibl>
           <bibl xml:id="bib2339-3">
-            <author>David Wilmshurst</author>
-            <title xml:lang="en">The Ecclesiastical Organisation of the Church of the East, 1318-1913</title>
+            <author>
+                        <persName xml:lang="en">
+                            <forename>David</forename>
+                            <surname>Wilmshurst</surname>
+                        </persName>
+                    </author>
+            <title xml:lang="en" level="m">The ecclesiastical organisation of the Church of the East, 1318-1913</title>
             <citedRange unit="pp">17, 175, 342, 344</citedRange>
             <ptr target="http://syriaca.org/bibl/9"/>
-          </bibl>
+          <editor>
+                        <persName xml:lang="en">
+                            <forename>Bernard</forename>
+                            <surname>Coulie</surname>
+                        </persName>
+                    </editor></bibl>
         </place>
       </listPlace>
     </body>
