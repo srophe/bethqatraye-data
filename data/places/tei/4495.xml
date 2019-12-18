@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5498/tei</idno>
+        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4495/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -71,29 +71,29 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5498-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Thaʾj</placeName>
-          <placeName xml:id="name5498-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ثَأجُ</placeName>
-          <placeName xml:id="name5498-3" xml:lang="en">Thaj</placeName>
-          <placeName xml:id="name5498-4" xml:lang="ar">ثاج</placeName>
-          <placeName xml:id="name5498-5" xml:lang="ar" source="#bib5498-1">ثاج</placeName>
-          <desc type="abstract" xml:id="abstract5498-1" xml:lang="en">A small town located in the Bahrain region, اقليم البحرين</desc>
+          <placeName xml:id="name4495-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Thaʾj</placeName>
+          <placeName xml:id="name4495-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ثَأجُ</placeName>
+          <placeName xml:id="name4495-3" xml:lang="en">Thaj</placeName>
+          <placeName xml:id="name4495-4" xml:lang="ar">ثاج</placeName>
+          <placeName xml:id="name4495-5" xml:lang="ar" source="#bib4495-1">ثاج</placeName>
+          <desc type="abstract" xml:id="abstract4495-1" xml:lang="en">A small town located in the Bahrain region, اقليم البحرين</desc>
           <desc xml:lang="ar">
-            <quote source="#bib5498-1">ثأج : [...] عين من البحرين على ليال؛ وقال محمد بن إدريس اليمامي : ثاج قرية بالبحرين، قال : ومر تميم بن أبي بن مقبل العجلاني بثاج على امرأتين</quote>
+            <quote source="#bib4495-1">ثأج : [...] عين من البحرين على ليال؛ وقال محمد بن إدريس اليمامي : ثاج قرية بالبحرين، قال : ومر تميم بن أبي بن مقبل العجلاني بثاج على امرأتين</quote>
           </desc>
-                    <location type="gps" source="#bib5498-2">
+                    <location type="gps" source="#bib4495-2">
                         <geo>26.877823 48.726603</geo>
                     </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="http://bqgazetteer.bethmardutho.org/place/37">Beth Qaṭraye</region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5498</idno>
-          <idno type="URI">http://syriaca.org/place/5498</idno>
+          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4495</idno>
+          <idno type="URI">http://syriaca.org/place/4495</idno>
           <idno type="URI">https://pleiades.stoa.org/places/932483</idno>
-          <bibl xml:id="bib5498-1">
+          <bibl xml:id="bib4495-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
                         
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
             <citedRange unit="pp">vol. 2, p. 70</citedRange>
           </bibl>
-                    <bibl xml:id="bib5498-2">
+                    <bibl xml:id="bib4495-2">
                         <title level="a">https://pleiades.stoa.org/places/932483</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="https://pleiades.stoa.org/places/932483"/>
                     </bibl>
         </place>
