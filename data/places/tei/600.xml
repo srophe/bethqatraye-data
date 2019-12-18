@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Jordan valley</title>
+                <title level="a" xml:lang="en">Jordan Valley</title>
                 <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
                 <sponsor>Beth Mardutho: The Syriac Institute</sponsor>
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
@@ -105,7 +105,7 @@
         <body>
             <listPlace>
                 <place xml:id="place-600" type="region">
-                    <placeName xml:id="name600-1" xml:lang="en" srophe:tags="#headword" source="#bib600-1">Jordan valley</placeName>
+                    <placeName xml:id="name600-1" xml:lang="en" srophe:tags="#headword" source="#bib600-1">Jordan Valley</placeName>
                     <placeName xml:id="name600-2" xml:lang="ar" source="#bib600-2">الغَوْر</placeName>
                     <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name600-3">Ghūr al-Shām</placeName>
                     <placeName xml:lang="ar" ource="#bib600-3" srophe:tags="#headword" xml:id="name600-4">غور الشام</placeName>
