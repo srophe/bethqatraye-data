@@ -78,7 +78,7 @@
           <placeName xml:id="name5319-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jabal al-Qabaq</placeName>
           <placeName xml:id="name5319-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جبل القبق</placeName>
           <placeName xml:id="name5319-3" xml:lang="ar" source="#bib5319-1">جبل القبق</placeName>
-          <desc type="abstract" xml:id="abstract5319-1" xml:lang="en"><quote>The Caucasus Mountains, located between the Black Sea and the Caspian Sea.</quote></desc>
+          <desc type="abstract" xml:id="abstract5319-1" xml:lang="en" source="#bib5319-2"><quote>The Caucasus Mountains, located between the Black Sea and the Caspian Sea.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5319-1">ثم تلوتها بصورة أذربيجان وشكلت ما فيها من الجبال والطرق والانهار العذبة كاكرس والكر الى ان رسمت بحيرة خلاط وبحيرة كبوذان وكلاهما لا يتصل ببحر طبرستان وجبل القبق مطل عليه</quote>
           </desc>
