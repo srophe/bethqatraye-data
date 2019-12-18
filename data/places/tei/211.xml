@@ -158,8 +158,8 @@
                     <placeName xml:id="name211-5" xml:lang="ar" source="#bib211-4 #bib211-10" srophe:tags="#headword">الانبار</placeName>
                     <placeName xml:id="name211-6" xml:lang="en" source="#bib211-5">al-ʾAnbar</placeName>
                     <placeName xml:id="name211-7" xml:lang="en" source="#bib211-6">Anbar</placeName>
-                    <placeName xml:id="name211-8" xml:lang="ar" source="#bib211-8">فيروزسابور</placeName>
-                    <placeName xml:id="name211-9" xml:lang="ar" source="#bib211-8">الأَنبار</placeName>
+                    <placeName xml:id="name211-8" xml:lang="ar" source="#bib211-8 #bib211-15">فيروزسابور</placeName>
+                    <placeName xml:id="name211-9" xml:lang="ar" source="#bib211-8 #bib211-15">الأَنبار</placeName>
                     <placeName xml:id="name211-10" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
                     <placeName xml:id="name211-11" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
                     <placeName xml:lang="ar" source="#bib211-9" xml:id="name211-12">الأنبار</placeName>
@@ -185,7 +185,7 @@
                     <location type="gps" source="#bib211-7" subtype="preferred">
                         <geo>33.4000693333 43.640686</geo>
                     </location>
-                    <event type="attestation" xml:id="attestation211-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib211-8">
+                    <event type="attestation" xml:id="attestation211-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib211-8 #bib211-15">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="ar">فيروزسابور</foreign> and <foreign xml:lang="ar">الأَنبار</foreign>
                             in the <title xml:lang="en" level="m">Muʿjam al-buldān</title> of
                                 <persName>Yāqūt al-Ḥamawī</persName>.</p>
@@ -249,7 +249,8 @@
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Yāqūt al-Ḥamawī</author>
                         <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-                        <citedRange unit="pp">I:305; IV:321</citedRange>
+                        <citedRange unit="vol">I</citedRange>
+                        <citedRange unit="pp">305</citedRange>
                     </bibl>
                     <bibl xml:id="bib211-9">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
@@ -289,6 +290,13 @@
                             Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">663</citedRange>
+                    </bibl>
+                    <bibl xml:id="bib211-15">
+                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+                        <author>Yāqūt al-Ḥamawī</author>
+                        <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+                        <citedRange unit="vol">IV</citedRange>
+                        <citedRange unit="pp">321</citedRange>
                     </bibl>
                 </place>
             </listPlace>
