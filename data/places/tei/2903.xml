@@ -151,9 +151,8 @@
                     <placeName xml:id="name2903-8" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
                     <placeName xml:id="name2903-9" xml:lang="en">al-Ahsa</placeName>
                     <placeName xml:id="name2903-10" xml:lang="en">al-Hasa</placeName>
-                    <placeName xml:id="name5009-5" xml:lang="ar" source="#bib2903-2 #bib2903-14 #bib2903-16 #bib2903-17">الأحساء</placeName>
-                    <placeName xml:id="name5009-7" xml:lang="ar" source="#bib2903-15">الأحساء‎لهسا</placeName>
-                    <placeName xml:id="name5009-8" xml:lang="ar" source="#bib2903-15">لهسا</placeName>
+                    <placeName xml:id="name2903-11" xml:lang="ar" source="#bib2903-2 #bib2903-14 #bib2903-16 #bib2903-17">الأحساء</placeName>
+                    <placeName xml:id="name5009-12" xml:lang="ar" source="#bib2903-15">لهسا</placeName>
                     <desc type="abstract" xml:id="abstract2903-1" xml:lang="en" source="#bib2903-10">The capital city of
                         the province of <placeName>al-Baḥrayn</placeName>.</desc>
                     <desc xml:lang="en" source="#bib2903-18"><quote>[O]asis, or more properly group of oases, in eastern Saudi Arabia, approximately from 25° 20′ to 25° 40′ N., and 49° 30′ to 49° 50′ E. The name has been also used to designate the entire region of Eastern Arabia.</quote></desc>
