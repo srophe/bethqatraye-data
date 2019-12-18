@@ -80,7 +80,7 @@
           <placeName xml:id="name5495-3" xml:lang="en">Tiran</placeName>
           <placeName xml:id="name5495-4" xml:lang="en">Tīrān</placeName>
           <placeName xml:id="name5495-5" xml:lang="ar" source="#bib5495-1">تاران</placeName>
-          <desc type="abstract" xml:id="abstract5495-1" xml:lang="en"><quote>Tiran (Arabic: جزيرة تيران‎Jazīrat Tīrān) is an island located in the Straits of Tiran, which separate the Red Sea from the Gulf of Aqaba.</quote></desc>
+          <desc type="abstract" xml:id="abstract5495-1" xml:lang="en" source="#bib5495-2"><quote>Tiran (Arabic: جزيرة تيران‎Jazīrat Tīrān) is an island located in the Straits of Tiran, which separate the Red Sea from the Gulf of Aqaba.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5495-1">[...] ثم قد انتهى حينئذ حدود ديار العرب من هذا البحر وهذا المكان من البحر له لسان يعرف ببحر القلزم فيمتد على تاران وجبيلان الى القلزم وينقطع وهو شرقى ديار العرب</quote>
           </desc>
