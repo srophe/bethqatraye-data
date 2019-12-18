@@ -150,7 +150,7 @@
                     <placeName xml:lang="en" xml:id="name823-10">Hamdān</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract823-1">A city in northwestern <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>.
                     </desc>
-                    <desc xml:lang="en">A <quote source="#bib823-6">city in central <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>
+                    <desc xml:lang="en">A <quote source="#bib823-6">city in central <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>
                         located in a fertile plain just south of <placeName>Mt. Alwand</placeName>, 48° 31′ E. (Greenw.),
                         34° 48′ N., altitude ca. 1800 metres/5900 ft.</quote>
                     </desc>

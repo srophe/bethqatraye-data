@@ -182,7 +182,7 @@
                     </desc>
                     <desc xml:lang="en">
                         <quote source="#bib122-4">once a large town in the northeastern part of the
-                            province of <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/18"><placeName ref="http://syriaca.org/place/18">Aleppo</placeName></ref>, three leagues from the <ref rend="bold" target="https://bqgazetteer.bethmardutho.org/place/82"><placeName ref="http://syriaca.org/place/82">Euphrates</placeName></ref>. Today it is a
+                            province of <ref target="https://bqgazetteer.bethmardutho.org/place/18"><placeName ref="http://syriaca.org/place/18">Aleppo</placeName></ref>, three leagues from the <ref target="https://bqgazetteer.bethmardutho.org/place/82"><placeName ref="http://syriaca.org/place/82">Euphrates</placeName></ref>. Today it is a
                             small town.</quote>
                     </desc>
                     <location type="gps" source="#bib122-10" subtype="alternate">
