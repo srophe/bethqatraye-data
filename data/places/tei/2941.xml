@@ -153,7 +153,7 @@
                 <place xml:id="place-2941" type="region">
                     <placeName xml:id="name2941-1" xml:lang="en" srophe:tags="#headword">al-Baḥrayn</placeName>
                     <placeName xml:id="name2941-2" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">al-Baḥrain</placeName>
-                    <placeName xml:id="name2941-3" xml:lang="ar" srophe:tags="#headword" source="#bib2941-1 #bib2941-2 #bib2941-3 #bib2941-4 #bib2941-5 #bib2941-6 #bib2941-15">البحرين</placeName>
+                    <placeName xml:id="name2941-3" xml:lang="ar" srophe:tags="#headword" source="#bib2941-1 #bib2941-2 #bib2941-3 #bib2941-4 #bib2941-5 #bib2941-6 #bib2941-12 #bib2941-13 #bib2941-14">البحرين</placeName>
                     <placeName xml:id="name2941-4" xml:lang="en">Bahrain</placeName>
                     <desc xml:id="abstract-en-2941" xml:lang="en">A cluster of many towns and
                         villages in the eastern part of <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabian Peninsula</placeName></ref>
@@ -333,13 +333,6 @@
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                         <citedRange unit="pp">vol. 5, pp. 166-167</citedRange>
-                    </bibl>
-                    <bibl xml:id="bib2941-15">
-                        <title xml:lang="en" level="m">Murūj al-Dhahab</title>
-                        <author>al-Masūdī</author>
-                        <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
-                        <citedRange unit="pp">vol. 1, pp. 45, 128-129, 166, 176; vol. 2, pp. 44,
-                            169, 264; vol. 5, p. 167</citedRange>
                     </bibl>
                     <bibl xml:id="bib2941-16">
                         <title level="a">http://www.geonames.org/290291/kingdom-of-bahrain.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/290291/kingdom-of-bahrain.html"/>
