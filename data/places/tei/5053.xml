@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5053/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5053/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,15 +70,15 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5053-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Khaṭṭa [?]</placeName>
-          <placeName xml:id="name5053-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخط</placeName>
+          <placeName xml:id="name5053-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khaṭṭa [?]</placeName>
+          <placeName xml:id="name5053-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الخط</placeName>
           <placeName xml:id="name5053-3" xml:lang="en">al-Khaṭṭu</placeName>
           <placeName xml:id="name5053-4" xml:lang="ar" source="#bib5053-1">الخط</placeName>
           <desc type="abstract" xml:id="abstract5053-1" xml:lang="en">A region stretching along the coastline of Oman and Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5053-1">الخط : بفتح أوله، وتشديد الطاء، في كتاب العين : الخط أرض تنسب إليها الرماح الخطية، فإذا جعلت النسبة اسما لازما قلت خطية ولم تذكر الرماح، وهو خط عمان، وقال أبو منصور : وذلك السيف كله يسمى الخط، ومن قرى الخط القطيف والعقير وقطر؛ قلت أنا : وجميع هذا في سيف البحرين وعمان، وهي مواضع كانت تجلب إليها الرماح القنا من الهند فتقوم فيه وتباع على العرب؛ وينسب إليها عيسى بن فاتك الخطي أحد بني تيم الله بن ثعلبة، كان من الخوارج الذين كانوا مع أبي بلاد سرداس بن أدية</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5053</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5053</idno>
           <idno type="URI">http://syriaca.org/place/5053</idno>
           <bibl xml:id="bib5053-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

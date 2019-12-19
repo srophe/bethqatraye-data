@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5265/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5265/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="building">
-          <placeName xml:id="name5265-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Dār ʿUmar bin al-Khaṭṭāb</placeName>
-          <placeName xml:id="name5265-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">دار عمر بن الخطاب</placeName>
+          <placeName xml:id="name5265-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Dār ʿUmar bin al-Khaṭṭāb</placeName>
+          <placeName xml:id="name5265-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">دار عمر بن الخطاب</placeName>
           <placeName xml:id="name5265-3" xml:lang="ar" source="#bib5265-1">دار عمر بن الخطاب</placeName>
           <desc type="abstract" xml:id="abstract5265-1" xml:lang="en">A building in Medina.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5265</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5265</idno>
           <idno type="URI">http://syriaca.org/place/5265</idno>
           <bibl xml:id="bib5265-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

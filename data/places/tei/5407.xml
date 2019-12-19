@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5407/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5407/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5407-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qabr Ādam</placeName>
-          <placeName xml:id="name5407-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قبر آدم</placeName>
+          <placeName xml:id="name5407-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qabr Ādam</placeName>
+          <placeName xml:id="name5407-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قبر آدم</placeName>
           <placeName xml:id="name5407-3" xml:lang="ar" source="#bib5407-1">قبر آدم</placeName>
           <desc type="abstract" xml:id="abstract5407-1" xml:lang="en">The tomb of Adam in Mecca.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5407</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5407</idno>
           <idno type="URI">http://syriaca.org/place/5407</idno>
           <bibl xml:id="bib5407-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

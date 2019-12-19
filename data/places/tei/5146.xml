@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5146/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5146/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5146-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Yāmiyān</placeName>
-          <placeName xml:id="name5146-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الياميان</placeName>
+          <placeName xml:id="name5146-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Yāmiyān</placeName>
+          <placeName xml:id="name5146-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الياميان</placeName>
           <placeName xml:id="name5146-3" xml:lang="en">al-Bāmiyān</placeName>
           <placeName xml:id="name5146-4" xml:lang="en">Bamiyan</placeName>
           <placeName xml:id="name5146-5" xml:lang="en">Bāmyān</placeName>
@@ -88,7 +88,7 @@
                     <location type="gps" source="#bib5146-3">
                         <geo>34.75 67.25</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5146</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5146</idno>
           <idno type="URI">http://syriaca.org/place/5146</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2110999</idno>
           <bibl xml:id="bib5146-1">

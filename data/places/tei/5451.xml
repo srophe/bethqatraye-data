@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5451/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5451/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5451-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
-          <placeName xml:id="name5451-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صنعاء</placeName>
+          <placeName xml:id="name5451-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
+          <placeName xml:id="name5451-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">صنعاء</placeName>
           <placeName xml:id="name5451-3" xml:lang="ar" source="#bib5451-1">صنعاء</placeName>
           <desc type="abstract" xml:id="abstract5451-1" xml:lang="en">A province (mikhlāf) in Yemen.</desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" subtype="representative" source="#bib5451-2">
                         <geo>15.26069 44.42489</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5451</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5451</idno>
           <idno type="URI">http://syriaca.org/place/5451</idno>
           <bibl xml:id="bib5451-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>

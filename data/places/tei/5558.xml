@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5558/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5558/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5558-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿIrāq al-ʿAjam</placeName>
-          <placeName xml:id="name5558-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عراق العجم</placeName>
+          <placeName xml:id="name5558-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿIrāq al-ʿAjam</placeName>
+          <placeName xml:id="name5558-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عراق العجم</placeName>
           <placeName xml:id="name5558-3" xml:lang="ar" source="#bib5558-1">عراق العجم</placeName>
           <desc type="abstract" xml:id="abstract5558-1" xml:lang="en" source="#bib5558-2"><quote>ʿIrāḳ ʿAd̲j̲amī indicated, from the late medieval period onwards, Iranian Media (which the ancient geographers had called al-Ḏj̲ibāl ), to distinguish it from ʿIrāḳ ʿArabī , which is ʿIrāḳ proper.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5558</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5558</idno>
           <idno type="URI">http://syriaca.org/place/5558</idno>
           <bibl xml:id="bib5558-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5415/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5415/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,15 +70,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5415-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qatar</placeName>
-          <placeName xml:id="name5415-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قَطَرُ</placeName>
+          <placeName xml:id="name5415-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qatar</placeName>
+          <placeName xml:id="name5415-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قَطَرُ</placeName>
           <placeName xml:id="name5415-3" xml:lang="en">Qaṭar</placeName>
           <placeName xml:id="name5415-4" xml:lang="ar" source="#bib5415-1">قطر</placeName>
           <desc type="abstract" xml:id="abstract5415-1" xml:lang="en">A village located in the region of al-Baḥrayn between al-ʿUqair and ʿUmān known for the production of textiles.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5415-1">قال أبو منصور : في أعراض البحرين على سيف الخط بين عمان والعقير قرية يقال لها قطر وأحسب الثياب القطرية تنسب إليها</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5415</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5415</idno>
           <idno type="URI">http://syriaca.org/place/5415</idno>
           <bibl xml:id="bib5415-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5335/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5335/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5335-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jūzjān</placeName>
-          <placeName xml:id="name5335-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جوزجانان</placeName>
+          <placeName xml:id="name5335-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jūzjān</placeName>
+          <placeName xml:id="name5335-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جوزجانان</placeName>
           <placeName xml:id="name5335-3" xml:lang="ar">جوزجان</placeName>
           <placeName xml:id="name5335-4" xml:lang="ar" source="#bib5335-1">جوزجانان</placeName>
           <placeName xml:id="name5335-5" xml:lang="ar" source="#bib5335-1">جوزجان</placeName>
@@ -88,7 +88,7 @@
                     <location type="gps" subtype="representative" source="#bib5335-3">
                         <geo>36.83333 65.83333</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5335</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5335</idno>
           <idno type="URI">http://syriaca.org/place/5335</idno>
           <idno type="URI">http://sws.geonames.org/1139049</idno>
           <bibl xml:id="bib5335-1">

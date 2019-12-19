@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5309/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5309/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5309-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hormuz</placeName>
-          <placeName xml:id="name5309-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هرمز</placeName>
+          <placeName xml:id="name5309-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Hormuz</placeName>
+          <placeName xml:id="name5309-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">هرمز</placeName>
           <placeName xml:id="name5309-3" xml:lang="en">Hurmuz</placeName>
           <placeName xml:id="name5309-4" xml:lang="en">Ormus</placeName>
           <placeName xml:id="name5309-5" xml:lang="ar" source="#bib5309-1">هرمز</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5309-2">
                         <geo>27.5026 54.2839</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5309</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5309</idno>
           <idno type="URI">http://syriaca.org/place/5309</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2733859</idno>
           <bibl xml:id="bib5309-1">

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5106/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5106/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,14 +76,14 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5106-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
-          <placeName xml:id="name5106-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الرصافة</placeName>
+          <placeName xml:id="name5106-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
+          <placeName xml:id="name5106-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الرصافة</placeName>
           <placeName xml:id="name5106-3" xml:lang="ar" source="#bib5106-1">الرصافة</placeName>
           <desc type="abstract" xml:id="abstract5106-1" xml:lang="en" source="#bib5106-2"><quote>[T]he name of a quarter of the city of Bag̲h̲dād [q.v.] founded soon after the caliph al-Manṣūr [q.v.] built his Round City.</quote></desc>
                     <location type="gps" source="#bib5106-3">
                         <geo>33.3430618 44.3377829</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5106</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5106</idno>
           <idno type="URI">http://syriaca.org/place/5106</idno>
           <idno type="URI">https://goo.gl/maps/7JYaN266UmN6vV88A</idno>
           <bibl xml:id="bib5106-1">

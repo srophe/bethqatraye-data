@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5084/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5084/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,11 +70,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5084-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Nahrayn</placeName>
-          <placeName xml:id="name5084-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">النهرين</placeName>
+          <placeName xml:id="name5084-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Nahrayn</placeName>
+          <placeName xml:id="name5084-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">النهرين</placeName>
           <placeName xml:id="name5084-3" xml:lang="ar" source="#bib5084-1">النهرين</placeName>
           <desc type="abstract" xml:id="abstract5084-1" xml:lang="en">A place in which a certain al-Qarmaṭī resided.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5084</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5084</idno>
           <idno type="URI">http://syriaca.org/place/5084</idno>
           <bibl xml:id="bib5084-1">
             <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>

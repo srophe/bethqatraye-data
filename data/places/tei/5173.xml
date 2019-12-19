@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5173/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5173/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5173-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Antalya</placeName>
-          <placeName xml:id="name5173-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أنطاليا</placeName>
+          <placeName xml:id="name5173-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Antalya</placeName>
+          <placeName xml:id="name5173-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">أنطاليا</placeName>
           <placeName xml:id="name5173-3" xml:lang="en">Anṭālyā</placeName>
           <placeName xml:id="name5173-4" xml:lang="en">Anṭalya</placeName>
           <placeName xml:id="name5173-5" xml:lang="ar" source="#bib5173-1">انطالية</placeName>
@@ -87,10 +87,10 @@
           <location type="gps" subtype="representative" source="#bib5173-2">
                         <geo>36.76984 31.90215</geo>
                     </location>
-          <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="alternate">
+          <location type="gps" resp="https://bqgazetteer.bethmardutho.org" subtype="alternate">
             <geo>36.8874 30.7075</geo>
           </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5173</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5173</idno>
           <idno type="URI">http://syriaca.org/place/5173</idno>
           <idno type="URI">http://sws.geonames.org/323776</idno>
           <bibl xml:id="bib5173-1">

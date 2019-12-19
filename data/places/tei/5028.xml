@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5028/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5028/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5028-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Farāsh</placeName>
-          <placeName xml:id="name5028-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الفراش</placeName>
+          <placeName xml:id="name5028-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Farāsh</placeName>
+          <placeName xml:id="name5028-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الفراش</placeName>
           <placeName xml:id="name5028-3" xml:lang="en">Farāshā</placeName>
           <placeName xml:id="name5028-4" xml:lang="ar">فراشا</placeName>
           <placeName xml:id="name5028-5" xml:lang="ar" source="#bib5028-1">الفراش</placeName>
           <placeName xml:id="name5028-6" xml:lang="ar" source="#bib5028-1">فراشا</placeName>
           <desc type="abstract" xml:id="abstract5028-1" xml:lang="en">A village southest of Baghdad.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5028</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5028</idno>
           <idno type="URI">http://syriaca.org/place/5028</idno>
           <bibl xml:id="bib5028-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

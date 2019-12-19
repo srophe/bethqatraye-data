@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5476/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5476/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5476-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sīwah</placeName>
-          <placeName xml:id="name5476-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سيوة</placeName>
+          <placeName xml:id="name5476-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sīwah</placeName>
+          <placeName xml:id="name5476-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سيوة</placeName>
           <placeName xml:id="name5476-3" xml:lang="ar" source="#bib5476-1">سيوه</placeName>
           <desc type="abstract" xml:id="abstract5476-1" xml:lang="en">A minbar in the nāhiya of Ghaznin.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5476-1">واما غزنين فانها كورة جليلة وهى اسم القصبة ايضا ومن مدنها كرديس، سكاوند، نوه، بردن، دمراخى، حش بارى، فرمل، سرهون، لجرا، خواست، زاوه، كاويل، كابل، لمغان، بودن، لهوكر، وناحية الشتان ولها ست منابر ابشين، اسبيجه، مستنك، شال، سكيرة، سيوه والف ومائة قرية وللكورة الفان ومائتا قرية.</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5476</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5476</idno>
           <idno type="URI">http://syriaca.org/place/5476</idno>
           <bibl xml:id="bib5476-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2997/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2997/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -101,7 +101,7 @@
             <place xml:id="place-2997" type="settlement">
                <placeName xml:id="name2997-1" xml:lang="en" srophe:tags="#headword">Būshanj</placeName>
                <placeName xml:id="name2997-2" xml:lang="ar" srophe:tags="#headword" source="#bib2997-1">بوشنج</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2997-1">A town ten farsakhs from <ref target="http://bqgazetteer.bethmardutho.org/place/523"><placeName ref="http://syriaca.org/place/523">Herat</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2997-1">A town ten farsakhs from <ref target="https://bqgazetteer.bethmardutho.org/place/523"><placeName ref="http://syriaca.org/place/523">Herat</placeName></ref>
                </desc>
                <location type="relative" source="#bib2997-1">A town <measure unit="farsakh" quantity="10">ten farsakhs</measure> from <placeName ref="http://syriaca.org/place/523">Herat</placeName>
                </location>
@@ -115,7 +115,7 @@
                   <precision match="@from" notAfter="0272"/>
                   <precision match="@to" notAfter="1736" notBefore="1381"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2997</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2997</idno>
                <idno type="URI">http://syriaca.org/place/2997</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Pushang</idno>
                <idno type="URI">https://dbpedia.org/resource/Pushang</idno>

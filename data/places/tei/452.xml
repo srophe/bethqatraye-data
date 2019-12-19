@@ -90,7 +90,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/452/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/452/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -190,7 +190,7 @@
                     <placeName xml:id="name452-8" xml:lang="ar" source="#bib452-5">الكُوفة</placeName>
                     <placeName xml:lang="en" xml:id="name452-9">Kūfa</placeName>
                     <desc type="abstract" xml:id="abstract-en-452" xml:lang="en">An early Islamic
-                        city founded by Saʿd b. Abī Waqqās in southern <ref target="http://bqgazetteer.bethmardutho.org/place/98"><placeName ref="http://syriaca.org/place/98">Iraq</placeName></ref>
+                        city founded by Saʿd b. Abī Waqqās in southern <ref target="https://bqgazetteer.bethmardutho.org/place/98"><placeName ref="http://syriaca.org/place/98">Iraq</placeName></ref>
                     </desc>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib452-2">ܘܡܶܬܶܐܡܰܪ ܠܳܗ̇ ܥܰܐܩܘܠܐ ܘܺܗܝ ܗܺܝ ܐܰܬܪܐ ܕܝܺܕܝܥ
@@ -227,7 +227,7 @@
                     </state>
                     <note type="corrigenda">In Dolabani's translation of Barsoum's description
                             <quote xml:lang="syr-Syrj">ܘܺܗܝ</quote> should read <quote xml:lang="syr-Syrj">ܘܗܺܝ</quote>.</note>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/452</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/452</idno>
                     <idno type="URI">http://syriaca.org/place/452</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/912808</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Kufa</idno>

@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5564/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5564/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -71,8 +71,8 @@
     <body>
       <listPlace>
         <place type="diocese">
-          <placeName xml:id="name5564-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Fars</placeName>
-          <placeName xml:id="name5564-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">فارس</placeName>
+          <placeName xml:id="name5564-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Fars</placeName>
+          <placeName xml:id="name5564-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">فارس</placeName>
           <placeName xml:id="name5564-3" xml:lang="en">Fārs</placeName>
           <placeName xml:id="name5564-4" xml:lang="syr" source="#bib5564-4">ܦܪܣ</placeName>
           <placeName xml:id="name5564-5" xml:lang="syr" source="#bib5564-2">ܒܝܬ ܦܪ̈ܣܝܐ</placeName>
@@ -90,7 +90,7 @@
                     <location type="gps" subtype="representative" source="#bib5564-6">
                         <geo>30.5 51.5</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5564</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5564</idno>
           <idno type="URI">http://syriaca.org/place/5564</idno>
           <idno type="URI">https://pleiades.stoa.org/places/922698</idno>
           <bibl xml:id="bib5564-1">

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5154/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5154/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5154-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zāwa</placeName>
-          <placeName xml:id="name5154-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزاوة</placeName>
+          <placeName xml:id="name5154-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zāwa</placeName>
+          <placeName xml:id="name5154-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الزاوة</placeName>
           <placeName xml:id="name5154-3" xml:lang="en">Zāwa</placeName>
           <placeName xml:id="name5154-4" xml:lang="en">Turbat-i Ḥaydarī</placeName>
           <placeName xml:id="name5154-5" xml:lang="en">Ḥaydariyya</placeName>
@@ -88,7 +88,7 @@
                     <location type="gps" source="#bib5154-3">
                         <geo>35.27401 59.21949</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5154</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5154</idno>
           <idno type="URI">http://syriaca.org/place/5154</idno>
           <idno type="URI">http://sws.geonames.org/112646</idno>
           <bibl xml:id="bib5154-1">

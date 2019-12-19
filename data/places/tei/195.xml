@@ -52,7 +52,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/195/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/195/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -122,7 +122,7 @@
                     <placeName xml:id="name195-4" xml:lang="ar" srophe:tags="#headword" source="#bib195-4">صور</placeName>
                     <desc xml:id="abstract-en-195" xml:lang="en">An important port city of the
                         eastern <placeName ref="http://syriaca.org/place/135">Mediterranean
-                            Sea</placeName> west of <ref target="http://bqgazetteer.bethmardutho.org/place/66"><placeName ref="http://syriaca.org/place/66">Damascus</placeName></ref>.</desc>
+                            Sea</placeName> west of <ref target="https://bqgazetteer.bethmardutho.org/place/66"><placeName ref="http://syriaca.org/place/66">Damascus</placeName></ref>.</desc>
                     <location type="gps" source="#bib195-1">
                         <geo>33.26889 35.21639</geo>
                     </location>
@@ -142,7 +142,7 @@
                         <precision match="@from" notAfter="-1300"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/195</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/195</idno>
                     <idno type="URI">http://syriaca.org/place/195</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/678437</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Tyre,_Lebanon</idno>

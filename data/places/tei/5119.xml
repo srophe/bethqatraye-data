@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5119/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5119/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5119-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sarāt</placeName>
-          <placeName xml:id="name5119-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السراة</placeName>
+          <placeName xml:id="name5119-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sarāt</placeName>
+          <placeName xml:id="name5119-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">السراة</placeName>
           <placeName xml:id="name5119-3" xml:lang="en">al-Sarawāt</placeName>
           <placeName xml:id="name5119-4" xml:lang="ar">السروات</placeName>
           <placeName xml:id="name5119-5" xml:lang="ar" source="#bib5119-1">السراة</placeName>
@@ -85,7 +85,7 @@
                     <location type="gps" subtype="representative" source="#bib5119-3">
                         <geo>18.267222222222 42.368055555556</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5119</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5119</idno>
           <idno type="URI">http://syriaca.org/place/5119</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=جبال_السروات&amp;params=18.267222222222_N_42.368055555556_E_globe:earth_type:landmark</idno>
           <bibl xml:id="bib5119-1">

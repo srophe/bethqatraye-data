@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5193/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5193/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="open-water">
-          <placeName xml:id="name5193-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Mandab</placeName>
-          <placeName xml:id="name5193-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب المندب</placeName>
+          <placeName xml:id="name5193-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb al-Mandab</placeName>
+          <placeName xml:id="name5193-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">باب المندب</placeName>
           <placeName xml:id="name5193-3" xml:lang="ar" source="#bib5193-1">مندم</placeName>
           <desc type="abstract" xml:id="abstract5193-1" xml:lang="en">A strait between the Gulf of Aden and the Red Sea.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5193-1">ومندم على البحر عامرة بها يعتقل الريح المراكب قشفة</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5193</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5193</idno>
           <idno type="URI">http://syriaca.org/place/5193</idno>
           <idno type="URI">http://betamasaheft.eu/places/LOC1688BabalM/main</idno>
           <bibl xml:id="bib5193-1">

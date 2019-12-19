@@ -70,7 +70,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/18/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/18/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -153,7 +153,7 @@
                     <placeName xml:id="name18-4" xml:lang="syr-Syrj" source="#bib18-3">ܚܳܠܒ</placeName>
                     <placeName xml:id="name18-5" xml:lang="ar" source="#bib18-4 #bib18-10 #bib18-9" srophe:tags="#headword">حلب</placeName>
                     <placeName xml:id="name18-6" xml:lang="ar" source="#bib18-8">حَلَب</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name18-7">Ḥalab</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name18-7">Ḥalab</placeName>
                     <desc type="abstract" xml:id="abstract-en-18" xml:lang="en">
                         <quote source="#bib18-1">City in northern <placeName>Syria</placeName> and an important center of
                             Christianity in the Middle East today as the seat of a total of nine
@@ -176,7 +176,7 @@
                         <precision match="@from" notAfter="0640" srophe:computed-end="0640-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/18</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/18</idno>
                     <idno type="URI">http://syriaca.org/place/18</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/658409</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Aleppo</idno>

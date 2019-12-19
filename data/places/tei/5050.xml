@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5050/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5050/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5050-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Karkh</placeName>
-          <placeName xml:id="name5050-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الكرخ</placeName>
+          <placeName xml:id="name5050-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Karkh</placeName>
+          <placeName xml:id="name5050-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الكرخ</placeName>
           <placeName xml:id="name5050-3" xml:lang="ar" source="#bib5050-1">الكرخ</placeName>
           <desc type="abstract" xml:id="abstract5050-1" xml:lang="en">A quarter in west Baghdad.</desc>
                     <location type="gps" source="#bib5050-2">
                         <geo>33.2125429 44.0791214</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5050</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5050</idno>
           <idno type="URI">http://syriaca.org/place/5050</idno>
           <idno type="URI">https://goo.gl/maps/yKK141VsoThUu5kU9</idno>
           <bibl xml:id="bib5050-1">

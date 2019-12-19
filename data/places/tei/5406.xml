@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5406/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5406/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5406-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qabr Abī Lahab</placeName>
-          <placeName xml:id="name5406-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قبر أبي لهب</placeName>
+          <placeName xml:id="name5406-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qabr Abī Lahab</placeName>
+          <placeName xml:id="name5406-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قبر أبي لهب</placeName>
           <placeName xml:id="name5406-3" xml:lang="ar" source="#bib5406-1">قبر أبي لهب</placeName>
           <desc type="abstract" xml:id="abstract5406-1" xml:lang="en">The tombs of Abū Lahab and his wife are supposedly located outside Mecca.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5406</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5406</idno>
           <idno type="URI">http://syriaca.org/place/5406</idno>
           <bibl xml:id="bib5406-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5238/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5238/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5238-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bayt al-Ahba</placeName>
-          <placeName xml:id="name5238-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بيت الأهبة</placeName>
+          <placeName xml:id="name5238-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bayt al-Ahba</placeName>
+          <placeName xml:id="name5238-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بيت الأهبة</placeName>
           <placeName xml:id="name5238-3" xml:lang="ar" source="#bib5238-1">بيت الأهبة</placeName>
           <desc type="abstract" xml:id="abstract5238-1" xml:lang="en">A village east of Damascus.</desc><desc xml:lang="ar"><quote source="#bib5238-1">وأكثر قرى دمشق فيها الحمّامات والمساجد الجامعة والأسواق وسكانها كأهل الحاضرة في مناحيهم، وفي شرقي البلد قرية تعرف ببيت الأهبة (إلاهيّة؟) وكانت فيها كنيسة يقال: إن آزر كان یجلب فيها الأصنام فيكسرها الخليل عليه السلام، وهي الآن مسجد جامع بديع مزين بفصوص الرخام الملونة المنظمة بأعجب نظام وأزين التئام.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5238</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5238</idno>
           <idno type="URI">http://syriaca.org/place/5238</idno>
           <bibl xml:id="bib5238-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

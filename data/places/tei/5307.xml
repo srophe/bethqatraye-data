@@ -52,7 +52,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5307/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5307/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -93,17 +93,17 @@
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5307-1">Merged in data from
-        [http://bqgazetteer.bethmardutho.org/place/5308].</change>
+        [https://bqgazetteer.bethmardutho.org/place/5308].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5308]</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [https://bqgazetteer.bethmardutho.org/place/5308]</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5307-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Hīt</placeName>
-          <placeName xml:id="name5307-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5307-2">هيت</placeName>
+          <placeName xml:id="name5307-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Hīt</placeName>
+          <placeName xml:id="name5307-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5307-2">هيت</placeName>
           <placeName xml:id="name5307-3" xml:lang="en">Idu</placeName>
           <placeName xml:id="name5307-4" xml:lang="en">Diacira</placeName>
           <placeName xml:id="name5307-5" xml:lang="ar" source="#bib5307-1 #bib5307-2">هيت</placeName>
@@ -118,7 +118,7 @@
                     <location type="gps" source="#bib5307-4">
                         <geo>33.6436 42.8215</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5307</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5307</idno>
           <idno type="URI">http://syriaca.org/place/5307</idno>
           <idno type="URI">http://pleiades.stoa.org/places/894008</idno>
           <bibl xml:id="bib5307-1">

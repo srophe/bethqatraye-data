@@ -52,7 +52,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5480/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5480/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -93,22 +93,22 @@
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5480-1">Merged in data from
-        [http://bqgazetteer.bethmardutho.org/place/5481].</change>
+        [https://bqgazetteer.bethmardutho.org/place/5481].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5481]</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [https://bqgazetteer.bethmardutho.org/place/5481]</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5480-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Surra man Raʾā</placeName>
-          <placeName xml:id="name5480-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">سر من رأى</placeName>
+          <placeName xml:id="name5480-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Surra man Raʾā</placeName>
+          <placeName xml:id="name5480-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">سر من رأى</placeName>
           <placeName xml:id="name5480-3" xml:lang="en">Sāmarrāʾ</placeName>
           <placeName xml:id="name5480-4" xml:lang="ar">سامراء</placeName>
           <placeName xml:id="name5480-5" xml:lang="ar" source="#bib5480-1">سر من رأى</placeName>
-          <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-6">Surra man raʾy</placeName>
-          <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5480-7">سرّ من رأي</placeName>
+          <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5480-6">Surra man raʾy</placeName>
+          <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5480-7">سرّ من رأي</placeName>
           <placeName xml:lang="en" xml:id="name5480-8">Sāmarrā</placeName>
           <placeName xml:lang="ar" xml:id="name5480-9">سامّرا</placeName>
           <placeName xml:lang="ar" xml:id="name5480-10" source="#bib5480-2">سرّ من رأي
@@ -122,7 +122,7 @@
                     <location type="gps" source="#bib5480-4">
                         <geo>34.19663 43.8739</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5480</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5480</idno>
           <idno type="URI">http://syriaca.org/place/5480</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2283182</idno>
           <bibl xml:id="bib5480-1">

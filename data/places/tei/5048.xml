@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5048/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5048/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5048-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Juhfa</placeName>
-          <placeName xml:id="name5048-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الجحفة</placeName>
+          <placeName xml:id="name5048-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Juhfa</placeName>
+          <placeName xml:id="name5048-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الجحفة</placeName>
           <placeName xml:id="name5048-3" xml:lang="ar" source="#bib5048-1">الجحفة</placeName>
           <desc type="abstract" xml:id="abstract5048-1" xml:lang="en">A city north of Mecca serving as mīqāt for pilgrims from Shām, Miṣr, and the Maghrib.</desc><desc xml:lang="ar"><quote source="#bib5048-1">ورحلنا من بدر إلى الصحراء المعروفة بقاع البزواء، وهي برية يضل بها الدليل، ويذهل عن خليله الخليل. مسيرة ثلاث وفي منتهاها وادي رابغ، يتكون فيه بالمطر غدراناً يبقى بها الماء زمانا طويلا، ومنه يحرم حجاج مصر والمغرب، وهو دون الجحفة</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5048</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5048</idno>
           <idno type="URI">http://syriaca.org/place/5048</idno>
           <idno type="URI">https://www.google.com/maps/place/Al+Jehfa+Saudi+Arabia/data=!4m2!3m1!1s0x15c092879789ec45:0x88b7d354df37ae83?sa=X&amp;ved=2ahUKEwje3oSTucbjAhVQSK0KHWFzCfAQ8gEwAHoECAkQAQ</idno>
           <bibl xml:id="bib5048-1">

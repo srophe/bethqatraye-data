@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5567/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5567/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5567-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
-          <placeName xml:id="name5567-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الستار</placeName>
+          <placeName xml:id="name5567-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
+          <placeName xml:id="name5567-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الستار</placeName>
           <placeName xml:id="name5567-3" xml:lang="ar" source="#bib5567-1">الستار</placeName>
           <desc type="abstract" xml:id="abstract5567-1" xml:lang="en">A region (nāḥiya) in Bahrain containing more than one hundred villages</desc>
           <desc xml:lang="ar">
             <quote source="#bib5567-1">والستار : ناحية بالبحرين ذات قرى تزيد على مائة لبني امرىء القيس بن زيد مناة وأفناء سعد بن زيد مناة منها ثأج.</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5567</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5567</idno>
           <idno type="URI">http://syriaca.org/place/5567</idno>
           <bibl xml:id="bib5567-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

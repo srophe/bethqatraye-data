@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5045/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5045/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="cemetery">
-          <placeName xml:id="name5045-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Jabbāna</placeName>
-          <placeName xml:id="name5045-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الجبانة</placeName>
+          <placeName xml:id="name5045-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Jabbāna</placeName>
+          <placeName xml:id="name5045-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الجبانة</placeName>
           <placeName xml:id="name5045-3" xml:lang="en">Maqbarat al-Maʿlāt</placeName>
           <placeName xml:id="name5045-4" xml:lang="en">al-Ḥajūn</placeName>
           <placeName xml:id="name5045-5" xml:lang="en">Kadāʾ</placeName>
@@ -84,7 +84,7 @@
           <placeName xml:id="name5045-8" xml:lang="ar">كداء</placeName>
           <placeName xml:id="name5045-9" xml:lang="ar" source="#bib5045-1">الجبانة</placeName>
           <desc type="abstract" xml:id="abstract5045-1" xml:lang="en">A cemetery in Mecca.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5045</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5045</idno>
           <idno type="URI">http://syriaca.org/place/5045</idno>
           <bibl xml:id="bib5045-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

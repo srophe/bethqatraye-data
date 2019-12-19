@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5450/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5450/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5450-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Samīra</placeName>
-          <placeName xml:id="name5450-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سميرة</placeName>
+          <placeName xml:id="name5450-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Samīra</placeName>
+          <placeName xml:id="name5450-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سميرة</placeName>
           <placeName xml:id="name5450-3" xml:lang="en">Sumayra</placeName>
           <placeName xml:id="name5450-4" xml:lang="en">Sumayrāʾa</placeName>
           <placeName xml:id="name5450-5" xml:lang="ar">سميراء</placeName>
@@ -85,7 +85,7 @@
                     <location type="gps" source="#bib5450-2">
                         <geo>26.8 42.2</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5450</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5450</idno>
           <idno type="URI">http://syriaca.org/place/5450</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=سميراء&amp;params=26_48_N_42_12_E_type:city</idno>
           <bibl xml:id="bib5450-1">

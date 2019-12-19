@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5329/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5329/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5329-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jarwan</placeName>
-          <placeName xml:id="name5329-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جرون</placeName>
+          <placeName xml:id="name5329-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jarwan</placeName>
+          <placeName xml:id="name5329-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جرون</placeName>
           <placeName xml:id="name5329-3" xml:lang="ar" source="#bib5329-1">جرون</placeName>
           <desc type="abstract" xml:id="abstract5329-1" xml:lang="en">A town located on the island of Hormuz.</desc><desc xml:lang="ar"><quote source="#bib5329-3">ووصلنا إلى هرمز الجديدة، وهي جزيرة مدينتها تسمى جرون (بفتح الجيم والراء وآخرها نون)، وهي مدينة حسنة كبيرة لها أسواق حافلة، وهي مرسى الهند والسند</quote></desc><desc xml:lang="ar"><quote source="#bib5329-4">ثم سافرنا من مدينة جرون برسم لقاء رجل صالح ببلد خنج بال.</quote></desc>
                     <location type="gps" source="#bib5329-2">
                         <geo>27.064791 56.458412</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5329</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5329</idno>
           <idno type="URI">http://syriaca.org/place/5329</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2750301</idno>
           <bibl xml:id="bib5329-1">

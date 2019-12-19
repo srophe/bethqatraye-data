@@ -61,7 +61,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3000/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/3000/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -119,7 +119,7 @@
                <placeName xml:id="name3000-2" xml:lang="ar" srophe:tags="#headword" source="#bib3000-1 #bib3000-2">الطالقان</placeName>
                <placeName xml:lang="en" xml:id="name3000-3">Tāleqān</placeName>
                <placeName xml:lang="en" xml:id="name3000-4">Tālīqān</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract3000-1">A town of <ref target="http://bqgazetteer.bethmardutho.org/place/603"><placeName ref="http://syriaca.org/place/603">Khurasan</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract3000-1">A town of <ref target="https://bqgazetteer.bethmardutho.org/place/603"><placeName ref="http://syriaca.org/place/603">Khurasan</placeName></ref>
                </desc>
                <desc xml:lang="en">A city (madīna) in the region
                   of Daylam.</desc>
@@ -139,7 +139,7 @@
                   <precision match="@from" notAfter="0891"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3000</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/3000</idno>
                <idno type="URI">http://syriaca.org/place/3000</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Taloqan</idno>
                <idno type="URI">https://dbpedia.org/resource/Taloqan</idno>

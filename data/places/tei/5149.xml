@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5149/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5149/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5149-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zāhir</placeName>
-          <placeName xml:id="name5149-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزاهر</placeName>
+          <placeName xml:id="name5149-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zāhir</placeName>
+          <placeName xml:id="name5149-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الزاهر</placeName>
           <placeName xml:id="name5149-3" xml:lang="ar" source="#bib5149-1">الزاهر</placeName>
           <desc type="abstract" xml:id="abstract5149-1" xml:lang="en">A quarter in Mecca.</desc>
                     <location type="gps" source="#bib5149-2">
                         <geo>21.4485946 39.789396</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5149</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5149</idno>
           <idno type="URI">http://syriaca.org/place/5149</idno>
           <idno type="URI">https://goo.gl/maps/xQEfvS1ZCw757gf2A</idno>
           <bibl xml:id="bib5149-1">

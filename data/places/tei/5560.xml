@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5560/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5560/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,12 +74,12 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5560-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿUmān</placeName>
-          <placeName xml:id="name5560-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عُمان</placeName>
+          <placeName xml:id="name5560-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿUmān</placeName>
+          <placeName xml:id="name5560-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عُمان</placeName>
           <placeName xml:id="name5560-3" xml:lang="en">Oman</placeName>
           <placeName xml:id="name5560-4" xml:lang="ar" source="#bib5560-1">عُمان</placeName>
           <desc type="abstract" xml:id="abstract5560-1" xml:lang="en">A region located in the southeast of the Arabian Peninsula.</desc><desc xml:lang="ar"><quote source="#bib5560-2">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc><desc xml:lang="ar"><quote source="#bib5560-3">فيأخذ الجوهر في دينه أو ما وجب له منه، ثم سافرنا من سيراف إلى مدينة البحرين، وهي مدينة كبيرة حسنة ذات بساتين وأشجار وأنهار، وماؤها قريب المؤونة يحفر عليه بالأيدي فيوجد، وبها حدائق النخل والرمان والأترج، يزرع بها القطن وهي شديدة الحر كثيرة الرمال وربما غلب الرمل على بعض منازلها وكان فيما بينها وبين عمان طريق استولت عليه الرمال وانقطع"</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5560</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5560</idno>
           <idno type="URI">http://syriaca.org/place/5560</idno>
           <bibl xml:id="bib5560-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

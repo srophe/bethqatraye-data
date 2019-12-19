@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5244/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5244/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5244-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Biʾr Dhāt al-ʿIlm</placeName>
-          <placeName xml:id="name5244-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بئر ذات العلم</placeName>
+          <placeName xml:id="name5244-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Biʾr Dhāt al-ʿIlm</placeName>
+          <placeName xml:id="name5244-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بئر ذات العلم</placeName>
           <placeName xml:id="name5244-3" xml:lang="en">al-Rauḥāʾ</placeName>
           <placeName xml:id="name5244-4" xml:lang="ar">الروحاء</placeName>
           <placeName xml:id="name5244-5" xml:lang="ar" source="#bib5244-1">بئر ذات العلم</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5244-2">
                         <geo>24.069311 38.6082298</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5244</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5244</idno>
           <idno type="URI">http://syriaca.org/place/5244</idno>
           <idno type="URI">https://goo.gl/maps/o3fAwAu3eyiSrPrcA</idno>
           <bibl xml:id="bib5244-1">

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5433/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5433/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5433-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ramāda</placeName>
-          <placeName xml:id="name5433-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رمادة</placeName>
+          <placeName xml:id="name5433-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ramāda</placeName>
+          <placeName xml:id="name5433-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">رمادة</placeName>
           <placeName xml:id="name5433-3" xml:lang="ar" source="#bib5433-1">رمادة</placeName>
           <desc type="abstract" xml:id="abstract5433-1" xml:lang="en">A village (qarya) in Balkh.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5433-1">رمادة مدينة بالمغرب وقرية ببلخ واخرى بنيسابور واخرى بالرملة</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5433</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5433</idno>
           <idno type="URI">http://syriaca.org/place/5433</idno>
           <bibl xml:id="bib5433-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

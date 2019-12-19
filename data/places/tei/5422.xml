@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5422/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5422/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5422-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat Ḥawāʾ</placeName>
-          <placeName xml:id="name5422-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قبة حواء</placeName>
+          <placeName xml:id="name5422-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qubbat Ḥawāʾ</placeName>
+          <placeName xml:id="name5422-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قبة حواء</placeName>
           <placeName xml:id="name5422-3" xml:lang="ar" source="#bib5422-1">قبة حواء</placeName>
           <desc type="abstract" xml:id="abstract5422-1" xml:lang="en">The tomb/shrine of Eve in Jeddah.</desc>
                     <location type="gps" source="#bib5422-2">
                         <geo>21.7483095 38.7453315</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5422</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5422</idno>
           <idno type="URI">http://syriaca.org/place/5422</idno>
           <idno type="URI">https://goo.gl/maps/XUXDGX6sfvoEHXjC9</idno>
           <bibl xml:id="bib5422-1">

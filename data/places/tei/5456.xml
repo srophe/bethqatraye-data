@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5456/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5456/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,14 +76,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5456-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sāwa</placeName>
-          <placeName xml:id="name5456-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ساوة</placeName>
+          <placeName xml:id="name5456-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sāwa</placeName>
+          <placeName xml:id="name5456-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ساوة</placeName>
           <placeName xml:id="name5456-3" xml:lang="ar" source="#bib5456-1">ساوة</placeName>
           <desc type="abstract" xml:id="abstract5456-1" xml:lang="en" source="#bib5456-2"><quote>[A] town of northern Persia some 125 km/80 miles to the southwest of Tehran (lat. 35° 00′ N., long. 50° 22′ E., altitude 960 m/3,149 feet).</quote></desc><desc xml:lang="ar"><quote source="#bib5456-4">وأهل البصرة على مذهب السنة والجماعة، ولا يخاف من يفعل مثل فعلي عندهم، ولو جرى مثل هذا بمشهد الحسين، أو بالحلة، أو بالبحرين، أو قم، أو قاشان، أو ساوة، أو آوه، أو طوس، لهلك فاعله، لأنهم رافضة غالىة.</quote></desc>
                     <location type="gps" source="#bib5456-3">
                         <geo>31.3129455 44.9935196</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5456</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5456</idno>
           <idno type="URI">http://syriaca.org/place/5456</idno>
           <idno type="URI">https://www.google.com/maps/place/Sawa+Lake/@31.3129455,44.9935196,14z/data=!3m1!4b1!4m5!3m4!1s0x3fe1d5edc5e59e61:0x3f3e3c3e981d1a09!8m2!3d31.3142549!4d45.0069946</idno>
           <bibl xml:id="bib5456-1">

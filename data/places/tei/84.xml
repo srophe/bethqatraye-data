@@ -84,7 +84,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/84/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/84/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -167,7 +167,7 @@
                     <placeName xml:id="name84-1" xml:lang="en" srophe:tags="#headword" source="#bib84-2">Fars</placeName>
                     <placeName xml:id="name84-2" xml:lang="en" source="#bib84-3">Fārs</placeName>
                     <placeName xml:id="name84-3" xml:lang="ar" srophe:tags="#headword" source="#bib84-5 #bib84-6">فارس</placeName>
-                    <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name84-4">بلاد فارس</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name84-4">بلاد فارس</placeName>
                     <placeName xml:lang="en" xml:id="name84-5">Bilād Fārs</placeName>
                     <placeName xml:lang="ar" xml:id="name84-6" source="#bib84-7">بلاد
                         فارس</placeName>
@@ -202,7 +202,7 @@
                         <precision match="@from" notAfter="-0300"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/84</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/84</idno>
                     <idno type="URI">http://syriaca.org/place/84</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/922698</idno>
                     <bibl xml:id="bib84-1">

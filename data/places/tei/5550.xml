@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5550/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5550/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -83,8 +83,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5550-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAsfān</placeName>
-          <placeName xml:id="name5550-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عسفان</placeName>
+          <placeName xml:id="name5550-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAsfān</placeName>
+          <placeName xml:id="name5550-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عسفان</placeName>
           <placeName xml:id="name5550-3" xml:lang="en">Asfan</placeName>
           <placeName xml:id="name5550-4" xml:lang="ar" source="#bib5550-1">عسفان</placeName>
           <placeName xml:id="name5550-5" xml:lang="ar" source="#bib5550-2">عسفان</placeName>
@@ -92,7 +92,7 @@
                     <location type="gps" source="#bib5550-3">
                         <geo>21.9000603 39.3109892</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5550</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5550</idno>
           <idno type="URI">http://syriaca.org/place/5550</idno>
           <idno type="URI">https://www.google.com/maps/place/Asfan+Saudi+Arabia/@21.9000603,39.3109892,12z/data=!3m1!4b1!4m5!3m4!1s0x15c19ee2f4f5a3e7:0x59be183140bf0904!8m2!3d21.9001621!4d39.3828571</idno>
           <bibl xml:id="bib5550-1">

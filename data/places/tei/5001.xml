@@ -74,7 +74,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5001/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5001/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -129,9 +129,9 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5001-1" xml:lang="en" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">(Baṭn) ʿUrana</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">(Baṭn) ʿUrana</placeName>
           <placeName xml:id="name5001-2" xml:lang="ar" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">بطن عرنة</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">بطن عرنة</placeName>
           <placeName xml:id="name5001-3" xml:lang="ar" source="#bib5001-1">بطن عرنة</placeName>
           <placeName xml:id="name5001-4" xml:lang="ar" source="#bib5001-2">بطن عرنة</placeName>
           <desc type="abstract" xml:id="abstract5001-1" xml:lang="en">A small depression close to
@@ -146,7 +146,7 @@
           <location type="gps" source="#bib5001-3">
             <geo>21.3635089 39.9481021</geo>
           </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5001</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5001</idno>
           <idno type="URI">http://syriaca.org/place/5001</idno>
           <idno type="URI"
             >https://www.google.com/maps/place/وادي+عرنة%E2%80%AD/@21.3635089,39.9481021,14z/data=!3m1!4b1!4m5!3m4!1s0x15c20770d20c8bb1:0xe6cbf22f096cb85d!8m2!3d21.3613339!4d39.97193</idno>

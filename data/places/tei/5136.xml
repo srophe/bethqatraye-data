@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5136/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5136/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,15 +76,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5136-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Suways</placeName>
-          <placeName xml:id="name5136-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السويس</placeName>
+          <placeName xml:id="name5136-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Suways</placeName>
+          <placeName xml:id="name5136-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">السويس</placeName>
           <placeName xml:id="name5136-3" xml:lang="en">Suez</placeName>
           <placeName xml:id="name5136-4" xml:lang="ar" source="#bib5136-1">السويس</placeName>
           <desc type="abstract" xml:id="abstract5136-1" xml:lang="en" source="#bib5136-2"><quote>[A] seaport in Egypt, located at the northern end of the Red Sea (lat. 29° 59′ N., long. 32° 33′ E.). The town centre is situated closely south to the ancient town of Ḳulzum [...] which continued the Ptolemaic settlement of Κλυσμα or Κλειυσμα at the western shore of the bay of Suways and of which only a few ruins remain, known as Kūm al-Ḳulzum.</quote></desc><desc xml:lang="ar"><quote source="#bib5136-1">يذكر أن سراج الدّين هذا أقام في خطة القضاء بالمدينة والخطابة بها نحو أربعين سنة، ثم إنه أراد الخروج بعد ذلك إلى مصر، فرأى رسول الله صلى الله عليه وسلم في النوم ثلاث مرات، في كلّ مرة ينهاه عن الخروج منها، وأخبره باقتراب أجله، فلم ينته عن ذلك، وخرج فمات بموضع يقال له: السويس، على مسيرة ثلاث من مصر، قبل أن يصل اليها، نعوذ بالله من سوء الخاتمة.</quote></desc>
                     <location type="gps" source="#bib5136-3">
                         <geo>29.97371 32.52627</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5136</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5136</idno>
           <idno type="URI">http://syriaca.org/place/5136</idno>
           <idno type="URI">http://sws.geonames.org/359796</idno>
           <bibl xml:id="bib5136-1">

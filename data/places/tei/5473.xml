@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5473/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5473/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,15 +75,15 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5473-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sīnāʾ</placeName>
-          <placeName xml:id="name5473-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سيناء</placeName>
+          <placeName xml:id="name5473-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sīnāʾ</placeName>
+          <placeName xml:id="name5473-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سيناء</placeName>
           <placeName xml:id="name5473-3" xml:lang="en">Sinai</placeName>
           <placeName xml:id="name5473-4" xml:lang="ar" source="#bib5473-1">سيناء</placeName>
           <desc type="abstract" xml:id="abstract5473-1" xml:lang="en">The peninsula in between the Gulf of Suez, the Red Sea, and the Gulf of ʿAqaba.</desc><desc xml:lang="ar"><quote source="#bib5473-3">الرمال: يقصد بالرمال: شبه جزيرة سيناء.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5473-2">
                         <geo>29.5 34.0</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5473</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5473</idno>
           <idno type="URI">http://syriaca.org/place/5473</idno>
           <idno type="URI">http://pleiades.stoa.org/places/746813</idno>
           <bibl xml:id="bib5473-1">

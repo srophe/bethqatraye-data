@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5483/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5483/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,15 +74,15 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5483-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Syria</placeName>
-          <placeName xml:id="name5483-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الشام</placeName>
+          <placeName xml:id="name5483-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Syria</placeName>
+          <placeName xml:id="name5483-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الشام</placeName>
           <placeName xml:id="name5483-3" xml:lang="en">al-Shām</placeName>
           <placeName xml:id="name5483-4" xml:lang="ar" source="#bib5483-1">الشام</placeName>
           <desc type="abstract" xml:id="abstract5483-1" xml:lang="en">Historical region located between Mediterranean Sea and region of ʿIrāq.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5483-1">فان قلنا الغرب تبع ذلك مصر والشام</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5483</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5483</idno>
           <idno type="URI">http://syriaca.org/place/5483</idno>
           <idno type="URI">no entry found which would correspond to historical region of Syria</idno>
           <bibl xml:id="bib5483-1">

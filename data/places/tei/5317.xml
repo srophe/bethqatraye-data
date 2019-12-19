@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5317/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5317/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,15 +74,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5317-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Isfījāb</placeName>
-          <placeName xml:id="name5317-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اسفيجاب</placeName>
+          <placeName xml:id="name5317-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Isfījāb</placeName>
+          <placeName xml:id="name5317-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">اسفيجاب</placeName>
           <placeName xml:id="name5317-3" xml:lang="en">Asbījāb</placeName>
           <placeName xml:id="name5317-4" xml:lang="ar" source="#bib5317-1">أسبيجاب</placeName>
           <desc type="abstract" xml:id="abstract5317-1" xml:lang="en" source="#bib5317-2"><quote>[A] town and an extensive district of mediaeval Islamic Central Asia, identifiable with the later Islamic town of Sayram. Popular etymologising saw in the name the Persian component sipīd , ispīd "white". It lay on the Aris river, a right-bank affluent of the Si̊r Daryā [q.v.], 14 km/8 miles to the east of the later town of Chimkent (lat. 42° 16′ N., long. 69° 05′ E.).</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5317-1">ثم صورت نهر جيحون وما وراء من اعمال بخارا وسمرقند وأشروسنة وأسبيجاب والشاش وخوارزم الى جميع ما تشتمل عليه من المياه وتحيط به من الطرق والمسالك</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5317</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5317</idno>
           <idno type="URI">http://syriaca.org/place/5317</idno>
           <bibl xml:id="bib5317-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5457/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5457/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5457-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Semnān</placeName>
-          <placeName xml:id="name5457-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سمنان</placeName>
+          <placeName xml:id="name5457-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Semnān</placeName>
+          <placeName xml:id="name5457-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سمنان</placeName>
           <placeName xml:id="name5457-3" xml:lang="ar" source="#bib5457-1">سمنان</placeName>
           <desc type="abstract" xml:id="abstract5457-1" xml:lang="en">A town 216 km east of Tehran.</desc><desc xml:lang="ar"><quote source="#bib5457-1">وأكثر شجرها الفستق، ومنها يحمل إلى أرض العراق. وعضدهم أهل مدينة سمنان</quote></desc>
                     <location type="gps" source="#bib5457-2">
                         <geo>35.57278 53.39722</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5457</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5457</idno>
           <idno type="URI">http://syriaca.org/place/5457</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Semnan,_Iran&amp;params=35_34_22_N_53_23_50_E_region:IR_type:city</idno>
           <bibl xml:id="bib5457-1">

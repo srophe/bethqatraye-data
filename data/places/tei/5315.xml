@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5315/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5315/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5315-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Irānshahr</placeName>
-          <placeName xml:id="name5315-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ايرانشهر</placeName>
+          <placeName xml:id="name5315-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Irānshahr</placeName>
+          <placeName xml:id="name5315-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ايرانشهر</placeName>
           <placeName xml:id="name5315-3" xml:lang="ar" source="#bib5315-1">ايرانشهر</placeName>
           <desc type="abstract" xml:id="abstract5315-1" xml:lang="en">A city to the south of Zahdān.</desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" source="#bib5315-2">
                         <geo>27.20245 60.68476</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5315</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5315</idno>
           <idno type="URI">http://syriaca.org/place/5315</idno>
           <idno type="URI">http://www.geonames.org/1160939/iranshahr.html</idno>
           <bibl xml:id="bib5315-1">

@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5078/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5078/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,8 +70,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5078-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
-          <placeName xml:id="name5078-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
+          <placeName xml:id="name5078-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
+          <placeName xml:id="name5078-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
           <placeName xml:id="name5078-3" xml:lang="en">Raʾs al-Qāra</placeName>
           <placeName xml:id="name5078-4" xml:lang="en">Raʾs al-Jabal</placeName>
           <placeName xml:id="name5078-5" xml:lang="ar">رأس القارة [?]</placeName>
@@ -81,7 +81,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5078-1">قال الأصمعي : ولهذيل جبل يقال له المشقر وهذا الذي قال فيه أبو ذؤيب وذكر البيت ثم قال : وبعض المشقر لخزاعة، هذا نص قوي على أن المشقر في موضعين، ويروى المشرق</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5078</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5078</idno>
           <idno type="URI">http://syriaca.org/place/5078</idno>
           <bibl xml:id="bib5078-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

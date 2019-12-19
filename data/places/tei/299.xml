@@ -60,7 +60,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/299/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/299/tei</idno>
 
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
@@ -183,7 +183,7 @@
                     </state>
                     <note type="deprecation" xml:id="name299-12-deprecation">Moosa's transcription
                         "Perpalisos" should be "Barbalissus".</note>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/299</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/299</idno>
                     <idno type="URI">http://syriaca.org/place/299</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/668208</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Barbalissos</idno>

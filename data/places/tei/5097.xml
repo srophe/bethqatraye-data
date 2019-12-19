@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5097/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5097/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5097-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Qayyāra</placeName>
-          <placeName xml:id="name5097-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القيارة</placeName>
+          <placeName xml:id="name5097-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qayyāra</placeName>
+          <placeName xml:id="name5097-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">القيارة</placeName>
           <placeName xml:id="name5097-3" xml:lang="ar" source="#bib5097-1">القيارة</placeName>
           <desc type="abstract" xml:id="abstract5097-1" xml:lang="en">A town south of Mosul in Irak.</desc>
                     <location type="gps" source="#bib5097-2">
                         <geo>35.79933 43.29447</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5097</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5097</idno>
           <idno type="URI">http://syriaca.org/place/5097</idno>
           <idno type="URI">http://sws.geonames.org/99003</idno>
           <bibl xml:id="bib5097-1">

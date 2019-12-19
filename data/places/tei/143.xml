@@ -55,7 +55,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/143/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/143/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -131,9 +131,9 @@
                     <placeName xml:id="name143-3" xml:lang="syr-Syrj" source="#bib143-2">ܢܰܒܟ</placeName>
                     <placeName xml:id="name143-4" xml:lang="ar" srophe:tags="#headword" source="#bib143-3 #bib143-5 #bib143-6">النبك</placeName>
                     <placeName xml:id="name143-5" xml:lang="en" source="#bib143-4">al-Nabak</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name143-6">Al-Nabk</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract143-1">A town northeast of <ref target="http://bqgazetteer.bethmardutho.org/place/66"><placeName ref="http://syriaca.org/place/66">Damascus</placeName></ref> and southwest of
-                            <ref target="http://bqgazetteer.bethmardutho.org/place/212"><placeName ref="http://syriaca.org/place/212">al-Qaryatayn</placeName></ref>.</desc>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name143-6">Al-Nabk</placeName>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract143-1">A town northeast of <ref target="https://bqgazetteer.bethmardutho.org/place/66"><placeName ref="http://syriaca.org/place/66">Damascus</placeName></ref> and southwest of
+                            <ref target="https://bqgazetteer.bethmardutho.org/place/212"><placeName ref="http://syriaca.org/place/212">al-Qaryatayn</placeName></ref>.</desc>
                     <desc xml:lang="en">A city (madīna) in
                         the Ḥijāz.</desc>
                     <desc xml:lang="ar">
@@ -156,7 +156,7 @@
                         <precision match="@from" notAfter="1185" srophe:computed-end="1185-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/143</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/143</idno>
                     <idno type="URI">http://syriaca.org/place/143</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/678085</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/An-Nabk</idno>

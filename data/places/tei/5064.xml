@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5064/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5064/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5064-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Manṣūra</placeName>
-          <placeName xml:id="name5064-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المنصورة</placeName>
+          <placeName xml:id="name5064-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Manṣūra</placeName>
+          <placeName xml:id="name5064-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المنصورة</placeName>
           <placeName xml:id="name5064-3" xml:lang="ar" source="#bib5064-1">المنصورة</placeName>
           <desc type="abstract" xml:id="abstract5064-1" xml:lang="en" source="#bib5064-2"><quote>[A] town in Lower Egypt near Damietta (Dimyāṭ [q.v.]), and chief place of the mudīriyyat al-Daḳahliyya . The town was founded in 616/1219 by the Ayyūbid sultan al-Malik al-Kāmil [q.v.] as a fortified camp against the Crusaders, who had conquered Dimyāṭ in S̲h̲aʿbān 616/November 1219.</quote></desc>
           <desc xml:lang="ar">
@@ -86,7 +86,7 @@
                     <location type="gps" source="#bib5064-3">
                         <geo>31.03637 31.38069</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5064</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5064</idno>
           <idno type="URI">http://syriaca.org/place/5064</idno>
           <idno type="URI">http://sws.geonames.org/360761</idno>
           <bibl xml:id="bib5064-1">

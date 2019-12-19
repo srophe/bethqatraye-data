@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5404/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5404/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,15 +75,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5404-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qabāʾ</placeName>
-          <placeName xml:id="name5404-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قباء</placeName>
+          <placeName xml:id="name5404-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qabāʾ</placeName>
+          <placeName xml:id="name5404-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قباء</placeName>
           <placeName xml:id="name5404-3" xml:lang="en">Qubāʾ</placeName>
           <placeName xml:id="name5404-4" xml:lang="ar" source="#bib5404-1">قباء</placeName>
           <desc type="abstract" xml:id="abstract5404-1" xml:lang="en">A village south of Medina.</desc><desc xml:lang="ar"><quote source="#bib5404-3">ومن المشاهد الكريمة قباء، وهو قبلي المدينة، على نحو ميلين منها</quote></desc>
                     <location type="gps" source="#bib5404-2">
                         <geo>24.4 39.65</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5404</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5404</idno>
           <idno type="URI">http://syriaca.org/place/5404</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Qaba%27&amp;params=24_24_N_39_39_E_region:SA_type:city</idno>
           <bibl xml:id="bib5404-1">

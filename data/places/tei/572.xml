@@ -69,7 +69,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/572/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/572/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -158,10 +158,10 @@
                     <placeName xml:id="name572-3" xml:lang="syr-Syrj" source="#bib572-2">ܐܰܠܟܣܰܢܕܰܪܝܐ</placeName>
                     <placeName xml:id="name572-4" xml:lang="ar" source="#bib572-3 #bib572-8">الاسكندرية</placeName>
                     <placeName xml:id="name572-5" xml:lang="ar" srophe:tags="#headword" source="#bib572-9">اسكندرية</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name572-6">al-Iskandarīya</placeName>
-                    <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name572-7">الإسكندرية</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name572-6">al-Iskandarīya</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name572-7">الإسكندرية</placeName>
                     <placeName xml:lang="ar" xml:id="name572-8" source="#bib572-11">الإسكندرية</placeName>
-                    <desc xml:id="abstract-en-572" xml:lang="en">A city in <ref target="http://bqgazetteer.bethmardutho.org/place/715"><placeName ref="http://syriaca.org/place/715">Egypt</placeName></ref>.</desc>
+                    <desc xml:id="abstract-en-572" xml:lang="en">A city in <ref target="https://bqgazetteer.bethmardutho.org/place/715"><placeName ref="http://syriaca.org/place/715">Egypt</placeName></ref>.</desc>
                     <desc xml:lang="ar">
                         <quote source="#bib572-11">ورومية ركن من اركان ملك النصارى وذلك انها كرسى
                             للنصارى ولهم ايضا كرسى بانطاكية وكرسى بالاسكندرية والكرسى الذي ببيت
@@ -189,7 +189,7 @@
                         <precision match="@from" notAfter="-0331"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/572</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/572</idno>
                     <idno type="URI">http://syriaca.org/place/572</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/727070</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Alexandria</idno>

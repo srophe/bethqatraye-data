@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5342/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5342/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5342-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kāshān</placeName>
-          <placeName xml:id="name5342-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كاشان</placeName>
+          <placeName xml:id="name5342-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kāshān</placeName>
+          <placeName xml:id="name5342-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">كاشان</placeName>
           <placeName xml:id="name5342-3" xml:lang="en">Qāshān</placeName>
           <placeName xml:id="name5342-4" xml:lang="ar" source="#bib5342-1">قاشان</placeName>
           <desc type="abstract" xml:id="abstract5342-1" xml:lang="en" source="#bib5342-2"><quote>(Ḳāsān, Ḳās̲h̲ān; 33°59′ lat. N., 51°27′ long. E.), a town of the D̲j̲ibāl, on the ancient N. — S. axial route of central Iran, chief town of a s̲h̲ahristān of the central province ( Ustān-i markazī ); it gives its name to an oasis adjoining the Das̲h̲t-i Kavīr on the N.E. and on the E., closed on the W. and on the S. by the buffer of the median chain of central Iran (3,900 m. at the Kūh-i Karkas).</quote></desc>
@@ -87,7 +87,7 @@
                     <location type="gps" source="#bib5342-3">
                         <geo>33.5 51.5</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5342</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5342</idno>
           <idno type="URI">http://syriaca.org/place/5342</idno>
           <idno type="URI">http://pleiades.stoa.org/places/890432541</idno>
           <bibl xml:id="bib5342-1">

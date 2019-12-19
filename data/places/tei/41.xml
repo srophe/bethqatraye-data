@@ -90,7 +90,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/41/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/41/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -183,8 +183,8 @@
                     <placeName xml:id="name41-2" xml:lang="syr" srophe:tags="#headword" source="#bib41-3">ܒܓܕܕ</placeName>
                     <placeName xml:id="name41-3" xml:lang="ar" srophe:tags="#headword" source="#bib41-4 #bib41-8 #bib41-9 #bib41-11 #bib41-12">بغداد</placeName>
                     <placeName xml:id="name41-4" xml:lang="en" source="#bib41-7">Babylon</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name41-5">al-Salām</placeName>
-                    <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name41-6">السلام</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name41-5">al-Salām</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name41-6">السلام</placeName>
                     <placeName xml:lang="en" xml:id="name41-7">Baghdād</placeName>
                     <placeName xml:lang="ar" xml:id="name41-8" source="#bib41-10">السلام</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract41-1">
@@ -216,7 +216,7 @@
                     <state type="existence" from="0762" to="2013" srophe:computed-end="2013-01-01" srophe:computed-start="0762-01-01">
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/41</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/41</idno>
                     <idno type="URI">http://syriaca.org/place/41</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/893952</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Baghdad</idno>

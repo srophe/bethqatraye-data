@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5091/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5091/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,12 +74,12 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5091-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Qanṭara</placeName>
-          <placeName xml:id="name5091-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القنطرة</placeName>
+          <placeName xml:id="name5091-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qanṭara</placeName>
+          <placeName xml:id="name5091-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">القنطرة</placeName>
           <placeName xml:id="name5091-3" xml:lang="ar" source="#bib5091-1">القنطرة</placeName>
           <placeName xml:id="name5091-4" xml:lang="ar" source="#bib5091-1">حصن بشير</placeName>
           <desc type="abstract" xml:id="abstract5091-1" xml:lang="en">A village between Baghdād and al-Ḥilla.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5091</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5091</idno>
           <idno type="URI">http://syriaca.org/place/5091</idno>
           <bibl xml:id="bib5091-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

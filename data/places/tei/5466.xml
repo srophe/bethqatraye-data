@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5466/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5466/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,13 +74,13 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5466-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Shibbā</placeName>
-          <placeName xml:id="name5466-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">شبا</placeName>
+          <placeName xml:id="name5466-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Shibbā</placeName>
+          <placeName xml:id="name5466-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">شبا</placeName>
           <placeName xml:id="name5466-3" xml:lang="en">Shibba</placeName>
           <placeName xml:id="name5466-4" xml:lang="ar">شبة</placeName>
           <placeName xml:id="name5466-5" xml:lang="ar" source="#bib5466-1">شبا</placeName>
           <desc type="abstract" xml:id="abstract5466-1" xml:lang="en">A town in the historic region of ʿUmān.</desc><desc xml:lang="ar"><quote source="#bib5466-2">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc><desc xml:lang="ar"><quote source="#bib5466-3">ثم سافرنا إلى مرسى شبّة (وضبط اسمها بفتح الشين المعجم وفتح الباء الموحدة وتشديدها)، ثم إلى مرسى كلبة، ولفظها على لفظ مؤنتة الكلب، ثم إلى قلهات، وقد تقدم ذكرها. وهذه البلاد كلّها من عمالة هرمز، وهي محسوبة من بلاد عمان. ثم سافرنا إلى هرمز، وأقمنا بها ثلاثا.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5466</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5466</idno>
           <idno type="URI">http://syriaca.org/place/5466</idno>
           <bibl xml:id="bib5466-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

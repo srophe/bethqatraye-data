@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5314/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5314/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,16 +75,16 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5314-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Īdhaj</placeName>
-          <placeName xml:id="name5314-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">إيذج</placeName>
+          <placeName xml:id="name5314-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Īdhaj</placeName>
+          <placeName xml:id="name5314-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">إيذج</placeName>
           <placeName xml:id="name5314-3" xml:lang="en">Māl Amīr</placeName>
           <placeName xml:id="name5314-4" xml:lang="ar">مال أمير</placeName>
           <placeName xml:id="name5314-5" xml:lang="ar" source="#bib5314-1">إيذج</placeName>
           <desc type="abstract" xml:id="abstract5314-1" xml:lang="en">A town in western Iran situated at a tributary of the Kārūn river.</desc><desc xml:lang="ar"><quote source="#bib5314-3">ووصلنا الى مدينة إيذج (وضبط اسمها بكسر الهمزة وياء مد وذال معجم مفتوح وجيم)، تسمى أيضاً مال الأمير، وهي حضرة السلطان أتابك.</quote></desc><desc xml:lang="ar"><quote source="#bib5314-4">ولما دخلت مدينة ايذج أردت رؤية افراسياب المذكور فلم يتأت لي ذلك</quote></desc><desc xml:lang="ar"><quote source="#bib5314-5">ثم كان رحيلي من حضرة ايذج بعد أيام</quote></desc><desc xml:lang="ar"><quote source="#bib5314-6">ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc>
-          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
+          <location type="gps" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>31.834167 49.867222</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5314</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5314</idno>
           <idno type="URI">http://syriaca.org/place/5314</idno>
           <bibl xml:id="bib5314-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>

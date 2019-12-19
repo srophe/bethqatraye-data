@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5541/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5541/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5541-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAbra</placeName>
-          <placeName xml:id="name5541-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عبرة</placeName>
+          <placeName xml:id="name5541-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAbra</placeName>
+          <placeName xml:id="name5541-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عبرة</placeName>
           <placeName xml:id="name5541-3" xml:lang="ar" source="#bib5541-1">عبرة</placeName>
           <desc type="abstract" xml:id="abstract5541-1" xml:lang="en">Located on the road to Aden.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5541-1">ومعقر على جادة عدن وكذلك عبرة وغارة والمخنق وكلهن صغار</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5541</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5541</idno>
           <idno type="URI">http://syriaca.org/place/5541</idno>
           <bibl xml:id="bib5541-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

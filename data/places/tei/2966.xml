@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2966/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2966/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -101,7 +101,7 @@
             <place xml:id="place-2966" type="river">
                <placeName xml:id="name2966-1" xml:lang="en" srophe:tags="#headword">Karkhāyā</placeName>
                <placeName xml:id="name2966-2" xml:lang="ar" srophe:tags="#headword" source="#bib2966-1">كرخايا</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2966-1">A canal in <ref target="http://bqgazetteer.bethmardutho.org/place/41"><placeName ref="http://syriaca.org/place/41">Baghdad</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2966-1">A canal in <ref target="https://bqgazetteer.bethmardutho.org/place/41"><placeName ref="http://syriaca.org/place/41">Baghdad</placeName></ref>
                </desc>
                <event type="attestation" xml:id="attestation2966-1" when="0891" source="#bib2966-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">كرخايا</foreign> in
@@ -110,7 +110,7 @@
                   <link target="#name2966-2 #attestation2966-1"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2966</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2966</idno>
                <idno type="URI">http://syriaca.org/place/2966</idno>
                <bibl xml:id="bib2966-1">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>

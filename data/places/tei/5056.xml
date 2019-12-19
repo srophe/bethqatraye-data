@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5056/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5056/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5056-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Kiswa</placeName>
-          <placeName xml:id="name5056-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الكسوة</placeName>
+          <placeName xml:id="name5056-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Kiswa</placeName>
+          <placeName xml:id="name5056-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الكسوة</placeName>
           <placeName xml:id="name5056-3" xml:lang="ar" source="#bib5056-1">الكسوة</placeName>
           <desc type="abstract" xml:id="abstract5056-1" xml:lang="en">ِA village in the vicinity of Damascus.</desc><desc xml:lang="ar"><quote source="#bib5056-1">ولما استهل شوال من السنة المذكورة خرج الركب الحجازي إلى خارج دمشق ونزلوا القرية المعروفة بالكسوة، فأخذت في الحركة معهم، وكان أمير الركب سيف الدين الجوبان، من كبار الأمراء وقاضيه شرف الدين الأذرعى الحوراني، وحج في تلك السنة مدرس المالكية صدر الدين العماري، وكان سفري مع طائفة من العرب تدعى العجارمة، أميرهم محمد بن رافع كبير القدر في الأمراء وارتحلنا من الكسوة إلى قرية تعرف بالصنمين عظيمة</quote></desc>
                     <location type="gps" source="#bib5056-2">
                         <geo>33.3581 36.2419</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5056</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5056</idno>
           <idno type="URI">http://syriaca.org/place/5056</idno>
           <idno type="URI">http://sws.geonames.org/173598</idno>
           <bibl xml:id="bib5056-1">

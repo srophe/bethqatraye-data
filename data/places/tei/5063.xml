@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5063/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5063/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5063-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Malāḥīn</placeName>
-          <placeName xml:id="name5063-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الملاحين</placeName>
+          <placeName xml:id="name5063-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Malāḥīn</placeName>
+          <placeName xml:id="name5063-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الملاحين</placeName>
           <placeName xml:id="name5063-3" xml:lang="ar" source="#bib5063-1">الملاحين</placeName>
           <desc type="abstract" xml:id="abstract5063-1" xml:lang="en">A village in Iraq.</desc><desc xml:lang="ar"><quote source="#bib5063-1">فقال لها: وأين منزل زوجك؟ فقالت: بقرية الملّاحين خارج المدينة فقال لها: أنا أذهب معك إليه فقالت: والله ما عندي شيء أعطيك ايّاه فقال لها: لا آخذ منك شيئا.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5063</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5063</idno>
           <idno type="URI">http://syriaca.org/place/5063</idno>
           <bibl xml:id="bib5063-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

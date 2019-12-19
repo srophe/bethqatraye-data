@@ -45,7 +45,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5234/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5234/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -91,8 +91,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5234-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Basjirt</placeName>
-          <placeName xml:id="name5234-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بسجرت</placeName>
+          <placeName xml:id="name5234-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Basjirt</placeName>
+          <placeName xml:id="name5234-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بسجرت</placeName>
           <placeName xml:id="name5234-3" xml:lang="en">Bāshqirs</placeName>
           <placeName xml:id="name5234-4" xml:lang="ar" source="#bib5234-1">بسجرت</placeName>
           <desc type="abstract" xml:id="abstract5234-1" xml:lang="en">Their <quote source="#bib5234-2">territory corresponds
@@ -101,7 +101,7 @@
             <quote source="#bib5234-1">وشمالها [ارمينية] من نواحى البجناكية وبسجرت وبعض بلاد
               الصقالبة</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5234</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5234</idno>
           <idno type="URI">http://syriaca.org/place/5234</idno>
           <bibl xml:id="bib5234-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>

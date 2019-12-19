@@ -52,7 +52,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/642/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/642/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -137,7 +137,7 @@
                         <link target="#name642-3 #attestation642-2"/>
                     </event>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/642</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/642</idno>
                     <idno type="URI">http://syriaca.org/place/642</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/39338/</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Socotra</idno>

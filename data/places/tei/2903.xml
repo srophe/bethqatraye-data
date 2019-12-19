@@ -88,7 +88,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2903/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -142,13 +142,13 @@
             <listPlace>
                 <place type="settlement">
                     <placeName xml:id="name2903-1" xml:lang="syr" srophe:tags="#headword" source="#bib2903-6">ܗܓܪ</placeName>
-                    <placeName xml:id="name2903-2" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hagar</placeName>
-                    <placeName xml:id="name2903-3" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+                    <placeName xml:id="name2903-2" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Hagar</placeName>
+                    <placeName xml:id="name2903-3" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
                     <placeName xml:id="name2903-4" xml:lang="ar" source="#bib2903-1 #bib2903-2 #bib2903-3 #bib2903-4 #bib2903-5 #bib2903-8 #bib2903-9" srophe:tags="#headword">هجر</placeName>
                     <placeName xml:id="name2903-5" xml:lang="fr" source="#bib2903-7">Hagar</placeName>
-                    <placeName xml:id="name2903-6" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
-                    <placeName xml:id="name2903-7" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">al-Aḥsāʾ</placeName>
-                    <placeName xml:id="name2903-8" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
+                    <placeName xml:id="name2903-6" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Hajar</placeName>
+                    <placeName xml:id="name2903-7" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">al-Aḥsāʾ</placeName>
+                    <placeName xml:id="name2903-8" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
                     <placeName xml:id="name2903-9" xml:lang="en">al-Ahsa</placeName>
                     <placeName xml:id="name2903-10" xml:lang="en">al-Hasa</placeName>
                     <placeName xml:id="name2903-11" xml:lang="ar" source="#bib2903-2 #bib2903-14 #bib2903-16 #bib2903-17">الأحساء</placeName>
@@ -181,13 +181,13 @@
                     <desc xml:lang="ar">
                         <quote source="#bib2903-13">وشعره في الغزل وغيره أكثر من أن نأتي عليه، وأكثر الغناء المحدث في وقتنا هذا من شعره؛ وقد أشيع بموته وأن البريدي غرفه لأنه كان هجاه؛ وقيل : بل هرب من البصرة ولحق بهجر والأحساء بأبي طاهر بن سليمان بن الحسن صاحب البحرين.</quote>
                     </desc><desc xml:lang="ar"><quote source="#bib2903-9">ثم سافرنا منها إلى مدينة هجر وتسمى الآن بالحسا (بفتح الحاء والسين واهمالها) وهي التي يضرب المثل بها، فيقال: كجالب التّمر إلى هجر، وبها من النخيل ما ليس ببلد سواها ومنه يعلفون دوابهم، وأهلها عرب، وأكثرهم من قبيلة عبد القيس بن أقصى.</quote></desc>
-                    <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="alternate">
+                    <location type="gps" resp="https://bqgazetteer.bethmardutho.org" subtype="alternate">
                         <geo>25.429444 49.621944</geo>
                     </location>
-                    <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="preferred">
+                    <location type="gps" resp="https://bqgazetteer.bethmardutho.org" subtype="preferred">
                         <geo>26.877823 48.726603</geo>
                     </location>
-                    <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+                    <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
                         <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                     </location>
                     <event type="attestation" xml:id="attestation2903-1" notBefore="0846" notAfter="0885" source="#bib2903-8">
@@ -207,7 +207,7 @@
                         <precision match="@from" notAfter="0676"/>
                         <precision match="@to" notBefore="0902"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2903</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2903</idno>
                     <idno type="URI">http://syriaca.org/place/2903</idno>
                     <bibl xml:id="bib2903-1">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>

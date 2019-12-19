@@ -52,7 +52,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5555/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5555/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -91,22 +91,22 @@
     </profileDesc>
     <revisionDesc status="draft">
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5555-1">Merged in data from
-        [http://bqgazetteer.bethmardutho.org/place/5556].</change>
+        [https://bqgazetteer.bethmardutho.org/place/5556].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5556]</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [https://bqgazetteer.bethmardutho.org/place/5556]</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5555-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">ʿAyn al-Raṣad</placeName>
-          <placeName xml:id="name5555-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5555-2">عين الرصد</placeName>
+          <placeName xml:id="name5555-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">ʿAyn al-Raṣad</placeName>
+          <placeName xml:id="name5555-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5555-2">عين الرصد</placeName>
           <placeName xml:id="name5555-3" xml:lang="ar" source="#bib5555-1 #bib5555-2">عين
             الرصد</placeName>
           <desc type="abstract" xml:id="abstract5555-1" xml:lang="en">A village in Iraq close to
             Mosul.</desc><desc xml:lang="ar"><quote source="#bib5555-1">ثم رحلنا من الموصل ونزلنا قرية تعرف بعين الرّصد وهي على نهر عليه جسر مبني، وبها خان كبير. ثم رحلنا ونزلنا قرية تعرف بالمويلحة</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5555</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5555</idno>
           <idno type="URI">http://syriaca.org/place/5555</idno>
           <bibl xml:id="bib5555-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

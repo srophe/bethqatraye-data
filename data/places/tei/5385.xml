@@ -24,7 +24,7 @@
                 <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
                 <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
               <respStmt>
-                <resp>Based on the data in record http://bqgazetteer.bethmardutho.org/place/4477 prepared by</resp>
+                <resp>Based on the data in record https://bqgazetteer.bethmardutho.org/place/4477 prepared by</resp>
                 <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
                   Carlson</name>
               </respStmt>  
@@ -44,7 +44,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5385/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5385/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -97,17 +97,17 @@
                     <placeName xml:id="name5385-3" xml:lang="syr" srophe:tags="#headword" source="#bib5385-2">ܡܙܘܢ</placeName>
                     <placeName xml:id="name5385-4" xml:lang="fr" source="#bib5385-2">Mazȏn</placeName>
                     <placeName xml:id="name5385-5" xml:lang="en">Beth Mazunaye</placeName>
-                    <placeName xml:id="name5385-6" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مازون</placeName>
+                    <placeName xml:id="name5385-6" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">مازون</placeName>
                     <placeName xml:id="name5385-7" xml:lang="en">Māzūn</placeName>
                     <placeName xml:id="name5385-8" xml:lang="la" source="#bib5385-4">Mazun</placeName>
                     <placeName xml:id="name5385-9" xml:lang="syr">ܡܪܘܢ</placeName>
                     <desc type="abstract" xml:id="abstract5385-1" xml:lang="en">A region of the
                         southeastern <placeName ref="http://syriaca.org/place/716">Arabian
-                            Peninsula</placeName> on the shores of the <ref target="http://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">Persian Gulf</placeName></ref>.</desc>
-                    <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
+                            Peninsula</placeName> on the shores of the <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">Persian Gulf</placeName></ref>.</desc>
+                    <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>24.342 56.729889</geo>
                     </location>
-                    <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+                    <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
                         <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth
                             Qaṭraye</placeName></region>
                     </location>
@@ -129,7 +129,7 @@
                     <note type="deprecation" xml:id="name5383-9-deprecation">Sometimes incorrectly
                         written as ܡܪܘܢ (Marun).</note>
                     <link target="#name5383-9 #name5383-9-deprecation"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5385</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5385</idno>
                     <idno type="URI">http://syriaca.org/place/5385</idno>
                     <bibl xml:id="bib5385-1">
                         <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the

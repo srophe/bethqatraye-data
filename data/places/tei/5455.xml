@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5455/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5455/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,12 +74,12 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5455-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṣaumāʾ</placeName>
-          <placeName xml:id="name5455-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صوماء</placeName>
+          <placeName xml:id="name5455-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṣaumāʾ</placeName>
+          <placeName xml:id="name5455-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">صوماء</placeName>
           <placeName xml:id="name5455-3" xml:lang="en">Ṣūmāʾ</placeName>
           <placeName xml:id="name5455-4" xml:lang="ar" source="#bib5455-1">صوماء</placeName>
           <desc type="abstract" xml:id="abstract5455-1" xml:lang="en">A village in Iran probably close to Isfahan.</desc><desc xml:lang="ar"><quote source="#bib5455-2">ثم سرتا من كليل يومين ووصلنا الى قرية كبيرة تعرف بصوماء، وبها زاوية فيها الطعام للوارد والصادر عمرها خواجة كافي المذكور، ثم سرنا منها الى يزدخان</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5455</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5455</idno>
           <idno type="URI">http://syriaca.org/place/5455</idno>
           <bibl xml:id="bib5455-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

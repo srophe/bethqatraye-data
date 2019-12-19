@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5027/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5027/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,11 +70,11 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5027-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Falaj</placeName>
-          <placeName xml:id="name5027-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الفلج</placeName>
+          <placeName xml:id="name5027-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Falaj</placeName>
+          <placeName xml:id="name5027-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الفلج</placeName>
           <placeName xml:id="name5027-3" xml:lang="ar" source="#bib5027-1">الفلج</placeName>
           <desc type="abstract" xml:id="abstract5027-1" xml:lang="en">A citadel situated a six days-journey from Hajar and an nine days-journey from Mecca.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5027</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5027</idno>
           <idno type="URI">http://syriaca.org/place/5027</idno>
           <bibl xml:id="bib5027-1">
             <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>

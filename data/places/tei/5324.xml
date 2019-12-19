@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5324/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5324/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5324-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jabal Thaur</placeName>
-          <placeName xml:id="name5324-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جبل ثور</placeName>
+          <placeName xml:id="name5324-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jabal Thaur</placeName>
+          <placeName xml:id="name5324-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جبل ثور</placeName>
           <placeName xml:id="name5324-3" xml:lang="en">Jabal Thawr</placeName>
           <placeName xml:id="name5324-4" xml:lang="en">Jabal Abī Thaur</placeName>
           <placeName xml:id="name5324-5" xml:lang="en">Jabal Abī Thawr</placeName>
@@ -87,7 +87,7 @@
                     <location type="gps" subtype="representative" source="#bib5324-2">
                         <geo>21.3730669 39.7859779</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5324</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5324</idno>
           <idno type="URI">http://syriaca.org/place/5324</idno>
           <idno type="URI">https://goo.gl/maps/h1NwzcFJSzWmFRSp8</idno>
           <bibl xml:id="bib5324-1">

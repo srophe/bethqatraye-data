@@ -48,7 +48,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/600/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/600/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -106,7 +106,7 @@
                 <place xml:id="place-600" type="region">
                     <placeName xml:id="name600-1" xml:lang="en" srophe:tags="#headword" source="#bib600-1">Jordan Valley</placeName>
                     <placeName xml:id="name600-2" xml:lang="ar" source="#bib600-2">الغَوْر</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name600-3">Ghūr al-Shām</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name600-3">Ghūr al-Shām</placeName>
                     <placeName xml:lang="ar" ource="#bib600-3" srophe:tags="#headword" xml:id="name600-4">غور الشام</placeName>
                     <placeName xml:lang="en" xml:id="name600-5">Ghawr al-Shām</placeName>
                     <placeName xml:lang="en" xml:id="name600-6">Ghaur al-Shām</placeName>
@@ -124,7 +124,7 @@
                         <link target="#name600-2 #attestation600-1"/>
                     </event>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/600</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/600</idno>
                     <idno type="URI">http://syriaca.org/place/600</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Jordan_Valley_(Middle_East)</idno>
                     <idno type="URI">http://dbpedia.org/resource/Jordan_Valley_(Middle_East)</idno>

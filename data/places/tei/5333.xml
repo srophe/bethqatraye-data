@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5333/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5333/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5333-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jurash</placeName>
-          <placeName xml:id="name5333-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جرش</placeName>
+          <placeName xml:id="name5333-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jurash</placeName>
+          <placeName xml:id="name5333-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جرش</placeName>
           <placeName xml:id="name5333-3" xml:lang="ar" source="#bib5333-1">جرش</placeName>
           <desc type="abstract" xml:id="abstract5333-1" xml:lang="en">A province (mikhlāf) in southern Arabia on the way to al-Ṭāʾif.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5333-1">ومن نحو الطائف مخلاف نجران وتربة والمهجرة وكثبة وجرش</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5333</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5333</idno>
           <idno type="URI">http://syriaca.org/place/5333</idno>
           <bibl xml:id="bib5333-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5437/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5437/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5437-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Rāmīn</placeName>
-          <placeName xml:id="name5437-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رامين</placeName>
+          <placeName xml:id="name5437-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Rāmīn</placeName>
+          <placeName xml:id="name5437-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">رامين</placeName>
           <placeName xml:id="name5437-3" xml:lang="ar" source="#bib5437-1">رامين</placeName>
           <desc type="abstract" xml:id="abstract5437-1" xml:lang="en">A village southwest of Tehran.</desc><desc xml:lang="ar"><quote source="#bib5437-3">ذكر المتغلّبين على الملك بعد موت السلطان أبي سعيد (...) ومنهم حسن خواجه بن الدّمرطاش بن الجوبان، تغلب على تبريز والسلطانيّة وهمدان، وقمّ وقاشان والريّ ورامين وفرغان والكرج</quote></desc>
                     <location type="gps" source="#bib5437-2">
                         <geo>35.57694 51.06111</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5437</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5437</idno>
           <idno type="URI">http://syriaca.org/place/5437</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Ramin,_Tehran&amp;params=35_34_37_N_51_03_40_E_region:IR_type:city(589)</idno>
           <bibl xml:id="bib5437-1">

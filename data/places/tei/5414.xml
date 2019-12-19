@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5414/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5414/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5414-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qashmīr</placeName>
-          <placeName xml:id="name5414-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قشمير</placeName>
+          <placeName xml:id="name5414-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qashmīr</placeName>
+          <placeName xml:id="name5414-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قشمير</placeName>
           <placeName xml:id="name5414-3" xml:lang="en">Kashmīra</placeName>
           <placeName xml:id="name5414-4" xml:lang="en">Kashmīr</placeName>
           <placeName xml:id="name5414-5" xml:lang="ar" source="#bib5414-1">قشمير</placeName>
@@ -88,7 +88,7 @@
                     <location type="gps" subtype="representative" source="#bib5414-3">
                         <geo>33.5329 75.40781</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5414</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5414</idno>
           <idno type="URI">http://syriaca.org/place/5414</idno>
           <idno type="URI">http://sws.geonames.org/1269320</idno>
           <bibl xml:id="bib5414-1">

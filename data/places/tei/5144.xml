@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5144/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5144/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,11 +70,11 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5144-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Yamāma</placeName>
-          <placeName xml:id="name5144-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اليمامة</placeName>
+          <placeName xml:id="name5144-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Yamāma</placeName>
+          <placeName xml:id="name5144-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">اليمامة</placeName>
           <placeName xml:id="name5144-3" xml:lang="ar" source="#bib5144-1">اليمامة</placeName>
-          <desc type="abstract" xml:id="abstract5144-1" xml:lang="en" source="#bib5144-2"><quote>In early Islamic times al-Yamāma was a region of Nad̲j̲d [q.v.] with its centre Ḥad̲j̲r [...].</quote></desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5144</idno>
+          <desc type="abstract" xml:id="abstract5144-1" xml:lang="en" source="#bib5144-2"><quote>In early Islamic times al-Yamāma was a region of Nad̲j̲d [q.v.] with its centre Ḥad̲j̲r [...].</quote></desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5144</idno>
           <idno type="URI">http://syriaca.org/place/5144</idno>
           <bibl xml:id="bib5144-1">
             <title xml:lang="en" level="m">Safar Nāma</title><author>Nāṣir Khusraw</author><ptr target="http://syriaca.org/bibl/NATHCE76"/>

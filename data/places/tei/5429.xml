@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5429/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5429/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5429-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qundūs</placeName>
-          <placeName xml:id="name5429-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قندوس</placeName>
+          <placeName xml:id="name5429-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qundūs</placeName>
+          <placeName xml:id="name5429-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قندوس</placeName>
           <placeName xml:id="name5429-3" xml:lang="en">Kunduz</placeName>
           <placeName xml:id="name5429-4" xml:lang="en">Drapsaka</placeName>
           <placeName xml:id="name5429-5" xml:lang="ar" source="#bib5429-1">قندوس</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5429-2">
                         <geo>36.722088 68.867739</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5429</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5429</idno>
           <idno type="URI">http://syriaca.org/place/5429</idno>
           <idno type="URI">http://pleiades.stoa.org/places/971746</idno>
           <bibl xml:id="bib5429-1">

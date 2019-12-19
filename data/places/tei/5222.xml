@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5222/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5222/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -82,13 +82,13 @@
     <body>
       <listPlace>
         <place type="open-water">
-          <placeName xml:id="name5222-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Baḥr Jidda</placeName>
-          <placeName xml:id="name5222-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بحر جدة</placeName>
+          <placeName xml:id="name5222-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Baḥr Jidda</placeName>
+          <placeName xml:id="name5222-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بحر جدة</placeName>
           <placeName xml:id="name5222-3" xml:lang="en">Baḥr Jeddah</placeName>
           <placeName xml:id="name5222-4" xml:lang="ar" source="#bib5222-1">بحر جدة</placeName>
           <placeName xml:id="name5222-5" xml:lang="ar" source="#bib5222-2">بحر جدة</placeName>
           <desc type="abstract" xml:id="abstract5222-1" xml:lang="en">Probably the part of the Red Sea surrounding Jeddah.</desc><desc xml:lang="ar"><quote source="#bib5222-3">ذكر حزب البحر المنسوب إليه: كان يسافر في كل سنة كما ذكرناه على صعيد مصر وبحر جدة</quote></desc><desc xml:lang="ar"><quote source="#bib5222-4">فلما تم عمله، أمر أن يصعد به في النيل ليجاز إلى بحر جدة</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5222</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5222</idno>
           <idno type="URI">http://syriaca.org/place/5222</idno>
           <bibl xml:id="bib5222-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

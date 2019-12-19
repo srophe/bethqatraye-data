@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5093/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5093/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,13 +74,13 @@
     <body>
       <listPlace>
         <place type="river">
-          <placeName xml:id="name5093-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Qārūra</placeName>
-          <placeName xml:id="name5093-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القارورة</placeName>
+          <placeName xml:id="name5093-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qārūra</placeName>
+          <placeName xml:id="name5093-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">القارورة</placeName>
           <placeName xml:id="name5093-3" xml:lang="en">Qaraurā</placeName>
           <placeName xml:id="name5093-4" xml:lang="ar">قرورى</placeName>
           <placeName xml:id="name5093-5" xml:lang="ar" source="#bib5093-1">القارورة</placeName>
           <desc type="abstract" xml:id="abstract5093-1" xml:lang="en">A lake or stream in the Najd.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5093</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5093</idno>
           <idno type="URI">http://syriaca.org/place/5093</idno>
           <bibl xml:id="bib5093-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

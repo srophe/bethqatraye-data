@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2968/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2968/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -101,7 +101,7 @@
             <place xml:id="place-2968" type="settlement">
                <placeName xml:id="name2968-1" xml:lang="en" srophe:tags="#headword">Qazwīn</placeName>
                <placeName xml:id="name2968-2" xml:lang="ar" srophe:tags="#headword" source="#bib2968-2">قزوين</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2968-1">A city in northwestern <ref target="http://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2968-1">A city in northwestern <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>
                </desc>
                <location type="gps" source="#bib2968-1">
                   <geo>36.266819 50.003811</geo>
@@ -116,7 +116,7 @@
                   <precision match="@from" notAfter="0644" notBefore="0250"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2968</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2968</idno>
                <idno type="URI">http://syriaca.org/place/2968</idno>
                <idno type="URI">https://pleiades.stoa.org/places/884204</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Qazvin</idno>

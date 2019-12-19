@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5138/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5138/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -82,13 +82,13 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5138-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Tanʿīm</placeName>
-          <placeName xml:id="name5138-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">التنعيم</placeName>
+          <placeName xml:id="name5138-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Tanʿīm</placeName>
+          <placeName xml:id="name5138-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">التنعيم</placeName>
           <placeName xml:id="name5138-3" xml:lang="en">At Taniem</placeName>
           <placeName xml:id="name5138-4" xml:lang="ar" source="#bib5138-1">التنعيم</placeName>
           <placeName xml:id="name5138-5" xml:lang="ar" source="#bib5138-2">التنعيم</placeName>
           <desc type="abstract" xml:id="abstract5138-1" xml:lang="en">A place north of Mecca used for the performance of iḥrām during the ʿumra. The town is part of the Darb Zubayda, the famous pilgrim highway, from al-ʿIrāq to Ḥijāz.</desc><desc xml:lang="ar"><quote source="#bib5138-3">ومنها جبال الطير وهو على أربعة عن جهتي طريق التّنعيم</quote></desc><desc xml:lang="ar"><quote source="#bib5138-4">وكان يعتمر في كلّ يوم من التنعيم، ويعتمر في رمضان: مرتين في اليوم اعتمادا على ما في الخبر عن النبي صلى الله عليه وسلم أنه قال: عمرة في رمضان تعدل حجة معي.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5138</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5138</idno>
           <idno type="URI">http://syriaca.org/place/5138</idno>
           <idno type="URI">https://www.google.com/maps/place/At+Taniem,+Mecca+Saudi+Arabia/data=!4m2!3m1!1s0x15c21d3276ed3e1f:0xc9e844accdc956c1?sa=X&amp;ved=2ahUKEwjineKf2sTjAhVCXq0KHfjRBDAQ8gEwAHoECAoQAQ</idno>
           <bibl xml:id="bib5138-1">

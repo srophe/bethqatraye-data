@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5334/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5334/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -71,8 +71,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5334-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Juwāthāʾ</placeName>
-          <placeName xml:id="name5334-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جواثاء</placeName>
+          <placeName xml:id="name5334-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Juwāthāʾ</placeName>
+          <placeName xml:id="name5334-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جواثاء</placeName>
           <placeName xml:id="name5334-3" xml:lang="ar">جواثا</placeName>
           <placeName xml:id="name5334-4" xml:lang="ar" source="#bib5334-1">جواثاء</placeName>
           <placeName xml:id="name5334-5" xml:lang="ar" source="#bib5334-1">جواثا</placeName>
@@ -82,8 +82,8 @@
           </desc>
                     <location type="gps" source="#bib5334-2">
                         <geo>25.4491286 49.3834317</geo>
-                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5334</idno>
+                    </location><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5334</idno>
           <idno type="URI">http://syriaca.org/place/5334</idno>
           <idno type="URI">https://www.google.com/maps/place/Juatha+Saudi-Arabien/@25.4491286,49.3834317,10z/data=!4m5!3m4!1s0x3e379571fd48a6f3:0x9f33617728792bef!8m2!3d25.445337!4d49.6554124</idno>
           <bibl xml:id="bib5334-1">

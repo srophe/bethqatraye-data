@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5134/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5134/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,17 +75,17 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5134-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sūs</placeName>
-          <placeName xml:id="name5134-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السوس</placeName>
+          <placeName xml:id="name5134-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sūs</placeName>
+          <placeName xml:id="name5134-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">السوس</placeName>
           <placeName xml:id="name5134-3" xml:lang="ar" source="#bib5134-1">السوس</placeName>
           <desc type="abstract" xml:id="abstract5134-1" xml:lang="en">A district (kūra) in Khūzistān.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5134-1">السوس كورة باقصى المغرب ومدينة باوله واخرى بهيطل وكورة بخوزستان وبالمغرب سوسة ايضا</quote>
           </desc>
-          <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
+          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>32.19417 48.24361</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5134</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5134</idno>
           <idno type="URI">http://syriaca.org/place/5134</idno>
           <bibl xml:id="bib5134-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5086/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5086/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5086-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Niqra</placeName>
-          <placeName xml:id="name5086-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">النقرة</placeName>
+          <placeName xml:id="name5086-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Niqra</placeName>
+          <placeName xml:id="name5086-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">النقرة</placeName>
           <placeName xml:id="name5086-3" xml:lang="en">al-Naqara</placeName>
           <placeName xml:id="name5086-4" xml:lang="ar" source="#bib5086-1">النقرة</placeName>
           <placeName xml:id="name5086-5" xml:lang="ar" source="#bib5086-1">معدن النقرة</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5086-2">
                         <geo>25.5800396 41.4313101</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5086</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5086</idno>
           <idno type="URI">http://syriaca.org/place/5086</idno>
           <idno type="URI">https://goo.gl/maps/zt6Fn3QKRyLdJKez8</idno>
           <bibl xml:id="bib5086-1">

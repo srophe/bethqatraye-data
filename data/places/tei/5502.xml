@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5502/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5502/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5502-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Trabzon</placeName>
-          <placeName xml:id="name5502-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">طرابزون</placeName>
+          <placeName xml:id="name5502-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Trabzon</placeName>
+          <placeName xml:id="name5502-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">طرابزون</placeName>
           <placeName xml:id="name5502-3" xml:lang="en">Ṭarabzun</placeName>
           <placeName xml:id="name5502-4" xml:lang="en">Ṭrābzun</placeName>
           <placeName xml:id="name5502-5" xml:lang="en">Trebizond</placeName>
@@ -88,7 +88,7 @@
                     <location type="gps" subtype="representative" source="#bib5502-2">
                         <geo>40.86946 39.81255</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5502</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5502</idno>
           <idno type="URI">http://syriaca.org/place/5502</idno>
           <idno type="URI">http://sws.geonames.org/738647</idno>
           <bibl xml:id="bib5502-1">

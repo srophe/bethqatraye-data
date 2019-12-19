@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2950/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2950/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -115,7 +115,7 @@
                   <link target="#name2950-2 #attestation2950-1"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2950</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2950</idno>
                <idno type="URI">http://syriaca.org/place/2950</idno>
                <idno type="URI">https://pleiades.stoa.org/places/59851</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Indus_River</idno>

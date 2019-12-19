@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5547/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5547/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5547-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAqabat al-Ṣuwwān</placeName>
-          <placeName xml:id="name5547-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عقبة الصوان</placeName>
+          <placeName xml:id="name5547-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAqabat al-Ṣuwwān</placeName>
+          <placeName xml:id="name5547-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عقبة الصوان</placeName>
           <placeName xml:id="name5547-3" xml:lang="ar" source="#bib5547-1">عقبة الصوان</placeName>
           <desc type="abstract" xml:id="abstract5547-1" xml:lang="en">A mountainous region in north Jordan.</desc><desc xml:lang="ar"><quote source="#bib5547-1">ثم ارتحلتا الى معان، وهو آخر بلاد الشام، ونزلنا من عقبة الصوان الى الصحراء التي يقال فيها: داخلها مفقود وخارجها مولود.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5547</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5547</idno>
           <idno type="URI">http://syriaca.org/place/5547</idno>
           <idno type="URI">https://ar.wikipedia.org/wiki/فوهة_جبل_وقف_الصوان</idno>
           <bibl xml:id="bib5547-1">

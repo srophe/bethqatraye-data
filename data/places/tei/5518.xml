@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5518/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5518/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -82,12 +82,12 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5518-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Wādi Muḥassar</placeName>
-          <placeName xml:id="name5518-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">وادي محسر</placeName>
+          <placeName xml:id="name5518-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Wādi Muḥassar</placeName>
+          <placeName xml:id="name5518-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">وادي محسر</placeName>
           <placeName xml:id="name5518-3" xml:lang="ar" source="#bib5518-1">وادي محسر</placeName>
           <placeName xml:id="name5518-4" xml:lang="ar" source="#bib5518-2">وادي محسر</placeName>
           <desc type="abstract" xml:id="abstract5518-1" xml:lang="en">A valley between Minā and Muzdalifa.</desc><desc xml:lang="ar"><quote source="#bib5518-3">فيمرون في طريقهم بوادي محسّر، ويهزولون، وذلك سنة. ووادي محسّر هو الحد بين مزدلفة ومنى</quote></desc><desc xml:lang="ar"><quote source="#bib5518-4">ومزدلفة كلها موقف إلا وادي محسّر، ففيه تقع الهرولة حتى يخرج عنه.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5518</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5518</idno>
           <idno type="URI">http://syriaca.org/place/5518</idno>
           <bibl xml:id="bib5518-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

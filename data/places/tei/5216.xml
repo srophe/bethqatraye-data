@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5216/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5216/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5216-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb Jiyād al-Aṣghar</placeName>
-          <placeName xml:id="name5216-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب جياد الأصغر</placeName>
+          <placeName xml:id="name5216-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb Jiyād al-Aṣghar</placeName>
+          <placeName xml:id="name5216-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">باب جياد الأصغر</placeName>
           <placeName xml:id="name5216-3" xml:lang="en">Bāb al-Khalqīyīn</placeName>
           <placeName xml:id="name5216-4" xml:lang="ar">باب الخلقيين</placeName>
           <placeName xml:id="name5216-5" xml:lang="ar" source="#bib5216-1">باب جياد الأصغر</placeName>
           <placeName xml:id="name5216-6" xml:lang="ar" source="#bib5216-1">باب الخلقيين</placeName>
           <desc type="abstract" xml:id="abstract5216-1" xml:lang="en">One of the entrances to the Great Mosque in Mecca.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5216</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5216</idno>
           <idno type="URI">http://syriaca.org/place/5216</idno>
           <bibl xml:id="bib5216-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

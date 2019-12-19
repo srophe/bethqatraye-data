@@ -30,7 +30,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3028/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/3028/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -73,7 +73,7 @@
             <place xml:id="place-3028" type="settlement">
                <placeName xml:id="name3028-1" xml:lang="en" srophe:tags="#headword">Leiden</placeName>
                <placeName xml:id="name3028-2" xml:lang="ar" srophe:tags="#headword">ليدن</placeName>
-               <desc xml:id="abstract-en-3028" xml:lang="en">A city in the <ref target="http://bqgazetteer.bethmardutho.org/place/842"><placeName ref="http://syriaca.org/place/842">Netherlands</placeName></ref>
+               <desc xml:id="abstract-en-3028" xml:lang="en">A city in the <ref target="https://bqgazetteer.bethmardutho.org/place/842"><placeName ref="http://syriaca.org/place/842">Netherlands</placeName></ref>
                </desc>
                <location type="gps" source="#bib3028-1">
                   <geo>52.150265 4.518428</geo>
@@ -82,7 +82,7 @@
                   <precision match="@from" notAfter="0300"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3028</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/3028</idno>
                <idno type="URI">http://syriaca.org/place/3028</idno>
                <idno type="URI">https://pleiades.stoa.org/places/99008</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Leiden</idno>

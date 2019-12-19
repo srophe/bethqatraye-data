@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5412/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5412/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5412-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qarma</placeName>
-          <placeName xml:id="name5412-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قرمة</placeName>
+          <placeName xml:id="name5412-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qarma</placeName>
+          <placeName xml:id="name5412-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قرمة</placeName>
           <placeName xml:id="name5412-3" xml:lang="ar" source="#bib5412-1">قرمة</placeName>
           <desc type="abstract" xml:id="abstract5412-1" xml:lang="en">A city located in the district (kūra) of Bust.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5412-1">واما بست فانها اسم القصبة ايضا ومن مدنها جهالكان، بان، قرمة، بوزاد، ارض داور، صروستان، قرية الجوز، رخود، بكراواذ، بنجوى، كش، روذان، سفنجاوى، طلقان ولها الف ومائة قرية ومن هذه المدن ما يضاف الى سجستان وهو خطأ واقل من يميزهن تمييزنا وابو زيد جعل غزنين وبست من سجستان ومن الناس من يجعلهما كورة واحدة ويسميها كابلستان.</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5412</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5412</idno>
           <idno type="URI">http://syriaca.org/place/5412</idno>
           <bibl xml:id="bib5412-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

@@ -99,7 +99,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/37/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/37/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -191,9 +191,9 @@
                     <placeName xml:id="name37-7" xml:lang="fr" source="#bib37-4">Le pays des
                         Qaṭrayé</placeName>
                     <placeName xml:id="name37-8" xml:lang="en"
-                        resp="http://bqgazetteer.bethmardutho.org">Qatar</placeName>
+                        resp="https://bqgazetteer.bethmardutho.org">Qatar</placeName>
                     <placeName xml:id="name37-9" xml:lang="en"
-                        resp="http://bqgazetteer.bethmardutho.org">Qaṭar</placeName>
+                        resp="https://bqgazetteer.bethmardutho.org">Qaṭar</placeName>
                     <placeName xml:id="name37-10" xml:lang="ar" source="#bib37-6">جزائر
                         قطر</placeName>
                     <placeName xml:id="name37-11" xml:lang="la" source="#bib37-11">Beth Qaṭraye,
@@ -231,10 +231,10 @@
                             متصلة.</quote>
                     </desc>
                     <location type="gps" subtype="representative"
-                        resp="http://bqgazetteer.bethmardutho.org">
+                        resp="https://bqgazetteer.bethmardutho.org">
                         <geo>25.4 53.1</geo>
                     </location>
-                    <location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+                    <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                     <event type="attestation" xml:id="attestation37-1" when="0676" source="#bib37-4">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="syr">ܒܝܬ
                                 ܩܛܪ̈ܝܐ</foreign> and <foreign xml:lang="syr">ܐܬܪܐ ܕܩܛܪ̈ܝܐ</foreign>
@@ -255,7 +255,7 @@
                         <precision match="@to" notAfter="2013" notBefore="0800"
                             srophe:computed-end="2013-01-01" srophe:computed-start="0800-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/37</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/37</idno>
                     <idno type="URI">http://syriaca.org/place/37</idno>
                     <idno type="URI"> http://www.csc.org.il/db/browse.aspx?db=SB&amp;sL=B&amp;sK=Bet
                         Qatraye&amp;sT=keywords </idno>

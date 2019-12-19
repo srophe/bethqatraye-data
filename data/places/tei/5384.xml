@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5384/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5384/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5384-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Mayman</placeName>
-          <placeName xml:id="name5384-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ميمن</placeName>
+          <placeName xml:id="name5384-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mayman</placeName>
+          <placeName xml:id="name5384-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ميمن</placeName>
           <placeName xml:id="name5384-3" xml:lang="en">Maymand</placeName>
           <placeName xml:id="name5384-4" xml:lang="en">Meymand</placeName>
           <placeName xml:id="name5384-5" xml:lang="ar">میمند</placeName>
@@ -85,7 +85,7 @@
                     <location type="gps" source="#bib5384-2">
                         <geo>28.8677687 52.7359413</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5384</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5384</idno>
           <idno type="URI">http://syriaca.org/place/5384</idno>
           <idno type="URI">https://goo.gl/maps/MJbvWG4nnzzooCBL9</idno>
           <bibl xml:id="bib5384-1">

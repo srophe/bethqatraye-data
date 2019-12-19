@@ -75,7 +75,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/429/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/429/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -165,7 +165,7 @@
                     <placeName xml:id="name429-6" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">‘Ānah</placeName>
                     <placeName xml:id="name429-7" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">Ānāt</placeName>
                     <placeName xml:id="name429-8" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">‘Ānāt</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name429-9">ʿĀna</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name429-9">ʿĀna</placeName>
                     <placeName xml:lang="en" xml:id="name429-10">Anato</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract429-1" source="#bib429-7"><quote>In the Middle Ages
                         also ʿānāt , and in Turkish official usage ʿana —is a town of modern <placeName>ʿIrāḳ</placeName>
@@ -203,7 +203,7 @@
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
                     <note type="disambiguation">Not the same place as <placeName ref="http://syriaca.org/place/665">ʿĀnāt</placeName>.</note>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/429</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/429</idno>
                     <idno type="URI">http://syriaca.org/place/429</idno>
                     <idno type="URI">https://pleiades.stoa.org/places/893936</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Anah</idno>

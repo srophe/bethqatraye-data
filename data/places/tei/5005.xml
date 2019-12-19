@@ -52,7 +52,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5005/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5005/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -107,16 +107,16 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5005-1" xml:lang="en" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">Abū Qubays</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">Abū Qubays</placeName>
           <placeName xml:id="name5005-2" xml:lang="ar" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">أبو قبيس</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">أبو قبيس</placeName>
           <placeName xml:id="name5005-3" xml:lang="ar" source="#bib5005-1">أبو قبيس</placeName>
           <desc type="abstract" xml:id="abstract5005-1" xml:lang="en" source="#bib5005-2"><quote>[A]
               sacred hill on the eastern edge of Mecca.</quote></desc>
           <location type="gps" source="#bib5005-3">
             <geo>21.4293489 39.6819808</geo>
           </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5005</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5005</idno>
           <idno type="URI">http://syriaca.org/place/5005</idno>
           <idno type="URI">https://goo.gl/maps/PbgDYjHU2tEHPbQh6</idno>
           <bibl xml:id="bib5005-1">

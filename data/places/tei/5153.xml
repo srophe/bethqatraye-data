@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5153/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5153/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,11 +70,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5153-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zarāda</placeName>
-          <placeName xml:id="name5153-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الزرادة</placeName>
+          <placeName xml:id="name5153-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zarāda</placeName>
+          <placeName xml:id="name5153-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الزرادة</placeName>
           <placeName xml:id="name5153-3" xml:lang="ar" source="#bib5153-1">الزرادة</placeName>
-          <desc type="abstract" xml:id="abstract5153-1" xml:lang="en">A city at the coastline of the province of Bahrain.</desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5153</idno>
+          <desc type="abstract" xml:id="abstract5153-1" xml:lang="en">A city at the coastline of the province of Bahrain.</desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5153</idno>
           <idno type="URI">http://syriaca.org/place/5153</idno>
           <bibl xml:id="bib5153-1">
             <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>

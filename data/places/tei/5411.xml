@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5411/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5411/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,13 +74,13 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5411-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qarah Aghaj</placeName>
-          <placeName xml:id="name5411-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قرا أغاج</placeName>
+          <placeName xml:id="name5411-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qarah Aghaj</placeName>
+          <placeName xml:id="name5411-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قرا أغاج</placeName>
           <placeName xml:id="name5411-3" xml:lang="en">Qarā Aghāj</placeName>
           <placeName xml:id="name5411-4" xml:lang="ar">قره‌آغاج</placeName>
           <placeName xml:id="name5411-5" xml:lang="ar" source="#bib5411-1">قرا أغاج</placeName>
           <desc type="abstract" xml:id="abstract5411-1" xml:lang="en">A desert in the northeast of Iran.</desc><desc xml:lang="ar"><quote source="#bib5411-1">ولمّا وصلنا الى مدينته كان غائبا عنها فأقمنا بها أيّاما ثم قدم فأكرمنا وأركبنا وزوّدنا، وانصرفنا على طريق قرا أغاج وقرا (بفتح القاف) تفسيره أسود (وأغاج بفتح الهمزة والغين المعجم وآخره جيم) تفسيره الخشب، وهي صحراء خضرة يسكنها التركمان.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5411</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5411</idno>
           <idno type="URI">http://syriaca.org/place/5411</idno>
           <bibl xml:id="bib5411-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

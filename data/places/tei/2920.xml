@@ -76,7 +76,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2920/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2920/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -137,15 +137,15 @@
                <placeName xml:id="name2920-1" xml:lang="en" srophe:tags="#headword">al-Yamāma</placeName>
                <placeName xml:id="name2920-2" xml:lang="ar" srophe:tags="#headword" source="#bib2920-2 #bib2920-3 #bib2920-4">اليمامة</placeName>
                <placeName xml:id="name2920-3" xml:lang="en" source="#bib2920-1">Yamāma</placeName>
-               <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2920-4">اليامامة</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2920-1">A region in eastern <ref target="http://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref>
+               <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2920-4">اليامامة</placeName>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2920-1">A region in eastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref>
                </desc>
                <desc xml:lang="en"><quote source="#bib2920-5">In early Islamic times
                   al-Yamāma was a region of Nad̲j̲d [q.v.] with its centre Ḥad̲j̲r.</quote></desc>
                <desc xml:lang="ar">
                   <quote source="#bib2920-4">وكذلك عامة اليمن الا شيا بين عمان واليمامة مما يلي
                      البحر الى حدود اليمن</quote>
-               </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+               </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                <event type="attestation" xml:id="attestation2920-1" when="0891" source="#bib2920-2">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">اليمامة</foreign> in
                      the <title xml:lang="en" level="m">Kitāb al-buldān</title> of <persName>Aḥmad
@@ -159,7 +159,7 @@
                   <link target="#name2920-2 #attestation2920-2"/>
                </event>
                <state type="existence" from="0902" to="0914">                   <precision match="@from" notAfter="0902"/>                   <precision match="@to" notBefore="0914"/>                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2920</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2920</idno>
                <idno type="URI">http://syriaca.org/place/2920</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Al-Yamama</idno>
                <idno type="URI">https://dbpedia.org/resource/Al-Yamama</idno>

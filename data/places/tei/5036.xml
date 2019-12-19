@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5036/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5036/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5036-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥājiz</placeName>
-          <placeName xml:id="name5036-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الحاجز</placeName>
+          <placeName xml:id="name5036-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥājiz</placeName>
+          <placeName xml:id="name5036-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الحاجز</placeName>
           <placeName xml:id="name5036-3" xml:lang="en">al-Ḥājir</placeName>
           <placeName xml:id="name5036-4" xml:lang="ar">الحاجر</placeName>
           <placeName xml:id="name5036-5" xml:lang="ar" source="#bib5036-1">الحاجز</placeName>
           <placeName xml:id="name5036-6" xml:lang="ar" source="#bib5036-1">الحاجر</placeName>
           <desc type="abstract" xml:id="abstract5036-1" xml:lang="en">Probably a settlement in the north of the Arabian Peninsula.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5036</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5036</idno>
           <idno type="URI">http://syriaca.org/place/5036</idno>
           <bibl xml:id="bib5036-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

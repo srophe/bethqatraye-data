@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5319/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5319/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5319-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Jabal al-Qabaq</placeName>
-          <placeName xml:id="name5319-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">جبل القبق</placeName>
+          <placeName xml:id="name5319-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jabal al-Qabaq</placeName>
+          <placeName xml:id="name5319-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جبل القبق</placeName>
           <placeName xml:id="name5319-3" xml:lang="ar" source="#bib5319-1">جبل القبق</placeName>
           <desc type="abstract" xml:id="abstract5319-1" xml:lang="en" source="#bib5319-2"><quote>The Caucasus Mountains, located between the Black Sea and the Caspian Sea.</quote></desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" subtype="representative" source="#bib5319-2">
                         <geo>42.5 43.5</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5319</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5319</idno>
           <idno type="URI">http://syriaca.org/place/5319</idno>
           <idno type="URI">http://pleiades.stoa.org/places/863766</idno>
           <bibl xml:id="bib5319-1">

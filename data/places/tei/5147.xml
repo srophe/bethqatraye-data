@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5147/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5147/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5147-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Yanbūʿ</placeName>
-          <placeName xml:id="name5147-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الينبوع</placeName>
+          <placeName xml:id="name5147-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Yanbūʿ</placeName>
+          <placeName xml:id="name5147-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الينبوع</placeName>
           <placeName xml:id="name5147-3" xml:lang="en">Yanbuʿ</placeName>
           <placeName xml:id="name5147-4" xml:lang="ar">ينبع</placeName>
           <placeName xml:id="name5147-5" xml:lang="ar" source="#bib5147-1">الينبوع</placeName>
@@ -86,7 +86,7 @@
                     <location type="gps" source="#bib5147-3">
                         <geo>24.08954 38.0618</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5147</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5147</idno>
           <idno type="URI">http://syriaca.org/place/5147</idno>
           <idno type="URI">http://sws.geonames.org/100425</idno>
           <bibl xml:id="bib5147-1">

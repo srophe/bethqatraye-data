@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5488/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5488/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5488-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Tall al-Tawba</placeName>
-          <placeName xml:id="name5488-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تل التوبة</placeName>
+          <placeName xml:id="name5488-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Tall al-Tawba</placeName>
+          <placeName xml:id="name5488-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">تل التوبة</placeName>
           <placeName xml:id="name5488-3" xml:lang="en">Tall al-Nabī Yūsuf</placeName>
           <placeName xml:id="name5488-4" xml:lang="ar">تل النبي يونس</placeName>
           <placeName xml:id="name5488-5" xml:lang="ar" source="#bib5488-1">تل التوبة</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5488-2">
                         <geo>36.3486606 43.151974</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5488</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5488</idno>
           <idno type="URI">http://syriaca.org/place/5488</idno>
           <idno type="URI">https://goo.gl/maps/iRQwjX1bczDHrSwW6</idno>
           <bibl xml:id="bib5488-1">

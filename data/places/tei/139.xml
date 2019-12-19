@@ -95,7 +95,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/139/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/139/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -199,7 +199,7 @@
                     <placeName xml:id="name139-5" xml:lang="en" source="#bib139-1">Bu-Ardashir</placeName>
                     <placeName xml:id="name139-6" xml:lang="en" source="#bib139-1">Ardashir</placeName>
                     <placeName xml:id="name139-7" xml:lang="ar" source="#bib139-8">المَوصِل</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name139-8">al-Mauṣil</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name139-8">al-Mauṣil</placeName>
                     <placeName xml:lang="en" xml:id="name139-9">Mespila</placeName>
                     <placeName xml:lang="en" xml:id="name139-10">Mūṣul</placeName>
                     <placeName xml:lang="en" xml:id="name139-11">Muṣul</placeName>
@@ -210,7 +210,7 @@
                     <placeName xml:lang="en" xml:id="name139-16">al-Mausil</placeName>
                     <placeName xml:lang="en" xml:id="name139-17">al-Mawsil</placeName>
                     <placeName xml:lang="en" xml:id="name139-18">el-Mausil</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name139-19">al-Mawṣil</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name139-19">al-Mawṣil</placeName>
                     <desc type="abstract" xml:id="abstract-en-139" xml:lang="en">
                         <quote source="#bib139-1">City in the north of <placeName>Iraq</placeName>,
                             on the west bank of the <placeName>Tigris</placeName> opposite the ruins
@@ -244,7 +244,7 @@
                         <precision match="@from" notAfter="0817" srophe:computed-end="0817-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/139</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/139</idno>
                     <idno type="URI">http://syriaca.org/place/139</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/874609</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Mosul</idno>

@@ -76,7 +76,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4150/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4150/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -142,22 +142,22 @@
                <placeName xml:id="name4150-4" xml:lang="syr" srophe:tags="#headword" source="#bib4150-2">ܕܝܪܝܢ</placeName>
                <placeName xml:id="name4150-5" xml:lang="fr" source="#bib4150-2">Deirȋn</placeName>
                <placeName xml:id="name4150-6" xml:lang="ar" source="#bib4150-3">الدارين</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name4150-7">Tarout</placeName>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name4150-7">Tarout</placeName>
                <placeName xml:lang="en" xml:id="name4150-8">Tarūt</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name4150-9">Darin</placeName>
-               <placeName xml:id="name4150-10" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Dārīn</placeName>
-               <placeName xml:id="name4150-11" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">دارِين</placeName>
-               <desc type="abstract" xml:id="abstract-en-4150" xml:lang="en">One of the islands in <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> located east of <placeName>al-Qaṭīf</placeName>.</desc>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name4150-9">Darin</placeName>
+               <placeName xml:id="name4150-10" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Dārīn</placeName>
+               <placeName xml:id="name4150-11" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org">دارِين</placeName>
+               <desc type="abstract" xml:id="abstract-en-4150" xml:lang="en">One of the islands in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> located east of <placeName>al-Qaṭīf</placeName>.</desc>
                <desc xml:lang="en">The island of Dayrin well known
                   for its production of musk.</desc>
                <desc xml:lang="en">An island on the coast of Bahrain.</desc>
-               <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="preferred">
+               <location type="gps" resp="https://bqgazetteer.bethmardutho.org" subtype="preferred">
                   <geo>26.540066 50.083585</geo>
                </location>
-               <location type="gps" resp="http://bqgazetteer.bethmardutho.org" subtype="alternate">
+               <location type="gps" resp="https://bqgazetteer.bethmardutho.org" subtype="alternate">
                   <geo>26.571 50.056</geo>
                </location>
-               <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+               <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
                   <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                </location>
                <event type="attestation" xml:id="attestation4150-1" when="0676" source="#bib4150-2">
@@ -178,7 +178,7 @@
                   <link target="#name4150-2 #attestation4150-3"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4150</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4150</idno>
                <idno type="URI">http://syriaca.org/place/4150</idno>
                <bibl xml:id="bib4150-1">
                   <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the Syriac

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5178/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5178/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5178-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Astar Abad</placeName>
-          <placeName xml:id="name5178-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">استر أباد</placeName>
+          <placeName xml:id="name5178-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Astar Abad</placeName>
+          <placeName xml:id="name5178-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">استر أباد</placeName>
           <placeName xml:id="name5178-3" xml:lang="en">Astarābād</placeName>
           <placeName xml:id="name5178-4" xml:lang="en">Asterabad</placeName>
           <placeName xml:id="name5178-5" xml:lang="en">Esterabad</placeName>
@@ -91,7 +91,7 @@
                     <location type="gps" source="#bib5178-3">
                         <geo>36.72195 54.84358</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5178</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5178</idno>
           <idno type="URI">http://syriaca.org/place/5178</idno>
           <idno type="URI">http://www.geonames.org/144233/alestan.html</idno>
           <bibl xml:id="bib5178-1">

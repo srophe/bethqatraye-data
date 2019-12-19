@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5549/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5549/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,14 +76,14 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5549-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿArafāt</placeName>
-          <placeName xml:id="name5549-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عرفات</placeName>
+          <placeName xml:id="name5549-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿArafāt</placeName>
+          <placeName xml:id="name5549-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عرفات</placeName>
           <placeName xml:id="name5549-3" xml:lang="ar" source="#bib5549-1">عرفات</placeName>
           <desc type="abstract" xml:id="abstract5549-1" xml:lang="en" source="#bib5549-2">A <quote>plain about 21 km. (13 miles) east of Mecca, on the road to Ṭāʾif, bounded on the north by a mountain-ridge of the same name.</quote></desc>
                     <location type="gps" source="#bib5549-3">
                         <geo>21.354884 39.9666064</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5549</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5549</idno>
           <idno type="URI">http://syriaca.org/place/5549</idno>
           <idno type="URI">https://goo.gl/maps/Nhf9TqLLTYuuXrE58</idno>
           <bibl xml:id="bib5549-1">

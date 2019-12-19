@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5108/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5108/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5108-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sabkha</placeName>
-          <placeName xml:id="name5108-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org">السَّبخَةُ</placeName>
+          <placeName xml:id="name5108-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sabkha</placeName>
+          <placeName xml:id="name5108-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org">السَّبخَةُ</placeName>
           <placeName xml:id="name5108-3" xml:lang="ar" srophe:tags="#headword" source="#bib5108-1">السبخة</placeName>
           <desc type="abstract" xml:id="abstract5108-1" xml:lang="en">A quarter in al-Baṣra.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5108-1">السبخة : بالتحريك، واحدة السباخ، الأرض الملحة النازة : موضع بالبصرة؛ ينسب إليه أبو يعقوب فرقد بن يعقوب السبخي من زهاد البصرة، صحب أبا الحسن البصري وسمع نقرأ من التابعين، وأصله من أرمينية وانتقل إلى البصرة فكان يأوي إلى السبخة، ومات قبل سنة 131</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5108</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5108</idno>
           <idno type="URI">http://syriaca.org/place/5108</idno>
           <bibl xml:id="bib5108-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

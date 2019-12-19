@@ -59,7 +59,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/509/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/509/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -139,9 +139,9 @@
                     <placeName xml:id="name509-3" xml:lang="syr-Syrj" source="#bib509-2">ܘܰܐܣܛ</placeName>
                     <placeName xml:id="name509-4" xml:lang="ar" source="#bib509-3 #bib509-5 #bib509-6 #bib509-7" srophe:tags="#headword">واسط</placeName>
                     <placeName xml:id="name509-5" xml:lang="en" source="#bib509-4">Wasit</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name111-3">Wāsiṭ</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name111-3">Wāsiṭ</placeName>
                     <desc type="abstract" xml:id="abstract509-1" xml:lang="en">A city of southern <placeName>Iraq</placeName> on the west
-                        bank of the <ref target="http://bqgazetteer.bethmardutho.org/place/202"><placeName ref="http://syriaca.org/place/202">Tigris</placeName></ref>.</desc>
+                        bank of the <ref target="https://bqgazetteer.bethmardutho.org/place/202"><placeName ref="http://syriaca.org/place/202">Tigris</placeName></ref>.</desc>
                     <desc xml:lang="ar"><quote source="#bib509-8">يحكى أن الشيخ الولي أحمد الرفاعي رضي الله عنه كان مسكنه بأم عبيدة بمقربة من مدينة واسط، وكانت بين ولي الله تعالى أبي مدين شعيب ابن الحسين وبينه مؤاخاة ومراسلة</quote></desc>
                     <desc xml:lang="ar"><quote source="#bib509-9">مدينة واسط</quote></desc>
                     <desc xml:lang="ar"><quote source="#bib509-10">ولمّا نزلنا مدينة واسط أقامت القافلة ثلاثا بخارجها للتجارة. فسنح لي زيارة قبر الولي أبي العباس أحمد الرفاعي، وهو بقرية تعرف بأم عبيدة، على مسيرة يوم من واسط</quote></desc>
@@ -156,8 +156,8 @@
                         <precision match="@from" notAfter="0714" notBefore="0694" srophe:computed-end="0714-01-01" srophe:computed-start="0694-01-01"/>
                         <precision match="@to" notBefore="1522" srophe:computed-start="1522-01-01"/>
                     </state>
-                    <note type="disambiguation">Not the same conceptual place as <placeName ref="http://bqgazetteer.bethmardutho.org/place/509">Kashkar</placeName>.</note>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/509</idno>
+                    <note type="disambiguation">Not the same conceptual place as <placeName ref="https://bqgazetteer.bethmardutho.org/place/509">Kashkar</placeName>.</note>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/509</idno>
                     <idno type="URI">http://syriaca.org/place/509</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Wasit,_Iraq</idno>
                     <idno type="URI">http://dbpedia.org/resource/Wasit,_Iraq</idno>

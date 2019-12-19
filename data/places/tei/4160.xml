@@ -31,7 +31,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4160/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4160/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -73,22 +73,22 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name4160-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Khārik</placeName>
-          <placeName xml:id="name4160-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">خارك</placeName>
+          <placeName xml:id="name4160-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Khārik</placeName>
+          <placeName xml:id="name4160-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">خارك</placeName>
           <placeName xml:id="name4160-3" xml:lang="en" srophe:tags="#headword">Kharg</placeName>
           <placeName xml:id="name4160-4" xml:lang="en">Khark</placeName>
           <placeName xml:id="name4160-5" xml:lang="ar" source="#bib4160-1">خارك</placeName>
           <placeName xml:id="name4160-6" xml:lang="en" source="#bib4160-4">Black Island</placeName>
           <placeName xml:id="name4160-7" xml:lang="syr" source="#bib4160-3">​ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</placeName>
-          <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>.</desc>
+          <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>.</desc>
                     <location type="gps" source="#bib4160-2">
                         <geo>29.230338 50.30604</geo>
                     </location>
-          <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
             <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
           </location>
           <note type="incerta" source="#bib4160-3 #bib4160-4 #bib4160-5">The island of Kharg is likely referred to as the <ref target="#name4160-6">Black Island</ref>, <ref target="#name4160-7"><foreign xml:lang="syr-Syrj">ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</foreign></ref>, in the <title level="m">History of Mar Yawnan</title>. See M. Kozah, <title level="a">Introduction</title>, in M. Kozah et al. (eds.), <title level="m">Beth Qaṭraye. A Lexical and Toponymical Survey</title>.</note>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/4160</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4160</idno>
           <idno type="URI">http://syriaca.org/place/4160</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912881</idno>
           <bibl xml:id="bib4160-1">

@@ -61,7 +61,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2932/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2932/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -118,8 +118,8 @@
                <placeName xml:id="name2932-1" xml:lang="en" srophe:tags="#headword">Gulf of
                   Aden</placeName>
                <placeName xml:id="name2932-2" xml:lang="ar" srophe:tags="#headword" source="#bib2932-2">الخليج البربري</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2932-3">al-Khalīj al-Barbarī</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2932-4">Baḥr al-Niʿm</placeName>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2932-3">al-Khalīj al-Barbarī</placeName>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2932-4">Baḥr al-Niʿm</placeName>
                <placeName xml:lang="ar" xml:id="name2932-5" source="#bib2932-3">بحر النعم</placeName>
                <placeName xml:lang="en" xml:id="name2932-6">Baḥr al-Yaman</placeName>
                <placeName xml:lang="en" xml:id="name2932-7">Khalīj ʿAdan</placeName>
@@ -127,11 +127,11 @@
                <placeName xml:lang="ar" xml:id="name2932-9" source="#bib2932-3">بحر اليمن</placeName>
                <placeName xml:lang="ar" xml:id="name2932-10">خليج عدن</placeName>
                <placeName xml:lang="ar" xml:id="name2932-11">خليج بربرا</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2932-1">The bay which separates the <ref target="http://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabian Peninsula</placeName></ref> from the <placeName>Horn
+               <desc type="abstract" xml:lang="en" xml:id="abstract2932-1">The bay which separates the <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabian Peninsula</placeName></ref> from the <placeName>Horn
                   of <placeName>Africa</placeName>
                         </placeName>.</desc>
                <desc xml:lang="en">A gulf connecting to the <placeName>Red
-                  Sea</placeName> in the west located between <placeName>Somalia</placeName>, the <ref target="http://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabian Peninsula</placeName></ref>, and the <placeName>Arabian
+                  Sea</placeName> in the west located between <placeName>Somalia</placeName>, the <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabian Peninsula</placeName></ref>, and the <placeName>Arabian
                   Sea</placeName>.</desc>
                     <location type="gps" source="#bib2932-4" subtype="alternate">
                         <geo>12.0000001 47.9999999</geo>
@@ -146,7 +146,7 @@
                   <link target="#name2932-2 #attestation2932-1"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2932</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2932</idno>
                <idno type="URI">http://syriaca.org/place/2932</idno>
                <idno type="URI">https://pleiades.stoa.org/places/39305</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Gulf_of_Aden</idno>

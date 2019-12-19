@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5077/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5077/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5077-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
-          <placeName xml:id="name5077-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
+          <placeName xml:id="name5077-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Mushaqqar</placeName>
+          <placeName xml:id="name5077-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المُشَقَّرُ</placeName>
           <placeName xml:id="name5077-3" xml:lang="ar" source="#bib5077-1">المشقر</placeName>
           <desc type="abstract" xml:id="abstract5077-1" xml:lang="en">A valley in Ajʾi [?].</desc>
           <desc xml:lang="ar">
             <quote source="#bib5077-1">وقال الحازمي : المشقر أيضا واد بأجإ، وقد قال امرؤ القيس في قصيدته التي يذكر فيها الشام فذكر فيها عدة مواضع</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5077</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5077</idno>
           <idno type="URI">http://syriaca.org/place/5077</idno>
           <bibl xml:id="bib5077-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

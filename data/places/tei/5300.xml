@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5300/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5300/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -82,12 +82,12 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5300-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ḥarba</placeName>
-          <placeName xml:id="name5300-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">حربة</placeName>
+          <placeName xml:id="name5300-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ḥarba</placeName>
+          <placeName xml:id="name5300-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">حربة</placeName>
           <placeName xml:id="name5300-3" xml:lang="ar" source="#bib5300-1">الحربة</placeName>
           <placeName xml:id="name5300-4" xml:lang="ar" source="#bib5300-2">حربة</placeName>
           <desc type="abstract" xml:id="abstract5300-1" xml:lang="en">A village in al-ʿIrāq near Tikrīt.</desc><desc xml:lang="ar"><quote source="#bib5300-2">ثم نزلنا بعد يومين بقرية كبيرة تعرف بحربة، مخصبة فسیحة</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5300</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5300</idno>
           <idno type="URI">http://syriaca.org/place/5300</idno>
           <bibl xml:id="bib5300-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

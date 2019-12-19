@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5436/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5436/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5436-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ramāda</placeName>
-          <placeName xml:id="name5436-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رمادة</placeName>
+          <placeName xml:id="name5436-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ramāda</placeName>
+          <placeName xml:id="name5436-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">رمادة</placeName>
           <placeName xml:id="name5436-3" xml:lang="en">Remada</placeName>
           <placeName xml:id="name5436-4" xml:lang="en">Tillibari</placeName>
           <placeName xml:id="name5436-5" xml:lang="ar" source="#bib5436-1">رمادة</placeName>
@@ -87,7 +87,7 @@
                     <location type="gps" source="#bib5436-2">
                         <geo>32.31633 10.399072</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5436</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5436</idno>
           <idno type="URI">http://syriaca.org/place/5436</idno>
           <idno type="URI">http://pleiades.stoa.org/places/344516</idno>
           <bibl xml:id="bib5436-1">

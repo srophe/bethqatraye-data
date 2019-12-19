@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5535/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5535/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5535-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zubāla</placeName>
-          <placeName xml:id="name5535-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زبالة</placeName>
+          <placeName xml:id="name5535-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zubāla</placeName>
+          <placeName xml:id="name5535-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زبالة</placeName>
           <placeName xml:id="name5535-3" xml:lang="ar" source="#bib5535-1">زبالة</placeName>
           <desc type="abstract" xml:id="abstract5535-1" xml:lang="en">A town in the north of the Arabian Peninsula north of al-Shuqūq. The town is part of the Darb Zubayda, the famous pilgrim highway from al-ʿIrāq to Ḥijāz.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5535</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5535</idno>
           <idno type="URI">http://syriaca.org/place/5535</idno>
           <bibl xml:id="bib5535-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

@@ -65,7 +65,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2954/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2954/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -121,7 +121,7 @@
             <place xml:id="place-2954" type="settlement">
                <placeName xml:id="name2954-1" xml:lang="en" srophe:tags="#headword">Warthān</placeName>
                <placeName xml:id="name2954-2" xml:lang="ar" srophe:tags="#headword" source="#bib2954-2 #bib2954-3">ورثان</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2954-1">A city on the <ref target="http://bqgazetteer.bethmardutho.org/place/2953"><placeName ref="http://syriaca.org/place/2953">al-Rass</placeName></ref>.
+               <desc type="abstract" xml:lang="en" xml:id="abstract2954-1">A city on the <ref target="https://bqgazetteer.bethmardutho.org/place/2953"><placeName ref="http://syriaca.org/place/2953">al-Rass</placeName></ref>.
                </desc>
                <location type="gps" source="#bib2954-1">
                   <geo>39.57459 47.721084</geo>
@@ -142,7 +142,7 @@
                   <precision match="@from" notAfter="0640"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2954</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2954</idno>
                <idno type="URI">http://syriaca.org/place/2954</idno>
                <idno type="URI">https://pleiades.stoa.org/places/884224</idno>
                <bibl xml:id="bib2954-1">

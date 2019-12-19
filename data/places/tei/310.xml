@@ -64,7 +64,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/310/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/310/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -149,7 +149,7 @@
                     <placeName xml:id="name310-4" xml:lang="ar" srophe:tags="#headword" source="#bib310-2 #bib310-6">تفليس</placeName>
                     <placeName xml:id="name310-5" xml:lang="en" source="#bib310-3">Tiflis</placeName>
                     <placeName xml:id="name310-6" xml:lang="ar" source="#bib310-5">تَفليس</placeName>
-                    <desc xml:id="abstract-en-310" xml:lang="en">A major city in <ref target="http://bqgazetteer.bethmardutho.org/place/528"><placeName ref="http://syriaca.org/place/528">Georgia</placeName></ref>
+                    <desc xml:id="abstract-en-310" xml:lang="en">A major city in <ref target="https://bqgazetteer.bethmardutho.org/place/528"><placeName ref="http://syriaca.org/place/528">Georgia</placeName></ref>
                     </desc>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib310-1">ܡܕܺܝܢܬܐ ܥܰܬܝܩܬܐ ܕܒܰܩܠܝܡܳܐ ܕܐܺܝܒܰܪܝܰܐ ܘܰܠܬܝܡܰܢ
@@ -182,7 +182,7 @@
                         <precision match="@from" notAfter="0534" notBefore="0458" srophe:computed-end="0534-01-01" srophe:computed-start="0458-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/310</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/310</idno>
                     <idno type="URI">http://syriaca.org/place/310</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/863903</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Tbilisi</idno>

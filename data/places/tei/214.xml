@@ -55,7 +55,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/214/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/214/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -140,7 +140,7 @@
                         corresponds roughly to the administrative area, or liwāʾ , of the same name
                         and which extends for about 100 kilometres from north to south and 75 from
                         east to west.</quote></desc>
-                    <desc xml:lang="en">A region south of <ref target="http://bqgazetteer.bethmardutho.org/place/66"><placeName ref="http://syriaca.org/place/66">Damascus</placeName></ref> and east of the
+                    <desc xml:lang="en">A region south of <ref target="https://bqgazetteer.bethmardutho.org/place/66"><placeName ref="http://syriaca.org/place/66">Damascus</placeName></ref> and east of the
                         <placeName>Sea of Galilee</placeName>.</desc>
                     <desc xml:lang="ar"><quote source="#bib214-8">ثم ارتحلنا منها إلى بلدة زرعة وهي صغيرة من بلاد حوران نزلنا بالقرب منها ثم ارتحلنا إلى مدينة بُصرى، وهي صغيرة ومن عادة الركب أن يقيم بها أربعا ليلحق بهم من تخلف بدمشق لقضاء مآربه - وإلى بُصرى وصل رسول الله صلى الله عليه وسلم قبل البعث في تجارة خديجة، وبها مبرك ناقته قد بنى عليه مسجد عظيم</quote></desc>
                     <location type="gps" subtype="representative" source="#bib214-6">
@@ -156,7 +156,7 @@
                         <precision match="@from" notAfter="-0030"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/214</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/214</idno>
                     <idno type="URI">http://syriaca.org/place/214</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/678041</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Hauran</idno>

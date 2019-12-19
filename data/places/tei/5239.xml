@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5239/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5239/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,15 +75,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5239-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bezd</placeName>
-          <placeName xml:id="name5239-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بزد</placeName>
+          <placeName xml:id="name5239-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bezd</placeName>
+          <placeName xml:id="name5239-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بزد</placeName>
           <placeName xml:id="name5239-3" xml:lang="en">Bazd</placeName>
           <placeName xml:id="name5239-4" xml:lang="ar" source="#bib5239-1">بزد</placeName>
           <desc type="abstract" xml:id="abstract5239-1" xml:lang="en">A village located in Khorasan Province of modern day-Iran.</desc><desc xml:lang="ar"><quote source="#bib5239-3">واشتدّت شوكته وطمحت همّته إلى تملك ما يليه من البلاد فبدأ بالأقرب منها وهي مدينة بزد، مدينة حسنة نظيفة عجيبة الأسواق ذات أنهار مطّردة وأشجار نضيرة وأهلها تجار شافعيّة المذهب فحاصرها وتغلب عليها وتحصن الأمير مظفّر شاه ابن الامير محمد شاه بن مظفر بقلعة على ستة أميال منها منيعة تحدق بها الرمال فحاصره بها.</quote></desc>
                     <location type="gps" source="#bib5239-2">
                         <geo>35.21139 60.44167</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5239</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5239</idno>
           <idno type="URI">http://syriaca.org/place/5239</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Bezd&amp;params=35_12_41_N_60_26_30_E_region:IR_type:city(2821)</idno>
           <bibl xml:id="bib5239-1">

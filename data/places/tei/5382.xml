@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5382/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5382/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="fortification">
-          <placeName xml:id="name5382-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Masyāf</placeName>
-          <placeName xml:id="name5382-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مصياف</placeName>
+          <placeName xml:id="name5382-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Masyāf</placeName>
+          <placeName xml:id="name5382-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">مصياف</placeName>
           <placeName xml:id="name5382-3" xml:lang="en">Masyād</placeName>
           <placeName xml:id="name5382-4" xml:lang="ar">مصياد</placeName>
           <placeName xml:id="name5382-5" xml:lang="ar" source="#bib5382-1">مصياف</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5382-2">
                         <geo>35.0653 36.3406</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5382</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5382</idno>
           <idno type="URI">http://syriaca.org/place/5382</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2298647</idno>
           <bibl xml:id="bib5382-1">

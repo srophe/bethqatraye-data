@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5248/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5248/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5248-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bukhārā</placeName>
-          <placeName xml:id="name5248-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بخارى</placeName>
+          <placeName xml:id="name5248-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bukhārā</placeName>
+          <placeName xml:id="name5248-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بخارى</placeName>
           <placeName xml:id="name5248-3" xml:lang="en">Bukhara</placeName>
           <placeName xml:id="name5248-4" xml:lang="ar" source="#bib5248-1">بخارا</placeName>
           <desc type="abstract" xml:id="abstract5248-1" xml:lang="en" source="#bib5248-2"><quote>A city in a large oasis in present day Uzbekistān on the lower course of the Zarafs̲h̲ān River.</quote></desc>
@@ -87,7 +87,7 @@
                     <location type="gps" source="#bib5248-3">
                         <geo>39.77472 64.42861</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5248</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5248</idno>
           <idno type="URI">http://syriaca.org/place/5248</idno>
           <idno type="URI">http://www.geonames.org/1217662/bukhara.html</idno>
           <bibl xml:id="bib5248-1">

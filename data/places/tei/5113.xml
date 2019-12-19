@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5113/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5113/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5113-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ṣafrāʾ</placeName>
-          <placeName xml:id="name5113-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الصفراء</placeName>
+          <placeName xml:id="name5113-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ṣafrāʾ</placeName>
+          <placeName xml:id="name5113-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الصفراء</placeName>
           <placeName xml:id="name5113-3" xml:lang="ar" source="#bib5113-1">الصفراء</placeName>
           <desc type="abstract" xml:id="abstract5113-1" xml:lang="en">A valley southwest of Medina.</desc><desc xml:lang="ar"><quote source="#bib5113-1">ثم رحلنا ونزلنا بالصفراء. وهو واد معمور، فيه ماء ونخل وبنيان، وقصر يسكنه الشّرفاء الحسنيون وسواهم، وفيها حصن كبير، ووتواليه حصون كثيرة وقرى متصلة،</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5113-2">
                         <geo>24.01277778 38.92277778</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5113</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5113</idno>
           <idno type="URI">http://syriaca.org/place/5113</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=وادي_الصفراء&amp;params=24.01277778_N_38.92277778_E_globe:earth_type:landmark</idno>
           <bibl xml:id="bib5113-1">

@@ -46,7 +46,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3027/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/3027/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -102,9 +102,9 @@
                <placeName xml:id="name3027-3" xml:lang="syr" srophe:tags="#headword" source="#bib3027-1">ܓܙܪ̈ܬܐ ܕܐܪܕܝ ܘܕܬܘܕܘܪܘ</placeName>
                <placeName xml:id="name3027-4" xml:lang="fr" source="#bib3027-1">Les Ȋles de Ardai et
                   de Tȏdourou</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name3027-5">Arday and Tuduru</placeName>
-               <desc type="abstract" xml:id="abstract3027-1" xml:lang="en">A diocese for the islands of <ref target="http://bqgazetteer.bethmardutho.org/place/3008"><placeName ref="http://syriaca.org/place/3008">Arday</placeName></ref> and <ref target="http://bqgazetteer.bethmardutho.org/place/3009"><placeName ref="http://syriaca.org/place/3009">Toduru</placeName></ref> in <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>
-               </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name3027-5">Arday and Tuduru</placeName>
+               <desc type="abstract" xml:id="abstract3027-1" xml:lang="en">A diocese for the islands of <ref target="https://bqgazetteer.bethmardutho.org/place/3008"><placeName ref="http://syriaca.org/place/3008">Arday</placeName></ref> and <ref target="https://bqgazetteer.bethmardutho.org/place/3009"><placeName ref="http://syriaca.org/place/3009">Toduru</placeName></ref> in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>
+               </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                <event type="attestation" xml:id="attestation3027-1" when="0410" source="#bib3027-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="syr">ܓܙܪ̈ܬܐ ܕܐܪܕܝ
                         ܘܕܬܘܕܘܪܘ</foreign> in the <title xml:lang="en" level="m">Synodicon
@@ -115,7 +115,7 @@
                   <precision match="@from" notAfter="0410" notBefore="0030"/>
                   <precision match="@to" notAfter="2017" notBefore="0410"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/3027</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/3027</idno>
                <idno type="URI">http://syriaca.org/place/3027</idno>
                <bibl xml:id="bib3027-1">
                   <title xml:lang="en" level="m">Synodicon Orientale</title>

@@ -69,7 +69,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/586/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/586/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -161,7 +161,7 @@
                     <placeName xml:id="name586-4" xml:lang="ar" srophe:tags="#headword" source="#bib586-3 #bib586-9">القسطنطينية</placeName>
                     <placeName xml:id="name586-5" xml:lang="ar" source="#bib586-8 #bib586-12">قسطنطينية</placeName>
                     <placeName xml:id="name586-6" xml:lang="ar" source="#bib586-8 #bib586-12">اصطنْبُوْل</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name586-7">Byzantium</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name586-7">Byzantium</placeName>
                     <placeName xml:lang="en" xml:id="name586-8">Constantinopolis</placeName>
                     <placeName xml:lang="en" xml:id="name586-9">Istanbul</placeName>
                     <placeName xml:lang="en" xml:id="name586-10">Konstantinopel</placeName>
@@ -198,7 +198,7 @@
                         <precision match="@from" notAfter="0330" srophe:computed-end="0330-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/586</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/586</idno>
                     <idno type="URI">http://syriaca.org/place/586</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/520998</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Constantinople</idno>

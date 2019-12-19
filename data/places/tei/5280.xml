@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5280/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5280/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,15 +75,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5280-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Fīrūzān</placeName>
-          <placeName xml:id="name5280-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">فيروزان</placeName>
+          <placeName xml:id="name5280-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Fīrūzān</placeName>
+          <placeName xml:id="name5280-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">فيروزان</placeName>
           <placeName xml:id="name5280-3" xml:lang="en">Firuzan</placeName>
           <placeName xml:id="name5280-4" xml:lang="ar" source="#bib5280-1">فيروزان</placeName>
           <desc type="abstract" xml:id="abstract5280-1" xml:lang="en">A town southwest of Hamadān.</desc><desc xml:lang="ar"><quote source="#bib5280-1">ثم رحلنا منها إلى مدينة فيروزان، واسمها كانّه تثنيّة فيروز، وهي مدينة صغيرة ذات أنهار وأشجار وبساتين</quote></desc>
                     <location type="gps" source="#bib5280-2">
                         <geo>34.27861 48.24</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5280</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5280</idno>
           <idno type="URI">http://syriaca.org/place/5280</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Firuzan&amp;params=34_16_43_N_48_14_24_E_region:IR_type:city</idno>
           <bibl xml:id="bib5280-1">

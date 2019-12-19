@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5021/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5021/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5021-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Buja</placeName>
-          <placeName xml:id="name5021-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">البجة</placeName>
+          <placeName xml:id="name5021-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Buja</placeName>
+          <placeName xml:id="name5021-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">البجة</placeName>
           <placeName xml:id="name5021-3" xml:lang="en">Beja</placeName>
           <placeName xml:id="name5021-4" xml:lang="ar">البجا</placeName>
           <placeName xml:id="name5021-5" xml:lang="ar" source="#bib5021-1">البجة</placeName>
@@ -83,7 +83,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5021-1">ولم اذكر بلدان السودان في المغرب والبجة والزنج ومن في اعراضهم من الام لان انتظام الممالك بالديانات والآداب والحكم وتقويم العمارات بالسياسة المستقيمة</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5021</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5021</idno>
           <idno type="URI">http://syriaca.org/place/5021</idno>
           <bibl xml:id="bib5021-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>

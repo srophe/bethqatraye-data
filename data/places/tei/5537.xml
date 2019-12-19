@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5537/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5537/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5537-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zurūd</placeName>
-          <placeName xml:id="name5537-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زرود</placeName>
+          <placeName xml:id="name5537-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zurūd</placeName>
+          <placeName xml:id="name5537-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زرود</placeName>
           <placeName xml:id="name5537-3" xml:lang="ar" source="#bib5537-1">زرود</placeName>
           <desc type="abstract" xml:id="abstract5537-1" xml:lang="en">A town in the north of Saudi Arabia.</desc><desc xml:lang="ar"><quote source="#bib5537-1">ثمّ رحلت عائدا إلى بغداد فوصلت إلى مدينة الموصل التي ذكرناها، فوجدت ركبها بخارجها متوجّهين إلى بغداد، وفيهم امرأة صالحة عابدة تسمّى بالسّت زاهدة، وهي من ذرّيّة الخلفاء، حجّت مراراً، وهي ملازمة الصوم سلّمت عليها، وكنت في جوارها، ومعها جملة من الفقراء يخدمونها، وفي هذه الوجهة توفّيت رحمة الله عليها وكانت وفاتها بزرود، ودفنت هنالك.</quote></desc>
                     <location type="gps" source="#bib5537-2">
                         <geo>27.8250703 43.1836937</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5537</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5537</idno>
           <idno type="URI">http://syriaca.org/place/5537</idno>
           <idno type="URI">https://www.google.com/maps/place/Zurud+Saudi+Arabia/@27.8250703,43.1836937,14z/data=!3m1!4b1!4m5!3m4!1s0x15797fdb1f7334b9:0xe51e851f1dc279c7!8m2!3d27.8288483!4d43.1989273</idno>
           <bibl xml:id="bib5537-1">

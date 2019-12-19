@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5494/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5494/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="natural-feature">
-          <placeName xml:id="name5494-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Taymāʾ</placeName>
-          <placeName xml:id="name5494-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تيماء</placeName>
+          <placeName xml:id="name5494-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Taymāʾ</placeName>
+          <placeName xml:id="name5494-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">تيماء</placeName>
           <placeName xml:id="name5494-3" xml:lang="en">Thaima</placeName>
           <placeName xml:id="name5494-4" xml:lang="en">Tēma</placeName>
           <placeName xml:id="name5494-5" xml:lang="en">'Tayma'''</placeName>
@@ -89,7 +89,7 @@
                     <location type="gps" source="#bib5494-3">
                         <geo>27.627736 38.560121</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5494</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5494</idno>
           <idno type="URI">http://syriaca.org/place/5494</idno>
           <idno type="URI">https://pleiades.stoa.org/places/814739</idno>
           <bibl xml:id="bib5494-1">

@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5387/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5387/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -84,15 +84,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5387-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Minā</placeName>
-          <placeName xml:id="name5387-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">منى</placeName>
+          <placeName xml:id="name5387-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Minā</placeName>
+          <placeName xml:id="name5387-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">منى</placeName>
           <placeName xml:id="name5387-3" xml:lang="ar" source="#bib5387-1">منى</placeName>
           <placeName xml:id="name5387-4" xml:lang="ar" source="#bib5387-2">منی</placeName>
           <desc type="abstract" xml:id="abstract5387-1" xml:lang="en" source="#bib5387-3"><quote>[A] place in the hills east of Mecca on the road from it to ʿArafa [...].</quote></desc>
                     <location type="gps" source="#bib5387-4">
                         <geo>21.413333333333 39.893333333333</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5387</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5387</idno>
           <idno type="URI">http://syriaca.org/place/5387</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark</idno>
           <bibl xml:id="bib5387-1">

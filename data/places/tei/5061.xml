@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5061/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5061/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="madrasa">
-          <placeName xml:id="name5061-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Madrasa al-Niẓāmīya</placeName>
-          <placeName xml:id="name5061-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المدرسة النظامية</placeName>
+          <placeName xml:id="name5061-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Madrasa al-Niẓāmīya</placeName>
+          <placeName xml:id="name5061-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المدرسة النظامية</placeName>
           <placeName xml:id="name5061-3" xml:lang="ar" source="#bib5061-1">المدرسة النظامية</placeName>
           <desc type="abstract" xml:id="abstract5061-1" xml:lang="en">A madrasa in Baghdad.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5061</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5061</idno>
           <idno type="URI">http://syriaca.org/place/5061</idno>
           <bibl xml:id="bib5061-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

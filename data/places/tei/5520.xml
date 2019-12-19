@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5520/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5520/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5520-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Wāqiṣa</placeName>
-          <placeName xml:id="name5520-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">واقصة</placeName>
+          <placeName xml:id="name5520-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Wāqiṣa</placeName>
+          <placeName xml:id="name5520-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">واقصة</placeName>
           <placeName xml:id="name5520-3" xml:lang="ar" source="#bib5520-1">واقصة</placeName>
           <desc type="abstract" xml:id="abstract5520-1" xml:lang="en">A place northeast of Ḥāʾil in northern Arabia.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5520</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5520</idno>
           <idno type="URI">http://syriaca.org/place/5520</idno>
           <bibl xml:id="bib5520-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

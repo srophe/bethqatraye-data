@@ -53,7 +53,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/105/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/105/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -112,12 +112,12 @@
                 <place xml:id="place-105" type="settlement">
                     <placeName xml:id="name105-1" xml:lang="en" srophe:tags="#headword" source="#bib105-1 #bib105-2 #bib105-3">Jericho</placeName>
                     <placeName xml:id="name105-2" xml:lang="ar" source="#bib105-4">أَرِيْحا</placeName>
-                    <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name105-3">أريحأ</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name105-3">أريحأ</placeName>
                     <placeName xml:lang="en" xml:id="name105-4">Arīḥā</placeName>
                     <placeName xml:lang="en" xml:id="name105-5">Hierichous</placeName>
                     <placeName xml:lang="ar" xml:id="name105-6" source="#bib105-5">اريحا</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract105-1">A town near the <ref target="http://bqgazetteer.bethmardutho.org/place/599"><placeName ref="http://syriaca.org/place/599">Jordan river</placeName></ref> east of
-                            <ref target="http://bqgazetteer.bethmardutho.org/place/104"><placeName ref="http://syriaca.org/place/104">Jerusalem</placeName></ref>.</desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract105-1">A town near the <ref target="https://bqgazetteer.bethmardutho.org/place/599"><placeName ref="http://syriaca.org/place/599">Jordan river</placeName></ref> east of
+                            <ref target="https://bqgazetteer.bethmardutho.org/place/104"><placeName ref="http://syriaca.org/place/104">Jerusalem</placeName></ref>.</desc>
                     <desc xml:lang="en">An ancient site in
                         the Jordan valley.</desc>
                     <desc xml:lang="ar">
@@ -139,7 +139,7 @@
                         <precision match="@from" notAfter="-9000"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/105</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/105</idno>
                     <idno type="URI">http://syriaca.org/place/105</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/687917</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Jericho</idno>

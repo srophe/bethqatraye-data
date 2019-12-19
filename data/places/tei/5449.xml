@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5449/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5449/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,16 +70,16 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5449-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Samaheej</placeName>
-          <placeName xml:id="name5449-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سَمَاهيج</placeName>
+          <placeName xml:id="name5449-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Samaheej</placeName>
+          <placeName xml:id="name5449-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سَمَاهيج</placeName>
           <placeName xml:id="name5449-3" xml:lang="en">Mayshamhag</placeName>
           <placeName xml:id="name5449-4" xml:lang="en">Samāhīj</placeName>
           <placeName xml:id="name5449-5" xml:lang="ar" source="#bib5449-1">سماهيج</placeName>
           <desc type="abstract" xml:id="abstract5449-1" xml:lang="en">An island in the middle of the sea between ʿUmān and al-Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5449-1">وسماهيج اسم جزيرة في وسط البحر بين عمان والبحرين</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5449</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5449</idno>
           <idno type="URI">http://syriaca.org/place/5449</idno>
           <bibl xml:id="bib5449-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

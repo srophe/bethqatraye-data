@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5175/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5175/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5175-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Aqaba</placeName>
-          <placeName xml:id="name5175-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">آيلة</placeName>
+          <placeName xml:id="name5175-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Aqaba</placeName>
+          <placeName xml:id="name5175-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">آيلة</placeName>
           <placeName xml:id="name5175-3" xml:lang="en">Āyla</placeName>
           <placeName xml:id="name5175-4" xml:lang="ar" source="#bib5175-1">ايلة</placeName>
           <desc type="abstract" xml:id="abstract5175-1" xml:lang="en" source="#bib5175-2"><quote>[S]eaport at the north end of the Gulf of ʿAḳaba, now succeeded by al-ʿAḳaba [q.v.].</quote></desc>
@@ -87,7 +87,7 @@
                     <location type="gps" source="#bib5175-3">
                         <geo>29.55805 34.94821</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5175</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5175</idno>
           <idno type="URI">http://syriaca.org/place/5175</idno>
           <idno type="URI">http://sws.geonames.org/295277</idno>
           <bibl xml:id="bib5175-1">

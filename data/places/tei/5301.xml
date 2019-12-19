@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5301/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5301/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5301-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ḥawārān</placeName>
-          <placeName xml:id="name5301-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">حوران</placeName>
+          <placeName xml:id="name5301-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ḥawārān</placeName>
+          <placeName xml:id="name5301-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">حوران</placeName>
           <placeName xml:id="name5301-3" xml:lang="en">Ḥawrān</placeName>
           <placeName xml:id="name5301-4" xml:lang="ar" source="#bib5301-1">حواران</placeName>
           <desc type="abstract" xml:id="abstract5301-1" xml:lang="en" source="#bib5301-2"><quote>[R]egion of southern Syria bounded to the east by the volcanic massif of the D̲j̲abal al-Durūz, to the north by the plateau of the Lad̲j̲āʾ and the Damascus plain, to the west by D̲j̲awlān [q.v.] and to the south by the Yarmūk, a region which | corresponds roughly to the administrative area, or liwāʾ , of the same name and which extends for about 100 kilometres from north to south and 75 from east to west.</quote></desc>
@@ -87,7 +87,7 @@
                     <location type="gps" subtype="representative" source="#bib5301-3">
                         <geo>33.023251 36.025648</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5301</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5301</idno>
           <idno type="URI">http://syriaca.org/place/5301</idno>
           <bibl xml:id="bib5301-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>

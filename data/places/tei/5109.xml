@@ -85,7 +85,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5109/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5109/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -140,9 +140,9 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5109-1" xml:lang="en" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">al-Ṣafā</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">al-Ṣafā</placeName>
           <placeName xml:id="name5109-2" xml:lang="ar" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">الصفا</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">الصفا</placeName>
           <placeName xml:id="name5109-3" xml:lang="ar">الصَّفَا</placeName>
           <placeName xml:id="name5109-4" xml:lang="ar" source="#bib5109-2">الصفا</placeName>
           <placeName xml:id="name5109-5" xml:lang="ar" source="#bib5109-1">الصفا</placeName>
@@ -155,10 +155,10 @@
               هو طريق وسوق، ومن وقف على الصفا كان بحذاء الحجر الأسود والمشعر الحرام بين الصفا
               والمروة</quote>
           </desc>
-          <location type="gps" resp="http://bqgazetteer.bethmardutho.org">
+          <location type="gps" resp="https://bqgazetteer.bethmardutho.org">
             <geo>21.423611 39.827222</geo>
           </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5109</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5109</idno>
           <idno type="URI">http://syriaca.org/place/5109</idno>
           <bibl xml:id="bib5109-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>

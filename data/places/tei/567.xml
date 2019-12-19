@@ -52,7 +52,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/567/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/567/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -149,7 +149,7 @@
                         <precision match="@from" notAfter="0982" notBefore="0630" srophe:computed-end="0982-01-01" srophe:computed-start="0630-01-01"/>
                         <precision match="@to" notBefore="1200" srophe:computed-start="1200-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/567</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/567</idno>
                     <idno type="URI">http://syriaca.org/place/567</idno>
                     <bibl xml:id="bib567-1">
                         <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب

@@ -45,7 +45,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5359/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5359/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -92,8 +92,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5359-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Madyan</placeName>
-          <placeName xml:id="name5359-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مدين</placeName>
+          <placeName xml:id="name5359-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Madyan</placeName>
+          <placeName xml:id="name5359-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">مدين</placeName>
           <placeName xml:id="name5359-3" xml:lang="en">Madiane</placeName>
           <placeName xml:id="name5359-4" xml:lang="en">Midian</placeName>
           <placeName xml:id="name5359-5" xml:lang="ar" source="#bib5359-1">مدين</placeName>
@@ -113,7 +113,7 @@
                     <location type="gps" source="#bib5359-3">
                         <geo>28.75 34.75</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5359</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5359</idno>
           <idno type="URI">http://syriaca.org/place/5359</idno>
           <idno type="URI">http://pleiades.stoa.org/places/746776</idno>
           <bibl xml:id="bib5359-1">

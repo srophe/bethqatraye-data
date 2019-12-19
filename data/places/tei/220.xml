@@ -52,7 +52,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/220/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/220/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -129,7 +129,7 @@
                         <precision match="@from" notAfter="0638" srophe:computed-end="0638-01-01"/>
                         <precision match="@to" notBefore="1257" srophe:computed-start="1257-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/220</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/220</idno>
                     <idno type="URI">http://syriaca.org/place/220</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/903043</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Hulwan,_Iran</idno>

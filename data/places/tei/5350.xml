@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5350/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5350/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5350-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Khwārazm</placeName>
-          <placeName xml:id="name5350-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">خوارزم</placeName>
+          <placeName xml:id="name5350-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Khwārazm</placeName>
+          <placeName xml:id="name5350-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">خوارزم</placeName>
           <placeName xml:id="name5350-3" xml:lang="en">Khwarezm</placeName>
           <placeName xml:id="name5350-4" xml:lang="en">Chorasmia</placeName>
           <placeName xml:id="name5350-5" xml:lang="en">Xvârazm</placeName>
@@ -90,7 +90,7 @@
                     <location type="gps" subtype="representative" source="#bib5350-3">
                         <geo>41.5 60.5</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5350</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5350</idno>
           <idno type="URI">http://syriaca.org/place/5350</idno>
           <idno type="URI">http://sws.geonames.org/1484843</idno>
           <bibl xml:id="bib5350-1">

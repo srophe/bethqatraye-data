@@ -84,7 +84,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/486/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/486/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -186,7 +186,7 @@
                             River</placeName> and the Taurus Mountains, on the west by the
                             <placeName ref="http://syriaca.org/place/135">Mediterranean
                             Sea</placeName>, on the east by the desert, and on the south by
-                            <ref target="http://bqgazetteer.bethmardutho.org/place/698"><placeName ref="http://syriaca.org/place/698">Palestine</placeName></ref>,
+                            <ref target="https://bqgazetteer.bethmardutho.org/place/698"><placeName ref="http://syriaca.org/place/698">Palestine</placeName></ref>,
                         which during the medieval period was considered the southernmost district of
                         Syria.</desc>
                     <event type="attestation" xml:id="attestation486-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib486-6">
@@ -211,7 +211,7 @@
                         <precision match="@from" notAfter="-0200"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/486</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/486</idno>
                     <idno type="URI">http://syriaca.org/place/486</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/1306</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Syria</idno>

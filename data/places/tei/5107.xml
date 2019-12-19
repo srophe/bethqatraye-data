@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5107/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5107/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,12 +74,12 @@
     <body>
       <listPlace>
         <place type="mosque">
-          <placeName xml:id="name5107-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
-          <placeName xml:id="name5107-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الرصافة</placeName>
+          <placeName xml:id="name5107-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
+          <placeName xml:id="name5107-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الرصافة</placeName>
           <placeName xml:id="name5107-3" xml:lang="en">Rusafa</placeName>
           <placeName xml:id="name5107-4" xml:lang="ar" source="#bib5107-1">الرصافة</placeName>
           <desc type="abstract" xml:id="abstract5107-1" xml:lang="en">َA mosque located in the quarter of Ruṣāfa east of the Tigris in Baghdād.</desc><desc xml:lang="ar"><quote source="#bib5107-1">والجامع الثاني جامع السلطان، وهو خارج البلد وتتّصل به قصور تنسب للسلطان، والجامع الثالث جامع الرصافة وبينه وبين جامع السلطان نحو الميل. ذكر قبور الخلفاء ببغداد وقبور بعض العلماء والصالحين بها. وقبور الخلفاء العبّاسييّن رضى الله عنهم بالرّصافة.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5107</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5107</idno>
           <idno type="URI">http://syriaca.org/place/5107</idno>
           <idno type="URI">https://www.google.com/maps/place/Rusafa,+Baghdad,+Iraq/data=!4m2!3m1!1s0x1557825e0fd7971d:0x656292d073e44a39?sa=X&amp;ved=2ahUKEwjxy92KrMvjAhVBYKwKHdg6D9IQ8gEwAHoECAoQAQ</idno>
           <bibl xml:id="bib5107-1">

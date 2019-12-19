@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5055/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5055/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5055-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Khazlajīya [?]</placeName>
-          <placeName xml:id="name5055-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخزلجية</placeName>
+          <placeName xml:id="name5055-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khazlajīya [?]</placeName>
+          <placeName xml:id="name5055-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الخزلجية</placeName>
           <placeName xml:id="name5055-3" xml:lang="ar" source="#bib5055-1">الخزلجية</placeName>
           <desc type="abstract" xml:id="abstract5055-1" xml:lang="en">Sharing borders with the region of Farghāna.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5055-1">ومن نهر بلخ الى آخر الاسلام في حد فرغانة نيف وعشرون مرحلة ومن هناك الى ان تقطع ارض الخزلجية كلها وتدخل في عمل التغزغز نيف وثلاثون مرحلة</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5055</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5055</idno>
           <idno type="URI">http://syriaca.org/place/5055</idno>
           <bibl xml:id="bib5055-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>

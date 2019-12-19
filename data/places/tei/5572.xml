@@ -40,7 +40,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5572/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5572/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -103,7 +103,7 @@
                <location type="gps" subtype="representative" source="#bib5572-1">
                   <geo>37.232558 55.1454375</geo>
                </location>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5572</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5572</idno>
                <idno type="URI">http://syriaca.org/place/5572</idno>
                <bibl xml:id="bib5572-1">
                   <title level="a">https://pleiades.stoa.org/places/942281</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>

@@ -38,7 +38,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5008/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5008/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -83,15 +83,15 @@
     <body>
       <listPlace>
         <place type="open-water">
-          <placeName xml:id="name5008-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Aḥsāʾ</placeName>
-          <placeName xml:id="name5008-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
+          <placeName xml:id="name5008-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Aḥsāʾ</placeName>
+          <placeName xml:id="name5008-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
           <placeName xml:id="name5008-3" xml:lang="ar" source="#bib5008-1">الأحساء</placeName>
           <desc type="abstract" xml:id="abstract5008-1" xml:lang="en">A body of water.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5008-1">الأحساء [...] وهو الماء الذي تنشفه الأرض من الرمل، فإذا صار
               إلى صلابة أمسكته، فتحفر العرب عنه الرمل فتستخرجه</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5008</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5008</idno>
           <idno type="URI">http://syriaca.org/place/5008</idno>
           <bibl xml:id="bib5008-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>

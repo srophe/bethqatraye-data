@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5199/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5199/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5199-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bāb al-Raḥma</placeName>
-          <placeName xml:id="name5199-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">باب الرحمة</placeName>
+          <placeName xml:id="name5199-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb al-Raḥma</placeName>
+          <placeName xml:id="name5199-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">باب الرحمة</placeName>
           <placeName xml:id="name5199-3" xml:lang="ar" source="#bib5199-1">باب الرحمة</placeName>
           <desc type="abstract" xml:id="abstract5199-1" xml:lang="en">One of the entrances to al-Masjid al-Nabawī in Medina.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5199</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5199</idno>
           <idno type="URI">http://syriaca.org/place/5199</idno>
           <bibl xml:id="bib5199-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

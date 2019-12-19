@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5503/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5503/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -82,8 +82,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5503-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṭukhāristān</placeName>
-          <placeName xml:id="name5503-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">طخارستان</placeName>
+          <placeName xml:id="name5503-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṭukhāristān</placeName>
+          <placeName xml:id="name5503-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">طخارستان</placeName>
           <placeName xml:id="name5503-3" xml:lang="en">Tocharistan</placeName>
           <placeName xml:id="name5503-4" xml:lang="ar" source="#bib5503-1">طخيرستان</placeName>
           <placeName xml:id="name5503-5" xml:lang="ar" source="#bib5503-2">طخارستان</placeName>
@@ -94,7 +94,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5503-2">وربما كان للمصراو للقصبة نواح لها مدن مثل طخارستان لبلخ والبطائح لواسط والزاب لافريقية</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5503</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5503</idno>
           <idno type="URI">http://syriaca.org/place/5503</idno>
           <idno type="URI">https://gazetteer.dainst.org/app/#!/show/2043037</idno>
           <bibl xml:id="bib5503-1">

@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5561/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5561/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,11 +70,11 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5561-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿUwayr</placeName>
-          <placeName xml:id="name5561-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عُوير</placeName>
+          <placeName xml:id="name5561-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿUwayr</placeName>
+          <placeName xml:id="name5561-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عُوير</placeName>
           <placeName xml:id="name5561-3" xml:lang="ar" source="#bib5561-1">عُوير</placeName>
           <desc type="abstract" xml:id="abstract5561-1" xml:lang="en">A mountain located in the seat along the coast of Oman.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5561</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5561</idno>
           <idno type="URI">http://syriaca.org/place/5561</idno>
           <bibl xml:id="bib5561-1">
             <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title><author>Abū ʿUbayd al-Bakrī</author><ptr target="http://syriaca.org/bibl/BAEZEC37"/>

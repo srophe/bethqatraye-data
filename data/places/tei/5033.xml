@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5033/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5033/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5033-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥadath</placeName>
-          <placeName xml:id="name5033-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الحدث</placeName>
+          <placeName xml:id="name5033-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥadath</placeName>
+          <placeName xml:id="name5033-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الحدث</placeName>
           <placeName xml:id="name5033-3" xml:lang="ar" source="#bib5033-1">الحدث</placeName>
           <desc type="abstract" xml:id="abstract5033-1" xml:lang="en" source="#bib5033-2">A town in Qenneshrin. A <quote>town, which today has disappeared, in the province of the ʿAwāṣim [q.v.], situated in a plain at an altitude of 1000 metres at the foot of the Taurus, near to the three lakes on the upper course of the Ak Su, one of the principal tributaries of the D̲j̲ayḥān.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5033-1">والحدت مدينة بقنسرين</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5033</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5033</idno>
           <idno type="URI">http://syriaca.org/place/5033</idno>
           <bibl xml:id="bib5033-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

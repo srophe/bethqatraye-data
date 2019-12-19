@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5341/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5341/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5341-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Kārzī</placeName>
-          <placeName xml:id="name5341-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">كارزي</placeName>
+          <placeName xml:id="name5341-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kārzī</placeName>
+          <placeName xml:id="name5341-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">كارزي</placeName>
           <placeName xml:id="name5341-3" xml:lang="en">Kārzīn</placeName>
           <placeName xml:id="name5341-4" xml:lang="ar">كارزين</placeName>
           <placeName xml:id="name5341-5" xml:lang="ar" source="#bib5341-1">كارزي</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5341-2">
                         <geo>28.4332441 53.1239041</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5341</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5341</idno>
           <idno type="URI">http://syriaca.org/place/5341</idno>
           <idno type="URI">https://goo.gl/maps/4AgryoDD7bPyGMNT6</idno>
           <bibl xml:id="bib5341-1">

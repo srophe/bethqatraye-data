@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5426/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5426/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5426-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qūhistān</placeName>
-          <placeName xml:id="name5426-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قوهستان</placeName>
+          <placeName xml:id="name5426-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qūhistān</placeName>
+          <placeName xml:id="name5426-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قوهستان</placeName>
           <placeName xml:id="name5426-3" xml:lang="ar" source="#bib5426-1">قوهستان</placeName>
           <desc type="abstract" xml:id="abstract5426-1" xml:lang="en" source="#bib5426-2"><quote>This is the mountainous and partially arable region which stretches south of Nīs̲h̲āpūr as far as Sīstān in the south-east.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5426-1">قوهستان كورة بخراسان ومدينة بكرمان</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5426</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5426</idno>
           <idno type="URI">http://syriaca.org/place/5426</idno>
           <bibl xml:id="bib5426-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

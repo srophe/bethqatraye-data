@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5490/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5490/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5490-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Tanas</placeName>
-          <placeName xml:id="name5490-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تنس</placeName>
+          <placeName xml:id="name5490-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Tanas</placeName>
+          <placeName xml:id="name5490-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">تنس</placeName>
           <placeName xml:id="name5490-3" xml:lang="en">Ténès</placeName>
           <placeName xml:id="name5490-4" xml:lang="ar" source="#bib5490-1">تنس</placeName>
           <desc type="abstract" xml:id="abstract5490-1" xml:lang="en" source="#bib5490-2"><quote>[A] town on the coast of Algeria (lat. 36° 30′ N., long. 1° 18′ E.) equidistant from Algiers and Arzew. This Berber town had near it in Antiquity a Phoenician trading-post and then a Punic landing-stage.</quote></desc>
@@ -87,7 +87,7 @@
                     <location type="gps" source="#bib5490-3">
                         <geo>36.510308 1.3131</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5490</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5490</idno>
           <idno type="URI">http://syriaca.org/place/5490</idno>
           <idno type="URI">http://pleiades.stoa.org/places/295240</idno>
           <bibl xml:id="bib5490-1">

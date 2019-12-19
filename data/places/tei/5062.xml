@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5062/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5062/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5062-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Mahdīya</placeName>
-          <placeName xml:id="name5062-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المهدية</placeName>
+          <placeName xml:id="name5062-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Mahdīya</placeName>
+          <placeName xml:id="name5062-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المهدية</placeName>
           <placeName xml:id="name5062-3" xml:lang="ar" source="#bib5062-1">المهدية</placeName>
           <desc type="abstract" xml:id="abstract5062-1" xml:lang="en" source="#bib5062-2"><quote>[A] town in Tunisia which owes its name to its founder ʿUbayd Allāh al-Mahdī (297-322/909-34 [q.v.]); situated on the coast 200 km. to the south of Tunis.</quote></desc>
           <desc xml:lang="ar">
@@ -86,7 +86,7 @@
                     <location type="gps" source="#bib5062-3">
                         <geo>35.50472 11.06222</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5062</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5062</idno>
           <idno type="URI">http://syriaca.org/place/5062</idno>
           <idno type="URI">http://sws.geonames.org/2473572</idno>
           <bibl xml:id="bib5062-1">

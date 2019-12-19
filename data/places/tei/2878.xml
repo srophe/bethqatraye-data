@@ -55,7 +55,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2878/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2878/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -106,7 +106,7 @@
             <listPlace>
                 <place xml:id="place-2878" type="diocese">
                     <placeName xml:id="name2878-1" xml:lang="en" srophe:tags="#headword" source="#bib2878-1">Ḥaṭṭa</placeName>
-                    <placeName xml:id="name2878-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخط</placeName>
+                    <placeName xml:id="name2878-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الخط</placeName>
                     <placeName xml:id="name2878-3" xml:lang="en">Pīṭ Ardashīr</placeName>
                     <placeName xml:id="name2878-4" xml:lang="syr" source="#bib2878-1">ܕܝܪܝܢ</placeName>
                     <placeName xml:id="name2878-5" xml:lang="fr" source="#bib2878-2">Ḥaṭṭa</placeName>
@@ -114,7 +114,7 @@
                     <placeName xml:id="name2878-7" xml:lang="syr" source="#bib2878-1">ܗܓܪ</placeName>
                     <placeName xml:id="name2878-8" xml:lang="la" source="#bib2878-5">Hatta</placeName>
                     <desc type="abstract" xml:id="abstract-en-2878" xml:lang="en">A diocese based in
-                        northeastern <ref target="http://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> near <ref target="http://bqgazetteer.bethmardutho.org/place/3013"><placeName ref="http://syriaca.org/place/3013">al-Qaṭīf</placeName></ref>
+                        northeastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref> near <ref target="https://bqgazetteer.bethmardutho.org/place/3013"><placeName ref="http://syriaca.org/place/3013">al-Qaṭīf</placeName></ref>
                     </desc>
                     <desc xml:lang="en">A diocese and oasis town in north-east Arabia near al-Qaṭīf.
                         Part of Beth Qaṭraye.</desc>
@@ -126,10 +126,10 @@
                     <desc xml:lang="syr">
                         <quote source="#bib2878-4">ܘܡܢܗܘܢ ܠܘܬ ܢܡܦܪܘܟ ܒܪ ܕܘܣܬܪ ܡܢ ܚܛܐ.</quote>
                     </desc>
-                    <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
+                    <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>26.6 49.9</geo>
                     </location>
-                  <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+                  <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
                     <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                   </location>
                     <event type="attestation" xml:id="attestation2878-1" when="0676" source="#bib2878-1">
@@ -141,7 +141,7 @@
                         <precision match="@from" notAfter="0676" notBefore="0033"/>
                         <precision match="@to" notAfter="2017" notBefore="0676"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2878</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2878</idno>
                     <idno type="URI">http://syriaca.org/place/2878</idno>
                     <bibl xml:id="bib2878-1">
                         <title xml:lang="en" level="m">Synodicon Orientale</title>

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5463/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5463/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,15 +76,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5463-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sharshāl</placeName>
-          <placeName xml:id="name5463-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">شرشال</placeName>
+          <placeName xml:id="name5463-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sharshāl</placeName>
+          <placeName xml:id="name5463-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">شرشال</placeName>
           <placeName xml:id="name5463-3" xml:lang="en">Cherchell</placeName>
           <placeName xml:id="name5463-4" xml:lang="ar" source="#bib5463-1">شرشال</placeName>
           <desc type="abstract" xml:id="abstract5463-1" xml:lang="en" source="#bib5463-2"><quote>[C]onventional French form Cherchell, a town of Algeria, the chef-lieu of an arrondissement in the department of al-Aṣnām (formerly Orléansville). It is situated on the edge of the Miliana massif, 95 km/60 miles to the west of Algiers, in long. 2° 29′ E., lat. 36° 37′ N.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5463-1">وشرشال مدينة قديمة ازلية قد خربت وفيها مرسى وفيها آثار قديمة واصنام من حجارة ومبان عظيمة، ومنها الى برشك مدينة كان عليها سور</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5463</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5463</idno>
           <idno type="URI">http://syriaca.org/place/5463</idno>
           <bibl xml:id="bib5463-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5044/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5044/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5044-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Jabal al-Makhrūq</placeName>
-          <placeName xml:id="name5044-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الجبل المخروق</placeName>
+          <placeName xml:id="name5044-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Jabal al-Makhrūq</placeName>
+          <placeName xml:id="name5044-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الجبل المخروق</placeName>
           <placeName xml:id="name5044-3" xml:lang="ar" source="#bib5044-1">الجبل المخروق</placeName>
           <desc type="abstract" xml:id="abstract5044-1" xml:lang="en">A mountain in Ḥāʾil.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5044</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5044</idno>
           <idno type="URI">http://syriaca.org/place/5044</idno>
           <bibl xml:id="bib5044-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

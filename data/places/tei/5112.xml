@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5112/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5112/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5112-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ṣafā</placeName>
-          <placeName xml:id="name5112-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الصَّفَا</placeName>
+          <placeName xml:id="name5112-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ṣafā</placeName>
+          <placeName xml:id="name5112-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الصَّفَا</placeName>
           <placeName xml:id="name5112-3" xml:lang="ar" source="#bib5112-1">الصفا</placeName>
           <desc type="abstract" xml:id="abstract5112-1" xml:lang="en">The capital city of Hagar.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5112-1">وقال ابن الفقيه : الصفا قصبة هجر</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5112</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5112</idno>
           <idno type="URI">http://syriaca.org/place/5112</idno>
           <bibl xml:id="bib5112-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

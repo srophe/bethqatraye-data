@@ -53,7 +53,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/874/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/874/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -109,7 +109,7 @@
                 <place xml:id="place-874" type="settlement">
                     <placeName xml:id="name874-1" xml:lang="en" srophe:tags="#headword">Sulṭāniyya</placeName>
                     <placeName xml:id="name874-2" xml:lang="en" source="#bib874-1">Sultaniyyeh</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name874-3">al-Sulṭānīya</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name874-3">al-Sulṭānīya</placeName>
                     <placeName xml:lang="ar" srophe:tags="#headword" source="#bib874-2" xml:id="name874-4">السلطانية</placeName>
                     <placeName xml:lang="en" xml:id="name874-5">Soltaniyeh</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract874-1">A town in the <placeName>Zanjān</placeName>
@@ -118,7 +118,7 @@
                         <geo>36.43472 48.7975</geo>
                     </location>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/874</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/874</idno>
                     <idno type="URI">http://syriaca.org/place/874</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Soltaniyeh</idno>
                     <idno type="URI">http://dbpedia.org/resource/Soltaniyeh</idno>

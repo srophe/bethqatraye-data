@@ -55,7 +55,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2879/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2879/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -106,16 +106,16 @@
             <listPlace>
                 <place xml:id="place-2879" type="diocese">
                     <placeName xml:id="name2879-1" xml:lang="en" srophe:tags="#headword" source="#bib2879-1 #bib2879-5">Mashmahig</placeName>
-                    <placeName xml:id="name2879-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سَماهيج</placeName>
+                    <placeName xml:id="name2879-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سَماهيج</placeName>
                     <placeName xml:id="name2879-3" xml:lang="syr" srophe:tags="#headword" source="#bib2879-2">ܡܫܡܗܝܓ</placeName>
                     <placeName xml:id="name2879-4" xml:lang="syr" source="#bib2879-2">ܡܝܫܡܗܓ</placeName>
                     <placeName xml:id="name2879-5" xml:lang="fr" source="#bib2879-2">Mâšmâhȋg</placeName>
-                    <placeName xml:id="name2879-6" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org">Samaheej</placeName>
+                    <placeName xml:id="name2879-6" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Samaheej</placeName>
                     <placeName xml:id="name2879-7" xml:lang="en">Mayshamhag</placeName>
                     <placeName xml:id="name2879-8" xml:lang="en">Mashmahīg</placeName>
                     <placeName xml:id="name2879-9" xml:lang="en">Samāhīj</placeName>
                     <desc xml:id="abstract-en-2879" xml:lang="en">An episcopal see on an island in the
-                            <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> region.
+                            <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> region.
                     </desc>
                     <desc xml:lang="syr">
                         <quote source="#bib2879-3">ܘܐܢܬܘܢ ܡܗܝ̈ܡܢܐ ܐܝܠܝܢ ܕܒܐܝܕ̈ܝܟܘܢ ܣܝܡܐ ܡܫܠܛܘܬܐ
@@ -129,7 +129,7 @@
                     <location type="gps" subtype="representative" source="#bib78-2">
                         <geo>26.28298 50.63348</geo>
                     </location>
-                    <location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+                    <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
                         <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                     </location>
                     <event type="attestation" xml:id="attestation2879-1" when="0410" source="#bib2879-2">
@@ -146,7 +146,7 @@
                         <precision match="@from" notAfter="0410" notBefore="0033"/>
                         <precision match="@to" notAfter="2017" notBefore="0576"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2879</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2879</idno>
                     <idno type="URI">http://syriaca.org/place/2879</idno>
                     <bibl xml:id="bib2879-1">
                         <title xml:lang="en" level="m">The Gorgias Encyclopedic Dictionary of the

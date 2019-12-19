@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5057/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5057/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5057-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Lajūn</placeName>
-          <placeName xml:id="name5057-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">اللجون</placeName>
+          <placeName xml:id="name5057-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Lajūn</placeName>
+          <placeName xml:id="name5057-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">اللجون</placeName>
           <placeName xml:id="name5057-3" xml:lang="en">Lajjun</placeName>
           <placeName xml:id="name5057-4" xml:lang="en">Kibbutz Megiddo</placeName>
           <placeName xml:id="name5057-5" xml:lang="ar" source="#bib5057-1">اللجون</placeName>
@@ -84,7 +84,7 @@
                     <location type="gps" source="#bib5057-2">
                         <geo>31.23439 35.86655</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5057</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5057</idno>
           <idno type="URI">http://syriaca.org/place/5057</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2345187</idno>
           <bibl xml:id="bib5057-1">

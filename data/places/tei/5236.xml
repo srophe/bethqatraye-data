@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5236/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5236/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5236-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bayhaq</placeName>
-          <placeName xml:id="name5236-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بيهق</placeName>
+          <placeName xml:id="name5236-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bayhaq</placeName>
+          <placeName xml:id="name5236-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بيهق</placeName>
           <placeName xml:id="name5236-3" xml:lang="en">Sabzevar</placeName>
           <placeName xml:id="name5236-4" xml:lang="en">Sabzawār</placeName>
           <placeName xml:id="name5236-5" xml:lang="ar">سبزار</placeName>
@@ -86,7 +86,7 @@
                     <location type="gps" source="#bib5236-2">
                         <geo>36.5 57.5</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5236</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5236</idno>
           <idno type="URI">http://syriaca.org/place/5236</idno>
           <idno type="URI">http://pleiades.stoa.org/places/300354630</idno>
           <bibl xml:id="bib5236-1">

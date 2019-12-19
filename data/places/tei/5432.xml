@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5432/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5432/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,15 +75,15 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5432-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Rābigh</placeName>
-          <placeName xml:id="name5432-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">رابغ</placeName>
+          <placeName xml:id="name5432-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Rābigh</placeName>
+          <placeName xml:id="name5432-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">رابغ</placeName>
           <placeName xml:id="name5432-3" xml:lang="en">Rabigh</placeName>
           <placeName xml:id="name5432-4" xml:lang="ar" source="#bib5432-1">رابغ</placeName>
           <desc type="abstract" xml:id="abstract5432-1" xml:lang="en">A valley and ancient port city north of Mecca.</desc><desc xml:lang="ar"><quote source="#bib5432-3">ورحلنا من بدر إلى الصحراء المعروفة بقاع البزواء، وهي برية يضل بها الدليل، ويذهل عن خليله الخليل. مسيرة ثلاث وفي منتهاها وادي رابغ، يتكون فيه المطر غدراناً يبقى بها الماء زمانا طويلا، ومنه يحرم حجاج مصر والمغرب وهو دون الجحفة. </quote></desc><desc xml:lang="ar"><quote source="#bib5432-4">وسرنا من رابغ ثلاثا إلى خليص#</quote></desc>
                     <location type="gps" source="#bib5432-2">
                         <geo>22.79856 39.03493</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5432</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5432</idno>
           <idno type="URI">http://syriaca.org/place/5432</idno>
           <idno type="URI">https://www.geonames.org/103035/rabigh.html</idno>
           <bibl xml:id="bib5432-1">

@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5275/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5275/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5275-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Diyār Thamūd</placeName>
-          <placeName xml:id="name5275-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ديار ثمود</placeName>
+          <placeName xml:id="name5275-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Diyār Thamūd</placeName>
+          <placeName xml:id="name5275-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ديار ثمود</placeName>
           <placeName xml:id="name5275-3" xml:lang="ar" source="#bib5275-1">ديار ثمود</placeName>
           <desc type="abstract" xml:id="abstract5275-1" xml:lang="en">A town in the Wādī Qurra between Medina and Tabūk.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5275</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5275</idno>
           <idno type="URI">http://syriaca.org/place/5275</idno>
           <bibl xml:id="bib5275-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

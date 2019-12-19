@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5080/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5080/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -82,12 +82,12 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5080-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Muwayliḥa</placeName>
-          <placeName xml:id="name5080-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المويلحة</placeName>
+          <placeName xml:id="name5080-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Muwayliḥa</placeName>
+          <placeName xml:id="name5080-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المويلحة</placeName>
           <placeName xml:id="name5080-3" xml:lang="ar" source="#bib5080-1">المويلحة</placeName>
           <placeName xml:id="name5080-4" xml:lang="ar" source="#bib5080-2">المويلحة</placeName>
           <desc type="abstract" xml:id="abstract5080-1" xml:lang="en">A village in Iraq close to Mosul.</desc><desc xml:lang="ar"><quote source="#bib5080-1">ثم رحلنا من الموصل ونزلنا قرية تعرف بعين الرّصد وهي على نهر عليه جسر مبنيّ، وبها خان كبير. ثم رحلنا ونزلنا قرية تعرف بالمويلحة</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5080</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5080</idno>
           <idno type="URI">http://syriaca.org/place/5080</idno>
           <bibl xml:id="bib5080-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

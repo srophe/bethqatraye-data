@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5051/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5051/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,15 +75,15 @@
     <body>
       <listPlace>
         <place type="river">
-          <placeName xml:id="name5051-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Khābūr</placeName>
-          <placeName xml:id="name5051-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخابور</placeName>
+          <placeName xml:id="name5051-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khābūr</placeName>
+          <placeName xml:id="name5051-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الخابور</placeName>
           <placeName xml:id="name5051-3" xml:lang="en">Khabur River</placeName>
           <placeName xml:id="name5051-4" xml:lang="ar" source="#bib5051-1">الخابور</placeName>
           <desc type="abstract" xml:id="abstract5051-1" xml:lang="en">A tributary of the Euphrates in Syria.</desc>
                     <location type="gps" subtype="representative" source="#bib5051-2">
                         <geo>35.12747 40.42784</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5051</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5051</idno>
           <idno type="URI">http://syriaca.org/place/5051</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2280350</idno>
           <bibl xml:id="bib5051-1">

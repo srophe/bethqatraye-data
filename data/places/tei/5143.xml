@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5143/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5143/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="quarter">
-          <placeName xml:id="name5143-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Wasīṭa</placeName>
-          <placeName xml:id="name5143-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الوسيطة</placeName>
+          <placeName xml:id="name5143-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Wasīṭa</placeName>
+          <placeName xml:id="name5143-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الوسيطة</placeName>
           <placeName xml:id="name5143-3" xml:lang="ar" source="#bib5143-1">الوسيطة</placeName>
           <desc type="abstract" xml:id="abstract5143-1" xml:lang="en">Most likely a quarter in Baghdād.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5143</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5143</idno>
           <idno type="URI">http://syriaca.org/place/5143</idno>
           <bibl xml:id="bib5143-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

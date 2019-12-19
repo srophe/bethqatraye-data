@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5408/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5408/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5408-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qalhāt</placeName>
-          <placeName xml:id="name5408-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قلهات</placeName>
+          <placeName xml:id="name5408-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qalhāt</placeName>
+          <placeName xml:id="name5408-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قلهات</placeName>
           <placeName xml:id="name5408-3" xml:lang="ar" source="#bib5408-1">قلهات</placeName>
           <desc type="abstract" xml:id="abstract5408-1" xml:lang="en">A city in ʿUmān.</desc><desc xml:lang="ar"><quote source="#bib5408-3">ذكر المتغلبين على الملك بعد موت السلطان أبي سعيد. فمنهم الشيخ حسن ابن عمته الذي ذكرناه آنفاً، تغلب على عراق العرب جميعاً، ومنهم إبراهيم شاه ابن الأمير سنيته، تغلب على الموصل وديار بكر، ومنهم الأمير أرتنا، تغلب على بلاد التركمان المعروفة أيضاً ببلاد الروم، ومنهم حسن خواجة بن الدمرطاش بن الجوبان، تغلب على تبريز والسلطانية وهمذان وقم وقاشان والري ورامين وفرغان والكرج، ومنهم الأمير طغيتمور تغلب على بعض بلاد خراسان، ومنهم الأمير حسن ابن الأمير غياث الدين تغلب على هراة ومعظم بلاد خراسان، ومنهم ملك دينار تغلب على بلاد مكران وبلاد كبج، ومنهم محمد شاه ابن مظفر تغلب على يزد وكرمان وورقو، ومنهم الملك قطب الدين تمهتن تغلب على هرمز وكيش والقطيف والبحرين وقلهات، ومنهم السلطان أبو إسحاق الذي تقدم ذكره تغلب على شيراز وأصفهان وملك فارس، وذلك مسيرة خمس وأربعين، ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc><desc xml:lang="ar"><quote source="#bib5408-4">فوصلنا إلى مرسى قرية كبيرة على ساحل البحر تعرف بصور، ورأينا منها مدينة قلهات</quote></desc><desc xml:lang="ar"><quote source="#bib5408-5">ثمّ وصلنا إلى مدينة قلهات (وضبط اسمها بفتح القاف واسكان اللام وآخرة تاء مثنّاة)</quote></desc><desc xml:lang="ar"><quote source="#bib5408-6">وهي من أجمل القرى وأبدعها حسناً، ذات أنهار جارية واشجار ناضرة وبساتين كثيرة. ومنها تجلب الفواكه إلى قلهات.</quote></desc><desc xml:lang="ar"><quote source="#bib5408-7">وركب البحر إلى مدينة قلهات التي تقدّم ذكرها، وهي من جملة بلاده، فأقام بها شهوراً وجهّز المراكب وأتى الجزيرة، فقاتله أهلها مع أخيه وهزموه. وعاد إلى قلهات</quote></desc><desc xml:lang="ar"><quote source="#bib5408-8">وذكر لي أحد الثقات أنه رآه في ركن مسجد بمدينة قلهات، وأنه وصل بعد ذلك إلى بلاده، فحصل على أمواله، وأمن مما كان يخافه.</quote></desc><desc xml:lang="ar"><quote source="#bib5408-9">ثم سافرنا إلى مرسى شبّة (وضبط اسمها بفتح الشين المعجم وفتح الباء الموحدة وتشديدها)، ثم إلى مرسى كلبة، ولفظها على لفظ مؤنتة الكلب، ثم إلى قلهات، وقد تقدم ذكرها. وهذه البلاد كلّها من عمالة هرمز، وهي محسوبة من بلاد عمان. ثم سافرنا إلى هرمز، وأقمنا بها ثلاثا.</quote></desc>
                     <location type="gps" source="#bib5408-2">
                         <geo>22.696102 59.376629</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5408</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5408</idno>
           <idno type="URI">http://syriaca.org/place/5408</idno>
           <idno type="URI">http://vici.org/vici/34366</idno>
           <bibl xml:id="bib5408-1">

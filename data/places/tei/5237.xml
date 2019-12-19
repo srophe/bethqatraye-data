@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5237/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5237/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5237-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Baynūna</placeName>
-          <placeName xml:id="name5237-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بَيْنُونَةُ</placeName>
+          <placeName xml:id="name5237-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Baynūna</placeName>
+          <placeName xml:id="name5237-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بَيْنُونَةُ</placeName>
           <placeName xml:id="name5237-3" xml:lang="ar" source="#bib5237-1">بينونة</placeName>
           <desc type="abstract" xml:id="abstract5237-1" xml:lang="en">A place situated between Oman and Bahrain within a distance of 60 farsakh from Bahrain.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5237-1">بينونة : بزيادة الهاء : موضع سمي بالمصدر، من قولهم : بان ببين بينونة إذا بعد، وهو موضع بين عمان والبحرين، وبينه وبين البحرين ستون فرسخا</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5237</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5237</idno>
           <idno type="URI">http://syriaca.org/place/5237</idno>
           <bibl xml:id="bib5237-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2881/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2881/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -107,22 +107,22 @@
                <placeName xml:id="name2881-2" xml:lang="ar" srophe:tags="#headword">الجزر</placeName>
                <placeName xml:id="name2881-3" xml:lang="syr" srophe:tags="#headword" source="#bib2881-1">ܓܙܪ̈ܬܐ</placeName>
                <placeName xml:id="name2881-4" xml:lang="fr" source="#bib2881-1">Ȋles</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2881-5">Gazrātha</placeName>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2881-5">Gazrātha</placeName>
                <placeName xml:lang="la" xml:id="name2881-8" source="#bib2881-2">The
                   Islands</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2881-1">Referring to all the
-                  islands in the region of <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>.</desc>
+                  islands in the region of <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>.</desc>
                <desc xml:lang="en">A diocese of the islands in the region
-                  of <ref target="http://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>
+                  of <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>
                </desc>
                <desc xml:lang="syr">
                   <quote source="#bib2881-2">ܘܐܢܬܘܢ ܡܗܝ̈ܡܢܐ ܐܝܠܝܢ ܕܒܐܝܕ̈ܝܟܘܢ ܣܝܡܐ ܡܫܠܛܘܬܐ ܡܥܕܪܢܝܬܐ
                      ܕܓܙܪ̈ܬܐ ܘܕܝܬܒ̈ܝ ܡܕܒܪܐ: ܗܢܘ ܕܝܢ ܕܕܝܪܝܢ ܘܕܡܫܡܗܝܓ ܘܕܬܠܘܢ ܘܕܚܛܐ ܘܕܗܓܪ ܐܬܚܦܛܘ ܒܙܒܢܐ
                      ܗܢܐ ܝܬܝܪ ܡܢ ܕܒܟܠܙܒܢ ܥܠ ܥܘܕܪܢܐ ܕܗܝܡܢܘܬܟܘܢ.</quote>
                </desc>
-               <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
+               <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
                   <geo>24.7 52.8</geo>
-               </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org">
+               </location><location type="nested" resp="https://bqgazetteer.bethmardutho.org">
                   <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                </location>
                <event type="attestation" xml:id="attestation2881-1" when="0410" source="#bib2881-1">
@@ -134,7 +134,7 @@
                   <precision match="@from" notAfter="0410" notBefore="0033"/>
                   <precision match="@to" notAfter="2017" notBefore="0410"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2881</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2881</idno>
                <idno type="URI">http://syriaca.org/place/2881</idno>
                <bibl xml:id="bib2881-1">
                   <title xml:lang="en" level="m">Synodicon Orientale</title>

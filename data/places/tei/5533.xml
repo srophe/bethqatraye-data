@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5533/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5533/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,15 +75,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5533-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zarūd</placeName>
-          <placeName xml:id="name5533-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زرود</placeName>
+          <placeName xml:id="name5533-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zarūd</placeName>
+          <placeName xml:id="name5533-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زرود</placeName>
           <placeName xml:id="name5533-3" xml:lang="en">Zurūd</placeName>
           <placeName xml:id="name5533-4" xml:lang="ar" source="#bib5533-1">زرود</placeName>
           <desc type="abstract" xml:id="abstract5533-1" xml:lang="en">A town in the north of the Arabian Peninsula. The town is part of the Darb Zubayda, the famous pilgrim highway from al-ʿIrāq to Ḥijāz.</desc>
                     <location type="gps" source="#bib5533-2">
                         <geo>27.8492433 38.7152765</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5533</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5533</idno>
           <idno type="URI">http://syriaca.org/place/5533</idno>
           <idno type="URI">https://goo.gl/maps/EsB3vqg77f6NQ6D36</idno>
           <bibl xml:id="bib5533-1">

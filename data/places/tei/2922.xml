@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2922/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2922/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -101,7 +101,7 @@
             <place xml:id="place-2922" type="region">
                <placeName xml:id="name2922-1" xml:lang="en" srophe:tags="#headword">Maʾrib</placeName>
                <placeName xml:id="name2922-2" xml:lang="ar" srophe:tags="#headword" source="#bib2922-1">مأرب</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2922-1">A region in <ref target="http://bqgazetteer.bethmardutho.org/place/508"><placeName ref="http://syriaca.org/place/508">Yemen</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2922-1">A region in <ref target="https://bqgazetteer.bethmardutho.org/place/508"><placeName ref="http://syriaca.org/place/508">Yemen</placeName></ref>
                </desc>
                <event type="attestation" xml:id="attestation2922-1" notBefore="0902" notAfter="0914" source="#bib2922-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">مأرب</foreign> in the
@@ -110,7 +110,7 @@
                   <link target="#name2922-2 #attestation2922-1"/>
                </event>
                <state type="existence" from="0902" to="0914">                   <precision match="@from" notAfter="0902"/>                   <precision match="@to" notBefore="0914"/>                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2922</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2922</idno>
                <idno type="URI">http://syriaca.org/place/2922</idno>
                <bibl xml:id="bib2922-1">
                   <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>

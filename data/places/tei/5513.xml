@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5513/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5513/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5513-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Wādī al-Kurūsh</placeName>
-          <placeName xml:id="name5513-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">وادي الكروش</placeName>
+          <placeName xml:id="name5513-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Wādī al-Kurūsh</placeName>
+          <placeName xml:id="name5513-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">وادي الكروش</placeName>
           <placeName xml:id="name5513-3" xml:lang="ar" source="#bib5513-1">وادي الكروش</placeName>
           <desc type="abstract" xml:id="abstract5513-1" xml:lang="en">A valley east of Ḥāʾil.</desc>
                     <location type="gps" source="#bib5513-2">
                         <geo>27.07167 43.03917</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5513</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5513</idno>
           <idno type="URI">http://syriaca.org/place/5513</idno>
           <idno type="URI">https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia</idno>
           <bibl xml:id="bib5513-1">

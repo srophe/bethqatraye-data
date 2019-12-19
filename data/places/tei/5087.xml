@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5087/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5087/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -83,8 +83,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5087-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Qādisīya</placeName>
-          <placeName xml:id="name5087-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">القادسية</placeName>
+          <placeName xml:id="name5087-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qādisīya</placeName>
+          <placeName xml:id="name5087-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">القادسية</placeName>
           <placeName xml:id="name5087-3" xml:lang="en">al-Qādisiyya</placeName>
           <placeName xml:id="name5087-4" xml:lang="ar" source="#bib5087-1">القادسية</placeName>
           <placeName xml:id="name5087-5" xml:lang="ar" source="#bib5087-2">القادسية</placeName>
@@ -92,7 +92,7 @@
                     <location type="gps" source="#bib5087-3">
                         <geo>31.583332 44.5</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5087</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5087</idno>
           <idno type="URI">http://syriaca.org/place/5087</idno>
           <idno type="URI">http://pleiades.stoa.org/places/912923</idno>
           <bibl xml:id="bib5087-1">

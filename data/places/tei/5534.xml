@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5534/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5534/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5534-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zawīla</placeName>
-          <placeName xml:id="name5534-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زويلة</placeName>
+          <placeName xml:id="name5534-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zawīla</placeName>
+          <placeName xml:id="name5534-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زويلة</placeName>
           <placeName xml:id="name5534-3" xml:lang="ar" source="#bib5534-1">زويلة</placeName>
           <desc type="abstract" xml:id="abstract5534-1" xml:lang="en" source="#bib5534-2"><quote>The mediaeval Islamic capital of the Fazzān [q.v.], today south-western Libya (lat. 26° 11’ N., long. 15° 06’ E.).</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5534-1">ومفاوز البربر ايضا القاصية التي بين سجلماسة واودغشت واوليل ولمطة وفزان وزويلة الى ما وراء ذلك مما بينهم وبين البحر المحيط</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5534</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5534</idno>
           <idno type="URI">http://syriaca.org/place/5534</idno>
           <idno type="URI">https://gazetteer.dainst.org/app/#!/show/2042645</idno>
           <bibl xml:id="bib5534-1">

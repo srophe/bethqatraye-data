@@ -61,7 +61,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2979/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2979/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -118,7 +118,7 @@
                <placeName xml:id="name2979-1" xml:lang="en" srophe:tags="#headword">Khāniqīn</placeName>
                <placeName xml:id="name2979-2" xml:lang="ar" srophe:tags="#headword" source="#bib2979-1 #bib2979-2">خانقين</placeName>
                <placeName xml:lang="en" xml:id="name2979-3">Khānaqīn</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2979-1">A town on the road from <ref target="http://bqgazetteer.bethmardutho.org/place/41"><placeName ref="http://syriaca.org/place/41">Baghdad</placeName></ref> toward <ref target="http://bqgazetteer.bethmardutho.org/place/823"><placeName ref="http://syriaca.org/place/823">Hamadān</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2979-1">A town on the road from <ref target="https://bqgazetteer.bethmardutho.org/place/41"><placeName ref="http://syriaca.org/place/41">Baghdad</placeName></ref> toward <ref target="https://bqgazetteer.bethmardutho.org/place/823"><placeName ref="http://syriaca.org/place/823">Hamadān</placeName></ref>
                </desc>
                <desc xml:lang="ar">
                   <quote source="#bib2979-2">خانقين مدينة بحلوان العراق</quote>
@@ -136,7 +136,7 @@
                   <precision match="@from" notAfter="0891"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2979</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2979</idno>
                <idno type="URI">http://syriaca.org/place/2979</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Khanaqin</idno>
                <idno type="URI">https://dbpedia.org/resource/Khanaqin</idno>

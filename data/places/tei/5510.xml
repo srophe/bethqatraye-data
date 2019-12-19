@@ -38,7 +38,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5510/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5510/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -80,8 +80,8 @@
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5510-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Uwāl</placeName>
-          <placeName xml:id="name5510-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أُوال</placeName>
+          <placeName xml:id="name5510-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Uwāl</placeName>
+          <placeName xml:id="name5510-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">أُوال</placeName>
           <placeName xml:id="name5510-3" xml:lang="en">Awāl</placeName>
           <placeName xml:id="name5510-4" xml:lang="en">Bahrain</placeName>
           <placeName xml:id="name5510-5" xml:lang="ar" source="#bib5510-3">أُوال</placeName>
@@ -96,8 +96,8 @@
           </desc>
                     <location type="gps" source="#bib5510-5">
                         <geo>26.233137 50.520036</geo>
-                    </location><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5510</idno>
+                    </location><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5510</idno>
           <idno type="URI">http://syriaca.org/place/5510</idno>
           <idno type="URI">http://pleiades.stoa.org/places/932485</idno>
           <bibl xml:id="bib5510-1">

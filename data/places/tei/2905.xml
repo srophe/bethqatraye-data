@@ -49,7 +49,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2905/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2905/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -104,8 +104,8 @@
                     <placeName xml:id="name2905-4" xml:lang="syr" source="#bib2905-1">ܕܪܝ</placeName>
                     <placeName xml:id="name2905-5" xml:lang="fr" source="#bib2905-1">Darai</placeName>
                     <desc xml:id="abstract-en-2905" xml:lang="en">The diocese of the island of
-                            <ref target="http://bqgazetteer.bethmardutho.org/place/3007"><placeName ref="http://syriaca.org/place/3007">Daray</placeName></ref>
-                    </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+                            <ref target="https://bqgazetteer.bethmardutho.org/place/3007"><placeName ref="http://syriaca.org/place/3007">Daray</placeName></ref>
+                    </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                     <event type="attestation" xml:id="attestation2905-1" when="0585" source="#bib2905-1">
                         <p xml:lang="en">Attestation of names <foreign xml:lang="syr">ܕܪ̈ܝ</foreign>
                             and <foreign xml:lang="syr">ܕܪܝ</foreign> in the <title xml:lang="en" level="m">Synodicon Orientale</title>.</p>
@@ -115,7 +115,7 @@
                         <precision match="@from" notAfter="0585" notBefore="0030"/>
                         <precision match="@to" notAfter="2017" notBefore="0585"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2905</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2905</idno>
                     <idno type="URI">http://syriaca.org/place/2905</idno>
                     <bibl xml:id="bib2905-1">
                         <title xml:lang="en" level="m">Synodicon Orientale</title>

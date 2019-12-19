@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5152/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5152/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -71,14 +71,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5152-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Zāra</placeName>
-          <placeName xml:id="name5152-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زارة</placeName>
+          <placeName xml:id="name5152-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zāra</placeName>
+          <placeName xml:id="name5152-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زارة</placeName>
           <placeName xml:id="name5152-3" xml:lang="ar" source="#bib5152-1">الزارة</placeName>
           <desc type="abstract" xml:id="abstract5152-1" xml:lang="en">A village in (the region of) Trāblus.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5152-1">الزارة : [...] قال أبو منصور : عين الزارة بالبحرين معروفة، والزارة : قرية كيبرة بها، ومنها مرزبان الزارة، وله ذكر في الفتوح؛ وفتحت الزارة في سنة 12 في أيام أبي بكر الصديق، رضي الله عنه، وصولحوا؛ قال أبو أحمد العسكري : الخط والزارة والقطيف قرى بالبحرين وهجر والزارة أيضا : من قرى طرابلس الغرب؛ نسب إليها السلفي إبراهيم الزاري، وكان من أعيان التجار المتمولين، قدم إسكندرية. والزارة أيضا : كورة بالصعيد قرب قفط.</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5152</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5152</idno>
           <idno type="URI">http://syriaca.org/place/5152</idno>
           <bibl xml:id="bib5152-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>

@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5165/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5165/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -82,12 +82,12 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5165-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-ʿUdhayb</placeName>
-          <placeName xml:id="name5165-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">العذيب</placeName>
+          <placeName xml:id="name5165-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-ʿUdhayb</placeName>
+          <placeName xml:id="name5165-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">العذيب</placeName>
           <placeName xml:id="name5165-3" xml:lang="ar" source="#bib5165-1">العذيب</placeName>
           <placeName xml:id="name5165-4" xml:lang="ar" source="#bib5165-2">العذيب</placeName>
           <desc type="abstract" xml:id="abstract5165-1" xml:lang="en">A valley in southern Iraq.</desc><desc xml:lang="ar"><quote source="#bib5165-1">ثم نزلنا موضعا يعرف بالعذيب، وهو واد مخصب عليه عمارة وحوله فلاة خصبة فيها مسرح للبصر.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5165</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5165</idno>
           <idno type="URI">http://syriaca.org/place/5165</idno>
           <bibl xml:id="bib5165-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

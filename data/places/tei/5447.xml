@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5447/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5447/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,15 +76,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5447-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṣahyūn</placeName>
-          <placeName xml:id="name5447-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صهيون</placeName>
+          <placeName xml:id="name5447-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṣahyūn</placeName>
+          <placeName xml:id="name5447-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">صهيون</placeName>
           <placeName xml:id="name5447-3" xml:lang="en">Zion</placeName>
           <placeName xml:id="name5447-4" xml:lang="ar" source="#bib5447-1">صهيون</placeName>
           <desc type="abstract" xml:id="abstract5447-1" xml:lang="en" source="#bib5447-2"><quote>[A] stronghold of the D̲j̲abal al-ʿAlawiyyīn (Nuṣayrī Mountains), situated about 25 km/15 miles north-east of the Syrian port of ¶ al-Lād̲h̲iḳiyya (Latakia), near the town of al-Ḥaffeh.</quote></desc><desc xml:lang="ar"><quote source="#bib5447-4">ثم سافرت إلى مدينة صهيون، وهي حسنة، بها الأنهار المطردة، والأشجار المورقة، ولها قلعة جيّدة، وأميرها يعرف بالإبراهيمي، وقاضيها محي الدين الحمصي، وبخارجها زاوية في وسط بستان فيها الطعام للوارد والصادر وهي على قبر الصالح العابد عيسى البدوي رحمه الله وقد زرت قبره.#</quote></desc>
                     <location type="gps" source="#bib5447-3">
                         <geo>35.59593 36.05714</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5447</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5447</idno>
           <idno type="URI">http://syriaca.org/place/5447</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2281725</idno>
           <bibl xml:id="bib5447-1">

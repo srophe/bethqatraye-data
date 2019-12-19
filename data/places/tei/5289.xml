@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5289/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5289/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5289-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
-          <placeName xml:id="name5289-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+          <placeName xml:id="name5289-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Hajar</placeName>
+          <placeName xml:id="name5289-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
           <placeName xml:id="name5289-3" xml:lang="ar" source="#bib5289-1">هجر</placeName>
           <desc type="abstract" xml:id="abstract5289-1" xml:lang="en">A region (nāḥiya) in al-Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5289-1">وقيل : ناحية البحرين كلها هجر، وهو الصواب، قال ابن الكلبي عن الشرقي : إنما سميت عين هجر بهجر بنت المكفف وكانت من العرب المتعربة وكان زوجها محلم بن عبد الله صاحب النهر الذي بالبحرين يقال له نهر محلم وعين محلم [...]</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5289</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5289</idno>
           <idno type="URI">http://syriaca.org/place/5289</idno>
           <bibl xml:id="bib5289-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

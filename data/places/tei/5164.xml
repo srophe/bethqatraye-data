@@ -52,7 +52,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5164/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5164/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -103,9 +103,9 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5164-1" xml:lang="en" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">al-ʿUbaydīya</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">al-ʿUbaydīya</placeName>
           <placeName xml:id="name5164-2" xml:lang="ar" srophe:tags="#headword"
-            resp="http://bqgazetteer.bethmardutho.org">العبيدية</placeName>
+            resp="https://bqgazetteer.bethmardutho.org">العبيدية</placeName>
           <placeName xml:id="name5164-3" xml:lang="en">al-Ubeidiya</placeName>
           <placeName xml:id="name5164-4" xml:lang="en">Ubeidiya</placeName>
           <placeName xml:id="name5164-5" xml:lang="ar" source="#bib5164-1">العبيدية</placeName>
@@ -116,7 +116,7 @@
               كثيرة قد غلبت عليها البادية فحكمهم دون اهلها فيها امضى وامرهم في غلاتهم واموالهم انفد
               وأعلى كالعبيدية والجشيشية وهذه مدن عليها اسوار كثيرة لا تحصى</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5164</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5164</idno>
           <idno type="URI">http://syriaca.org/place/5164</idno>
           <idno type="URI">https://gazetteer.dainst.org/doc/2043537.html</idno>
           <bibl xml:id="bib5164-1">

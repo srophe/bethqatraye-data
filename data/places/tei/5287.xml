@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5287/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5287/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5287-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Hajar</placeName>
-          <placeName xml:id="name5287-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
+          <placeName xml:id="name5287-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Hajar</placeName>
+          <placeName xml:id="name5287-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
           <placeName xml:id="name5287-3" xml:lang="ar" source="#bib5287-1">هجر</placeName>
           <desc type="abstract" xml:id="abstract5287-1" xml:lang="en">A city in Jāzān.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5287-1">وقال ابن الحائك : الهجر بلغة حمير والعرب العاربة القرية، فمنها : هجر البحرين وهجر نجران وهجر جازان وهجر حصنة من مخلاف مازن؛ وهجر : مدينة وهي قاعدة البحرين، وربما قيل الهجر، بالألف واللام</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5287</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5287</idno>
           <idno type="URI">http://syriaca.org/place/5287</idno>
           <bibl xml:id="bib5287-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

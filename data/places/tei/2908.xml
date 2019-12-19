@@ -61,7 +61,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2908/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2908/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -117,19 +117,19 @@
             <place xml:id="place-2908" type="building">
                <placeName xml:id="name2908-1" xml:lang="en" srophe:tags="#headword">al-Kaʿba</placeName>
                <placeName xml:id="name2908-2" xml:lang="ar" srophe:tags="#headword" source="#bib2908-1">الكعبة</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2908-3">al-Kaʿba al-Sharīfa</placeName>
-               <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2908-4" source="#bib2908-2">الكعبة الشريفة</placeName>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2908-3">al-Kaʿba al-Sharīfa</placeName>
+               <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2908-4" source="#bib2908-2">الكعبة الشريفة</placeName>
                <placeName xml:lang="en" xml:id="name2908-5">al-Bayt al-ʿAtīq</placeName>
                <placeName xml:lang="en" xml:id="name2908-6">Bayt Allāh</placeName>
                <placeName xml:lang="en" xml:id="name2908-7">Al-Bayt al-Ḥarām</placeName>
                <placeName xml:lang="ar" xml:id="name2908-8" source="#bib2908-2">البيت العتيق</placeName>
                <placeName xml:lang="ar" xml:id="name2908-9" source="#bib2908-2">بيت الله</placeName>
                <placeName xml:lang="ar" xml:id="name2908-10" source="#bib2908-2">البيت الحرام</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2908-1">A structure at the center of <ref target="http://bqgazetteer.bethmardutho.org/place/2909"><placeName ref="http://syriaca.org/place/2909">al-Masjid al-Ḥarām</placeName></ref> in
-                     <ref target="http://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2908-1">A structure at the center of <ref target="https://bqgazetteer.bethmardutho.org/place/2909"><placeName ref="http://syriaca.org/place/2909">al-Masjid al-Ḥarām</placeName></ref> in
+                     <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>
                </desc>
                <desc xml:lang="en">The most sacred site in Islam
-                  located in the <ref target="http://bqgazetteer.bethmardutho.org/place/2909"><placeName ref="http://syriaca.org/place/2909">Great Mosque</placeName></ref> in <ref target="http://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>.</desc>
+                  located in the <ref target="https://bqgazetteer.bethmardutho.org/place/2909"><placeName ref="http://syriaca.org/place/2909">Great Mosque</placeName></ref> in <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>.</desc>
                     <location type="gps" source="#bib2908-3">
                         <geo>21.4225 39.8261666666667</geo>
                     </location>
@@ -143,7 +143,7 @@
                   <precision match="@from" notAfter="0632"/>
                   <precision match="@to" notBefore="2017"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2908</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2908</idno>
                <idno type="URI">http://syriaca.org/place/2908</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Kaaba</idno>
                <idno type="URI">https://dbpedia.org/resource/Kaaba</idno>

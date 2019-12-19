@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5472/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5472/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5472-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sijilmāsa</placeName>
-          <placeName xml:id="name5472-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سجلماسة</placeName>
+          <placeName xml:id="name5472-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sijilmāsa</placeName>
+          <placeName xml:id="name5472-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سجلماسة</placeName>
           <placeName xml:id="name5472-3" xml:lang="en">Sijilmasa</placeName>
           <placeName xml:id="name5472-4" xml:lang="en">al-Rīṣṣānī</placeName>
           <placeName xml:id="name5472-5" xml:lang="en">Rissani</placeName>
@@ -87,7 +87,7 @@
           <desc xml:lang="ar">
             <quote source="#bib5472-1">ومفاوز البربر ايضا القاصية التي بين سجلماسة واودغشت واوليل ولمطة وفزان وزويلة الى ما وراء ذلك مما بينهم وبين البحر المحيط</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5472</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5472</idno>
           <idno type="URI">http://syriaca.org/place/5472</idno>
           <bibl xml:id="bib5472-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>

@@ -65,7 +65,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/411/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/411/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -179,7 +179,7 @@
                         <precision match="@from" notAfter="0790" srophe:computed-end="0790-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/411</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/411</idno>
                     <idno type="URI">http://syriaca.org/place/411</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/668362</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Al-Salamiyah</idno>

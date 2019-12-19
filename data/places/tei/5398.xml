@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5398/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5398/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5398-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Nūqān</placeName>
-          <placeName xml:id="name5398-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نوقان</placeName>
+          <placeName xml:id="name5398-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Nūqān</placeName>
+          <placeName xml:id="name5398-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">نوقان</placeName>
           <placeName xml:id="name5398-3" xml:lang="en">Nawqān</placeName>
           <placeName xml:id="name5398-4" xml:lang="ar" source="#bib5398-1">نوقان</placeName>
           <desc type="abstract" xml:id="abstract5398-1" xml:lang="en">A city (madīna) in the district of Ṭūs close to the modern city of Mashhad.</desc>
@@ -86,7 +86,7 @@
                     <location type="gps" source="#bib5398-2">
                         <geo>36.2946111111111 59.6224166666667</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5398</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5398</idno>
           <idno type="URI">http://syriaca.org/place/5398</idno>
           <idno type="URI">http://tools.wmflabs.org/geohack/geohack.php?pagename=Nawqan&amp;params=36_17_40.6_N_59_37_20.7_E_</idno>
           <bibl xml:id="bib5398-1">

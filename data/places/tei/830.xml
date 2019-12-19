@@ -78,7 +78,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/830/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/830/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -157,13 +157,13 @@
                     <placeName xml:id="name830-1" xml:lang="en" srophe:tags="#headword" source="#bib830-1 #bib830-4">Ispahan</placeName>
                     <placeName xml:id="name830-2" xml:lang="ar" source="#bib830-3">أَصبهان</placeName>
                     <placeName xml:id="name830-3" xml:lang="ar" srophe:tags="#headword" source="#bib830-5 #bib830-7">اصبهان</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name830-4">Iṣfahān</placeName>
-                    <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name830-5" source="#bib830-7">اصفهان</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name830-4">Iṣfahān</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name830-5" source="#bib830-7">اصفهان</placeName>
                     <placeName xml:lang="en" xml:id="name830-6">Iṣbahān</placeName>
                     <placeName xml:lang="en" xml:id="name830-7">Isfahan</placeName>
                     <placeName xml:lang="en" xml:id="name830-8">Esfahan</placeName>
                     <placeName xml:lang="ar" xml:id="name830-9" source="#bib830-6">أصبهان</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract830-1">A city in central <ref target="http://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>.
+                    <desc type="abstract" xml:lang="en" xml:id="abstract830-1">A city in central <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>.
                     </desc>
                     <location type="gps" source="#bib830-8" subtype="alternate">
                         <geo>32.65246 51.67462</geo>
@@ -183,7 +183,7 @@
                         <link target="#name830-3 #attestation830-2"/>
                     </event>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/830</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/830</idno>
                     <idno type="URI">http://syriaca.org/place/830</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/902990</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Isfahan</idno>

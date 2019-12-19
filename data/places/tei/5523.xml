@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5523/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5523/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5523-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
-          <placeName xml:id="name5523-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
+          <placeName xml:id="name5523-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
+          <placeName xml:id="name5523-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
           <placeName xml:id="name5523-3" xml:lang="ar" source="#bib5523-1">يبرين</placeName>
           <desc type="abstract" xml:id="abstract5523-1" xml:lang="en">A village (qarya) in the region of Aleppo.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5523-1">ويبرين : قرية من قرى حلب ثم من نواحي عزاز.</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5523</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5523</idno>
           <idno type="URI">http://syriaca.org/place/5523</idno>
           <bibl xml:id="bib5523-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

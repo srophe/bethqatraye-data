@@ -37,7 +37,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI" change="#change5470-1">http://bqgazetteer.bethmardutho.org/place/5470/tei</idno>
+        <idno type="URI" change="#change5470-1">https://bqgazetteer.bethmardutho.org/place/5470/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,20 +76,20 @@
     </profileDesc>
     <revisionDesc status="draft">
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5470-1">Merged in data from
-        [http://bqgazetteer.bethmardutho.org/place/5469].</change>
+        [https://bqgazetteer.bethmardutho.org/place/5469].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [http://bqgazetteer.bethmardutho.org/place/5469]</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [https://bqgazetteer.bethmardutho.org/place/5469]</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5470-1" xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Shuqār</placeName>
-          <placeName xml:id="name5470-2" xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" srophe:tags="#headword">شُقار</placeName>
+          <placeName xml:id="name5470-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Shuqār</placeName>
+          <placeName xml:id="name5470-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">شُقار</placeName>
           <placeName xml:id="name5470-3" xml:lang="ar" source="#bib5470-1">شقار</placeName>
-          <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5470-4">Shufār</placeName>
-          <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name5470-5">شُفَار</placeName>
+          <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5470-4">Shufār</placeName>
+          <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5470-5">شُفَار</placeName>
           <placeName xml:lang="ar" xml:id="name5470-6" source="#bib5470-1">شفار</placeName>
           <desc type="abstract" xml:id="abstract5470-1" xml:lang="en">ِAn island located between
             Uwāl/Awāl and Qaṭar with many villages.</desc>
@@ -97,8 +97,8 @@
             <quote source="#bib5470-1">شقار : [...] جزيرة بين أوال وقطر فيها قرى كثيرة من أعمال هجر،
               أهلها بنو عامر بن الحارث ابن أنمار بن عمرو بن وديعة بن لكيز بن أفصى بن عبد
               القيس.</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5470</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5470</idno>
           <idno type="URI">http://syriaca.org/place/5470</idno>
           <bibl xml:id="bib5470-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

@@ -71,7 +71,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/61/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/61/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -165,8 +165,8 @@
                     <placeName xml:id="name61-5" xml:lang="ar" source="#bib61-6">بحر
                         الخَزَر</placeName>
                     <placeName xml:id="name61-6" xml:lang="ar" srophe:tags="#headword" source="#bib61-7">بحر طبرستان وجرجان</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name61-7">Baḥr Ṭabaristān</placeName>
-                    <placeName xml:lang="ar" resp="http://bqgazetteer.bethmardutho.org" xml:id="name61-8">بحر طبرستان</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name61-7">Baḥr Ṭabaristān</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name61-8">بحر طبرستان</placeName>
                     <placeName xml:lang="en" xml:id="name61-7">Caspium</placeName>
                     <placeName xml:lang="en" xml:id="name61-10">Hyrcanium Mare</placeName>
                     <placeName xml:lang="ar" xml:id="name61-11" source="#bib61-8">بحر
@@ -198,7 +198,7 @@
                         <link target="#name61-6 #attestation61-2"/>
                     </event>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/61</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/61</idno>
                     <idno type="URI">http://syriaca.org/place/61</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/884130</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Caspian_Sea</idno>

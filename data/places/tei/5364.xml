@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5364/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5364/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5364-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Makrān</placeName>
-          <placeName xml:id="name5364-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">مكران</placeName>
+          <placeName xml:id="name5364-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Makrān</placeName>
+          <placeName xml:id="name5364-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">مكران</placeName>
           <placeName xml:id="name5364-3" xml:lang="ar" source="#bib5364-1">مكران</placeName>
           <desc type="abstract" xml:id="abstract5364-1" xml:lang="en">A valley or coastal strip spanning over Balochistan, Pakistan, and Iran.</desc><desc xml:lang="ar"><quote source="#bib5364-2">ومنهم ملك دينار تغلّب على بلاد مكران وبلاد كبج [sic! كيج]</quote></desc><desc xml:lang="ar"><quote source="#bib5364-3">ونفي عن بلاد الهند والسند، فسلك طريق كيج ومكران، وأهل البلاد يكرمونه ويضيفونه ويهادونه، ووصل إلى شيراز، فأكرمه سلطانها أبو إسحاق، وأجرى له كفايته.</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5364</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5364</idno>
           <idno type="URI">http://syriaca.org/place/5364</idno>
           <bibl xml:id="bib5364-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

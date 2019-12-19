@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5120/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5120/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5120-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sarja</placeName>
-          <placeName xml:id="name5120-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">السرجة</placeName>
+          <placeName xml:id="name5120-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sarja</placeName>
+          <placeName xml:id="name5120-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">السرجة</placeName>
           <placeName xml:id="name5120-3" xml:lang="ar" source="#bib5120-1">السرجة</placeName>
           <desc type="abstract" xml:id="abstract5120-1" xml:lang="en">A town in Yemen.</desc><desc xml:lang="ar"><quote source="#bib5120-2">وركبت البحر في مركب له فوصلت إلى بلدة السرجة</quote></desc><desc xml:lang="ar"><quote source="#bib5120-3">وأقمنا بالسّرجة ليلة واحدة في ضيافة المذكورين، ثمّ رحلنا إلى مرسى الحادث ولم ننزل به، ثم إلى مرسى الأبواب ثم إلى مدينة زبيد</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5120</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5120</idno>
           <idno type="URI">http://syriaca.org/place/5120</idno>
           <bibl xml:id="bib5120-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

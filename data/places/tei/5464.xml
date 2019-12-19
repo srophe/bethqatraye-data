@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5464/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5464/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5464-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ٍShawankāra</placeName>
-          <placeName xml:id="name5464-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">شونكارة</placeName>
+          <placeName xml:id="name5464-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ٍShawankāra</placeName>
+          <placeName xml:id="name5464-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">شونكارة</placeName>
           <placeName xml:id="name5464-3" xml:lang="en">Shawānkāra</placeName>
           <placeName xml:id="name5464-4" xml:lang="en">Shabānkāra</placeName>
           <placeName xml:id="name5464-5" xml:lang="en">Shabankareh</placeName>
@@ -87,7 +87,7 @@
                     <location type="gps" source="#bib5464-2">
                         <geo>29.47333 50.99361</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5464</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5464</idno>
           <idno type="URI">http://syriaca.org/place/5464</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Shabankareh&amp;params=29_28_24_N_50_59_37_E_region:IR_type:city</idno>
           <bibl xml:id="bib5464-1">

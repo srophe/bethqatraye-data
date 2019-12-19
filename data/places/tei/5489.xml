@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5489/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5489/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5489-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Tamentfoust</placeName>
-          <placeName xml:id="name5489-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">تمنتفوست</placeName>
+          <placeName xml:id="name5489-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Tamentfoust</placeName>
+          <placeName xml:id="name5489-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">تمنتفوست</placeName>
           <placeName xml:id="name5489-3" xml:lang="en">Rusguniae</placeName>
           <placeName xml:id="name5489-4" xml:lang="ar" source="#bib5489-1">تامدفوست مرسى</placeName>
           <desc type="abstract" xml:id="abstract5489-1" xml:lang="en">A city located at the coastline of Northern Africa.</desc>
@@ -86,7 +86,7 @@
                     <location type="gps" source="#bib5489-2">
                         <geo>36.808485 3.231468</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5489</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5489</idno>
           <idno type="URI">http://syriaca.org/place/5489</idno>
           <idno type="URI">http://pleiades.stoa.org/places/295331</idno>
           <bibl xml:id="bib5489-1">

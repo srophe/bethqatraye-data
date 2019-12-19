@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5454/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5454/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5454-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Saṭfūra</placeName>
-          <placeName xml:id="name5454-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سطفورة</placeName>
+          <placeName xml:id="name5454-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Saṭfūra</placeName>
+          <placeName xml:id="name5454-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سطفورة</placeName>
           <placeName xml:id="name5454-3" xml:lang="ar" source="#bib5454-1">سطفورة</placeName>
           <desc type="abstract" xml:id="abstract5454-1" xml:lang="en">A region (iqlīm) in the Maghrib.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5454-1">واما سطفورة فاقليم ايضا على البحر جليل له ثلاث مدائن فاقربهن الى تونس أنبلونة ثم تنجة ثم بنزرت وهى مدينة على البحر خصيبة اصغر من سوسة في ذاته وعامل هذه البلاد ينزل في بنزرت وبها ثمار كثيرة وانهار سطفورة واسعة غزيرة والارتفاع بها</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5454</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5454</idno>
           <idno type="URI">http://syriaca.org/place/5454</idno>
           <bibl xml:id="bib5454-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>

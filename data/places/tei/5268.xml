@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5268/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5268/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,14 +74,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5268-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Darhand</placeName>
-          <placeName xml:id="name5268-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">درهند</placeName>
+          <placeName xml:id="name5268-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Darhand</placeName>
+          <placeName xml:id="name5268-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">درهند</placeName>
           <placeName xml:id="name5268-3" xml:lang="ar" source="#bib5268-1">درهند</placeName>
           <desc type="abstract" xml:id="abstract5268-1" xml:lang="en">A city in Sijistān/Sistān province.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5268-1">واما سجستان فانها كورة متصلة العمارة، منقطعة المساكن، قليلة المدن، كثيرة القصور، ومعدن النخيل والحيات. قصبتها زرنج ومن مدنها كوين، زنبوك، فره، درهند، قرنين، كواربواذا، بارنواذ، كزه، سنج، باب الطعام، كروادكن نه، الطاق.</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5268</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5268</idno>
           <idno type="URI">http://syriaca.org/place/5268</idno>
           <bibl xml:id="bib5268-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>

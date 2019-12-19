@@ -70,7 +70,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/82/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/82/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -158,7 +158,7 @@
                     <placeName xml:id="name82-3" xml:lang="syr-Syrj" source="#bib82-2">ܦܪܰܬ</placeName>
                     <placeName xml:id="name82-4" xml:lang="ar" srophe:tags="#headword" source="#bib82-3 #bib82-7 #bib82-8">الفرات</placeName>
                     <placeName xml:id="name82-5" xml:lang="ar" source="#bib82-6">الفُرات</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name82-6">al-Furāt</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name82-6">al-Furāt</placeName>
                     <placeName xml:lang="en" xml:id="name82-7">Ufrātu</placeName>
                     <placeName xml:lang="en" xml:id="name82-8">Frat</placeName>
                     <placeName xml:lang="en" xml:id="name82-9">Firat</placeName>
@@ -181,7 +181,7 @@
                         <link target="#name82-4 #attestation82-2"/>
                     </event>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/82</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/82</idno>
                     <idno type="URI">http://syriaca.org/place/82</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/912849</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Euphrates</idno>

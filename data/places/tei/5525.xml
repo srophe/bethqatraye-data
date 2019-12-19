@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5525/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5525/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,14 +76,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5525-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Yazd</placeName>
-          <placeName xml:id="name5525-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يزد</placeName>
+          <placeName xml:id="name5525-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Yazd</placeName>
+          <placeName xml:id="name5525-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">يزد</placeName>
           <placeName xml:id="name5525-3" xml:lang="ar" source="#bib5525-1">يزد</placeName>
           <desc type="abstract" xml:id="abstract5525-1" xml:lang="en" source="#bib5525-2"><quote>[A] city of central Persia, and capital of the province of the same name. It is situated on the Persian plateau at lat. 31° 54′ N. and long. 54° 24′ E. (at an elevation of 1,230m/4,240 feet), in an elongated interior basin stretching from near Kās̲h̲ān to Bāfḳ and bordered by the Das̲h̲t-i Kawīr.</quote></desc><desc xml:lang="ar"><quote source="#bib5525-4">ذكر المتغلبين على الملك بعد موت السلطان أبي سعيد. فمنهم الشيخ حسن ابن عمته الذي ذكرناه آنفاً، تغلب على عراق العرب جميعاً، ومنهم إبراهيم شاه ابن الأمير سنيته، تغلب على الموصل وديار بكر، ومنهم الأمير أرتنا، تغلب على بلاد التركمان المعروفة أيضاً ببلاد الروم، ومنهم حسن خواجة بن الدمرطاش بن الجوبان، تغلب على تبريز والسلطانية وهمذان وقم وقاشان والري ورامين وفرغان والكرج، ومنهم الأمير طغيتمور تغلب على بعض بلاد خراسان، ومنهم الأمير حسن ابن الأمير غياث الدين تغلب على هراة ومعظم بلاد خراسان، ومنهم ملك دينار تغلب على بلاد مكران وبلاد كبج، ومنهم محمد شاه ابن مظفر تغلب على يزد وكرمان وورقو، ومنهم الملك قطب الدين تمهتن تغلب على هرمز وكيش والقطيف والبحرين وقلهات، ومنهم السلطان أبو إسحاق الذي تقدم ذكره تغلب على شيراز وأصفهان وملك فارس، وذلك مسيرة خمس وأربعين، ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc>
                     <location type="gps" source="#bib5525-3">
                         <geo>31.89722 54.3675</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5525</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5525</idno>
           <idno type="URI">http://syriaca.org/place/5525</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2109639</idno>
           <bibl xml:id="bib5525-1">

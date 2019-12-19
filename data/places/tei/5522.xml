@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5522/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5522/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5522-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
-          <placeName xml:id="name5522-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
+          <placeName xml:id="name5522-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Yabrīn</placeName>
+          <placeName xml:id="name5522-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">يَبْرِينُ</placeName>
           <placeName xml:id="name5522-3" xml:lang="ar" source="#bib5522-1">يبرين</placeName>
           <placeName xml:id="name5522-4" xml:lang="ar" source="#bib5522-2">يبرين</placeName>
           <desc type="abstract" xml:id="abstract5522-1" xml:lang="en" source="#bib5522-3"><quote>[A] sandy region of Eastern Arabia belonging to Banū Saʿd.</quote></desc>
@@ -86,8 +86,8 @@
           </desc>
           <desc xml:lang="ar">
             <quote source="#bib5522-2">وأقولهم في مثل هذا كثيرة، والعرب ممن سلف وخلف في الجاهلية والإسلام يخبرون عن هذه الأرض كإخبارهم عن وادي الدو والصمان والدهناء ورمل يبرين وغيرها من الأرضين التي ينزلونها ويجتمعون عليها طلبا للماء والكلاء</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5522</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5522</idno>
           <idno type="URI">http://syriaca.org/place/5522</idno>
           <bibl xml:id="bib5522-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title>

@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5082/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5082/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -83,15 +83,15 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5082-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Muzdalifa</placeName>
-          <placeName xml:id="name5082-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المزدلفة</placeName>
+          <placeName xml:id="name5082-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Muzdalifa</placeName>
+          <placeName xml:id="name5082-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المزدلفة</placeName>
           <placeName xml:id="name5082-3" xml:lang="ar" source="#bib5082-1">المزدلفة</placeName>
           <placeName xml:id="name5082-4" xml:lang="ar" source="#bib5082-2">مزدلفة</placeName>
           <desc type="abstract" xml:id="abstract5082-1" xml:lang="en">An open area southeast of Mina and associated the ḥajj pilgrimage.</desc><desc xml:lang="ar"><quote source="#bib5082-4">والمناسك كلها: منى وعرفة والمزدلفة</quote></desc><desc xml:lang="ar"><quote source="#bib5082-5">ووادي محسر هو الحد ما بين مزدلفة ومنى، ومزدلفة بسيط من الأرض فسيح بين جبلين</quote></desc><desc xml:lang="ar"><quote source="#bib5082-6">ولما صلینا الصبح بمزدلفة غدونا منها الى منى بعد الوقوف والدعاء بالمشعر الحرام. ومزدلفة كلها موقف إلا وادي محسر، ففيه تقع الهرولة حتى يخرج عنه.#</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5082-3">
                         <geo>21.38611 39.91222</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5082</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5082</idno>
           <idno type="URI">http://syriaca.org/place/5082</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?pagename=Muzdalifah&amp;params=21_23_10_N_39_54_44_E_type:landmark</idno>
           <bibl xml:id="bib5082-1">

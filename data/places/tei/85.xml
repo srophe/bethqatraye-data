@@ -48,7 +48,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/85/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/85/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -107,11 +107,11 @@
                 <place xml:id="place-85" type="settlement">
                     <placeName xml:id="name85-1" xml:lang="en" srophe:tags="#headword" source="#bib85-1">Gabala</placeName>
                     <placeName xml:id="name85-2" xml:lang="ar" source="#bib85-2 #bib85-3">جبلة</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name85-3">Jabala</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name85-3">Jabala</placeName>
                     <placeName xml:lang="en" xml:id="name85-4">Jabla</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract85-1">A city on the coast south-east of
-                            <ref target="http://bqgazetteer.bethmardutho.org/place/118"><placeName ref="http://syriaca.org/place/118">Laodicea</placeName></ref> and
-                        west of <ref target="http://bqgazetteer.bethmardutho.org/place/11"><placeName ref="http://syriaca.org/place/11">Apamea</placeName></ref>.</desc>
+                            <ref target="https://bqgazetteer.bethmardutho.org/place/118"><placeName ref="http://syriaca.org/place/118">Laodicea</placeName></ref> and
+                        west of <ref target="https://bqgazetteer.bethmardutho.org/place/11"><placeName ref="http://syriaca.org/place/11">Apamea</placeName></ref>.</desc>
                     <desc xml:lang="ar"><quote source="#bib85-5">ثم سافرت من حصون الفداوية إلى مدينة جبلة، وهي ذات أنهار مطردة وأشجار، والبحر على نحو ميل منها. وبها قبر الولي الصالح الشهير إبراهيم بن أدهم رضي الله عنه، وهو الذي نبذ الملك، وانقطع إلى الله تعالى، حسبما شهر ذلك. ولم يكن ابراهيم من بيت ملك كما يظنه الناس انما ورث الملك عن جده أبي أمه. وأما أبوه أدهم فكان من الفقراء الصالحين السائحين المتعبدين الورعين المنقطعين.</quote></desc>
                     <desc xml:lang="ar"><quote source="#bib85-6">ثم إنه أمرهم بالتجهيز لقتال المسلمين وأن يبدأوا بمدينة جبلة وأمرهم أن يأخذوا عوض السيوف قضبان الآس، ووعدهم أنها تصير في أيديهم سيوفا عند القتال فغدروا مدينة جبلة، وأهلها في صلاة الجمعة.</quote></desc>
                     <desc xml:lang="ar"><quote source="#bib85-7">فوصلنا إلى مدينة غزّة ثم إلى مدينة الخليل عليه السلام وتكرّرت لنا زيارته، ثمّ إلى بيت المقدّس ثم إلى مدينة الرّملة ثم إلى مدينة عكّا ثم إلى مدينة طرابلس ثم إلى مدينة جبلة </quote></desc>
@@ -131,7 +131,7 @@
                         <precision match="@from" notAfter="-0330"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/85</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/85</idno>
                     <idno type="URI">http://syriaca.org/place/85</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/668250</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Jableh</idno>

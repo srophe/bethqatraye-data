@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5452/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5452/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,14 +75,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5452-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
-          <placeName xml:id="name5452-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">صنعاء</placeName>
+          <placeName xml:id="name5452-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṣanʿāʾ</placeName>
+          <placeName xml:id="name5452-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">صنعاء</placeName>
           <placeName xml:id="name5452-3" xml:lang="ar" source="#bib5452-1">صنعاء</placeName>
           <desc type="abstract" xml:id="abstract5452-1" xml:lang="en">A chief town and current capital of the Yemen.</desc><desc xml:lang="ar"><quote source="#bib5452-3">فوصلت الى بلدة السرجة (وضبط اسمها بفتح السين المهمل وإسكان الراء وفتح الجيم)، بلدة صغيرة يسكنها جماعة من أولاد الهلبي، وهم طائفة من تجار اليمن، أكثرهم ساكنون بصنعاء</quote></desc><desc xml:lang="ar"><quote source="#bib5452-4">ثمّ رحلنا إلى مرسى الحادث ولم ننزل به، ثم إلى مرسى الأبواب، ثم إلى مدينة زبيد، مدينة عظيمة باليمن بينها وبين صنعاء أربعون فرسخاً، وليس باليمن بعد صنعاء أكبر منها، ولا أغنى من أهلها</quote></desc><desc xml:lang="ar"><quote source="#bib5452-5">وانصرفت مسافراً الى مدينة صنعاء، وهي قاعدة بلاد اليمن الأولى.</quote></desc><desc xml:lang="ar"><quote source="#bib5452-6">وجامع صنعاء من أحسن الجوامع، وفيه قبر نبي من الأنبياء عليهم السلام. ثم سافرنا منها الى مدينة عدن، مرسى بلاد اليمن، على ساحل البحرالأعظم.</quote></desc>
                     <location type="gps" source="#bib5452-2">
                         <geo>15.342101 44.2005197</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5452</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5452</idno>
           <idno type="URI">http://syriaca.org/place/5452</idno>
           <idno type="URI">https://pleiades.stoa.org/places/104811110</idno>
           <bibl xml:id="bib5452-1">

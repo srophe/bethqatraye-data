@@ -43,7 +43,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/111/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/111/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -136,8 +136,8 @@
                         <precision match="@from" notAfter="0270" srophe:computed-end="0270-01-01"/>
                         <precision match="@to" notAfter="1200" notBefore="0694" srophe:computed-end="1200-01-01" srophe:computed-start="0694-01-01"/>
                     </state>
-                    <note type="disambiguation">Not the same conceptual place as <placeName ref="http://bqgazetteer.bethmardutho.org/place/509">al-Wāsiṭ</placeName>.</note>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/111</idno>
+                    <note type="disambiguation">Not the same conceptual place as <placeName ref="https://bqgazetteer.bethmardutho.org/place/509">al-Wāsiṭ</placeName>.</note>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/111</idno>
                     <idno type="URI">http://syriaca.org/place/111</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/912880</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Kashkar</idno>

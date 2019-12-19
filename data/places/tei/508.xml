@@ -89,7 +89,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/508/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/508/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -189,7 +189,7 @@
                     <placeName xml:id="name508-4" xml:lang="ar" srophe:tags="#headword" source="#bib508-2 #bib508-5 #bib508-6 #bib508-7 #bib508-8">اليمن</placeName>
                     <placeName xml:id="name508-5" xml:lang="en" source="#bib508-3">Yaman</placeName>
                     <placeName xml:id="name508-6" xml:lang="ar" source="#bib508-4">اليَمَن</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name508-7">al-Yaman</placeName>
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name508-7">al-Yaman</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract508-1">A region in the
                         extreme south of the <placeName>Arabian Peninsula</placeName>.</desc>
                     <event type="attestation" xml:id="attestation508-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib508-4">
@@ -213,7 +213,7 @@
                         <precision match="@from" notAfter="0891" srophe:computed-end="0891-01-01"/>
                         <precision match="@to" notBefore="2013" srophe:computed-start="2013-01-01"/>
                     </state>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/508</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/508</idno>
                     <idno type="URI">http://syriaca.org/place/508</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Yemen</idno>
                     <idno type="URI">http://dbpedia.org/resource/Yemen</idno>

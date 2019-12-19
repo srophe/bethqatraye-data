@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5032/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5032/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,18 +76,18 @@
     <body>
       <listPlace>
         <place type="region">
-          <placeName xml:id="name5032-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ghūṭa</placeName>
-          <placeName xml:id="name5032-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الغوطة</placeName>
+          <placeName xml:id="name5032-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ghūṭa</placeName>
+          <placeName xml:id="name5032-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الغوطة</placeName>
           <placeName xml:id="name5032-3" xml:lang="en">Ghouta</placeName>
           <placeName xml:id="name5032-4" xml:lang="ar" source="#bib5032-1">الغوطة</placeName>
           <desc type="abstract" xml:id="abstract5032-1" xml:lang="en" source="#bib5032-2"><quote>The G̲h̲ūṭa of Dimas̲h̲ḳ [q.v.] is the area of gardens and orchards which surrounds the former Umayyad capital below the gorges of Rabwa and which is made fertile by a close network of irrigation trenches fed by the Baradā [q.v.]. The G̲h̲ūṭa extends from the eastern slopes of Mount Ḳāsiyūn [q.v.] as far as the streams and the water brought in from the Baradā allow bushes to be grown. Beyond this, to the east, is the Mard̲j̲ , a region of pasture and wide stretches of arable land.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5032-1">وجنوبيها [من ديار العرب] وشيء من غربيهاثم يمتد عليها من ايلة على مدائن قوم لوط والبحيرة المنتنة التي تعرف ببحيرة زغر الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة ونواحى بعلبك وذلك من عمل دمشق</quote>
           </desc>
-          <location type="gps" subtype="representative" resp="http://bqgazetteer.bethmardutho.org">
+          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>33.5 36.420833</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5032</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5032</idno>
           <idno type="URI">http://syriaca.org/place/5032</idno>
           <bibl xml:id="bib5032-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title>

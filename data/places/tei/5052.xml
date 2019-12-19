@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5052/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5052/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,15 +76,15 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5052-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Khalīl</placeName>
-          <placeName xml:id="name5052-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الخليل</placeName>
+          <placeName xml:id="name5052-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khalīl</placeName>
+          <placeName xml:id="name5052-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الخليل</placeName>
           <placeName xml:id="name5052-3" xml:lang="en">Hebron</placeName>
           <placeName xml:id="name5052-4" xml:lang="ar" source="#bib5052-1">الخليل</placeName>
           <desc type="abstract" xml:id="abstract5052-1" xml:lang="en" source="#bib5052-2"><quote>The Arabic name for Hebron, a town in southern Palestine, 32 km. south of Jerusalem (31° N 34° E), the only urban centre in the southern Judaean hills and their virtual capital and commercial centre.</quote></desc><desc xml:lang="ar"><quote source="#bib5052-4">ثم سافرت من غزة إلى مدينة الخليل صلى الله على نبيّنا وعليه وسلم تسليما، وهي مدينة صغيرة الساحة كبيرة المقدار مشرقة الأنوار حسنة المنظر عجيبة المخبر، في بطن واد، ومسجدها أنيق الصنعة محكم العمل بديع الحسن سامي الارتفاع، مبني بالصخر المنحوت.</quote></desc><desc xml:lang="ar"><quote source="#bib5052-5">فوصلنا الى مدينة غزة ثم الى مدينة الخليل عليه السلام</quote></desc><desc xml:lang="ar"><quote source="#bib5052-6">وسألني عن بيت المقدس، وعن الصخرة المقدس، وعن القمامة، وعن مهد عيسى، وعن بيت لحم، وعن مدينة الخليل عليه السلام</quote></desc><desc xml:lang="ar"><quote source="#bib5052-7">وقام إليّ أربعتهم حين دخولي ودخلوا معي، فسلمت عليه وسألني، وصاحب العلامة يترجم بيني وبينه، عن مكة والمدينة والقدس شرفها الله، وعن مدينة الخليل عليه السلام، وعن دمشق ومصر والملك الناصر، وعن العراقين وملكهما، وبلاد الاعاجم.</quote></desc><desc xml:lang="ar"><quote source="#bib5052-8">ثم سافرنا من المدينة الشريفة الى العلا وتبوك، ثم الى بيت المقدس، ثم الى مدينة الخليل</quote></desc>
                     <location type="gps" source="#bib5052-3">
                         <geo>31.530219 35.098486</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5052</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5052</idno>
           <idno type="URI">http://syriaca.org/place/5052</idno>
           <idno type="URI">http://gazetteer.dainst.org/place/2101805</idno>
           <bibl xml:id="bib5052-1">

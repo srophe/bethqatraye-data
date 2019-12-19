@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5568/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5568/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5568-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
-          <placeName xml:id="name5568-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الستار</placeName>
+          <placeName xml:id="name5568-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
+          <placeName xml:id="name5568-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الستار</placeName>
           <placeName xml:id="name5568-3" xml:lang="ar" source="#bib5568-1">الستار</placeName>
           <desc type="abstract" xml:id="abstract5568-1" xml:lang="en">A mountain in the heights of the region of the Banū Salīm facing the city of Ṣafīna in Saudi-Arabia.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5568-1">والستار : جبل بالعالية في ديار بني سليم حذاء صفينة.</quote>
           </desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5568</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5568</idno>
           <idno type="URI">http://syriaca.org/place/5568</idno>
           <bibl xml:id="bib5568-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

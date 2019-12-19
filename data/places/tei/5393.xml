@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5393/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5393/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5393-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Najrān</placeName>
-          <placeName xml:id="name5393-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">نجران</placeName>
+          <placeName xml:id="name5393-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Najrān</placeName>
+          <placeName xml:id="name5393-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">نجران</placeName>
           <placeName xml:id="name5393-3" xml:lang="ar" source="#bib5393-1">نجران</placeName>
           <desc type="abstract" xml:id="abstract5393-1" xml:lang="en">A province (mikhlāf) in south Arabia.</desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" subtype="representative" source="#bib5393-2">
                         <geo>18.41667 46.91667</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5393</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5393</idno>
           <idno type="URI">http://syriaca.org/place/5393</idno>
           <idno type="URI">http://www.geonames.org/103628/mintaqat-najran.html</idno>
           <bibl xml:id="bib5393-1">

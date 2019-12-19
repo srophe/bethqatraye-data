@@ -74,7 +74,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2909/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2909/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -140,8 +140,8 @@
           <placeName xml:id="name2909-2" xml:lang="ar" srophe:tags="#headword" source="#bib2909-1 #bib2909-2 #bib2909-3">المسجد الحرام</placeName>
           <placeName xml:lang="en" xml:id="name2909-3">Great Mosque of Mecca</placeName>
           <desc type="abstract" xml:lang="en" xml:id="abstract2909-1">The mosque that surrounds the <placeName>Kaʿba</placeName>
-            in <ref target="http://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>.</desc>
-          <desc xml:lang="en">The main mosque in <ref target="http://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>.
+            in <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>.</desc>
+          <desc xml:lang="en">The main mosque in <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>.
           </desc><desc xml:lang="ar"><quote source="#bib2909-4">ذكر مسجد الحرام شرفه الله وكرمه. والمسجد الحرام في وسط البلد. وهو متسع الساحة. طوله من شرق إلى غرب أزيد من أربعمائة ذراع</quote></desc><desc xml:lang="ar"><quote source="#bib2909-5">وصوامع المسجد الحرام خمس: [...]</quote></desc><desc xml:lang="ar"><quote source="#bib2909-6">ومن باب الصفا الذي هو من أبواب المسجد الحرام الى الصفا ست وسبعون خطوة</quote></desc>
           <event type="attestation" xml:id="attestation2909-1" notBefore="0902" notAfter="0914" source="#bib2909-1">
             <p xml:lang="en">Attestation of name <foreign xml:lang="ar">المسجد الحرام</foreign> in
@@ -153,7 +153,7 @@
             <precision match="@from" notAfter="0632" notBefore="0610"/>
             <precision match="@to" notBefore="2017"/>
           </state>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2909</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2909</idno>
           <idno type="URI">http://syriaca.org/place/2909</idno>
           <idno type="URI">https://en.wikipedia.org/wiki/Great_Mosque_of_Mecca</idno>
           <bibl xml:id="bib2909-1">

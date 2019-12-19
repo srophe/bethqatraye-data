@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5227/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5227/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5227-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Balkh</placeName>
-          <placeName xml:id="name5227-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بلخ</placeName>
+          <placeName xml:id="name5227-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Balkh</placeName>
+          <placeName xml:id="name5227-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بلخ</placeName>
           <placeName xml:id="name5227-3" xml:lang="ar" source="#bib5227-1">بلخ</placeName>
           <desc type="abstract" xml:id="abstract5227-1" xml:lang="en">A city located in the Balkh region in northern Afghanistan and located osuth of the Amu Darya (Oxus). Located along the silk road and important center of Zoroastrianism.</desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" source="#bib5227-2">
                         <geo>36.755213 66.899731</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5227</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5227</idno>
           <idno type="URI">http://syriaca.org/place/5227</idno>
           <idno type="URI">https://pleiades.stoa.org/places/961886</idno>
           <bibl xml:id="bib5227-1">

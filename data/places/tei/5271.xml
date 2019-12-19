@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5271/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5271/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5271-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ِDarʿā</placeName>
-          <placeName xml:id="name5271-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">أذرعات</placeName>
+          <placeName xml:id="name5271-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ِDarʿā</placeName>
+          <placeName xml:id="name5271-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">أذرعات</placeName>
           <placeName xml:id="name5271-3" xml:lang="en">Adhriʿāt</placeName>
           <placeName xml:id="name5271-4" xml:lang="ar">درعا</placeName>
           <placeName xml:id="name5271-5" xml:lang="ar" source="#bib5271-1">اذرعات</placeName>
@@ -88,7 +88,7 @@
                     <location type="gps" source="#bib5271-3">
                         <geo>32.625139 36.116233</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5271</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5271</idno>
           <idno type="URI">http://syriaca.org/place/5271</idno>
           <idno type="URI">http://pleiades.stoa.org/places/678002</idno>
           <bibl xml:id="bib5271-1">

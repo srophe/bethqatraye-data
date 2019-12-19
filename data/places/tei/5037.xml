@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5037/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5037/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5037-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Ḥajūn</placeName>
-          <placeName xml:id="name5037-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">الحجون</placeName>
+          <placeName xml:id="name5037-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥajūn</placeName>
+          <placeName xml:id="name5037-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الحجون</placeName>
           <placeName xml:id="name5037-3" xml:lang="ar" source="#bib5037-1">الحجون</placeName>
           <desc type="abstract" xml:id="abstract5037-1" xml:lang="en">A mountain in the vicinity of Mecca next to Jabbāna cemetery.</desc><desc xml:lang="ar"><quote source="#bib5037-2">كأن لم يكن بين الحجون إلى الصّفا#أنيس ولم يسمر بمكة سامر#بلى نحن كنا أهلها فأبادنا#صروف اللّيالي والجدود العواثر</quote></desc><desc xml:lang="ar"><quote source="#bib5037-3">ذكر بعض المشاهد خارج مكة. فمنها الحجون وقد ذكرناه، ويقال أيضا: إن الحجون هو الجبل المطل على الجبّانة، ومنها المحصّب، وهو أيضا الأبطح، وهو يلي الجبّانة المذكورة</quote></desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5037</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5037</idno>
           <idno type="URI">http://syriaca.org/place/5037</idno>
           <bibl xml:id="bib5037-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>

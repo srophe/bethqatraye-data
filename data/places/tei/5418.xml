@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5418/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5418/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,8 +74,8 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5418-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Qubbat al-Sharāb</placeName>
-          <placeName xml:id="name5418-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">قبة الشراب</placeName>
+          <placeName xml:id="name5418-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qubbat al-Sharāb</placeName>
+          <placeName xml:id="name5418-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قبة الشراب</placeName>
           <placeName xml:id="name5418-3" xml:lang="en">Qubbat al-ʿAbbās</placeName>
           <placeName xml:id="name5418-4" xml:lang="en">al-Qubba al-ʿAbbāsiya</placeName>
           <placeName xml:id="name5418-5" xml:lang="ar">قبة العباس</placeName>
@@ -84,7 +84,7 @@
           <placeName xml:id="name5418-8" xml:lang="ar" source="#bib5418-1">قبة العباس</placeName>
           <placeName xml:id="name5418-9" xml:lang="ar" source="#bib5418-1">القبة العباسية</placeName>
           <desc type="abstract" xml:id="abstract5418-1" xml:lang="en">A shrine opposite Biʾr Zamzam.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5418</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5418</idno>
           <idno type="URI">http://syriaca.org/place/5418</idno>
           <bibl xml:id="bib5418-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

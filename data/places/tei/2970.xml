@@ -61,7 +61,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2970/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2970/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -118,12 +118,12 @@
             <place xml:id="place-2970" type="settlement">
                <placeName xml:id="name2970-1" xml:lang="en" srophe:tags="#headword">al-Ray</placeName>
                <placeName xml:id="name2970-2" xml:lang="ar" srophe:tags="#headword" source="#bib2970-2 #bib2970-3">الري</placeName>
-               <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name2970-3">al-Rayy</placeName>
+               <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2970-3">al-Rayy</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2970-1" source="#bib2970-4"><quote>[T]he ancient Rag̲h̲ā, a city
                   in the old Persian region of Media, during Islamic times in the province of
                   D̲j̲ibāl (...). Its ruins may be seen about 5 miles south-southeast of Tehran
                   (...) to the south of a spur projecting from Elburz into the plain.</quote></desc>
-               <desc xml:lang="en">A city in northern <ref target="http://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>
+               <desc xml:lang="en">A city in northern <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>
                </desc><desc xml:lang="ar"><quote source="#bib2970-6">ذكر المتغلّبين على الملك بعد موت السلطان أبي سعيد (...) ومنهم حسن خواجه بن الدّمرطاش بن الجوبان، تغلب على تبريز والسلطانيّة وهمدان، وقمّ وقاشان والريّ ورامين وفرغان والكرج</quote></desc>
                     <location type="gps" source="#bib2970-5" subtype="alternate">
                         <geo>35.584692 51.467636</geo>
@@ -141,7 +141,7 @@
                   <precision match="@from" notAfter="-0300"/>
                   <precision match="@to" notAfter="1888" notBefore="1300"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2970</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2970</idno>
                <idno type="URI">http://syriaca.org/place/2970</idno>
                <idno type="URI">https://pleiades.stoa.org/places/903104</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Rey,_Iran</idno>

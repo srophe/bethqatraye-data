@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5282/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5282/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="province">
-          <placeName xml:id="name5282-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Ghaznīn</placeName>
-          <placeName xml:id="name5282-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">غزنين</placeName>
+          <placeName xml:id="name5282-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ghaznīn</placeName>
+          <placeName xml:id="name5282-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">غزنين</placeName>
           <placeName xml:id="name5282-3" xml:lang="ar" source="#bib5282-1">غزنين</placeName>
           <desc type="abstract" xml:id="abstract5282-1" xml:lang="en">A province located next to Bust province in the region of Kābulistan.</desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" subtype="representative" source="#bib5282-2">
                         <geo>33.33333 67.75</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5282</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5282</idno>
           <idno type="URI">http://syriaca.org/place/5282</idno>
           <idno type="URI">http://sws.geonames.org/1141268</idno>
           <bibl xml:id="bib5282-1">

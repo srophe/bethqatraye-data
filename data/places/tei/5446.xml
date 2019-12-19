@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5446/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5446/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -70,14 +70,14 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5446-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Sābūr</placeName>
-          <placeName xml:id="name5446-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">سابور</placeName>
+          <placeName xml:id="name5446-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sābūr</placeName>
+          <placeName xml:id="name5446-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سابور</placeName>
           <placeName xml:id="name5446-3" xml:lang="ar" source="#bib5446-1">سابور</placeName>
           <desc type="abstract" xml:id="abstract5446-1" xml:lang="en">A settlement in al-Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5446-1">وسابور أيضا : موضع بالبحرين فتح على يد العلاء بن الحضرمي في أيام أبي بكر، رضي الله عنه، عنوة في سنة 12، وقال البلاذري : فتح في أيام عمر، رضي الله عنه.</quote>
-          </desc><location type="nested" resp="http://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5446</idno>
+          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5446</idno>
           <idno type="URI">http://syriaca.org/place/5446</idno>
           <bibl xml:id="bib5446-1">
             <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>

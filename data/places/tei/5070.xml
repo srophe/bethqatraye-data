@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5070/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5070/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -74,11 +74,11 @@
     <body>
       <listPlace>
         <place type="unknown">
-          <placeName xml:id="name5070-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Maʿlā</placeName>
-          <placeName xml:id="name5070-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المعلى</placeName>
+          <placeName xml:id="name5070-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Maʿlā</placeName>
+          <placeName xml:id="name5070-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المعلى</placeName>
           <placeName xml:id="name5070-3" xml:lang="ar" source="#bib5070-1">المعلى</placeName>
           <desc type="abstract" xml:id="abstract5070-1" xml:lang="en">The point where the Prophetʼs troops entered Mecca during its conquest.</desc>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5070</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5070</idno>
           <idno type="URI">http://syriaca.org/place/5070</idno>
           <bibl xml:id="bib5070-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 

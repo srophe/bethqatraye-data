@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5552/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5552/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -76,8 +76,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5552-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">ʿAththar</placeName>
-          <placeName xml:id="name5552-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">عثر</placeName>
+          <placeName xml:id="name5552-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAththar</placeName>
+          <placeName xml:id="name5552-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عثر</placeName>
           <placeName xml:id="name5552-3" xml:lang="en">ʿAthr</placeName>
           <placeName xml:id="name5552-4" xml:lang="ar" source="#bib5552-1">عثر</placeName>
           <desc type="abstract" xml:id="abstract5552-1" xml:lang="en" source="#bib5552-2"><quote>The capital of the district and a seaport of importance. It was situated on the pilgrim road from Ṣanʿāʾ, between al-Had̲j̲ar (= Ḏj̲āzān) and Bayḍ, and is quoted already in the year 11/632 as belonging to the insurgent al-Aswad [q.v.].</quote></desc>
@@ -87,7 +87,7 @@
                     <location type="gps" source="#bib5552-3">
                         <geo>17.1359166666667 42.4454444444444</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5552</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5552</idno>
           <idno type="URI">http://syriaca.org/place/5552</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=مدينة_عثر&amp;params=17_08_09.3_N_42_26_43.6_E_type:</idno>
           <bibl xml:id="bib5552-1">

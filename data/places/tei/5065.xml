@@ -42,7 +42,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5065/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5065/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -83,8 +83,8 @@
     <body>
       <listPlace>
         <place type="mountain">
-          <placeName xml:id="name5065-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">al-Marwa</placeName>
-          <placeName xml:id="name5065-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">المروة</placeName>
+          <placeName xml:id="name5065-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Marwa</placeName>
+          <placeName xml:id="name5065-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المروة</placeName>
           <placeName xml:id="name5065-3" xml:lang="en">Marwa</placeName>
           <placeName xml:id="name5065-4" xml:lang="ar" source="#bib5065-1">المروة</placeName>
           <placeName xml:id="name5065-5" xml:lang="ar" source="#bib5065-2">المروة</placeName>
@@ -92,7 +92,7 @@
                     <location type="gps" source="#bib5065-3">
                         <geo>21.423611111111 39.827222222222</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5065</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5065</idno>
           <idno type="URI">http://syriaca.org/place/5065</idno>
           <idno type="URI">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=الصفا_والمروة&amp;params=21.423611111111_N_39.827222222222_E_globe:earth_type:landmark</idno>
           <bibl xml:id="bib5065-1">

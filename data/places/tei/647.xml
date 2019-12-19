@@ -52,7 +52,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/647/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/647/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -119,7 +119,7 @@
                     <placeName xml:id="name647-1" xml:lang="en" srophe:tags="#headword" source="#bib647-1">Turkestan</placeName>
                     <placeName xml:id="name647-2" xml:lang="ar" srophe:tags="#headword" source="#bib647-2 #bib647-3">تركستان</placeName>
                     <placeName xml:id="name647-3" xml:lang="ar" source="#bib647-3">الترك</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract647-1">A region in <ref target="http://bqgazetteer.bethmardutho.org/place/585"><placeName ref="http://syriaca.org/place/585">Central Asia</placeName></ref>.</desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract647-1">A region in <ref target="https://bqgazetteer.bethmardutho.org/place/585"><placeName ref="http://syriaca.org/place/585">Central Asia</placeName></ref>.</desc>
                     <event type="attestation" xml:id="attestation647-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib647-2">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">تركستان</foreign> in the <title xml:lang="en" level="m">Muʿjam
                                 al-buldān</title> of <persName>Yāqūt al-Ḥamawī</persName>.</p>
@@ -133,7 +133,7 @@
                         <link target="#name647-2 #attestation647-2"/>
                     </event>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/647</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/647</idno>
                     <idno type="URI">http://syriaca.org/place/647</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Turkestan</idno>
                     <idno type="URI">http://dbpedia.org/resource/Turkestan</idno>

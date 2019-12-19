@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5251/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5251/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="settlement">
-          <placeName xml:id="name5251-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Bust</placeName>
-          <placeName xml:id="name5251-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">بست</placeName>
+          <placeName xml:id="name5251-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bust</placeName>
+          <placeName xml:id="name5251-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بست</placeName>
           <placeName xml:id="name5251-3" xml:lang="ar" source="#bib5251-1">بست</placeName>
           <desc type="abstract" xml:id="abstract5251-1" xml:lang="en">The metropolis of the province of Bust in southern Afghanistan.</desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" source="#bib5251-2">
                         <geo>31.59382 64.37161</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5251</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5251</idno>
           <idno type="URI">http://syriaca.org/place/5251</idno>
           <idno type="URI">http://sws.geonames.org/1134720</idno>
           <bibl xml:id="bib5251-1">

@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2935/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2935/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -103,7 +103,7 @@
                <placeName xml:id="name2935-2" xml:lang="ar" srophe:tags="#headword" source="#bib2935-2">طبروباني</placeName>
                <placeName xml:id="name2935-3" xml:lang="en">Sri Lanka</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2935-1">The island of Sri Lanka off the coast
-                  of <ref target="http://bqgazetteer.bethmardutho.org/place/500"><placeName ref="http://syriaca.org/place/500">India</placeName></ref>
+                  of <ref target="https://bqgazetteer.bethmardutho.org/place/500"><placeName ref="http://syriaca.org/place/500">India</placeName></ref>
                </desc>
                <location type="gps" source="#bib2935-1">
                   <geo>7.8836573 80.7246163</geo>
@@ -115,7 +115,7 @@
                   <link target="#name2935-2 #attestation2935-1"/>
                </event>
                <state type="existence"/>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2935</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2935</idno>
                <idno type="URI">http://syriaca.org/place/2935</idno>
                <idno type="URI">https://pleiades.stoa.org/places/50298</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Sri_Lanka</idno>

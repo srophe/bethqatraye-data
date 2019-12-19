@@ -50,7 +50,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Beth Mardutho: The Syriac Institute</authority>
-            <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2952/tei</idno>
+            <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2952/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -101,8 +101,8 @@
             <place xml:id="place-2952" type="settlement">
                <placeName xml:id="name2952-1" xml:lang="en" srophe:tags="#headword">al-Manṣūra</placeName>
                <placeName xml:id="name2952-2" xml:lang="ar" srophe:tags="#headword" source="#bib2952-1">المنصورة</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2952-1">A large city in <ref target="http://bqgazetteer.bethmardutho.org/place/2961"><placeName ref="http://syriaca.org/place/2961">al-Sind</placeName></ref>, through which the
-                     <ref target="http://bqgazetteer.bethmardutho.org/place/2950"><placeName ref="http://syriaca.org/place/2950">Mihrān River</placeName></ref>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2952-1">A large city in <ref target="https://bqgazetteer.bethmardutho.org/place/2961"><placeName ref="http://syriaca.org/place/2961">al-Sind</placeName></ref>, through which the
+                     <ref target="https://bqgazetteer.bethmardutho.org/place/2950"><placeName ref="http://syriaca.org/place/2950">Mihrān River</placeName></ref>
                   flows.</desc>
                <event type="attestation" xml:id="attestation2952-1" notBefore="0902" notAfter="0914" source="#bib2952-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">المنصورة</foreign>
@@ -114,7 +114,7 @@
                   <precision match="@from" notAfter="0762" notBefore="0705"/>
                   <precision match="@to" notBefore="0902"/>
                </state>
-               <idno type="URI">http://bqgazetteer.bethmardutho.org/place/2952</idno>
+               <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2952</idno>
                <idno type="URI">http://syriaca.org/place/2952</idno>
                <idno type="URI">https://en.wikipedia.org/wiki/Mansura_(Brahmanabad)</idno>
                <idno type="URI">https://dbpedia.org/resource/Mansura_(Brahmanabad)</idno>

@@ -69,7 +69,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">http://bqgazetteer.bethmardutho.org/place/641/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/641/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -159,8 +159,8 @@
                     <placeName xml:id="name641-2" xml:lang="syr" srophe:tags="#headword" source="#bib641-2">ܪܘܡܝ</placeName>
                     <placeName xml:id="name641-3" xml:lang="ar" source="#bib641-3 #bib641-8 #bib641-10">رومية</placeName>
                     <placeName xml:id="name641-4" xml:lang="ar" srophe:tags="#headword" source="#bib641-9">الرومية</placeName>
-                    <placeName xml:lang="en" resp="http://bqgazetteer.bethmardutho.org" xml:id="name641-5">Rūmiya</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract641-1">The capital city of <ref target="http://bqgazetteer.bethmardutho.org/place/592"><placeName ref="http://syriaca.org/place/592">Italy</placeName></ref> and formerly the
+                    <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name641-5">Rūmiya</placeName>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract641-1">The capital city of <ref target="https://bqgazetteer.bethmardutho.org/place/592"><placeName ref="http://syriaca.org/place/592">Italy</placeName></ref> and formerly the
                         capital of the <placeName ref="http://syriaca.org/place/166">Roman
                             Empire</placeName>.</desc>
                     <desc xml:lang="ar">
@@ -185,7 +185,7 @@
                         <link target="#name641-4 #attestation641-2"/>
                     </event>
                     <state type="existence"/>
-                    <idno type="URI">http://bqgazetteer.bethmardutho.org/place/641</idno>
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/641</idno>
                     <idno type="URI">http://syriaca.org/place/641</idno>
                     <idno type="URI">http://pleiades.stoa.org/places/423025</idno>
                     <idno type="URI">http://en.wikipedia.org/wiki/Rome</idno>

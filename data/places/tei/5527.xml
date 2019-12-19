@@ -34,7 +34,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5527/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5527/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -75,8 +75,8 @@
     <body>
       <listPlace>
         <place type="valley">
-          <placeName xml:id="name5527-1" xml:lang="en" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">Zabīd</placeName>
-          <placeName xml:id="name5527-2" xml:lang="ar" srophe:tags="#headword" resp="http://bqgazetteer.bethmardutho.org">زبيد</placeName>
+          <placeName xml:id="name5527-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zabīd</placeName>
+          <placeName xml:id="name5527-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زبيد</placeName>
           <placeName xml:id="name5527-3" xml:lang="ar" source="#bib5527-1">زبيد</placeName>
           <desc type="abstract" xml:id="abstract5527-1" xml:lang="en">A valley located in the south west of Yemen bordering the wādī of Rimaʿ.</desc>
           <desc xml:lang="ar">
@@ -85,7 +85,7 @@
                     <location type="gps" source="#bib5527-2">
                         <geo>14.195441 43.316365</geo>
                     </location>
-          <idno type="URI">http://bqgazetteer.bethmardutho.org/place/5527</idno>
+          <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5527</idno>
           <idno type="URI">http://syriaca.org/place/5527</idno>
           <bibl xml:id="bib5527-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>
