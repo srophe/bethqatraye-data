@@ -157,6 +157,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#dmichelson"
+                when="2019-12-22-22:00">CHANGED: Representative Coordinates</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util"
                 when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson"
@@ -232,7 +234,7 @@
                     </desc>
                     <location type="gps" subtype="representative"
                         resp="https://bqgazetteer.bethmardutho.org">
-                        <geo>25.4 53.1</geo>
+                        <geo>26.182061 51.258460</geo>
                     </location>
                     <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                     <event type="attestation" xml:id="attestation37-1" when="0676" source="#bib37-4">
