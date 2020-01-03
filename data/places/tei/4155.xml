@@ -218,7 +218,7 @@
                     <placeName xml:id="name4155-8" xml:lang="ar"
                         resp="https://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
                     <placeName xml:id="name4155-9" xml:lang="en">al-Ahsa</placeName>
-                    <placeName xml:id="name4155-10" xml:lang="en">al-Hasa</placeName>
+                    <placeName xml:id="name4155-10" xml:lang="en">al-Ḥasāʾ</placeName>
                     <placeName xml:id="name4155-11" xml:lang="ar"
                         source="#bib4155-2 #bib4155-14 #bib4155-16 #bib4155-17">الأحساء</placeName>
                     <placeName xml:id="name5009-12" xml:lang="ar" source="#bib4155-15"
@@ -303,6 +303,7 @@
                         <precision match="@from" notAfter="0676"/>
                         <precision match="@to" notBefore="0902"/>
                     </state>
+                    <note type="misc" xml:lang="en">In Arabic sources referred to as <ref target="#name4155-6">Hajar</ref>, <ref target="#name4155-10">al-Ḥasāʾ</ref> or <ref target="#name4155-7">al-Aḥsāʾ</ref>: Ibn al-Faqīh, <title level="m">Kitāb al-Buldān</title> 30; Ibn Khuradādhbih, <title level="m">Kitāb al-Masālik</title> 152; Yāqūt, <title level="m">Muʿjam al-buldān</title> i, 112; al-Masʿūdī, <title level="m">Murūj</title> v, 242; al-Bakrī, <title level="m">Kitāb al-Masālik</title> i, 371, 377; Nāṣir Khusraw, <title level="m">Safar Nāma</title> 159; al-Ṭabarī, <title level="m">Taʾrīkh</title> ii, 839. See Kozah, <title level="a">The Maritime Journey of Catholicos Giwargis I (d. 680 CE) to the East-Arabian Island of Dayrīn and the “Islands”</title> (forthcoming).</note>
                     <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4155</idno>
                     <idno type="URI">http://syriaca.org/place/4155</idno>
                     <bibl xml:id="bib4155-1">
