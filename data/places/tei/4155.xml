@@ -128,7 +128,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Beth Mardutho: The Syriac Institute</authority>
-                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2903/tei</idno>
+                <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4155/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -200,38 +200,38 @@
         <body>
             <listPlace>
                 <place type="settlement">
-                    <placeName xml:id="name2903-1" xml:lang="syr" srophe:tags="#headword"
-                        source="#bib2903-6">ܗܓܪ</placeName>
-                    <placeName xml:id="name2903-2" xml:lang="en" srophe:tags="#headword"
+                    <placeName xml:id="name4155-1" xml:lang="syr" srophe:tags="#headword"
+                        source="#bib4155-6">ܗܓܪ</placeName>
+                    <placeName xml:id="name4155-2" xml:lang="en" srophe:tags="#headword"
                         resp="https://bqgazetteer.bethmardutho.org">Hagar</placeName>
-                    <placeName xml:id="name2903-3" xml:lang="ar"
+                    <placeName xml:id="name4155-3" xml:lang="ar"
                         resp="https://bqgazetteer.bethmardutho.org">هَجَرُ</placeName>
-                    <placeName xml:id="name2903-4" xml:lang="ar"
-                        source="#bib2903-1 #bib2903-2 #bib2903-3 #bib2903-4 #bib2903-5 #bib2903-8 #bib2903-9"
+                    <placeName xml:id="name4155-4" xml:lang="ar"
+                        source="#bib4155-1 #bib4155-2 #bib4155-3 #bib4155-4 #bib4155-5 #bib4155-8 #bib4155-9"
                         srophe:tags="#headword">هجر</placeName>
-                    <placeName xml:id="name2903-5" xml:lang="fr" source="#bib2903-7"
+                    <placeName xml:id="name4155-5" xml:lang="fr" source="#bib4155-7"
                         >Hagar</placeName>
-                    <placeName xml:id="name2903-6" xml:lang="en"
+                    <placeName xml:id="name4155-6" xml:lang="en"
                         resp="https://bqgazetteer.bethmardutho.org">Hajar</placeName>
-                    <placeName xml:id="name2903-7" xml:lang="en"
+                    <placeName xml:id="name4155-7" xml:lang="en"
                         resp="https://bqgazetteer.bethmardutho.org">al-Aḥsāʾ</placeName>
-                    <placeName xml:id="name2903-8" xml:lang="ar"
+                    <placeName xml:id="name4155-8" xml:lang="ar"
                         resp="https://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
-                    <placeName xml:id="name2903-9" xml:lang="en">al-Ahsa</placeName>
-                    <placeName xml:id="name2903-10" xml:lang="en">al-Hasa</placeName>
-                    <placeName xml:id="name2903-11" xml:lang="ar"
-                        source="#bib2903-2 #bib2903-14 #bib2903-16 #bib2903-17">الأحساء</placeName>
-                    <placeName xml:id="name5009-12" xml:lang="ar" source="#bib2903-15"
+                    <placeName xml:id="name4155-9" xml:lang="en">al-Ahsa</placeName>
+                    <placeName xml:id="name4155-10" xml:lang="en">al-Hasa</placeName>
+                    <placeName xml:id="name4155-11" xml:lang="ar"
+                        source="#bib4155-2 #bib4155-14 #bib4155-16 #bib4155-17">الأحساء</placeName>
+                    <placeName xml:id="name5009-12" xml:lang="ar" source="#bib4155-15"
                         >لهسا</placeName>
-                    <desc type="abstract" xml:id="abstract2903-1" xml:lang="en" source="#bib2903-10"
+                    <desc type="abstract" xml:id="abstract4155-1" xml:lang="en" source="#bib4155-10"
                         >The capital city of the province of
                         <placeName>al-Baḥrayn</placeName>.</desc>
-                    <desc xml:lang="en" source="#bib2903-18"><quote>[O]asis, or more properly group
+                    <desc xml:lang="en" source="#bib4155-18"><quote>[O]asis, or more properly group
                             of oases, in eastern Saudi Arabia, approximately from 25° 20′ to 25° 40′
                             N., and 49° 30′ to 49° 50′ E. The name has been also used to designate
                             the entire region of Eastern Arabia.</quote></desc>
                     <desc xml:lang="ar">
-                        <quote source="#bib2903-3">هجر : [...] في الإقليم الثاني، طولها من جهة
+                        <quote source="#bib4155-3">هجر : [...] في الإقليم الثاني، طولها من جهة
                             المغرب ثلاث وسبعون درجة، وعرضها أربع وعشرون درجة وخمس عشرة دقيقة، وفي
                             العزيزي : عرضها أربع وثلاثون درجة، وزعم أنها قي الإقليم الثالث [...]
                             وقال ابن الحائك : الهجر بلغة حمير والعرب العاربة القرية، فمنها : هجر
@@ -247,28 +247,28 @@
                             سرين سبعة أيام.</quote>
                     </desc>
                     <desc xml:lang="ar">
-                        <quote source="#bib2903-2">والأحساء : مدينة بالبحرين، معروفة مشهورة، كان أول
+                        <quote source="#bib4155-2">والأحساء : مدينة بالبحرين، معروفة مشهورة، كان أول
                             من عمرها وحصنها وجعلها قصبة هجر أبو طاهر سليمان بن أبي سعيد الجناني
                             القرمطي، وهي إلى الآن، مدينة مشهورة عامرة.</quote>
                     </desc>
                     <desc xml:lang="ar">
-                        <quote source="#bib2903-12">قال المسعودي : ووجدت أهل الشحر من بلاد حضرموت
+                        <quote source="#bib4155-12">قال المسعودي : ووجدت أهل الشحر من بلاد حضرموت
                             وساحلها وهي لهسا مدينة على شاطئ البحر من أرض الأحقاف وهي أرض
                             الرمل</quote>
                     </desc>
                     <desc xml:lang="ar">
-                        <quote source="#bib2903-13">وشعره في الغزل وغيره أكثر من أن نأتي عليه، وأكثر
+                        <quote source="#bib4155-13">وشعره في الغزل وغيره أكثر من أن نأتي عليه، وأكثر
                             الغناء المحدث في وقتنا هذا من شعره؛ وقد أشيع بموته وأن البريدي غرفه لأنه
                             كان هجاه؛ وقيل : بل هرب من البصرة ولحق بهجر والأحساء بأبي طاهر بن سليمان
                             بن الحسن صاحب البحرين.</quote>
                     </desc>
-                    <desc xml:lang="ar"><quote source="#bib2903-9">ثم سافرنا منها إلى مدينة هجر
+                    <desc xml:lang="ar"><quote source="#bib4155-9">ثم سافرنا منها إلى مدينة هجر
                             وتسمى الآن بالحسا (بفتح الحاء والسين واهمالها) وهي التي يضرب المثل بها،
                             فيقال: كجالب التّمر إلى هجر، وبها من النخيل ما ليس ببلد سواها ومنه
                             يعلفون دوابهم، وأهلها عرب، وأكثرهم من قبيلة عبد القيس بن
                         أقصى.</quote></desc>
                     <desc xml:lang="ar">
-                        <quote source="#bib2903-2">وقيل : ناحية البحرين كلها هجر، وهو الصواب، قال ابن الكلبي عن
+                        <quote source="#bib4155-2">وقيل : ناحية البحرين كلها هجر، وهو الصواب، قال ابن الكلبي عن
                             الشرقي : إنما سميت عين هجر بهجر بنت المكفف وكانت من العرب المتعربة وكان زوجها محلم بن
                             عبد الله صاحب النهر الذي بالبحرين يقال له نهر محلم وعين محلم [...]</quote>
                     </desc>
@@ -284,35 +284,35 @@
                         <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName
                                 ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                     </location>
-                    <event type="attestation" xml:id="attestation2903-1" notBefore="0846"
-                        notAfter="0885" source="#bib2903-8">
+                    <event type="attestation" xml:id="attestation4155-1" notBefore="0846"
+                        notAfter="0885" source="#bib4155-8">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">هجر</foreign> in
                             the <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                             of <persName>Abuʾl-Qāsim Ibn Khurradādhbih</persName>.</p>
-                        <link target="#name2903-2 #attestation2903-1"/>
+                        <link target="#name4155-2 #attestation4155-1"/>
                     </event>
-                    <event type="attestation" xml:id="attestation2903-2" notBefore="0902"
-                        notAfter="0908" source="#bib2903-5">
+                    <event type="attestation" xml:id="attestation4155-2" notBefore="0902"
+                        notAfter="0908" source="#bib4155-5">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">هجر</foreign> in
                             the <title xml:lang="en" level="m">Kitāb al-buldān</title> of
                                 <persName>Aḥmad b. Muḥammad al-Hamadhānī Ibn
                             al-Faqīh</persName>.</p>
-                        <link target="#name2903-2 #attestation2903-2"/>
+                        <link target="#name4155-2 #attestation4155-2"/>
                     </event>
                     <state type="existence" from="0676" to="0902">
                         <precision match="@from" notAfter="0676"/>
                         <precision match="@to" notBefore="0902"/>
                     </state>
-                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/2903</idno>
-                    <idno type="URI">http://syriaca.org/place/2903</idno>
-                    <bibl xml:id="bib2903-1">
+                    <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4155</idno>
+                    <idno type="URI">http://syriaca.org/place/4155</idno>
+                    <bibl xml:id="bib4155-1">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
                         <citedRange unit="vol">1</citedRange>
                         <citedRange unit="pp">377</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-2">
+                    <bibl xml:id="bib4155-2">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
                         <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
 
@@ -320,97 +320,97 @@
                         <citedRange unit="vol">5</citedRange>
                         <citedRange unit="pp">393</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-3">
+                    <bibl xml:id="bib4155-3">
                         <title xml:lang="en" level="m">Tārīkh al-rusul wa-l-mulūk</title>
                         <author>Abū Jaʿfar Muḥammad Jarīr al-Ṭabarī</author>
                         <ptr target="http://syriaca.org/bibl/4ELQNR8R"/>
                         <citedRange unit="pp">839</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-4">
+                    <bibl xml:id="bib4155-4">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                         <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">152</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-5">
+                    <bibl xml:id="bib4155-5">
                         <title xml:lang="en" level="m">Kitāb al-buldān</title>
                         <author>Aḥmad b. Muḥammad al-Hamadhānī Ibn al-Faqīh</author>
                         <ptr target="http://syriaca.org/bibl/FA4NMMQF"/>
                         <citedRange unit="pp">30</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-6">
+                    <bibl xml:id="bib4155-6">
                         <title xml:lang="en" level="m">Synodicon Orientale</title>
                         <editor>Jean Baptiste Chabot</editor>
                         <ptr target="http://syriaca.org/bibl/1383"/>
                         <citedRange unit="pp">216</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-7">
+                    <bibl xml:id="bib4155-7">
                         <title xml:lang="en" level="m">Synodicon Orientale</title>
                         <editor>Jean Baptiste Chabot</editor>
                         <ptr target="http://syriaca.org/bibl/1383"/>
                         <citedRange unit="pp">482</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-8">
+                    <bibl xml:id="bib4155-8">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title>
                         <author>Abuʾl-Qāsim Ibn Khurradādhbih</author>
                         <ptr target="http://syriaca.org/bibl/VQWBNMMN"/>
                         <citedRange unit="pp">152</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-9">
+                    <bibl xml:id="bib4155-9">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī
                             gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title>
                         <author>Ibn Baṭṭūta</author>
                         <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
                         <citedRange unit="pp">287</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-10">
+                    <bibl xml:id="bib4155-10">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second
                             Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
                     </bibl>
-                    <bibl xml:id="bib2903-12">
+                    <bibl xml:id="bib4155-12">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                         <citedRange unit="vol">2</citedRange>
                         <citedRange unit="pp">267</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-13">
+                    <bibl xml:id="bib4155-13">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                         <citedRange unit="vol">5</citedRange>
                         <citedRange unit="pp">242</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-14">
+                    <bibl xml:id="bib4155-14">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
                         <citedRange unit="vol">1</citedRange>
                         <citedRange unit="pp">371</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-15">
+                    <bibl xml:id="bib4155-15">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
                         <author>al-Masūdī</author>
                         <ptr target="http://syriaca.org/bibl/R9I7HVM4"/>
                         <citedRange unit="vol">2</citedRange>
                         <citedRange unit="pp">267</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-16">
+                    <bibl xml:id="bib4155-16">
                         <title xml:lang="en" level="m">Kitāb al-Masālik wa al-mamālik</title>
                         <author>Abū ʿUbayd al-Bakrī</author>
                         <ptr target="http://syriaca.org/bibl/BAEZEC37"/>
                         <citedRange unit="vol">5</citedRange>
                         <citedRange unit="pp">242</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-17">
+                    <bibl xml:id="bib4155-17">
                         <title xml:lang="en" level="m">Safar Nāma</title>
                         <author>Nāṣir Khusraw</author>
                         <ptr target="http://syriaca.org/bibl/NATHCE76"/>
                         <citedRange unit="pp">158-162</citedRange>
                     </bibl>
-                    <bibl xml:id="bib2903-18">
+                    <bibl xml:id="bib4155-18">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second
                             Edition</title>
                         <editor>P. Bearman</editor>
