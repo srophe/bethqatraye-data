@@ -220,7 +220,7 @@
                     <placeName xml:id="name4155-9" xml:lang="en">al-Ahsa</placeName>
                     <placeName xml:id="name4155-10" xml:lang="en">al-Ḥasāʾ</placeName>
                     <placeName xml:id="name4155-11" xml:lang="ar"
-                        source="#bib4155-2 #bib4155-14 #bib4155-16 #bib4155-17">الأحساء</placeName>
+                        source="#bib4155-2 #bib4155-14 #bib4155-16 #bib4155-17 #bib4155-19">الأحساء</placeName>
                     <placeName xml:id="name5009-12" xml:lang="ar" source="#bib4155-15"
                         >لهسا</placeName>
                     <desc type="abstract" xml:id="abstract4155-1" xml:lang="en" source="#bib4155-10"
@@ -416,6 +416,13 @@
                             Edition</title>
                         <editor>P. Bearman</editor>
                         <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
+                    </bibl>
+                    <bibl xml:id="bib4155-19">
+                        <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+                        <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
+                        <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+                        <citedRange unit="vol">1</citedRange>
+                        <citedRange unit="pp">111-112</citedRange>
                     </bibl>
                 </place>
             </listPlace>
