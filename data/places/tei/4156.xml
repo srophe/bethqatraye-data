@@ -278,6 +278,7 @@
                         <precision match="@from" notAfter="0676"/>
                         <precision match="@to" notBefore="2017"/>
                     </state>
+                    <note type="misc" xml:lang="en">In Arabic sources referred to as <ref target="#name4156-3">al-Khaṭṭ</ref> or <ref target="#name4156-4">al-Qaṭīf</ref>: Ibn al-Faqīh, <title level="m">Kitāb al-Buldān</title> 30; Ibn Khuradādhbih, <title level="m">Kitāb al-Masālik</title> 152, 249; Yāqūt, <title level="m">Muʿjam al-buldān</title> ii, 378; al-Masʿūdī, <title level="m">Murūj</title> i, 129; al-Bakrī, <title level="m">Kitāb al-Masālik</title> i, 371; Nāṣir Khusraw, <title level="m">Safar Nāma</title> 161; al-Ṭabarī, <title level="m">Taʾrīkh</title> ii, 820, 839. See Kozah, <title level="a">The Maritime Journey of Catholicos Giwargis I (d. 680 CE) to the East-Arabian Island of Dayrīn and the “Islands”</title> (forthcoming).</note>
                     <idno type="URI">https://bqgazetteer.bethmardutho.org/place/4156</idno>
                     <idno type="URI">http://syriaca.org/place/4156</idno>
                     <idno type="URI">https://pleiades.stoa.org/places/932479</idno>
