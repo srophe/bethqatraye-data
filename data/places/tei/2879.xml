@@ -126,7 +126,7 @@
                         <quote source="#bib2879-4">ܠܗܠܝܢ ܐܒܪܗܡ ܫܠܝܛܐ ܕܡܫܡܗܝܓ ܒܫܘܠܛܢܐ ܛܪܘܢܝܐ
                             ܙܥܙܥ.</quote>
                     </desc>
-                    <location type="gps" subtype="representative" source="#bib78-2">
+                    <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>26.28298 50.63348</geo>
                     </location>
                     <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
