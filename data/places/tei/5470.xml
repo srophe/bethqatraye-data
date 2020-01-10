@@ -1,8 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app"
-  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,8 +12,7 @@
           Thani</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif
           al-Murikhi</editor>
-        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn"
-          >Abdulrahim Abu-Husayn</editor>
+        <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul
           Rahman Chamseddine</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario
@@ -57,8 +52,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI" change="#change5470-1"
-          >https://bqgazetteer.bethmardutho.org/place/5470/tei</idno>
+        <idno type="URI" change="#change5470-1">https://bqgazetteer.bethmardutho.org/place/5470/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -73,8 +67,7 @@
     <encodingDesc>
       <editorialDecl>
         <p>This record created following the guidelines for TEI encoding established by Syriaca.org.
-          Documentation available at: <ref target="http://syriaca.org/documentation"
-            >http://syriaca.org/documentation</ref>.</p>
+          Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
         <p>The <gi>state</gi> element of @type="existence" indicates the period for which this place
           was in use as a place of its indicated type (e.g. an inhabited settlement, a functioning
           monastery or church, an administrative province). Natural features always in existence
@@ -85,8 +78,7 @@
           <category xml:id="headword">
             <catDesc>The name used by the Srophé App for document titles, citation, and
               disambiguation. These names have been created according to the Syriaca.org guidelines
-              for headwords: <ref target="http://syriaca.org/documentation/headwords.html"
-                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+              for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
           </category>
         </taxonomy>
       </classDecl>
@@ -94,38 +86,28 @@
     <profileDesc>
       <langUsage>
         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation
-          available at: <ref target="http://syriaca.org/documentation/isostandards.xml"
-            >http://syriaca.org/documentation/isostandards.xml</ref>
+          available at: <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>
         </p>
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00"
-        >CHANGED: Marked place as part of Beth Qatraye</change>
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00"
-        >CHANGED: Marked place as part of Beth Qatraye</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00"
-        xml:id="change5470-1">Merged in data from
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5470-1">Merged in data from
         [https://bqgazetteer.bethmardutho.org/place/5469].</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
-        >CREATED: place</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00"
-        >CREATED: place [https://bqgazetteer.bethmardutho.org/place/5469]</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [https://bqgazetteer.bethmardutho.org/place/5469]</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace>
         <place type="island">
-          <placeName xml:id="name5470-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org"
-            srophe:tags="#headword">Shuqār</placeName>
-          <placeName xml:id="name5470-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org"
-            srophe:tags="#headword">شُقار</placeName>
+          <placeName xml:id="name5470-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Shuqār</placeName>
+          <placeName xml:id="name5470-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">شُقار</placeName>
           <placeName xml:id="name5470-3" xml:lang="ar" source="#bib5470-1">شقار</placeName>
-          <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5470-4"
-            >Shufār</placeName>
-          <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5470-5"
-            >شُفَار</placeName>
+          <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5470-4">Shufār</placeName>
+          <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5470-5">شُفَار</placeName>
           <placeName xml:lang="ar" xml:id="name5470-6" source="#bib5470-1">شفار</placeName>
           <desc type="abstract" xml:id="abstract5470-1" xml:lang="en">ِAn island located between
             Uwāl/Awāl and Qaṭar with many villages.</desc>
@@ -134,9 +116,7 @@
               أهلها بنو عامر بن الحارث ابن أنمار بن عمرو بن وديعة بن لكيز بن أفصى بن عبد
               القيس.</quote>
           </desc>
-          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region
-              ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName
-                ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5470</idno>
           <idno type="URI">http://syriaca.org/place/5470</idno>
           <bibl xml:id="bib5470-1">
