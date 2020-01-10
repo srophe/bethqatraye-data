@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,9 +76,9 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5344-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kāzerūn</placeName>
-          <placeName xml:id="name5344-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">كازرون</placeName>
+          <placeName xml:id="name5344-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5344-1">كازرون</placeName>
           <placeName xml:id="name5344-3" xml:lang="en">Kazerun</placeName>
-          <placeName xml:id="name5344-4" xml:lang="ar" source="#bib5344-1">كازرون</placeName>
+          
           <desc type="abstract" xml:id="abstract5344-1" xml:lang="en">A town in Fars province west of Shiraz.</desc><desc xml:lang="ar"><quote source="#bib5344-3">ثم كان خروجي من شيراز برسم زيارة قبر الشيخ الصالح أبي اسحاق الكازروني، بكازرون، وهي على مسيرة يومين من شيراز، فنزلنا أول يوم ببلاد الشّول، وهم طائفة من الاعاجم يسكنون البريّة وفيهم الصالحون.</quote></desc><desc xml:lang="ar"><quote source="#bib5344-4">ووصلنا عشي اليوم الثاني إلى كازرون، فقصدنا زاوية الشيخ أبي اسحاق نفع الله به</quote></desc><desc xml:lang="ar"><quote source="#bib5344-5">ثم سافرنا من كازرون إلى مدينة الزّيدين، (...) ثم سافرنا منها إلى الحويزاء</quote></desc>
                     <location type="gps" source="#bib5344-2">
                         <geo>29.618332 51.658333</geo>

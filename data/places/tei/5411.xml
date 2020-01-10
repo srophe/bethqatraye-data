@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,10 +75,10 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5411-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qarah Aghaj</placeName>
-          <placeName xml:id="name5411-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قرا أغاج</placeName>
+          <placeName xml:id="name5411-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5411-1">قرا أغاج</placeName>
           <placeName xml:id="name5411-3" xml:lang="en">Qarā Aghāj</placeName>
           <placeName xml:id="name5411-4" xml:lang="ar">قره‌آغاج</placeName>
-          <placeName xml:id="name5411-5" xml:lang="ar" source="#bib5411-1">قرا أغاج</placeName>
+          
           <desc type="abstract" xml:id="abstract5411-1" xml:lang="en">A desert in the northeast of Iran.</desc><desc xml:lang="ar"><quote source="#bib5411-1">ولمّا وصلنا الى مدينته كان غائبا عنها فأقمنا بها أيّاما ثم قدم فأكرمنا وأركبنا وزوّدنا، وانصرفنا على طريق قرا أغاج وقرا (بفتح القاف) تفسيره أسود (وأغاج بفتح الهمزة والغين المعجم وآخره جيم) تفسيره الخشب، وهي صحراء خضرة يسكنها التركمان.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5411</idno>
           <idno type="URI">http://syriaca.org/place/5411</idno>

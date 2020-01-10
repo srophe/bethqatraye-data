@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,12 +76,12 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5031-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Fusṭāṭ</placeName>
-          <placeName xml:id="name5031-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الفسطاط</placeName>
+          <placeName xml:id="name5031-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5031-1">الفسطاط</placeName>
           <placeName xml:id="name5031-3" xml:lang="en">Fusṭāṭ</placeName>
           <placeName xml:id="name5031-4" xml:lang="en">Babylon</placeName>
           <placeName xml:id="name5031-5" xml:lang="en">Cairo</placeName>
           <placeName xml:id="name5031-6" xml:lang="ar">القاهرة</placeName>
-          <placeName xml:id="name5031-7" xml:lang="ar" source="#bib5031-1">الفسطاط</placeName>
+          
           <desc type="abstract" xml:id="abstract5031-1" xml:lang="en">A city situated to the south of the Nile delta.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5031-1">فالامصار سمرقند ايرانشهر شهرستان اردبيل همذان الاهواز شيراز السيرجان المنصورة زبيد مكة بغداد الموصل دمشق الفسطاط القيروان قرطبة</quote>

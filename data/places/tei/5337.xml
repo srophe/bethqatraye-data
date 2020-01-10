@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,11 +76,11 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5337-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kalbā</placeName>
-          <placeName xml:id="name5337-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">كلبا</placeName>
+          <placeName xml:id="name5337-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5337-1">كلبا</placeName>
           <placeName xml:id="name5337-3" xml:lang="en">Kalbāʾ</placeName>
           <placeName xml:id="name5337-4" xml:lang="ar">كلباء</placeName>
           <placeName xml:id="name5337-5" xml:lang="ar">كلبة</placeName>
-          <placeName xml:id="name5337-6" xml:lang="ar" source="#bib5337-1">كلبا</placeName>
+          
           <desc type="abstract" xml:id="abstract5337-1" xml:lang="en">A town in the south of Fujayra previously part of the ʿUmān region.</desc><desc xml:lang="ar"><quote source="#bib5337-3">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc><desc xml:lang="ar"><quote source="#bib5337-4">ثم سافرنا إلى مرسى شبّة (وضبط اسمها بفتح الشين المعجم وفتح الباء الموحدة وتشديدها)، ثم إلى مرسى كلبة، ولفظها على لفظ مؤنتة الكلب، ثم إلى قلهات، وقد تقدم ذكرها. وهذه البلاد كلّها من عمالة هرمز، وهي محسوبة من بلاد عمان. ثم سافرنا إلى هرمز، وأقمنا بها ثلاثا.</quote></desc>
                     <location type="gps" source="#bib5337-2">
                         <geo>25.07417 56.35528</geo>

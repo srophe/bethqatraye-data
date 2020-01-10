@@ -37,7 +37,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -64,7 +64,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00">ADDED: Place name from Bedjan</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-12-16-05:00">ADDED: Place name from Bedjan</change>
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -74,10 +74,10 @@
       <listPlace>
         <place type="island">
           <placeName xml:id="name4160-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Khārik</placeName>
-          <placeName xml:id="name4160-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">خارك</placeName>
+          <placeName xml:id="name4160-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib4160-1">خارك</placeName>
           <placeName xml:id="name4160-3" xml:lang="en" srophe:tags="#headword">Kharg</placeName>
           <placeName xml:id="name4160-4" xml:lang="en">Khark</placeName>
-          <placeName xml:id="name4160-5" xml:lang="ar" source="#bib4160-1">خارك</placeName>
+          
           <placeName xml:id="name4160-6" xml:lang="en" source="#bib4160-4">Black Island</placeName>
           <placeName xml:id="name4160-7" xml:lang="syr" source="#bib4160-3">​ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</placeName>
           <desc type="abstract" xml:id="abstract4160-1" xml:lang="en">An island in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>.</desc>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="quarter">
           <placeName xml:id="name5127-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Shubayka</placeName>
-          <placeName xml:id="name5127-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الشبيكة</placeName>
-          <placeName xml:id="name5127-3" xml:lang="ar" source="#bib5127-1">الشبيكة</placeName>
+          <placeName xml:id="name5127-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5127-1">الشبيكة</placeName>
+          
           <desc type="abstract" xml:id="abstract5127-1" xml:lang="en">A well and quarter in Mecca.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5127</idno>
           <idno type="URI">http://syriaca.org/place/5127</idno>

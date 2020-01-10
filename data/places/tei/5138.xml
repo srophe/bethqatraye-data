@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -83,10 +83,10 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5138-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Tanʿīm</placeName>
-          <placeName xml:id="name5138-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">التنعيم</placeName>
+          <placeName xml:id="name5138-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5138-1">التنعيم</placeName>
           <placeName xml:id="name5138-3" xml:lang="en">At Taniem</placeName>
-          <placeName xml:id="name5138-4" xml:lang="ar" source="#bib5138-1">التنعيم</placeName>
-          <placeName xml:id="name5138-5" xml:lang="ar" source="#bib5138-2">التنعيم</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5138-1" xml:lang="en">A place north of Mecca used for the performance of iḥrām during the ʿumra. The town is part of the Darb Zubayda, the famous pilgrim highway, from al-ʿIrāq to Ḥijāz.</desc><desc xml:lang="ar"><quote source="#bib5138-3">ومنها جبال الطير وهو على أربعة عن جهتي طريق التّنعيم</quote></desc><desc xml:lang="ar"><quote source="#bib5138-4">وكان يعتمر في كلّ يوم من التنعيم، ويعتمر في رمضان: مرتين في اليوم اعتمادا على ما في الخبر عن النبي صلى الله عليه وسلم أنه قال: عمرة في رمضان تعدل حجة معي.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5138</idno>
           <idno type="URI">http://syriaca.org/place/5138</idno>

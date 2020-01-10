@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,11 +76,11 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5363-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mājūl</placeName>
-          <placeName xml:id="name5363-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ماجول</placeName>
+          <placeName xml:id="name5363-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5363-1">ماجول</placeName>
           <placeName xml:id="name5363-3" xml:lang="en">Bandar-e Mahshahr</placeName>
           <placeName xml:id="name5363-4" xml:lang="ar">ماچول</placeName>
           <placeName xml:id="name5363-5" xml:lang="ar">بندر ماهشهر</placeName>
-          <placeName xml:id="name5363-6" xml:lang="ar" source="#bib5363-1">ماجول</placeName>
+          
           <desc type="abstract" xml:id="abstract5363-1" xml:lang="en">A port city in Khuzestan.</desc><desc xml:lang="ar"><quote source="#bib5363-1">ثم ركبنا البحر عند الصبح بقصد بلدة ماجول. ومن عادتي في سفري أن لا أعود على طريق سلكتها ما أمكنني ذلك. وكنت أحبّ قصد بغداد العراق، فأشار عليّ بعض أهل البصرة بالسفر إلى أرض اللّور، ثم إلى عراق العجم، ثم إلى عراق العرب. فعملت بمقتضى إشارته، ووصلنا بعد أربعة أيام إلى بلدة ماجول، على وزن فاعول وجيمها معقودة، وهي صغيرة على ساحل الخليج الذي ذكرنا أنه يخرج من بحر فارس، وأرضها سبخة لا شجر فيها ولا نبات، ولها سوق عظيمة من أكبر الأسواق. وأقمت بها يوما واحدا، ثم اكتريت دابّة لركوبي من الذين يجلبون الحبوب من رامز إلى ماجول، وسرنا ثلاثا في صحراء يسكنها الأكراد في بيوت الشعر.</quote></desc>
                     <location type="gps" source="#bib5363-2">
                         <geo>30.5458 49.1803</geo>

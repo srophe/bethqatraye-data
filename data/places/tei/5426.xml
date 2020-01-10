@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="province">
           <placeName xml:id="name5426-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qūhistān</placeName>
-          <placeName xml:id="name5426-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قوهستان</placeName>
-          <placeName xml:id="name5426-3" xml:lang="ar" source="#bib5426-1">قوهستان</placeName>
+          <placeName xml:id="name5426-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5426-1">قوهستان</placeName>
+          
           <desc type="abstract" xml:id="abstract5426-1" xml:lang="en" source="#bib5426-2"><quote>This is the mountainous and partially arable region which stretches south of Nīs̲h̲āpūr as far as Sīstān in the south-east.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5426-1">قوهستان كورة بخراسان ومدينة بكرمان</quote>

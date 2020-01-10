@@ -36,7 +36,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -63,7 +63,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -72,10 +72,10 @@
       <listPlace>
         <place type="island">
           <placeName xml:id="name5015-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Baḥrain</placeName>
-          <placeName xml:id="name5015-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">البحرين</placeName>
+          <placeName xml:id="name5015-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5015-1">البحرين</placeName>
           <placeName xml:id="name5015-3" xml:lang="en">al-Baḥrayn</placeName>
           <placeName xml:id="name5015-4" xml:lang="en">Bahrain</placeName>
-          <placeName xml:id="name5015-5" xml:lang="ar" source="#bib5015-1">البحرين</placeName>
+          
           <desc type="abstract" xml:id="abstract5015-1" xml:lang="en">An island located off the coast of the Arabian/Persian Gulf.</desc>
                     <location type="gps" source="#bib5015-2">
                         <geo>26.03333 50.55</geo>

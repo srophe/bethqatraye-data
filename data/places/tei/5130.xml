@@ -36,7 +36,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -63,7 +63,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -71,8 +71,8 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5130-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
-          <placeName xml:id="name5130-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الستار</placeName>
-          <placeName xml:id="name5130-3" xml:lang="ar" source="#bib5130-1">الستار</placeName>
+          <placeName xml:id="name5130-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5130-1">الستار</placeName>
+          
           <desc type="abstract" xml:id="abstract5130-1" xml:lang="en">ِA mountain belonging to a mountian chain called Sutur.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5130-1">قال أبو زياد الكلابي : ومن الجبال ستر، واحدها الستار : وهي جبال مستطيلة طولا في الأرض ولم تطل في السماء وهي مطرحة في البلاد، والمطرحة أنك ترى الواحد منها ليس فيه واد ولا مسيل، وليس ترى أحدا يقطعها ويعلوها</quote>

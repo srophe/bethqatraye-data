@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,13 +77,13 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5098-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qulzum</placeName>
-          <placeName xml:id="name5098-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">القلزم</placeName>
+          <placeName xml:id="name5098-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5098-1">القلزم</placeName>
           <placeName xml:id="name5098-3" xml:lang="en">Qulzum</placeName>
           <placeName xml:id="name5098-4" xml:lang="en">Klysma</placeName>
           <placeName xml:id="name5098-5" xml:lang="en">Clysma</placeName>
           <placeName xml:id="name5098-6" xml:lang="en">Clysmo</placeName>
           <placeName xml:id="name5098-7" xml:lang="en">Ovilia</placeName>
-          <placeName xml:id="name5098-8" xml:lang="ar" source="#bib5098-1">القلزم</placeName>
+          
           <desc type="abstract" xml:id="abstract5098-1" xml:lang="en" source="#bib5098-2"><quote>[A]n ancient town and seaport on the Red Sea (A. Baḥr al-Ḳulzum [q.v.], Baḥr al-Hind or Baḥr al-Ḥabas̲h̲a), now administratively in the province (muḥāfaẓa) of al-Suways.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5098-1">وشكلت عطفه عليه لان بحر فارس يعطف من جزيرة مسقط مغربا الى مكة والى القلزم عن خمسين فرسخا من عمان ويدعى ذلك راس الجمجمة</quote>

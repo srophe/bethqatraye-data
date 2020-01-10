@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,10 +75,10 @@
       <listPlace>
         <place type="state">
           <placeName xml:id="name5013-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ankaburda</placeName>
-          <placeName xml:id="name5013-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الانكبردة</placeName>
+          <placeName xml:id="name5013-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5013-1">الانكبردة</placeName>
           <placeName xml:id="name5013-3" xml:lang="en">Lombards</placeName>
           <placeName xml:id="name5013-4" xml:lang="ar">اللومبارديون</placeName>
-          <placeName xml:id="name5013-5" xml:lang="ar" source="#bib5013-1">الانكبردة</placeName>
+          
           <desc type="abstract" xml:id="abstract5013-1" xml:lang="en">An empire in pre-modern Italy.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5013-1">ثم بحر الروم وكيفيته في ذاته وشكله في نفسه وما عليه من الجانب الشرقى والمحاذى بلد المغرب ومدن قلورية والأنكبردة والزنقة المعروفة بلبونس والخليج الخارج من بحرالروم الى البحر المحيط ومياه بلد الروم واكابر انهاره ومدنه</quote>

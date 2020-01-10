@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5532-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zarīrān</placeName>
-          <placeName xml:id="name5532-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زريران</placeName>
-          <placeName xml:id="name5532-3" xml:lang="ar" source="#bib5532-1">زريران</placeName>
+          <placeName xml:id="name5532-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5532-1">زريران</placeName>
+          
           <desc type="abstract" xml:id="abstract5532-1" xml:lang="en">A village close to Tāq Kasrā southeast of Baghdad.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5532</idno>
           <idno type="URI">http://syriaca.org/place/5532</idno>

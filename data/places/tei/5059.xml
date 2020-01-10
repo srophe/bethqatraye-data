@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,9 +77,9 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5059-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Lūr</placeName>
-          <placeName xml:id="name5059-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">اللور</placeName>
+          <placeName xml:id="name5059-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5059-1">اللور</placeName>
           <placeName xml:id="name5059-3" xml:lang="en">Luristan</placeName>
-          <placeName xml:id="name5059-4" xml:lang="ar" source="#bib5059-1">اللور</placeName>
+          
           <desc type="abstract" xml:id="abstract5059-1" xml:lang="en" source="#bib5059-2">A region in the southwest of Iran. <quote>In the Mongol period the terms <quote>Great Lur</quote> and <quote>Little Lur</quote> roughly covered all the lands inhabited by Lur tribes.</quote></desc><desc xml:lang="ar"><quote source="#bib5059-4">وتوفّى في بعض تلك الأيام ولد السلطان، فلم يزيدوا على بكاء الرحمة، كما يفعله أهل مصر والشام، خلافا لما قدّمناه من فعل أهل اللّور حين مات ولد سلطانهم</quote></desc><desc xml:lang="ar"><quote source="#bib5059-5">وكان السلطان حسن غائبا عن بغداد في هذه المدة، متوجّها لقتال السلطان أتابك أفراسياب، صاحب بلاد اللور.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5059-3">
                         <geo>33.8973 48.7516</geo>

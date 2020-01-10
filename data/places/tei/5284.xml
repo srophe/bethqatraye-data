@@ -59,7 +59,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -91,7 +91,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5284-1">Merged in data from
         [https://bqgazetteer.bethmardutho.org/place/5285].</change>
@@ -105,7 +105,7 @@
         <place type="region">
           <placeName xml:id="name5284-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Ḥaḍramawt</placeName>
           <placeName xml:id="name5284-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5284-2">حضرموت</placeName>
-          <placeName xml:id="name5284-3" xml:lang="ar" source="#bib5284-1 #bib5284-2">حضرموت</placeName>
+          
           <desc type="abstract" xml:id="abstract5284-1" xml:lang="en" source="#bib5284-3"><quote>The name Ḥaḍramawt is applicable in its strictest sense to the deep
             valley running parallel to the southern coast of Arabia from roughly 48° E. to 50° E.,
             between precipitous walls rising to a high plateau (the Djol), which on the south

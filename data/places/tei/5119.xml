@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,10 +77,10 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5119-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sarāt</placeName>
-          <placeName xml:id="name5119-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">السراة</placeName>
+          <placeName xml:id="name5119-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5119-1">السراة</placeName>
           <placeName xml:id="name5119-3" xml:lang="en">al-Sarawāt</placeName>
           <placeName xml:id="name5119-4" xml:lang="ar">السروات</placeName>
-          <placeName xml:id="name5119-5" xml:lang="ar" source="#bib5119-1">السراة</placeName>
+          
           <desc type="abstract" xml:id="abstract5119-1" xml:lang="en" source="#bib5119-2"><quote>[T]he collective name, not particularly widespread, of the chains of mountains which run from the Gulf of ʿAḳaba down to the Gulf of Aden [...].</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5119-3">
                         <geo>18.267222222222 42.368055555556</geo>

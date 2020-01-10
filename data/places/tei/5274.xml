@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -83,11 +83,11 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5274-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Dhū Ṭawī</placeName>
-          <placeName xml:id="name5274-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ذو طوي</placeName>
+          <placeName xml:id="name5274-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5274-1">ذو طوي</placeName>
           <placeName xml:id="name5274-3" xml:lang="en">Wādī Dhū Ṭawī</placeName>
-          <placeName xml:id="name5274-4" xml:lang="ar">وادي ذي طوي</placeName>
-          <placeName xml:id="name5274-5" xml:lang="ar" source="#bib5274-1">ذو طوي</placeName>
-          <placeName xml:id="name5274-6" xml:lang="ar" source="#bib5274-2">وادي ذي طوي</placeName>
+          <placeName xml:id="name5274-4" xml:lang="ar" source="#bib5274-2">وادي ذي طوي</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5274-1" xml:lang="en">A valley in the vicinity of Mecca.</desc><desc xml:lang="ar"><quote source="#bib5274-1">ذكر بعض المشاهد خارج مكة. فمنها الحجون وقد ذكرناه، ويقال أيضا: إن الحجون هو الجبل المطل على الجبّانة ومنها المحصّب، وهو أيضا الأبطح، وهو يلي الجبّانة المذكورة، وفيه خيف بني كنانة الذي نزل به رسول الله صلى الله عليه وسلم، ومنها ذو طوى وهو واد يهبط على قبور المهاجرين التي بالحصحاص دون ثنيّة كداء، ويخرج منه إلى الأعلام الموضوعة حجزا بين الحلّ والحرم. وكان عبد الله ابن عمر رضي الله عنه إذا قدم مكة شرّفها الله تعالى يبيت بذي طوى ثم يغتسل منه ويغدو إلى مكة</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5274</idno>
           <idno type="URI">http://syriaca.org/place/5274</idno>

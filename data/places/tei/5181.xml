@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5181-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Atil</placeName>
-          <placeName xml:id="name5181-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">اتل</placeName>
-          <placeName xml:id="name5181-3" xml:lang="ar" source="#bib5181-1">اتل</placeName>
+          <placeName xml:id="name5181-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5181-1">اتل</placeName>
+          
           <desc type="abstract" xml:id="abstract5181-1" xml:lang="en" source="#bib5181-2"><quote>Atil, or Itil, sometimes Atil (Itil)-Khazarān, also Ḵh̲azarān Atil, the Ḵh̲azar capital, a double town on the lower Volga, itself called Atil, Itil [q.v.] in the early mediaeval period. The exact site is unknown.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5181-1">ومن اتل الى سمندر ايام [...] ومن اتل الى بجناك مسيرة شهر ومن اتل الى بلغار على طريق المفازة نحو شهر وفي الماء شهران في صعود والانحدار نحو 20 يوما</quote>

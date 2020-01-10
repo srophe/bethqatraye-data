@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,9 +75,9 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5233-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Barqa</placeName>
-          <placeName xml:id="name5233-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">برقة</placeName>
+          <placeName xml:id="name5233-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5233-1">برقة</placeName>
           <placeName xml:id="name5233-3" xml:lang="en">Cyrenaica</placeName>
-          <placeName xml:id="name5233-4" xml:lang="ar" source="#bib5233-1">برقة</placeName>
+          
           <desc type="abstract" xml:id="abstract5233-1" xml:lang="en">An north African peninsula jutting out into the eastern Mediterranean.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5233-1">اطرابلس مدينة على ساحل دمشق واخرى على ساحل برقة</quote>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,9 +75,9 @@
       <listPlace>
         <place type="province">
           <placeName xml:id="name5352-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kirmān</placeName>
-          <placeName xml:id="name5352-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">كرمان</placeName>
+          <placeName xml:id="name5352-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5352-1">كرمان</placeName>
           <placeName xml:id="name5352-3" xml:lang="en">Kerman</placeName>
-          <placeName xml:id="name5352-4" xml:lang="ar" source="#bib5352-1">كرمان</placeName>
+          
           <desc type="abstract" xml:id="abstract5352-1" xml:lang="en" source="#bib5352-2"><quote>The province of Kirmān is situated to the south-west of the great central desert of Persia, the Das̲h̲t-i Lūt, which narrows to some 100 miles in width where it divides Kirmān from Sīstān. It is bounded on the north by Yazd and K̲h̲urāsān, on the east by Sīstān and Makrān (Balūčistān), which was regarded by most of the early geographers as separate from Kirmān [...].</quote></desc><desc xml:lang="ar"><quote source="#bib5352-3">فأمر السلطان بحمل الناس على الرفض، وكتب بذلك إلى العراقين وفارس وأذربيجان وإصفهان وكرمان وخراسان</quote></desc><desc xml:lang="ar"><quote source="#bib5352-4">ذكر المتغلبين على الملك بعد موت السلطان أبي سعيد. فمنهم الشيخ حسن ابن عمته الذي ذكرناه آنفاً، تغلب على عراق العرب جميعاً، ومنهم إبراهيم شاه ابن الأمير سنيته، تغلب على الموصل وديار بكر، ومنهم الأمير أرتنا، تغلب على بلاد التركمان المعروفة أيضاً ببلاد الروم، ومنهم حسن خواجة بن الدمرطاش بن الجوبان، تغلب على تبريز والسلطانية وهمذان وقم وقاشان والري ورامين وفرغان والكرج، ومنهم الأمير طغيتمور تغلب على بعض بلاد خراسان، ومنهم الأمير حسن ابن الأمير غياث الدين تغلب على هراة ومعظم بلاد خراسان، ومنهم ملك دينار تغلب على بلاد مكران وبلاد كبج، ومنهم محمد شاه ابن مظفر تغلب على يزد وكرمان وورقو، ومنهم الملك قطب الدين تمهتن تغلب على هرمز وكيش والقطيف والبحرين وقلهات، ومنهم السلطان أبو إسحاق الذي تقدم ذكره تغلب على شيراز وأصفهان وملك فارس، وذلك مسيرة خمس وأربعين، ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc><desc xml:lang="ar"><quote source="#bib5352-5">وسألني عن العراقين وأصبهان وشيراز وكرمان، وعن السلطان أتابك، وبلاد الشام ومصر، وسلاطين التركمان.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5352</idno>
           <idno type="URI">http://syriaca.org/place/5352</idno>

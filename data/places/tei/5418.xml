@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,14 +75,14 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5418-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qubbat al-Sharāb</placeName>
-          <placeName xml:id="name5418-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قبة الشراب</placeName>
+          <placeName xml:id="name5418-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5418-1">قبة الشراب</placeName>
           <placeName xml:id="name5418-3" xml:lang="en">Qubbat al-ʿAbbās</placeName>
           <placeName xml:id="name5418-4" xml:lang="en">al-Qubba al-ʿAbbāsiya</placeName>
-          <placeName xml:id="name5418-5" xml:lang="ar">قبة العباس</placeName>
-          <placeName xml:id="name5418-6" xml:lang="ar">القبة العباسية</placeName>
-          <placeName xml:id="name5418-7" xml:lang="ar" source="#bib5418-1">قبة الشراب</placeName>
-          <placeName xml:id="name5418-8" xml:lang="ar" source="#bib5418-1">قبة العباس</placeName>
-          <placeName xml:id="name5418-9" xml:lang="ar" source="#bib5418-1">القبة العباسية</placeName>
+          <placeName xml:id="name5418-5" xml:lang="ar" source="#bib5418-1">قبة العباس</placeName>
+          <placeName xml:id="name5418-6" xml:lang="ar" source="#bib5418-1">القبة العباسية</placeName>
+          
+          
+          
           <desc type="abstract" xml:id="abstract5418-1" xml:lang="en">A shrine opposite Biʾr Zamzam.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5418</idno>
           <idno type="URI">http://syriaca.org/place/5418</idno>

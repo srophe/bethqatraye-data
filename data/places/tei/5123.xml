@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,10 +77,10 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5123-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sharāt</placeName>
-          <placeName xml:id="name5123-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الشراة</placeName>
+          <placeName xml:id="name5123-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5123-1">الشراة</placeName>
           <placeName xml:id="name5123-3" xml:lang="en">al-Sharāh</placeName>
           <placeName xml:id="name5123-4" xml:lang="ar">الشراه</placeName>
-          <placeName xml:id="name5123-5" xml:lang="ar" source="#bib5123-1">الشراة</placeName>
+          
           <desc type="abstract" xml:id="abstract5123-1" xml:lang="en" source="#bib5123-2"><quote>According to some Arab geographers Ad̲h̲ruḥ was the chief town of the district of al-S̲h̲arāt, in the province of al-Balḳāʾ.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5123-1">وجنوبيها [من ديار العرب] وشيء من غربيهاثم يمتد عليها من ايلة على مدائن قوم لوط والبحيرة المنتنة التي تعرف ببحيرة زغر الى الشراة والبلقاء وهي من عمل فلسطين وأذرعات وحوران والبثنية والغوطة ونواحى بعلبك وذلك من عمل دمشق</quote>

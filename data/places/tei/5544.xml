@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -84,12 +84,12 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5544-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAqabat al-Ayla</placeName>
-          <placeName xml:id="name5544-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">عقبة أيلة</placeName>
+          <placeName xml:id="name5544-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5544-1">عقبة أيلة</placeName>
           <placeName xml:id="name5544-3" xml:lang="en">ʿAqaba</placeName>
           <placeName xml:id="name5544-4" xml:lang="en">Aqaba</placeName>
           <placeName xml:id="name5544-5" xml:lang="en">Eilat</placeName>
-          <placeName xml:id="name5544-6" xml:lang="ar" source="#bib5544-1">عقبة أيلة</placeName>
-          <placeName xml:id="name5544-7" xml:lang="ar" source="#bib5544-2">عقبة أيلة</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5544-1" xml:lang="en">A city located at the Gulf of ʿAqaba.</desc><desc xml:lang="ar"><quote source="#bib5544-4">فلما وصل عقبة أيلة، لجأ إلى الحصن، وأقام به أعواماً إلى أن قصده أمراء الشام، واجتمعت عليه المماليك.</quote></desc><desc xml:lang="ar"><quote source="#bib5544-5">وأخبرت أن الوباء لم يزل معهم حتى وصلوا عقبة أيلة، فارتفع عنهم.</quote></desc>
                     <location type="gps" source="#bib5544-3">
                         <geo>29.532168 35.006343</geo>

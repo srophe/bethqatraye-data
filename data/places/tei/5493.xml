@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,13 +76,13 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5493-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Tāq Kasrā</placeName>
-          <placeName xml:id="name5493-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">إيوان كسري</placeName>
+          <placeName xml:id="name5493-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5493-1">إيوان كسري</placeName>
           <placeName xml:id="name5493-3" xml:lang="en">Taq-i Kisra</placeName>
           <placeName xml:id="name5493-4" xml:lang="en">Taq-e Kesra</placeName>
           <placeName xml:id="name5493-5" xml:lang="en">Ayvān-e Kasrā</placeName>
           <placeName xml:id="name5493-6" xml:lang="en">Īwān Kisrā</placeName>
           <placeName xml:id="name5493-7" xml:lang="ar">طاق کسری</placeName>
-          <placeName xml:id="name5493-8" xml:lang="ar" source="#bib5493-1">إيوان كسري</placeName>
+          
           <desc type="abstract" xml:id="abstract5493-1" xml:lang="en">A collection of remains of the city of Ctesiphon near Salman Pak in Iraq.</desc>
                     <location type="gps" subtype="representative" source="#bib5493-2">
                         <geo>33.09361 44.58083</geo>

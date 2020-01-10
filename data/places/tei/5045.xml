@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,14 +75,14 @@
       <listPlace>
         <place type="cemetery">
           <placeName xml:id="name5045-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Jabbāna</placeName>
-          <placeName xml:id="name5045-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الجبانة</placeName>
+          <placeName xml:id="name5045-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5045-1">الجبانة</placeName>
           <placeName xml:id="name5045-3" xml:lang="en">Maqbarat al-Maʿlāt</placeName>
           <placeName xml:id="name5045-4" xml:lang="en">al-Ḥajūn</placeName>
           <placeName xml:id="name5045-5" xml:lang="en">Kadāʾ</placeName>
           <placeName xml:id="name5045-6" xml:lang="ar">مقبرة المعلاة</placeName>
           <placeName xml:id="name5045-7" xml:lang="ar">الحجون</placeName>
           <placeName xml:id="name5045-8" xml:lang="ar">كداء</placeName>
-          <placeName xml:id="name5045-9" xml:lang="ar" source="#bib5045-1">الجبانة</placeName>
+          
           <desc type="abstract" xml:id="abstract5045-1" xml:lang="en">A cemetery in Mecca.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5045</idno>
           <idno type="URI">http://syriaca.org/place/5045</idno>

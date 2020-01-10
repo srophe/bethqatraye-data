@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,10 +76,10 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5416-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qillawriya</placeName>
-          <placeName xml:id="name5416-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قلورية</placeName>
+          <placeName xml:id="name5416-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5416-1">قلورية</placeName>
           <placeName xml:id="name5416-3" xml:lang="en">Qalawriya</placeName>
           <placeName xml:id="name5416-4" xml:lang="en">Calabria</placeName>
-          <placeName xml:id="name5416-5" xml:lang="ar" source="#bib5416-1">قلورية</placeName>
+          
           <desc type="abstract" xml:id="abstract5416-1" xml:lang="en">A region in southern Italy.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5416-1">ثم بحر الروم وكيفيته في ذاته وشكله في نفسه وما عليه من الجانب الشرقى والمحاذى بلد المغرب ومدن قلورية والأنكبردة والزنقة المعروفة بلبونس والخليج الخارج من بحرالروم الى البحر المحيط ومياه بلد الروم واكابر انهاره ومدنه</quote>

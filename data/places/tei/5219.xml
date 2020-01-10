@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -87,7 +87,7 @@
           <placeName xml:id="name5219-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Badr</placeName>
           <placeName xml:id="name5219-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بدر</placeName>
           <placeName xml:id="name5219-3" xml:lang="ar" source="#bib5219-1">بدر</placeName>
-          <placeName xml:id="name5219-4" xml:lang="ar" source="#bib5219-2">بدر</placeName>
+          
           <desc type="abstract" xml:id="abstract5219-1" xml:lang="en" source="#bib5219-3"><quote>Badr, or Badr Ḥunayn, a small town south-west of Medina, a night’s journey from the coast, and at the junction of a road from Medina with the caravan route from Mecca to Syria. It lies in a plain, 5 m. (8 km.) long and 2½ m. (4 km.) broad, surrounded by steep hills and sand-dunes, and was a market centre.</quote></desc><desc xml:lang="ar"><quote source="#bib5219-5">ثم رحلنا منه، ونزلنا ببدر حيث نصر الله رسوله صلى الله عليه وسلم، وأنجز وعده الكريم، واستأصل صناديد المشركين. وهي قرية فيها حدائق نخل متصلة، وبها حصن منيع يدخل اليه من بطن واد بين جبال. وببدر عين فوّارة يجرى ماؤها وموضع القليب الذي سحب به أعداء الله المشركون. هو اليوم بستان. وموضع الشهداء رضي الله عنهم خلفه.</quote></desc><desc xml:lang="ar"><quote source="#bib5219-6">وفي هذا الركب الأسواق الحافلة والمرافق العظيمة وأنواع الأطعمة والفواكه وهم يسيرون باللّيل ويوقدون المشاعل أمام القطار والمحارات، فترى الأرض تتلألأ نورا والليل قد عاد نهارا ساطعا ثم رحلنا من بطن مرّ إلى عسفان، ثم إلى خليص ثم رحلنا أربع مراحل ونزلنا وادي السمك، ثم رحلنا خمسا ونزلنا في بدر</quote></desc>
                     <location type="gps" source="#bib5219-4">
                         <geo>23.78292 38.79047</geo>

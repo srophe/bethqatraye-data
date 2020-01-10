@@ -51,7 +51,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -84,7 +84,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -92,9 +92,9 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5234-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Basjirt</placeName>
-          <placeName xml:id="name5234-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بسجرت</placeName>
+          <placeName xml:id="name5234-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5234-1">بسجرت</placeName>
           <placeName xml:id="name5234-3" xml:lang="en">Bāshqirs</placeName>
-          <placeName xml:id="name5234-4" xml:lang="ar" source="#bib5234-1">بسجرت</placeName>
+          
           <desc type="abstract" xml:id="abstract5234-1" xml:lang="en">Their <quote source="#bib5234-2">territory corresponds
             roughly to the modern districts of <placeName>Ufa</placeName> and <placeName>Orenburg</placeName>.</quote></desc>
           <desc xml:lang="ar">

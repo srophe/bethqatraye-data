@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,14 +76,14 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5150-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zanqa</placeName>
-          <placeName xml:id="name5150-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بلبونس</placeName>
+          <placeName xml:id="name5150-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5150-1">بلبونس</placeName>
           <placeName xml:id="name5150-3" xml:lang="en">Balbūnas</placeName>
           <placeName xml:id="name5150-4" xml:lang="en">Bīlūbūnīz</placeName>
           <placeName xml:id="name5150-5" xml:lang="en">Peloponnese</placeName>
           <placeName xml:id="name5150-6" xml:lang="en">Peloponnesus</placeName>
           <placeName xml:id="name5150-7" xml:lang="ar">بيلوبونيز</placeName>
           <placeName xml:id="name5150-8" xml:lang="ar" source="#bib5150-1">الزنقة</placeName>
-          <placeName xml:id="name5150-9" xml:lang="ar" source="#bib5150-1">بلبونس</placeName>
+          
           <desc type="abstract" xml:id="abstract5150-1" source="#bib5150-2" xml:lang="en"><quote>The large peninsula protuding into the Mediterranean Sea that constitutes the southern part of Greece. It is largely separated from mainland Greece on the north by the Corinthian Gulf, joining it only in the northeast via the narrow Isthmus of Corinth.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5150-1">ثم بحر الروم وكيفيته في ذاته وشكله في نفسه وما عليه من الجانب الشرقى والمحاذى بلد المغرب ومدن قلورية والأنكبردة والزنقة المعروفة بلبونس والخليج الخارج من بحرالروم الى البحر المحيط ومياه بلد الروم واكابر انهاره ومدنه</quote>

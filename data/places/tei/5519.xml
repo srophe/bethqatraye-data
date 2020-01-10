@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -83,11 +83,11 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5519-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Wādī Nakhla</placeName>
-          <placeName xml:id="name5519-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">وادي نخلة</placeName>
+          <placeName xml:id="name5519-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5519-1">وادي نخلة</placeName>
           <placeName xml:id="name5519-3" xml:lang="en">Nakhla</placeName>
-          <placeName xml:id="name5519-4" xml:lang="ar">نخلة</placeName>
-          <placeName xml:id="name5519-5" xml:lang="ar" source="#bib5519-1">وادي نخلة</placeName>
-          <placeName xml:id="name5519-6" xml:lang="ar" source="#bib5519-2">نخلة</placeName>
+          <placeName xml:id="name5519-4" xml:lang="ar" source="#bib5519-2">نخلة</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5519-1" xml:lang="en">The name of two valleys between Mecca and Ṭāʾif.</desc><desc xml:lang="ar"><quote source="#bib5519-3">ولقد أكلت بها من الفواكه العنب والتين والخوخ والرطب ما لا نظير له في الدنيا، وكذلك البطيخ المجلوب اليها لا يماثله سواه طيبا وحلاوة، واللحوم بها سمان لذيذات الطعوم. وكل ما يفترق في البلاد من السلع، فيها اجتماعه. وتجلب لها الفواكه والخضر من الطائف ووادي نخلة وبطن مرّ، لطفا من الله بسكان حرمه الأمين ومجاوري بيته العتيق.</quote></desc><desc xml:lang="ar"><quote source="#bib5519-4">ولعبد الله المذكور ابن عمّ اسمه حسن، وهو من سكان وادي نخلة، وكان إذ ذاك بمكة، فأعلمته بما جرى على ابن عمه</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5519</idno>
           <idno type="URI">http://syriaca.org/place/5519</idno>

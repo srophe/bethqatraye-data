@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,11 +77,11 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5430-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qurṭuba</placeName>
-          <placeName xml:id="name5430-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قرطبة</placeName>
+          <placeName xml:id="name5430-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5430-1">قرطبة</placeName>
           <placeName xml:id="name5430-3" xml:lang="en">Córdoba</placeName>
           <placeName xml:id="name5430-4" xml:lang="en">Cordoba</placeName>
           <placeName xml:id="name5430-5" xml:lang="en">Cordova</placeName>
-          <placeName xml:id="name5430-6" xml:lang="ar" source="#bib5430-1">قرطبة</placeName>
+          
           <desc type="abstract" xml:id="abstract5430-1" xml:lang="en" source="#bib5430-2"><quote>[A] town of southern Spain situated at 370 feet above sea-level on the right (north) bank of the central course of the Guadalquivir (from the Arabic al-Wādī al-Kabīr "the great river"), the ancient Baetis, with 1,234,000 inhabitants, is at the present day the capital of the province of the same name which lies on both sides of the river in the heart of Andalusia.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5430-1">فالامصار سمرقند ايرانشهر شهرستان اردبيل همذان الاهواز شيراز السيرجان المنصورة زبيد مكة بغداد الموصل دمشق الفسطاط القيروان قرطبة</quote>

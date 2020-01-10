@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5225-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bakkār</placeName>
-          <placeName xml:id="name5225-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بكار</placeName>
-          <placeName xml:id="name5225-3" xml:lang="ar" source="#bib5225-1">بكار</placeName>
+          <placeName xml:id="name5225-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5225-1">بكار</placeName>
+          
           <desc type="abstract" xml:id="abstract5225-1" xml:lang="en">A city in Khurāsān.</desc><desc xml:lang="ar"><quote source="#bib5225-2">وقيل: إن ملك الهند دس عليه من قتله بسعي الملك حسين في ذلك، ولأجله خدم الملك حسين ملك الهند بعد موت ملك ورنا المذكور، وهاداه ملك الهند، وأعطاه مدينة بكّار من بلاد السند. ومجباها خمسون ألفا من دنانير الذهب في كل سنة.</quote></desc><desc xml:lang="ar"><quote source="#bib5225-3">وأقمت بهذه المدينة مع علاء الملك خمسة أيام̤، ثم أحسن في الزاد وانصرفت عنه إلى مدينة بكار (بفتح الباء الموحدة)، وهي مدينة حسنة يشقها خليج من نهر السند. وفي وسط ذلك الخليج زاوية حسنة فيها الطعام للوارد والصادر. عمّرها كشلوخان أيام ولايته على بلاد السند، وسيقع ذكره. ولقيت بهذه المدينة الفقيه الإمام صدر الدين الحنفي، ولقيت بها قاضيها المسمى بأبي حنيفة، ولقيت بها الشيخ العابد الزاهد شمس الدين محمد الشيرازي، وهو من المعمّرين: ذكر لي أن سنه يزيد على مائة وعشرين عاما. </quote></desc><desc xml:lang="ar"><quote source="#bib5225-4">ثم سافرت من مدينة بكار فوصلت إلى مدينة أوجه (وضبط اسمها بضم الهمزة وفتح الجيم) وهي مدينة كبيرة على نهر السند، لها أسواق حسنة وعمارة جيدة. وكان الأمير بها إذ ذاك الملك الفاضل الشريف جلال الدين الكيجي أحد الشجعان الكرماء، وبهذه المدينة توفي بعد سقطة سقطها عن فرسه.#</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5225</idno>
           <idno type="URI">http://syriaca.org/place/5225</idno>

@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -83,9 +83,9 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5392-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Najd</placeName>
-          <placeName xml:id="name5392-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">نجد</placeName>
-          <placeName xml:id="name5392-3" xml:lang="ar" source="#bib5392-1">نجد</placeName>
-          <placeName xml:id="name5392-4" xml:lang="ar" source="#bib5392-2">نجد</placeName>
+          <placeName xml:id="name5392-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5392-1">نجد</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5392-1" xml:lang="en" source="#bib5392-3">The Najd is <quote>conventionally defined as the plateau region of the Arabian peninsula lying to the east of the Red Sea lowlands (al-Tihāma [q.v.]) and the mountain barrier running down through the western side of the peninsula (al-Ḥid̲j̲āz [q.v.]).</quote></desc><desc xml:lang="ar"><quote source="#bib5392-4">ثم رحلنا من وادي العروس ودخلنا أرض نجد، وهو بسيط من الأرض على مد البصر</quote></desc><desc xml:lang="ar"><quote source="#bib5392-5">ثم رحلنا إلى ماء يعرف بالقارورة، وهي مصانع مملوءة بماء المطر مما صنعته زبيدة ابنة جعفر رحمها الله ونفعها وهذا الموضع هو وسط أرض نجد</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5392</idno>
           <idno type="URI">http://syriaca.org/place/5392</idno>

@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -83,10 +83,10 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5172-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-ʿUqr</placeName>
-          <placeName xml:id="name5172-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">العقر</placeName>
+          <placeName xml:id="name5172-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5172-1">العقر</placeName>
           <placeName xml:id="name5172-3" xml:lang="en">al-ʿAqr</placeName>
-          <placeName xml:id="name5172-4" xml:lang="ar" source="#bib5172-1">العقر</placeName>
-          <placeName xml:id="name5172-5" xml:lang="ar" source="#bib5172-2">العقر</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5172-1" xml:lang="en">A village located east of the Tigris south of al-Qayyāra in central Iraq.</desc><desc xml:lang="ar"><quote source="#bib5172-1">والمدينة عتيقة البناء عليها سور يطيف بها ثم رحلنا منها مرحلتين ووصلنا إلى قرية تعرف بالعقر على شطّ الدجلة، وبأعلاها ربوة كان بها حصن وبأسفلها الخان المعروف بخان الحديد له أبراج وبناؤه حافل والقرى والعمارة متّصلة من هنالك إلى الموصل. ثم رحلنا ونزلنا موضعا يعرف بالقيّارة بمقربة من دجلة</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5172</idno>
           <idno type="URI">http://syriaca.org/place/5172</idno>

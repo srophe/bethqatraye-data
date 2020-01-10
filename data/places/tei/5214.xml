@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,8 +76,8 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5214-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb Jibrīl</placeName>
-          <placeName xml:id="name5214-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">باب جبريل</placeName>
-          <placeName xml:id="name5214-3" xml:lang="ar" source="#bib5214-1">باب جبريل</placeName>
+          <placeName xml:id="name5214-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5214-1">باب جبريل</placeName>
+          
           <desc type="abstract" xml:id="abstract5214-1" xml:lang="en">One of the entrances to al-Masjid al-Nabawī in Medina.</desc>
                     <location type="gps" source="#bib5214-2">
                         <geo>24.4750101 39.5995034</geo>

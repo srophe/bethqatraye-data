@@ -91,7 +91,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-17-06:00</date>
+                <date>2020-01-10-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -125,7 +125,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="published">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-25-06:00" xml:id="change211-2">Merged in data from [duplicate record
                 with same URI].</change>
@@ -160,7 +160,7 @@
                     <placeName xml:id="name211-8" xml:lang="ar" source="#bib211-8 #bib211-15">فيروزسابور</placeName>
                     <placeName xml:id="name211-9" xml:lang="ar" source="#bib211-8 #bib211-15">الأَنبار</placeName>
                     <placeName xml:id="name211-10" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
-                    <placeName xml:id="name211-11" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
+                    
                     <placeName xml:lang="ar" source="#bib211-9" xml:id="name211-12">الأنبار</placeName>
                     <placeName xml:lang="en" xml:id="name211-13">Al Anbar</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract211-1" source="#bib211-11">A <quote>town on the left

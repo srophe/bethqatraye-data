@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,10 +77,10 @@
       <listPlace>
         <place type="province">
           <placeName xml:id="name5335-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jūzjān</placeName>
-          <placeName xml:id="name5335-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جوزجانان</placeName>
-          <placeName xml:id="name5335-3" xml:lang="ar">جوزجان</placeName>
-          <placeName xml:id="name5335-4" xml:lang="ar" source="#bib5335-1">جوزجانان</placeName>
-          <placeName xml:id="name5335-5" xml:lang="ar" source="#bib5335-1">جوزجان</placeName>
+          <placeName xml:id="name5335-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5335-1">جوزجانان</placeName>
+          <placeName xml:id="name5335-3" xml:lang="ar" source="#bib5335-1">جوزجان</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5335-1" xml:lang="en" source="#bib5335-2"><quote>Persian Gūzgān, the older name of a district in Afg̲h̲ān Turkestan between Murg̲h̲āb and the Āmū Daryā. Its boundaries were not well defined, particularly in the west, but it certainly included the country containing the modern towns of Maymana, Andk̲h̲ūy, S̲h̲ibargān and Sar-i Pul.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5335-1">اليهودية قصبة اصفهان وقصبة جوزجان، الانبار مدينة لبغداد وانبار مدينة بجوزجان [...] باراب رستاق باسبيجاب وفارياب بجوزجان</quote>

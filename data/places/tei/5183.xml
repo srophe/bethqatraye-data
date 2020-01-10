@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5183-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Azīlā [?]</placeName>
-          <placeName xml:id="name5183-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ازيلي</placeName>
-          <placeName xml:id="name5183-3" xml:lang="ar" source="#bib5183-1">ازيلي</placeName>
+          <placeName xml:id="name5183-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5183-1">ازيلي</placeName>
+          
           <desc type="abstract" xml:id="abstract5183-1" xml:lang="en">A city in the Maghrib.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5183-1">ثم ذكرت المغرب ورسمته في وجهين وبدأت بذكر ما حاد منه ارض مصر الى المهدية والقيروان وما في براريها من المدن وان قلت واعقبتها بباقى صورته من القيروان والمهدية الى ارض طنجة وأزيلى</quote>

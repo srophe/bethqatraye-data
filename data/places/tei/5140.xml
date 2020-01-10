@@ -102,7 +102,7 @@
         <place type="settlement">
           <placeName xml:id="name5140-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">al-Thaʿlabīya</placeName>
           <placeName xml:id="name5140-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5140-2">الثعلبية</placeName>
-          <placeName xml:id="name5140-3" xml:lang="ar" source="#bib5140-1 #bib5140-2">الثعلبية</placeName>
+          
           <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5140-4">al-Thaʿlabiyya</placeName>
           <desc type="abstract" xml:id="abstract5140-1" xml:lang="en">A town in the north of the
             Arabian Peninsula. The town is part of the Darb Zubayda, the famous pilgrim highway,

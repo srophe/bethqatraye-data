@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5338-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kalīl</placeName>
-          <placeName xml:id="name5338-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">كليل</placeName>
-          <placeName xml:id="name5338-3" xml:lang="ar" source="#bib5338-1">كليل</placeName>
+          <placeName xml:id="name5338-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5338-1">كليل</placeName>
+          
           <desc type="abstract" xml:id="abstract5338-1" xml:lang="en">A town between Isfahan and Shiraz in Iran.</desc><desc xml:lang="ar"><quote source="#bib5338-2">فوصلتا الى بلدة كليل، (وضبطها بفتح الكاف وكسر اللام وياء مد) وبيتها وبين أصفهان مسيرة ثلاثة وهي بلدة صغيرة ذات أنهار وبساتين وفواكه</quote></desc><desc xml:lang="ar"><quote source="#bib5338-3">ثم سرتا من كليل يومين ووصلنا الى قرية كبيرة تعرف بصوماء، وبها زاوية فيها الطعام للوارد والصادر عمرها خواجة كافي المذكور، ثم سرنا منها الى يزدخان</quote></desc><desc xml:lang="ar"><quote source="#bib5338-4">ثم سافرت إلى ماين، ثم إلى يزد خاص ، ثم إلى كليل، ثم كشك زرّ، ثم إلى إصبهان</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5338</idno>
           <idno type="URI">http://syriaca.org/place/5338</idno>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5054-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khawarnaq</placeName>
-          <placeName xml:id="name5054-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الخورنق</placeName>
-          <placeName xml:id="name5054-3" xml:lang="ar" source="#bib5054-1">الخورنق</placeName>
+          <placeName xml:id="name5054-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5054-1">الخورنق</placeName>
+          
           <desc type="abstract" xml:id="abstract5054-1" xml:lang="en" source="#bib5054-2"><quote>In present-day Iraq, Ḵawarnaq is a place in the district al-Qādisiyya near the archeological site of al-Ḥira (q.v.) and the city of Najaf (q.v.), lat 31°48′ N, long 44°44′ E (according to http://www.maplandia.com, s.v. Khawarnaq; cf. also Salmān, maps 89-90).</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5054-1">ثم تمتد ديار العرب على نواحى الكوفة والحيرة على الخورنق وعلى سواد الكوفة الى حد واسط</quote>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,10 +76,10 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5340-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Karbalāʾ</placeName>
-          <placeName xml:id="name5340-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">كربلاء</placeName>
+          <placeName xml:id="name5340-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5340-1">كربلاء</placeName>
           <placeName xml:id="name5340-3" xml:lang="en">Kerbela</placeName>
           <placeName xml:id="name5340-4" xml:lang="en">Karbala</placeName>
-          <placeName xml:id="name5340-5" xml:lang="ar" source="#bib5340-1">كربلاء</placeName>
+          
           <desc type="abstract" xml:id="abstract5340-1" xml:lang="en">A town 60 miles southwest of Baghdād known for the martyrdom of al-Ḥusayn b. ʿAlī.</desc><desc xml:lang="ar"><quote source="#bib5340-3">ثمّ سافرنا منها إلى مدينة كربلاء مشهد الحسين بن عليّ عليهما السلام وهي مدينة صغيرة تحفّها حدائق النخل ويسقيها ماء الفرات والروضة المقدسة داخلها</quote></desc><desc xml:lang="ar"><quote source="#bib5340-4">كان قد صحبني من مدينة السّرا إلى خوارزم شريف من أهل كربلاء يسمى علي بن منصور</quote></desc>
                     <location type="gps" source="#bib5340-2">
                         <geo>32.61603 44.02488</geo>

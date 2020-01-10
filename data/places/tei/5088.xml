@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5088-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qaḥma</placeName>
-          <placeName xml:id="name5088-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">القحمة</placeName>
-          <placeName xml:id="name5088-3" xml:lang="ar" source="#bib5088-1">القحمة</placeName>
+          <placeName xml:id="name5088-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5088-1">القحمة</placeName>
+          
           <desc type="abstract" xml:id="abstract5088-1" xml:lang="en">A town in the southwest of the Arabian Peninsula close to Abhā.</desc><desc xml:lang="ar"><quote source="#bib5088-1">وليس بالأرض من يماثلهم في ذلك إلّا الشيخ بدر الدين النقّاس الساكن ببلدة القحمة، فله مثل ذلك من المآثر والإيثار. وأقمنا بالسّرجة ليلة واحدة في ضيافة المذكورين، ثمّ رحلنا إلى مرسى الحادث</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5088</idno>
           <idno type="URI">http://syriaca.org/place/5088</idno>

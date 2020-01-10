@@ -54,7 +54,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -86,7 +86,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5095-1">Merged in data from
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5095-1">Merged in data from
         [https://bqgazetteer.bethmardutho.org/place/5096].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [https://bqgazetteer.bethmardutho.org/place/5096]</change>
@@ -98,7 +98,7 @@
         <place type="province">
           <placeName xml:id="name5095-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">al-Qaṭīf</placeName>
           <placeName xml:id="name5095-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5095-2">القطيف</placeName>
-          <placeName xml:id="name5095-3" xml:lang="ar" source="#bib5095-1 #bib5095-2">القطيف</placeName>
+          
           <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5095-4">القَطِيفُ</placeName>
           <desc type="abstract" xml:id="abstract5095-1" xml:lang="en">A province encompassing at
             least the city of al-Qaṭīf.</desc>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,10 +76,10 @@
       <listPlace>
         <place type="fortification">
           <placeName xml:id="name5382-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Masyāf</placeName>
-          <placeName xml:id="name5382-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">مصياف</placeName>
+          <placeName xml:id="name5382-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5382-1">مصياف</placeName>
           <placeName xml:id="name5382-3" xml:lang="en">Masyād</placeName>
           <placeName xml:id="name5382-4" xml:lang="ar">مصياد</placeName>
-          <placeName xml:id="name5382-5" xml:lang="ar" source="#bib5382-1">مصياف</placeName>
+          
           <desc type="abstract" xml:id="abstract5382-1" xml:lang="en">A town and former fortress in central Syria.</desc><desc xml:lang="ar"><quote source="#bib5382-1">ثم سافرت منها، فمررت بحصن القدموس، (وضبط اسمه بفتح القاف وإسكان الدال المهمل وضم الميم وآخره سين مهمل)، ثم بحصن المينقة، (وضبط اسمه بفتح الميم وإسكان الياء وفتح النون والقاف)، ثم بحصن العلّيقة، (واسمه على لفظ واحدة العلّيق)، ثم بحصن مصياف (وصاده مهملة)</quote></desc>
                     <location type="gps" source="#bib5382-2">
                         <geo>35.0653 36.3406</geo>

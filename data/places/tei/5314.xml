@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,10 +76,10 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5314-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Īdhaj</placeName>
-          <placeName xml:id="name5314-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">إيذج</placeName>
+          <placeName xml:id="name5314-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5314-1">إيذج</placeName>
           <placeName xml:id="name5314-3" xml:lang="en">Māl Amīr</placeName>
           <placeName xml:id="name5314-4" xml:lang="ar">مال أمير</placeName>
-          <placeName xml:id="name5314-5" xml:lang="ar" source="#bib5314-1">إيذج</placeName>
+          
           <desc type="abstract" xml:id="abstract5314-1" xml:lang="en">A town in western Iran situated at a tributary of the Kārūn river.</desc><desc xml:lang="ar"><quote source="#bib5314-3">ووصلنا الى مدينة إيذج (وضبط اسمها بكسر الهمزة وياء مد وذال معجم مفتوح وجيم)، تسمى أيضاً مال الأمير، وهي حضرة السلطان أتابك.</quote></desc><desc xml:lang="ar"><quote source="#bib5314-4">ولما دخلت مدينة ايذج أردت رؤية افراسياب المذكور فلم يتأت لي ذلك</quote></desc><desc xml:lang="ar"><quote source="#bib5314-5">ثم كان رحيلي من حضرة ايذج بعد أيام</quote></desc><desc xml:lang="ar"><quote source="#bib5314-6">ومنهم السلطان أفراسياب أتابك تغلب على إيذج وغيرها من البلاد وقد تقدم ذكره.</quote></desc>
           <location type="gps" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>31.834167 49.867222</geo>

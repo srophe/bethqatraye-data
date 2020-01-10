@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,8 +77,8 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5117-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Samāwa</placeName>
-          <placeName xml:id="name5117-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">السماوة</placeName>
-          <placeName xml:id="name5117-3" xml:lang="ar" source="#bib5117-1">السماوة</placeName>
+          <placeName xml:id="name5117-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5117-1">السماوة</placeName>
+          
           <desc type="abstract" xml:id="abstract5117-1" xml:lang="en" source="#bib5117-2"><quote>Al-Samāwa was the name given, in the definition of al-Bakrī ( Muʿd̲j̲am mā staʿd̲j̲am , Cairo 1364-71/1945-51, iii, 754, copied by Yāḳūt, Buldān , ed. Beirut, iii, 245), during mediaeval Islamic times to the desert and steppeland lying between al-Kūfa and Syria.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5117-3">
                         <geo>31.33198 45.2944</geo>

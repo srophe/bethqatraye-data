@@ -58,7 +58,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -90,7 +90,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5307-1">Merged in data from
         [https://bqgazetteer.bethmardutho.org/place/5308].</change>
@@ -106,7 +106,7 @@
           <placeName xml:id="name5307-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5307-2">هيت</placeName>
           <placeName xml:id="name5307-3" xml:lang="en">Idu</placeName>
           <placeName xml:id="name5307-4" xml:lang="en">Diacira</placeName>
-          <placeName xml:id="name5307-5" xml:lang="ar" source="#bib5307-1 #bib5307-2">هيت</placeName>
+          
           <placeName xml:lang="en" xml:id="name5307-6">Hit</placeName>
           <desc type="abstract" xml:id="abstract5307-1" xml:lang="en" source="#bib5307-3">A <quote>town in ʿIrāḳ situated in
             about 33° 35′ N. and 42° 48′ E. on the right bank of the Euphrates, on a hill which may

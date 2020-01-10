@@ -58,7 +58,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -90,7 +90,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5480-1">Merged in data from
         [https://bqgazetteer.bethmardutho.org/place/5481].</change>
@@ -103,10 +103,10 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5480-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Surra man Raʾā</placeName>
-          <placeName xml:id="name5480-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">سر من رأى</placeName>
+          <placeName xml:id="name5480-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5480-1">سر من رأى</placeName>
           <placeName xml:id="name5480-3" xml:lang="en">Sāmarrāʾ</placeName>
           <placeName xml:id="name5480-4" xml:lang="ar">سامراء</placeName>
-          <placeName xml:id="name5480-5" xml:lang="ar" source="#bib5480-1">سر من رأى</placeName>
+          
           <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5480-6">Surra man raʾy</placeName>
           <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name5480-7">سرّ من رأي</placeName>
           <placeName xml:lang="en" xml:id="name5480-8">Sāmarrā</placeName>

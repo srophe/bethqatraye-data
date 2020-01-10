@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -85,12 +85,12 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5229-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Banj Hīr</placeName>
-          <placeName xml:id="name5229-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بنج هير</placeName>
+          <placeName xml:id="name5229-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5229-2">بنج هير</placeName>
           <placeName xml:id="name5229-3" xml:lang="en">Banjhīr</placeName>
           <placeName xml:id="name5229-4" xml:lang="en">Panjhīr</placeName>
-          <placeName xml:id="name5229-5" xml:lang="ar">بنجهير</placeName>
-          <placeName xml:id="name5229-6" xml:lang="ar" source="#bib5229-2">بنج هير</placeName>
-          <placeName xml:id="name5229-7" xml:lang="ar" source="#bib5229-1">بنجهير</placeName>
+          <placeName xml:id="name5229-5" xml:lang="ar" source="#bib5229-1">بنجهير</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5229-1" xml:lang="en" source="#bib5229-3">A district in the Balkh region. <quote>In mediaeval Islamic times, Pand̲j̲hīr was a famed centre for silver mining [see maʿdin at V, 964, 967, 968 for details], and coins were minted there by the Ṣaffārids [q.v.], Abū Dāwūdids or Bānīd̲j̲ūrids [q.v.in Suppl.] and Sāmānids [q.v.] (see E. von Zambaur, Die Münzprägungen des Islam , i, Wiesbaden 1968, 79).</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5229-1">وعسكر بنجهير ناحية ببلخ</quote>

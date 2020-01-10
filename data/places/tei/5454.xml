@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5454-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Saṭfūra</placeName>
-          <placeName xml:id="name5454-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سطفورة</placeName>
-          <placeName xml:id="name5454-3" xml:lang="ar" source="#bib5454-1">سطفورة</placeName>
+          <placeName xml:id="name5454-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5454-1">سطفورة</placeName>
+          
           <desc type="abstract" xml:id="abstract5454-1" xml:lang="en">A region (iqlīm) in the Maghrib.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5454-1">واما سطفورة فاقليم ايضا على البحر جليل له ثلاث مدائن فاقربهن الى تونس أنبلونة ثم تنجة ثم بنزرت وهى مدينة على البحر خصيبة اصغر من سوسة في ذاته وعامل هذه البلاد ينزل في بنزرت وبها ثمار كثيرة وانهار سطفورة واسعة غزيرة والارتفاع بها</quote>

@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,8 +77,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5456-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sāwa</placeName>
-          <placeName xml:id="name5456-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ساوة</placeName>
-          <placeName xml:id="name5456-3" xml:lang="ar" source="#bib5456-1">ساوة</placeName>
+          <placeName xml:id="name5456-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5456-1">ساوة</placeName>
+          
           <desc type="abstract" xml:id="abstract5456-1" xml:lang="en" source="#bib5456-2"><quote>[A] town of northern Persia some 125 km/80 miles to the southwest of Tehran (lat. 35° 00′ N., long. 50° 22′ E., altitude 960 m/3,149 feet).</quote></desc><desc xml:lang="ar"><quote source="#bib5456-4">وأهل البصرة على مذهب السنة والجماعة، ولا يخاف من يفعل مثل فعلي عندهم، ولو جرى مثل هذا بمشهد الحسين، أو بالحلة، أو بالبحرين، أو قم، أو قاشان، أو ساوة، أو آوه، أو طوس، لهلك فاعله، لأنهم رافضة غالىة.</quote></desc>
                     <location type="gps" source="#bib5456-3">
                         <geo>31.3129455 44.9935196</geo>

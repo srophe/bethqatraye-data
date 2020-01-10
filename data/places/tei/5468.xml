@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,12 +77,12 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5468-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Shirwān</placeName>
-          <placeName xml:id="name5468-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">شروان</placeName>
+          <placeName xml:id="name5468-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5468-1">شروان</placeName>
           <placeName xml:id="name5468-3" xml:lang="en">Sharwān</placeName>
           <placeName xml:id="name5468-4" xml:lang="en">Shīrwān</placeName>
           <placeName xml:id="name5468-5" xml:lang="en">Shirvan</placeName>
           <placeName xml:id="name5468-6" xml:lang="ar">شيروان</placeName>
-          <placeName xml:id="name5468-7" xml:lang="ar" source="#bib5468-1">شروان</placeName>
+          
           <desc type="abstract" xml:id="abstract5468-1" xml:lang="en" source="#bib5468-2"><quote>A region of eastern Caucasia, known by this name in both mediaeval Islamic and modern times.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5468-1">وقال قوم صخرة موسى بشروان والبحر بحيرة طبرستان والقرية باجروان وقتل الغلام بقرية خزران</quote>

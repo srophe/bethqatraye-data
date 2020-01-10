@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new bibl reference and link to abstract</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
@@ -77,10 +77,10 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5361-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mahra</placeName>
-          <placeName xml:id="name5361-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">مهرة</placeName>
+          <placeName xml:id="name5361-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5361-1">مهرة</placeName>
           <placeName xml:id="name5361-3" xml:lang="en">al-Mahra</placeName>
           <placeName xml:id="name5361-4" xml:lang="ar">المهرة</placeName>
-          <placeName xml:id="name5361-5" xml:lang="ar" source="#bib5361-1">مهرة</placeName>
+          
           <desc type="abstract" xml:id="abstract5361-1" xml:lang="en" source="#bib5361-2"><quote>[T]he boundaries of Mahra-land run in the west from the coast along Wādī Masīla, a continuation of Wādī Ḥaḍramawt, in the north-west along Wādī Ramāʾ as far as Ṣanāw, from there east-north-east, and reach via Anḍawr the north-eastern coast at Rās Ḥāsik, to the north of Ḥāsik, the ancient Mahra settlement.</quote></desc>
           <desc xml:lang="ar">
             <quote source="#bib5361-1">ويحيط بها بحر فارس من عبادان وهو مصب ماء دجلة في البحر فيمتد على البحرين حتى ينتهى الى عمان ثم يعطف على سواحل مهرة وحضرموت وعدن حتى ينتهى الى سواحل اليمن الى جدة ثم يمتدعلى الجار ومدين حتى ينتهي الى أيلة</quote>

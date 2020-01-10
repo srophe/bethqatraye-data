@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,11 +75,11 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5036-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥājiz</placeName>
-          <placeName xml:id="name5036-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الحاجز</placeName>
+          <placeName xml:id="name5036-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5036-1">الحاجز</placeName>
           <placeName xml:id="name5036-3" xml:lang="en">al-Ḥājir</placeName>
-          <placeName xml:id="name5036-4" xml:lang="ar">الحاجر</placeName>
-          <placeName xml:id="name5036-5" xml:lang="ar" source="#bib5036-1">الحاجز</placeName>
-          <placeName xml:id="name5036-6" xml:lang="ar" source="#bib5036-1">الحاجر</placeName>
+          <placeName xml:id="name5036-4" xml:lang="ar" source="#bib5036-1">الحاجر</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5036-1" xml:lang="en">Probably a settlement in the north of the Arabian Peninsula.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5036</idno>
           <idno type="URI">http://syriaca.org/place/5036</idno>

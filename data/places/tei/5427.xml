@@ -51,7 +51,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -84,7 +84,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -92,8 +92,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5427-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qūhistān</placeName>
-          <placeName xml:id="name5427-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قوهستان</placeName>
-          <placeName xml:id="name5427-3" xml:lang="ar" source="#bib5427-1">قوهستان</placeName>
+          <placeName xml:id="name5427-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5427-1">قوهستان</placeName>
+          
           <desc type="abstract" xml:id="abstract5427-1" xml:lang="en">A city in the region of
             <placeName>Kirmān</placeName>.</desc>
           <desc xml:lang="en"><quote source="#bib5427-2">The Arab geographers appear to have known two towns of the name <placeName>Ḳūhistān</placeName> in the

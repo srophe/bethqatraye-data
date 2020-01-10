@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,9 +75,9 @@
       <listPlace>
         <place type="mosque">
           <placeName xml:id="name5107-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ruṣāfa</placeName>
-          <placeName xml:id="name5107-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الرصافة</placeName>
+          <placeName xml:id="name5107-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5107-1">الرصافة</placeName>
           <placeName xml:id="name5107-3" xml:lang="en">Rusafa</placeName>
-          <placeName xml:id="name5107-4" xml:lang="ar" source="#bib5107-1">الرصافة</placeName>
+          
           <desc type="abstract" xml:id="abstract5107-1" xml:lang="en">َA mosque located in the quarter of Ruṣāfa east of the Tigris in Baghdād.</desc><desc xml:lang="ar"><quote source="#bib5107-1">والجامع الثاني جامع السلطان، وهو خارج البلد وتتّصل به قصور تنسب للسلطان، والجامع الثالث جامع الرصافة وبينه وبين جامع السلطان نحو الميل. ذكر قبور الخلفاء ببغداد وقبور بعض العلماء والصالحين بها. وقبور الخلفاء العبّاسييّن رضى الله عنهم بالرّصافة.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5107</idno>
           <idno type="URI">http://syriaca.org/place/5107</idno>

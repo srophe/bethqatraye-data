@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,13 +76,13 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5536-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ẓufār</placeName>
-          <placeName xml:id="name5536-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ظفار الحموض</placeName>
+          <placeName xml:id="name5536-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5536-1">ظفار الحموض</placeName>
           <placeName xml:id="name5536-3" xml:lang="en">Ẓufār al-Ḥamūḍ</placeName>
           <placeName xml:id="name5536-4" xml:lang="en">al-Balīd</placeName>
-          <placeName xml:id="name5536-5" xml:lang="ar">ظفار</placeName>
+          <placeName xml:id="name5536-5" xml:lang="ar" source="#bib5536-1">ظفار</placeName>
           <placeName xml:id="name5536-6" xml:lang="ar">البليد</placeName>
-          <placeName xml:id="name5536-7" xml:lang="ar" source="#bib5536-1">ظفار الحموض</placeName>
-          <placeName xml:id="name5536-8" xml:lang="ar" source="#bib5536-1">ظفار</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5536-1" xml:lang="en">A town in southern ʿUmān.</desc><desc xml:lang="ar"><quote source="#bib5536-3">وقد رأيت على مقربة من مدينة ظفار اليمن بموضع يقال له: الأحقاف بنية فيها قبر مكتوب عليه هذا قبر هود بن عابر صلى الله عليه وسلم.</quote></desc><desc xml:lang="ar"><quote source="#bib5536-4">وبين ظفار وعدن في البرّ مسيرة شهر في صحراء، وبينها وبين حضرموت ستة عشر يوماً، وبينها وبين عمان عشرون يوماً</quote></desc><desc xml:lang="ar"><quote source="#bib5536-5">وبقرب من هذه المدينة بين بساتينها زاوية الشيخ الصالح العابد أبي محمّد بن أبي بكر بن عيسى من أهل ظفار.</quote></desc><desc xml:lang="ar"><quote source="#bib5536-6">ذكر سلطان ظفار. وهو السلطان الملك المغيث ابن الملك الفائز ابن عمّ ملك اليمن. وكان أبوه أميراً على ظفار من قبل صاحب اليمن.</quote></desc><desc xml:lang="ar"><quote source="#bib5536-7">وكان عندي خبز وكعك استصحبتهما من ظفار</quote></desc><desc xml:lang="ar"><quote source="#bib5536-8">ونزلت بدار رجل من صلحائها، وأضافني بها الفقيه عليّ، وكان فاضلاً، له أولاد من طلبة العلم. ولقيت بها رجلا اسمه محمد من أهل ظفار الحموض</quote></desc><desc xml:lang="ar"><quote source="#bib5536-9">فركبت البحر فوصلت بعد ثمان وعشرين ليلة إلى ظفار. وذلك في محرم سنة ثمان وأربعين. ونزلت بدار خطيبها عيسى بن طأطأ. ذكر سلطان ظفار.</quote></desc>
                     <location type="gps" source="#bib5536-2">
                         <geo>17.006227 54.134907</geo>

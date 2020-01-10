@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-11-01-05:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,8 +75,8 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5535-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zubāla</placeName>
-          <placeName xml:id="name5535-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">زبالة</placeName>
-          <placeName xml:id="name5535-3" xml:lang="ar" source="#bib5535-1">زبالة</placeName>
+          <placeName xml:id="name5535-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5535-1">زبالة</placeName>
+          
           <desc type="abstract" xml:id="abstract5535-1" xml:lang="en">A town in the north of the Arabian Peninsula north of al-Shuqūq. The town is part of the Darb Zubayda, the famous pilgrim highway from al-ʿIrāq to Ḥijāz.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5535</idno>
           <idno type="URI">http://syriaca.org/place/5535</idno>

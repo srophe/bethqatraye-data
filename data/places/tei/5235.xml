@@ -48,7 +48,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -75,7 +75,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Insert new Ibn Battuta quotation and citation</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -83,13 +83,13 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5235-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Baṭn Marr</placeName>
-          <placeName xml:id="name5235-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بطن مر</placeName>
+          <placeName xml:id="name5235-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5235-1">بطن مر</placeName>
           <placeName xml:id="name5235-3" xml:lang="en">Wādī Fāṭima</placeName>
           <placeName xml:id="name5235-4" xml:lang="en">Marr al-Ẓahrān</placeName>
           <placeName xml:id="name5235-5" xml:lang="ar">وادي فاطمة</placeName>
           <placeName xml:id="name5235-6" xml:lang="ar">مر الظهران</placeName>
-          <placeName xml:id="name5235-7" xml:lang="ar" source="#bib5235-1">بطن مر</placeName>
-          <placeName xml:id="name5235-8" xml:lang="ar" source="#bib5235-2">بطن مر</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5235-1" xml:lang="en">A valley on the Arabian Peninsula stretching from the Ḥijāz mountains to the south of Jedda.</desc><desc xml:lang="ar"><quote source="#bib5235-3">ثم رحلنا من عسفان، ونزلنا بطن مرّ، ويسمى أيضا مرّ الظهران، وهو واد مخصب كثير النخل، ذو عين فوارة سيالة تسقى تلك النّاحية. ومن هذا الوادي تجلب الفواكه والخضر إلى مكة شرفها الله تعالى.</quote></desc><desc xml:lang="ar"><quote source="#bib5235-4">وتجلب لها الفواکه والحضر من الطائف ووادي نخلة وبطن مر، لطفا من الله بسكان حرمه الأمين ومجاوري بيته العتيق.</quote></desc><desc xml:lang="ar"><quote source="#bib5235-5">وخرجنا بعد طواف الوداع الى بطن مر، في جمع من العراقين والخراسانين والفارسيين والأعاجم، لا يحصى عديدهم تموج بهم الأرض موجاً، وينسيرون سير السحاب المتراكم.</quote></desc><desc xml:lang="ar"><quote source="#bib5235-6">وفي هذا الركب الأسواق الحافلة والمرافق العظيمة وأنواع الأطعمة والفواكه وهم يسيرون باللّيل ويوقدون المشاعل أمام القطار والمحارات، فترى الأرض تتلألأ نورا والليل قد عاد نهارا ساطعا ثم رحلنا من بطن مرّ إلى عسفان، ثم إلى خليص ثم رحلنا أربع مراحل ونزلنا وادي السمك، ثم رحلنا خمسا ونزلنا في بدر"</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5235</idno>
           <idno type="URI">http://syriaca.org/place/5235</idno>

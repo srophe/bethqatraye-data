@@ -111,7 +111,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-17-06:00</date>
+                <date>2020-01-10-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -144,7 +144,7 @@
         </encodingDesc>
         <profileDesc>       <langUsage>         <p>Language codes used in this record follow the Syriaca.org guidelines. Documentation available at:                    <ref target="http://syriaca.org/documentation/isostandards.xml">http://syriaca.org/documentation/isostandards.xml</ref>         </p>       </langUsage>     </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change41-4">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change41-3">Merged in data from [duplicate record
@@ -184,9 +184,9 @@
                     <placeName xml:id="name41-3" xml:lang="ar" srophe:tags="#headword" source="#bib41-4 #bib41-8 #bib41-9 #bib41-11 #bib41-12">بغداد</placeName>
                     <placeName xml:id="name41-4" xml:lang="en" source="#bib41-7">Babylon</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name41-5">al-Salām</placeName>
-                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name41-6">السلام</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name41-6" source="#bib41-10">السلام</placeName>
                     <placeName xml:lang="en" xml:id="name41-7">Baghdād</placeName>
-                    <placeName xml:lang="ar" xml:id="name41-8" source="#bib41-10">السلام</placeName>
+                    
                     <desc type="abstract" xml:lang="en" xml:id="abstract41-1">
                         <quote source="#bib41-1">City on the Tigris, approximately 35 km. north of
                             Seleucia-Ctesiphon.</quote>

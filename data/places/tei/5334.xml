@@ -36,7 +36,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -63,7 +63,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -72,10 +72,10 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5334-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Juwāthāʾ</placeName>
-          <placeName xml:id="name5334-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">جواثاء</placeName>
-          <placeName xml:id="name5334-3" xml:lang="ar">جواثا</placeName>
-          <placeName xml:id="name5334-4" xml:lang="ar" source="#bib5334-1">جواثاء</placeName>
-          <placeName xml:id="name5334-5" xml:lang="ar" source="#bib5334-1">جواثا</placeName>
+          <placeName xml:id="name5334-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5334-1">جواثاء</placeName>
+          <placeName xml:id="name5334-3" xml:lang="ar" source="#bib5334-1">جواثا</placeName>
+          
+          
           <desc type="abstract" xml:id="abstract5334-1" xml:lang="en">A city in al-Khaṭṭa.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5334-1">وقال الأعرابي : جواثا مدينة الخط</quote>

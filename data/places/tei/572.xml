@@ -90,7 +90,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2019-12-17-06:00</date>
+                <date>2020-01-10-06:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -130,7 +130,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+            <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-17-06:00">ADDED: Subtype to multiple locations of @type="gps"</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change572-2">Merged in data from [duplicate record
                 with same URI].</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change572-1">Merged in data from [duplicate record
@@ -159,8 +159,8 @@
                     <placeName xml:id="name572-4" xml:lang="ar" source="#bib572-3 #bib572-8">الاسكندرية</placeName>
                     <placeName xml:id="name572-5" xml:lang="ar" srophe:tags="#headword" source="#bib572-9">اسكندرية</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name572-6">al-Iskandarīya</placeName>
-                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name572-7">الإسكندرية</placeName>
-                    <placeName xml:lang="ar" xml:id="name572-8" source="#bib572-11">الإسكندرية</placeName>
+                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name572-7" source="#bib572-11">الإسكندرية</placeName>
+                    
                     <desc xml:id="abstract-en-572" xml:lang="en">A city in <ref target="https://bqgazetteer.bethmardutho.org/place/715"><placeName ref="http://syriaca.org/place/715">Egypt</placeName></ref>.</desc>
                     <desc xml:lang="ar">
                         <quote source="#bib572-11">ورومية ركن من اركان ملك النصارى وذلك انها كرسى

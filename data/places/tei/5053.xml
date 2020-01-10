@@ -36,7 +36,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-16-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -63,7 +63,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -71,9 +71,9 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5053-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khaṭṭa [?]</placeName>
-          <placeName xml:id="name5053-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">الخط</placeName>
+          <placeName xml:id="name5053-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5053-1">الخط</placeName>
           <placeName xml:id="name5053-3" xml:lang="en">al-Khaṭṭu</placeName>
-          <placeName xml:id="name5053-4" xml:lang="ar" source="#bib5053-1">الخط</placeName>
+          
           <desc type="abstract" xml:id="abstract5053-1" xml:lang="en">A region stretching along the coastline of Oman and Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5053-1">الخط : بفتح أوله، وتشديد الطاء، في كتاب العين : الخط أرض تنسب إليها الرماح الخطية، فإذا جعلت النسبة اسما لازما قلت خطية ولم تذكر الرماح، وهو خط عمان، وقال أبو منصور : وذلك السيف كله يسمى الخط، ومن قرى الخط القطيف والعقير وقطر؛ قلت أنا : وجميع هذا في سيف البحرين وعمان، وهي مواضع كانت تجلب إليها الرماح القنا من الهند فتقوم فيه وتباع على العرب؛ وينسب إليها عيسى بن فاتك الخطي أحد بني تيم الله بن ثعلبة، كان من الخوارج الذين كانوا مع أبي بلاد سرداس بن أدية</quote>

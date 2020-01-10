@@ -40,7 +40,7 @@
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
           </licence>
         </availability>
-        <date>2019-12-09-06:00</date>
+        <date>2020-01-10-06:00</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -67,7 +67,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-01-10-06:00">CHANGED: merge duplicate names.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-09-06:00">CHANGED: Insert new location element and add bibl reference</change>
             <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
@@ -76,14 +76,14 @@
       <listPlace>
         <place type="open-water">
           <placeName xml:id="name5223-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Baḥr Ṭabarīya</placeName>
-          <placeName xml:id="name5223-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بحر طبرية</placeName>
+          <placeName xml:id="name5223-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5223-1">بحر طبرية</placeName>
           <placeName xml:id="name5223-3" xml:lang="en">Buḥayrat Ṭabarīya</placeName>
           <placeName xml:id="name5223-4" xml:lang="en">Sea of Galilee</placeName>
           <placeName xml:id="name5223-5" xml:lang="en">Lake Tiberias</placeName>
           <placeName xml:id="name5223-6" xml:lang="en">Kinneret</placeName>
           <placeName xml:id="name5223-7" xml:lang="en">Kinnereth</placeName>
           <placeName xml:id="name5223-8" xml:lang="ar">بحيرة طبرية</placeName>
-          <placeName xml:id="name5223-9" xml:lang="ar" source="#bib5223-1">بحر طبرية</placeName>
+          
           <desc type="abstract" xml:id="abstract5223-1" xml:lang="en">A lake in the north east of Israel/Palestine.</desc>
                     <location type="gps" subtype="representative" source="#bib5223-2">
                         <geo>32.80723 35.59279</geo>
