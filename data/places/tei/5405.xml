@@ -80,7 +80,7 @@
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5405-3" xml:lang="en">Quva</placeName>
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5405-4" xml:lang="ru">Кува</placeName>
           <placeName xml:id="name5405-5" xml:lang="ar" source="#bib5405-1">قبا</placeName>
-          <desc type="abstract" xml:id="abstract5405-1" xml:lang="en">A city in <placeName>Farghana</placeName>,</desc>
+          <desc type="abstract" xml:id="abstract5405-1" xml:lang="en">A city in <placeName>Farghana</placeName>,.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5405-1">قبا مدينة بفرغانة وقرية بيثرب ومنزل بالبادية</quote>
           </desc>

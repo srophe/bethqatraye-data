@@ -163,8 +163,7 @@
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name830-7">Isfahan</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name830-8">Esfahan</placeName>
                     <placeName xml:lang="ar" xml:id="name830-9" source="#bib830-6">أصبهان</placeName>
-                    <desc type="abstract" xml:lang="en" xml:id="abstract830-1">A city in central <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>.
-                    </desc>
+                    <desc type="abstract" xml:lang="en" xml:id="abstract830-1">A city in central <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>.</desc>
                     <location type="gps" source="#bib830-8" subtype="alternate">
                         <geo>32.65246 51.67462</geo>
                     </location>

@@ -76,7 +76,7 @@
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4495-3" xml:lang="en">Thaj</placeName>
           <placeName xml:id="name4495-4" xml:lang="ar" source="#bib4495-1">ثاج</placeName>
           
-          <desc type="abstract" xml:id="abstract4495-1" xml:lang="en">A small town located in the Bahrain region, اقليم البحرين</desc>
+          <desc type="abstract" xml:id="abstract4495-1" xml:lang="en">A small town located in the Bahrain region, اقليم البحرين.</desc>
           <desc xml:lang="ar">
             <quote source="#bib4495-1">ثأج : [...] عين من البحرين على ليال؛ وقال محمد بن إدريس اليمامي : ثاج قرية بالبحرين، قال : ومر تميم بن أبي بن مقبل العجلاني بثاج على امرأتين</quote>
           </desc>

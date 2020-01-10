@@ -73,7 +73,7 @@
           <placeName xml:id="name5567-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sitār</placeName>
           <placeName xml:id="name5567-2" xml:lang="ar" srophe:tags="#headword" source="#bib5567-1">الستار</placeName>
           
-          <desc type="abstract" xml:id="abstract5567-1" xml:lang="en">A region (nāḥiya) in Bahrain containing more than one hundred villages</desc>
+          <desc type="abstract" xml:id="abstract5567-1" xml:lang="en">A region (nāḥiya) in Bahrain containing more than one hundred villages.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5567-1">والستار : ناحية بالبحرين ذات قرى تزيد على مائة لبني امرىء القيس بن زيد مناة وأفناء سعد بن زيد مناة منها ثأج.</quote>
           </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>

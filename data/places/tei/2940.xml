@@ -116,8 +116,7 @@
             <place xml:id="place-2940" type="region">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2940-1" xml:lang="en" srophe:tags="#headword">Kirmān</placeName>
                <placeName xml:id="name2940-2" xml:lang="ar" srophe:tags="#headword" source="#bib2940-1 #bib2940-3">كرمان</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2940-1">A region in southern <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>
-               </desc>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2940-1">A region in southern <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref>.</desc>
                <desc>
                   <quote source="#bib2940-3">قال قوم مدائن لوط بين كرمان وخراسان</quote>
                </desc>

@@ -118,7 +118,7 @@
                <placeName xml:id="name2965-2" xml:lang="ar" srophe:tags="#headword" source="#bib2965-1 #bib2965-2">المغرب</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2965-3" xml:lang="en">The West</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2965-1">"The West", a region from
-                  <placeName>Morocco</placeName> to western <placeName>Libya</placeName></desc>
+                  <placeName>Morocco</placeName> to western <placeName>Libya</placeName>.</desc>
                <desc xml:lang="ar">
                   <quote source="#bib2965-2">فان قلنا المغرب فهو الاقليم</quote>
                </desc>
