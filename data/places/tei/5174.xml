@@ -77,7 +77,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5174-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Aoudaghost</placeName>
-          <placeName xml:id="name5174-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5174-1">اودغشت</placeName>
+          <placeName xml:id="name5174-2" xml:lang="ar" srophe:tags="#headword" source="#bib5174-1">اودغشت</placeName>
           <placeName xml:id="name5174-3" xml:lang="en">Awdaghost</placeName>
           <placeName xml:id="name5174-4" xml:lang="ar">أودغست</placeName>
           

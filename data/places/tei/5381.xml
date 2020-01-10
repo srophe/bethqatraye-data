@@ -76,7 +76,7 @@
       <listPlace>
         <place type="mosque">
           <placeName xml:id="name5381-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Masjid ʿĀʾisha</placeName>
-          <placeName xml:id="name5381-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5381-1">مسجد عائشة</placeName>
+          <placeName xml:id="name5381-2" xml:lang="ar" srophe:tags="#headword" source="#bib5381-1">مسجد عائشة</placeName>
           
           <desc type="abstract" xml:id="abstract5381-1" xml:lang="en">A mosque in Tanʿīm.</desc>
                     <location type="gps" source="#bib5381-2">

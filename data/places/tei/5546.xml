@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5546-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAqabat al-Suwayq</placeName>
-          <placeName xml:id="name5546-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5546-1">عقبة السويق</placeName>
+          <placeName xml:id="name5546-2" xml:lang="ar" srophe:tags="#headword" source="#bib5546-1">عقبة السويق</placeName>
           
           <desc type="abstract" xml:id="abstract5546-1" xml:lang="en">A town between Rābigh and Khulayṣ in Saudi Arabia.</desc><desc xml:lang="ar"><quote source="#bib5546-1">وسرنا من رابغ ثلاثا إلى خليص، ومررنا بعقبة السّويق، وهي على مسافة نصف يوم من خليص، كثيرة الرمل</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5546</idno>

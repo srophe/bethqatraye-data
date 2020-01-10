@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5083-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Al-Nabk</placeName>
-          <placeName xml:id="name5083-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5083-1">النبك</placeName>
+          <placeName xml:id="name5083-2" xml:lang="ar" srophe:tags="#headword" source="#bib5083-1">النبك</placeName>
           <placeName xml:id="name5083-3" xml:lang="en">Nabk</placeName>
           
           <desc type="abstract" xml:id="abstract5083-1" xml:lang="en" source="#bib5083-2">A manzil in the desert/oasis of Taymāʾ. Part of <quote>a group of villages in the extreme northwest of Saʿūdī Arabia, in the northern section of the NW-SE depression of Wādī al-Sirḥān (approx. long. 37° 40’ E. and lat. 31° 25’ N.).</quote></desc>

@@ -77,7 +77,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5528-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zabīd</placeName>
-          <placeName xml:id="name5528-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5528-1">زبيد</placeName>
+          <placeName xml:id="name5528-2" xml:lang="ar" srophe:tags="#headword" source="#bib5528-1">زبيد</placeName>
           
           <desc type="abstract" xml:id="abstract5528-1" xml:lang="en" source="#bib5528-2"><quote>[A] town in the Tihāma [q.v.] coastal plain of Yemen, at about 25 km/15 miles from the Red Sea, in a region of fertile agricultural lands irrigated by two major wādīs , Zabīd to the south and Rimaʿ to the north.</quote></desc><desc xml:lang="ar"><quote source="#bib5528-4">ثمّ رحلنا إلى مرسى الحادث ولم ننزل به، ثم إلى مرسى الأبواب، ثم إلى مدينة زبيد، مدينة عظيمة باليمن بينها وبين صنعاء أربعون فرسخا، وليس باليمن بعد صنعاء أكبر منها، ولا أغنى من أهلها</quote></desc><desc xml:lang="ar"><quote source="#bib5528-5">وخرجت لزيارة قبر هذا الرجل الصالح، وهو بقرية يقال لها: غسانة خارج زبيد.</quote></desc>
                     <location type="gps" source="#bib5528-3">

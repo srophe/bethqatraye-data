@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5278-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Farghān</placeName>
-          <placeName xml:id="name5278-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5278-1">فرغان</placeName>
+          <placeName xml:id="name5278-2" xml:lang="ar" srophe:tags="#headword" source="#bib5278-1">فرغان</placeName>
           
           <desc type="abstract" xml:id="abstract5278-1" xml:lang="en">A town in Iran.</desc><desc xml:lang="ar"><quote source="#bib5278-2">ذكر المتغلّبين على الملك بعد موت السلطان أبي سعيد (...) ومنهم حسن خواجه بن الدّمرطاش بن الجوبان، تغلب على تبريز والسلطانيّة وهمدان، وقمّ وقاشان والريّ ورامين وفرغان والكرج</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5278</idno>

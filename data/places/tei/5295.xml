@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5295-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ḥalwān</placeName>
-          <placeName xml:id="name5295-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5295-1">حلوان</placeName>
+          <placeName xml:id="name5295-2" xml:lang="ar" srophe:tags="#headword" source="#bib5295-1">حلوان</placeName>
           
           <desc type="abstract" xml:id="abstract5295-1" xml:lang="en">A village (qarya) in Nīsābūr.</desc>
           <desc xml:lang="ar">

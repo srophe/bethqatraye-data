@@ -76,7 +76,7 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5432-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Rābigh</placeName>
-          <placeName xml:id="name5432-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5432-1">رابغ</placeName>
+          <placeName xml:id="name5432-2" xml:lang="ar" srophe:tags="#headword" source="#bib5432-1">رابغ</placeName>
           <placeName xml:id="name5432-3" xml:lang="en">Rabigh</placeName>
           
           <desc type="abstract" xml:id="abstract5432-1" xml:lang="en">A valley and ancient port city north of Mecca.</desc><desc xml:lang="ar"><quote source="#bib5432-3">ورحلنا من بدر إلى الصحراء المعروفة بقاع البزواء، وهي برية يضل بها الدليل، ويذهل عن خليله الخليل. مسيرة ثلاث وفي منتهاها وادي رابغ، يتكون فيه المطر غدراناً يبقى بها الماء زمانا طويلا، ومنه يحرم حجاج مصر والمغرب وهو دون الجحفة. </quote></desc><desc xml:lang="ar"><quote source="#bib5432-4">وسرنا من رابغ ثلاثا إلى خليص#</quote></desc>

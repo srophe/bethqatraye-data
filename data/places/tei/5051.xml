@@ -76,7 +76,7 @@
       <listPlace>
         <place type="river">
           <placeName xml:id="name5051-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khābūr</placeName>
-          <placeName xml:id="name5051-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5051-1">الخابور</placeName>
+          <placeName xml:id="name5051-2" xml:lang="ar" srophe:tags="#headword" source="#bib5051-1">الخابور</placeName>
           <placeName xml:id="name5051-3" xml:lang="en">Khabur River</placeName>
           
           <desc type="abstract" xml:id="abstract5051-1" xml:lang="en">A tributary of the Euphrates in Syria.</desc>

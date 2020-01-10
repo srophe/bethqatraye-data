@@ -85,7 +85,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5043-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥilla</placeName>
-          <placeName xml:id="name5043-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5043-1">الحلة</placeName>
+          <placeName xml:id="name5043-2" xml:lang="ar" srophe:tags="#headword" source="#bib5043-1">الحلة</placeName>
           
           
           <desc type="abstract" xml:id="abstract5043-1" xml:lang="en" source="#bib5043-3"><quote>[A] town situated on the Euphrates midway between al-Kūfa and Bag̲h̲dād near the ruins of ancient Bābil.</quote></desc>

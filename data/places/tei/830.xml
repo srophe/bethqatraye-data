@@ -158,7 +158,7 @@
                     <placeName xml:id="name830-2" xml:lang="ar" source="#bib830-3">أَصبهان</placeName>
                     <placeName xml:id="name830-3" xml:lang="ar" srophe:tags="#headword" source="#bib830-5 #bib830-7">اصبهان</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name830-4">Iṣfahān</placeName>
-                    <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name830-5" source="#bib830-7">اصفهان</placeName>
+                    <placeName xml:lang="ar" xml:id="name830-5" source="#bib830-7">اصفهان</placeName>
                     <placeName xml:lang="en" xml:id="name830-6">Iṣbahān</placeName>
                     <placeName xml:lang="en" xml:id="name830-7">Isfahan</placeName>
                     <placeName xml:lang="en" xml:id="name830-8">Esfahan</placeName>

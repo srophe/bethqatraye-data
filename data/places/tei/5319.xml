@@ -76,7 +76,7 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5319-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jabal al-Qabaq</placeName>
-          <placeName xml:id="name5319-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5319-1">جبل القبق</placeName>
+          <placeName xml:id="name5319-2" xml:lang="ar" srophe:tags="#headword" source="#bib5319-1">جبل القبق</placeName>
           
           <desc type="abstract" xml:id="abstract5319-1" xml:lang="en" source="#bib5319-2"><quote>The Caucasus Mountains, located between the Black Sea and the Caspian Sea.</quote></desc>
           <desc xml:lang="ar">

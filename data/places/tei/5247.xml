@@ -75,7 +75,7 @@
       <listPlace>
         <place type="open-water">
           <placeName xml:id="name5247-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Buḥaira Aqnā</placeName>
-          <placeName xml:id="name5247-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5247-1">بحيرة أقنى</placeName>
+          <placeName xml:id="name5247-2" xml:lang="ar" srophe:tags="#headword" source="#bib5247-1">بحيرة أقنى</placeName>
           
           <desc type="abstract" xml:id="abstract5247-1" xml:lang="en">A lake.</desc>
           <desc xml:lang="ar">

@@ -76,7 +76,7 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5527-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zabīd</placeName>
-          <placeName xml:id="name5527-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5527-1">زبيد</placeName>
+          <placeName xml:id="name5527-2" xml:lang="ar" srophe:tags="#headword" source="#bib5527-1">زبيد</placeName>
           
           <desc type="abstract" xml:id="abstract5527-1" xml:lang="en">A valley located in the south west of Yemen bordering the wādī of Rimaʿ.</desc>
           <desc xml:lang="ar">

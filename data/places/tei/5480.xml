@@ -103,7 +103,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5480-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Surra man Raʾā</placeName>
-          <placeName xml:id="name5480-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5480-1">سر من رأى</placeName>
+          <placeName xml:id="name5480-2" xml:lang="ar" srophe:tags="#headword" source="#bib5480-1">سر من رأى</placeName>
           <placeName xml:id="name5480-3" xml:lang="en">Sāmarrāʾ</placeName>
           <placeName xml:id="name5480-4" xml:lang="ar">سامراء</placeName>
           

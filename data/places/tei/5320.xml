@@ -75,7 +75,7 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5320-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jabal al-Raḥma</placeName>
-          <placeName xml:id="name5320-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5320-1">جبل الرحمة</placeName>
+          <placeName xml:id="name5320-2" xml:lang="ar" srophe:tags="#headword" source="#bib5320-1">جبل الرحمة</placeName>
           
           <desc type="abstract" xml:id="abstract5320-1" xml:lang="en">A mountain in Badr.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5320</idno>

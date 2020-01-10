@@ -75,7 +75,7 @@
       <listPlace>
         <place type="province">
           <placeName xml:id="name5250-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bust</placeName>
-          <placeName xml:id="name5250-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5250-1">بست</placeName>
+          <placeName xml:id="name5250-2" xml:lang="ar" srophe:tags="#headword" source="#bib5250-1">بست</placeName>
           
           <desc type="abstract" xml:id="abstract5250-1" xml:lang="en">A province (probably in the south of Afghanistan) containing the cities of Jahālakān, Bān, Qarma, Būzād, Arḍ Dāwār, Ṣirūstān, Qarya al-Jawz, Rakhūd, Bakrāwādh, Banjawā, Kishsh, Rūdhān, Sifinjāwī, and Taliqān as well as 1,100 villages.</desc>
           <desc xml:lang="ar">

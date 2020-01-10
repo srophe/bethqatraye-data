@@ -85,7 +85,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5229-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Banj Hīr</placeName>
-          <placeName xml:id="name5229-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5229-2">بنج هير</placeName>
+          <placeName xml:id="name5229-2" xml:lang="ar" srophe:tags="#headword" source="#bib5229-2">بنج هير</placeName>
           <placeName xml:id="name5229-3" xml:lang="en">Banjhīr</placeName>
           <placeName xml:id="name5229-4" xml:lang="en">Panjhīr</placeName>
           <placeName xml:id="name5229-5" xml:lang="ar" source="#bib5229-1">بنجهير</placeName>

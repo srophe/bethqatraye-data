@@ -77,7 +77,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5552-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAththar</placeName>
-          <placeName xml:id="name5552-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5552-1">عثر</placeName>
+          <placeName xml:id="name5552-2" xml:lang="ar" srophe:tags="#headword" source="#bib5552-1">عثر</placeName>
           <placeName xml:id="name5552-3" xml:lang="en">ʿAthr</placeName>
           
           <desc type="abstract" xml:id="abstract5552-1" xml:lang="en" source="#bib5552-2"><quote>The capital of the district and a seaport of importance. It was situated on the pilgrim road from Ṣanʿāʾ, between al-Had̲j̲ar (= Ḏj̲āzān) and Bayḍ, and is quoted already in the year 11/632 as belonging to the insurgent al-Aswad [q.v.].</quote></desc>

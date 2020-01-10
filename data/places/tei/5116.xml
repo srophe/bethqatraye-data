@@ -71,7 +71,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5116-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ṣamān</placeName>
-          <placeName xml:id="name5116-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5116-1">الصمان</placeName>
+          <placeName xml:id="name5116-2" xml:lang="ar" srophe:tags="#headword" source="#bib5116-1">الصمان</placeName>
           
           <desc type="abstract" xml:id="abstract5116-1" xml:lang="en">Dry dessert plateau inhabited by Bedouin tribes.</desc>
           <desc xml:lang="ar">

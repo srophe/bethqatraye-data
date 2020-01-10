@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5054-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khawarnaq</placeName>
-          <placeName xml:id="name5054-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5054-1">الخورنق</placeName>
+          <placeName xml:id="name5054-2" xml:lang="ar" srophe:tags="#headword" source="#bib5054-1">الخورنق</placeName>
           
           <desc type="abstract" xml:id="abstract5054-1" xml:lang="en" source="#bib5054-2"><quote>In present-day Iraq, Ḵawarnaq is a place in the district al-Qādisiyya near the archeological site of al-Ḥira (q.v.) and the city of Najaf (q.v.), lat 31°48′ N, long 44°44′ E (according to http://www.maplandia.com, s.v. Khawarnaq; cf. also Salmān, maps 89-90).</quote></desc>
           <desc xml:lang="ar">

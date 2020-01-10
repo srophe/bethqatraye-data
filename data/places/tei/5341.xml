@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5341-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kārzī</placeName>
-          <placeName xml:id="name5341-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5341-1">كارزي</placeName>
+          <placeName xml:id="name5341-2" xml:lang="ar" srophe:tags="#headword" source="#bib5341-1">كارزي</placeName>
           <placeName xml:id="name5341-3" xml:lang="en">Kārzīn</placeName>
           <placeName xml:id="name5341-4" xml:lang="ar">كارزين</placeName>
           

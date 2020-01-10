@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5232-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāriq</placeName>
-          <placeName xml:id="name5232-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5232-1">بارق</placeName>
+          <placeName xml:id="name5232-2" xml:lang="ar" srophe:tags="#headword" source="#bib5232-1">بارق</placeName>
           
           <desc type="abstract" xml:id="abstract5232-1" xml:lang="en">A town southeast of Mecca.</desc>
                     <location type="gps" source="#bib5232-2">

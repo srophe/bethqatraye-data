@@ -76,7 +76,7 @@
       <listPlace>
         <place type="quarter">
           <placeName xml:id="name5149-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zāhir</placeName>
-          <placeName xml:id="name5149-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5149-1">الزاهر</placeName>
+          <placeName xml:id="name5149-2" xml:lang="ar" srophe:tags="#headword" source="#bib5149-1">الزاهر</placeName>
           
           <desc type="abstract" xml:id="abstract5149-1" xml:lang="en">A quarter in Mecca.</desc>
                     <location type="gps" source="#bib5149-2">

@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5179-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Astarābad</placeName>
-          <placeName xml:id="name5179-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5179-1">استراباد</placeName>
+          <placeName xml:id="name5179-2" xml:lang="ar" srophe:tags="#headword" source="#bib5179-1">استراباد</placeName>
           
           <desc type="abstract" xml:id="abstract5179-1" xml:lang="en">A village in Nisā (?) of Khurāsān.</desc>
           <desc xml:lang="ar">

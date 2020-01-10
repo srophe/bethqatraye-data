@@ -77,7 +77,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5474-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sīrāf</placeName>
-          <placeName xml:id="name5474-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5474-1">قيس</placeName>
+          <placeName xml:id="name5474-2" xml:lang="ar" srophe:tags="#headword" source="#bib5474-1">قيس</placeName>
           <placeName xml:id="name5474-3" xml:lang="en">Qīs</placeName>
           <placeName xml:id="name5474-4" xml:lang="ar" source="#bib5474-1">سيراف</placeName>
           

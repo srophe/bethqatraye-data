@@ -75,7 +75,7 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5044-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Jabal al-Makhrūq</placeName>
-          <placeName xml:id="name5044-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5044-1">الجبل المخروق</placeName>
+          <placeName xml:id="name5044-2" xml:lang="ar" srophe:tags="#headword" source="#bib5044-1">الجبل المخروق</placeName>
           
           <desc type="abstract" xml:id="abstract5044-1" xml:lang="en">A mountain in Ḥāʾil.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5044</idno>

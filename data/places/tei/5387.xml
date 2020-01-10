@@ -85,7 +85,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5387-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Minā</placeName>
-          <placeName xml:id="name5387-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5387-1">منى</placeName>
+          <placeName xml:id="name5387-2" xml:lang="ar" srophe:tags="#headword" source="#bib5387-1">منى</placeName>
           
           <placeName xml:id="name5387-4" xml:lang="ar" source="#bib5387-2">منی</placeName>
           <desc type="abstract" xml:id="abstract5387-1" xml:lang="en" source="#bib5387-3"><quote>[A] place in the hills east of Mecca on the road from it to ʿArafa [...].</quote></desc>

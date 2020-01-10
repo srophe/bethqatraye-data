@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5337-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kalbā</placeName>
-          <placeName xml:id="name5337-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5337-1">كلبا</placeName>
+          <placeName xml:id="name5337-2" xml:lang="ar" srophe:tags="#headword" source="#bib5337-1">كلبا</placeName>
           <placeName xml:id="name5337-3" xml:lang="en">Kalbāʾ</placeName>
           <placeName xml:id="name5337-4" xml:lang="ar">كلباء</placeName>
           <placeName xml:id="name5337-5" xml:lang="ar">كلبة</placeName>

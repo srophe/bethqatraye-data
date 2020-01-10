@@ -76,7 +76,7 @@
       <listPlace>
         <place type="mosque">
           <placeName xml:id="name5370-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mashhad Jarjīs</placeName>
-          <placeName xml:id="name5370-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5370-1">مشهد جرجيس</placeName>
+          <placeName xml:id="name5370-2" xml:lang="ar" srophe:tags="#headword" source="#bib5370-1">مشهد جرجيس</placeName>
           
           <desc type="abstract" xml:id="abstract5370-1" xml:lang="en">The tomb of George and a mosque named after him in Mosul.</desc>
                     <location type="gps" source="#bib5370-2">

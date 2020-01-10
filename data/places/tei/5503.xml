@@ -83,7 +83,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5503-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṭukhāristān</placeName>
-          <placeName xml:id="name5503-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5503-2">طخارستان</placeName>
+          <placeName xml:id="name5503-2" xml:lang="ar" srophe:tags="#headword" source="#bib5503-2">طخارستان</placeName>
           <placeName xml:id="name5503-3" xml:lang="en">Tocharistan</placeName>
           <placeName xml:id="name5503-4" xml:lang="ar" source="#bib5503-1">طخيرستان</placeName>
           

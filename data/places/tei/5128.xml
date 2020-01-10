@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5128-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Shuqūq</placeName>
-          <placeName xml:id="name5128-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5128-1">الشقوق</placeName>
+          <placeName xml:id="name5128-2" xml:lang="ar" srophe:tags="#headword" source="#bib5128-1">الشقوق</placeName>
           
           <desc type="abstract" xml:id="abstract5128-1" xml:lang="en">A town in the north of the Arabian Peninsula south of Zubāla. The town is part of the Darb Zubayda, the famous pilgrim highway from al-ʿIrāq to Ḥijāz.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5128</idno>

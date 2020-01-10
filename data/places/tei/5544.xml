@@ -84,7 +84,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5544-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAqabat al-Ayla</placeName>
-          <placeName xml:id="name5544-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5544-1">عقبة أيلة</placeName>
+          <placeName xml:id="name5544-2" xml:lang="ar" srophe:tags="#headword" source="#bib5544-1">عقبة أيلة</placeName>
           <placeName xml:id="name5544-3" xml:lang="en">ʿAqaba</placeName>
           <placeName xml:id="name5544-4" xml:lang="en">Aqaba</placeName>
           <placeName xml:id="name5544-5" xml:lang="en">Eilat</placeName>

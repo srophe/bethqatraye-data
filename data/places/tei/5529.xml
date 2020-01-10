@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5529-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zakī</placeName>
-          <placeName xml:id="name5529-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5529-1">زكي</placeName>
+          <placeName xml:id="name5529-2" xml:lang="ar" srophe:tags="#headword" source="#bib5529-1">زكي</placeName>
           
           <desc type="abstract" xml:id="abstract5529-1" xml:lang="en">A town located in modern day-Fujayra, previously part of the ʿUmān region.</desc><desc xml:lang="ar"><quote source="#bib5529-1">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5529</idno>

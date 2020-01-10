@@ -75,7 +75,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5547-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAqabat al-Ṣuwwān</placeName>
-          <placeName xml:id="name5547-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5547-1">عقبة الصوان</placeName>
+          <placeName xml:id="name5547-2" xml:lang="ar" srophe:tags="#headword" source="#bib5547-1">عقبة الصوان</placeName>
           
           <desc type="abstract" xml:id="abstract5547-1" xml:lang="en">A mountainous region in north Jordan.</desc><desc xml:lang="ar"><quote source="#bib5547-1">ثم ارتحلتا الى معان، وهو آخر بلاد الشام، ونزلنا من عقبة الصوان الى الصحراء التي يقال فيها: داخلها مفقود وخارجها مولود.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5547</idno>

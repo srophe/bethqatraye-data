@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5028-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Farāsh</placeName>
-          <placeName xml:id="name5028-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5028-1">الفراش</placeName>
+          <placeName xml:id="name5028-2" xml:lang="ar" srophe:tags="#headword" source="#bib5028-1">الفراش</placeName>
           <placeName xml:id="name5028-3" xml:lang="en">Farāshā</placeName>
           <placeName xml:id="name5028-4" xml:lang="ar" source="#bib5028-1">فراشا</placeName>
           

@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5526-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Yazdukhāṣ</placeName>
-          <placeName xml:id="name5526-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5526-1">يزدخاص</placeName>
+          <placeName xml:id="name5526-2" xml:lang="ar" srophe:tags="#headword" source="#bib5526-1">يزدخاص</placeName>
           <placeName xml:id="name5526-3" xml:lang="en">Izadkhast</placeName>
           <placeName xml:id="name5526-4" xml:lang="ar">ايزدخواست</placeName>
           

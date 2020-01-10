@@ -75,7 +75,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5559-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿIrāq al-ʿArab</placeName>
-          <placeName xml:id="name5559-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5559-1">عراق العرب</placeName>
+          <placeName xml:id="name5559-2" xml:lang="ar" srophe:tags="#headword" source="#bib5559-1">عراق العرب</placeName>
           
           <desc type="abstract" xml:id="abstract5559-1" xml:lang="en">The part of al-ʿIrāq that is predominantly Arab.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5559</idno>

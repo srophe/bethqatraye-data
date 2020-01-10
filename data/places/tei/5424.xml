@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5424-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qubbat Umm Salama</placeName>
-          <placeName xml:id="name5424-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5424-1">قبة أم سلمة</placeName>
+          <placeName xml:id="name5424-2" xml:lang="ar" srophe:tags="#headword" source="#bib5424-1">قبة أم سلمة</placeName>
           
           <desc type="abstract" xml:id="abstract5424-1" xml:lang="en">According to Ibn Jubayr the tomb of Umm Salama is located on top of a mountain close to Mecca.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5424</idno>

@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5397-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Nublān</placeName>
-          <placeName xml:id="name5397-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5397-1">نبلان</placeName>
+          <placeName xml:id="name5397-2" xml:lang="ar" srophe:tags="#headword" source="#bib5397-1">نبلان</placeName>
           
           <desc type="abstract" xml:id="abstract5397-1" xml:lang="en">A village located between Fīrūzān and Isfahan in Iran.</desc><desc xml:lang="ar"><quote source="#bib5397-1">ومررنا بالغد بقرية يقال لها نبلان، وهي كبيرة على نهر عظيم، وإلى جانبه مسجد على النهاية من الحسن، تصعد إليه في درج، وتحفّه البساتين.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5397</idno>

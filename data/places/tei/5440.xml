@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5440-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Raʾs al-Radm</placeName>
-          <placeName xml:id="name5440-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5440-1">رأس الردم</placeName>
+          <placeName xml:id="name5440-2" xml:lang="ar" srophe:tags="#headword" source="#bib5440-1">رأس الردم</placeName>
           
           <desc type="abstract" xml:id="abstract5440-1" xml:lang="en">A place in Mecca.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5440</idno>

@@ -103,7 +103,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5307-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Hīt</placeName>
-          <placeName xml:id="name5307-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5307-2">هيت</placeName>
+          <placeName xml:id="name5307-2" xml:lang="ar" srophe:tags="#headword" source="#bib5307-2">هيت</placeName>
           <placeName xml:id="name5307-3" xml:lang="en">Idu</placeName>
           <placeName xml:id="name5307-4" xml:lang="en">Diacira</placeName>
           

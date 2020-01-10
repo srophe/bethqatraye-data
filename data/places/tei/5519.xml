@@ -83,7 +83,7 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5519-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Wādī Nakhla</placeName>
-          <placeName xml:id="name5519-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5519-1">وادي نخلة</placeName>
+          <placeName xml:id="name5519-2" xml:lang="ar" srophe:tags="#headword" source="#bib5519-1">وادي نخلة</placeName>
           <placeName xml:id="name5519-3" xml:lang="en">Nakhla</placeName>
           <placeName xml:id="name5519-4" xml:lang="ar" source="#bib5519-2">نخلة</placeName>
           

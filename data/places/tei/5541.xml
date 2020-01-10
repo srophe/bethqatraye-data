@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5541-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAbra</placeName>
-          <placeName xml:id="name5541-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5541-1">عبرة</placeName>
+          <placeName xml:id="name5541-2" xml:lang="ar" srophe:tags="#headword" source="#bib5541-1">عبرة</placeName>
           
           <desc type="abstract" xml:id="abstract5541-1" xml:lang="en">Located on the road to Aden.</desc>
           <desc xml:lang="ar">

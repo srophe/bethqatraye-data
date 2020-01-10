@@ -75,7 +75,7 @@
       <listPlace>
         <place type="quarter">
           <placeName xml:id="name5143-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Wasīṭa</placeName>
-          <placeName xml:id="name5143-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5143-1">الوسيطة</placeName>
+          <placeName xml:id="name5143-2" xml:lang="ar" srophe:tags="#headword" source="#bib5143-1">الوسيطة</placeName>
           
           <desc type="abstract" xml:id="abstract5143-1" xml:lang="en">Most likely a quarter in Baghdād.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5143</idno>

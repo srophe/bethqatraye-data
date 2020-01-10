@@ -76,7 +76,7 @@
       <listPlace>
         <place type="fortification">
           <placeName xml:id="name5382-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Masyāf</placeName>
-          <placeName xml:id="name5382-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5382-1">مصياف</placeName>
+          <placeName xml:id="name5382-2" xml:lang="ar" srophe:tags="#headword" source="#bib5382-1">مصياف</placeName>
           <placeName xml:id="name5382-3" xml:lang="en">Masyād</placeName>
           <placeName xml:id="name5382-4" xml:lang="ar">مصياد</placeName>
           

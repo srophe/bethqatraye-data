@@ -76,7 +76,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5422-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qubbat Ḥawāʾ</placeName>
-          <placeName xml:id="name5422-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5422-1">قبة حواء</placeName>
+          <placeName xml:id="name5422-2" xml:lang="ar" srophe:tags="#headword" source="#bib5422-1">قبة حواء</placeName>
           
           <desc type="abstract" xml:id="abstract5422-1" xml:lang="en">The tomb/shrine of Eve in Jeddah.</desc>
                     <location type="gps" source="#bib5422-2">

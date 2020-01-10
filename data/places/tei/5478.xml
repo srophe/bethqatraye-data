@@ -75,7 +75,7 @@
       <listPlace>
         <place type="quarter">
           <placeName xml:id="name5478-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sūq al-Māristān</placeName>
-          <placeName xml:id="name5478-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5478-1">سوق المارستان</placeName>
+          <placeName xml:id="name5478-2" xml:lang="ar" srophe:tags="#headword" source="#bib5478-1">سوق المارستان</placeName>
           
           <desc type="abstract" xml:id="abstract5478-1" xml:lang="en">A quarter in Baghdād.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5478</idno>

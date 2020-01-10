@@ -71,7 +71,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5081-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Muzairaʿa</placeName>
-          <placeName xml:id="name5081-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5081-1">المُزَيْرَعَة</placeName>
+          <placeName xml:id="name5081-2" xml:lang="ar" srophe:tags="#headword" source="#bib5081-1">المُزَيْرَعَة</placeName>
           <placeName xml:id="name5081-3" xml:lang="en">al-Muzayraʿa</placeName>
           
           <desc type="abstract" xml:id="abstract5081-1" xml:lang="en">A village in al-Baḥrayn.</desc>

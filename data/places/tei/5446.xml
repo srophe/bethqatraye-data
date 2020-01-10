@@ -71,7 +71,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5446-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sābūr</placeName>
-          <placeName xml:id="name5446-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5446-1">سابور</placeName>
+          <placeName xml:id="name5446-2" xml:lang="ar" srophe:tags="#headword" source="#bib5446-1">سابور</placeName>
           
           <desc type="abstract" xml:id="abstract5446-1" xml:lang="en">A settlement in al-Baḥrayn.</desc>
           <desc xml:lang="ar">

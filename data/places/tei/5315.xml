@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5315-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Irānshahr</placeName>
-          <placeName xml:id="name5315-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5315-1">ايرانشهر</placeName>
+          <placeName xml:id="name5315-2" xml:lang="ar" srophe:tags="#headword" source="#bib5315-1">ايرانشهر</placeName>
           
           <desc type="abstract" xml:id="abstract5315-1" xml:lang="en">A city to the south of Zahdān.</desc>
           <desc xml:lang="ar">

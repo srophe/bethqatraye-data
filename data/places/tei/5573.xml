@@ -77,7 +77,7 @@
       <listPlace>
         <place type="province">
           <placeName xml:id="name5573-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Abyan</placeName>
-          <placeName xml:id="name5573-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5573-1">أبين</placeName>
+          <placeName xml:id="name5573-2" xml:lang="ar" srophe:tags="#headword" source="#bib5573-1">أبين</placeName>
           
           <desc type="abstract" xml:id="abstract5573-1" xml:lang="en" source="#bib5573-2"><quote>[The ʿAdan Abyan] district ( mik̲h̲lāf ) in Yaman in the Wādī Banā, comprising several castles and the seaport of ʿAdan .</quote>. There is a settlement of the same name <ref target="https://bqgazetteer.bethmardutho.org/place/5006">
             <placeName ref="http://syriaca.org/place/5006">Abyan</placeName></ref> contained in the district.</desc>

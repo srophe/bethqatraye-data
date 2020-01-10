@@ -76,7 +76,7 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5159-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-ʿAqīq</placeName>
-          <placeName xml:id="name5159-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5159-1">العقيق</placeName>
+          <placeName xml:id="name5159-2" xml:lang="ar" srophe:tags="#headword" source="#bib5159-1">العقيق</placeName>
           
           <desc type="abstract" xml:id="abstract5159-1" xml:lang="en">A valley to the south of Medina.</desc><desc xml:lang="ar"><quote source="#bib5159-1">وكان رحيلنا من المدينة، نريد مكة شرفهما الله تعالى. فنزلنا بقرب مسجد ذي الحليفة الذي أحرم منه رسول الله صلى الله عليه وسلم، والمدينة منه على خمسة أميال، وهو منتهى حرم المدينة. وبالقرب منه وادي العقيق.</quote></desc>
                     <location type="gps" source="#bib5159-2">

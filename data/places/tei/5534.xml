@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5534-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zawīla</placeName>
-          <placeName xml:id="name5534-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5534-1">زويلة</placeName>
+          <placeName xml:id="name5534-2" xml:lang="ar" srophe:tags="#headword" source="#bib5534-1">زويلة</placeName>
           
           <desc type="abstract" xml:id="abstract5534-1" xml:lang="en" source="#bib5534-2"><quote>The mediaeval Islamic capital of the Fazzān [q.v.], today south-western Libya (lat. 26° 11’ N., long. 15° 06’ E.).</quote></desc>
           <desc xml:lang="ar">

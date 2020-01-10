@@ -75,7 +75,7 @@
       <listPlace>
         <place type="state">
           <placeName xml:id="name5401-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Pecheneg Khanate</placeName>
-          <placeName xml:id="name5401-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5401-1">البجناكة</placeName>
+          <placeName xml:id="name5401-2" xml:lang="ar" srophe:tags="#headword" source="#bib5401-1">البجناكة</placeName>
           <placeName xml:id="name5401-3" xml:lang="ar" source="#bib5401-2">بجناك</placeName>
           
           

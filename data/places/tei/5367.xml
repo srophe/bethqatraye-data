@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5367-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Marsā Hāsik</placeName>
-          <placeName xml:id="name5367-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5367-1">مرسى حاسك</placeName>
+          <placeName xml:id="name5367-2" xml:lang="ar" srophe:tags="#headword" source="#bib5367-1">مرسى حاسك</placeName>
           
           <desc type="abstract" xml:id="abstract5367-1" xml:lang="en">A port city in ʿUmān.</desc>
                     <location type="gps" source="#bib5367-2">

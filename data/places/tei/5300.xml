@@ -83,7 +83,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5300-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ḥarba</placeName>
-          <placeName xml:id="name5300-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5300-2">حربة</placeName>
+          <placeName xml:id="name5300-2" xml:lang="ar" srophe:tags="#headword" source="#bib5300-2">حربة</placeName>
           <placeName xml:id="name5300-3" xml:lang="ar" source="#bib5300-1">الحربة</placeName>
           
           <desc type="abstract" xml:id="abstract5300-1" xml:lang="en">A village in al-ʿIrāq near Tikrīt.</desc><desc xml:lang="ar"><quote source="#bib5300-2">ثم نزلنا بعد يومين بقرية كبيرة تعرف بحربة، مخصبة فسیحة</quote></desc>

@@ -71,7 +71,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5084-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Nahrayn</placeName>
-          <placeName xml:id="name5084-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5084-1">النهرين</placeName>
+          <placeName xml:id="name5084-2" xml:lang="ar" srophe:tags="#headword" source="#bib5084-1">النهرين</placeName>
           
           <desc type="abstract" xml:id="abstract5084-1" xml:lang="en">A place in which a certain al-Qarmaṭī resided.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5084</idno>

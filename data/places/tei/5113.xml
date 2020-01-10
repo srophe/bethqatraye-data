@@ -76,7 +76,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5113-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ṣafrāʾ</placeName>
-          <placeName xml:id="name5113-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5113-1">الصفراء</placeName>
+          <placeName xml:id="name5113-2" xml:lang="ar" srophe:tags="#headword" source="#bib5113-1">الصفراء</placeName>
           
           <desc type="abstract" xml:id="abstract5113-1" xml:lang="en">A valley southwest of Medina.</desc><desc xml:lang="ar"><quote source="#bib5113-1">ثم رحلنا ونزلنا بالصفراء. وهو واد معمور، فيه ماء ونخل وبنيان، وقصر يسكنه الشّرفاء الحسنيون وسواهم، وفيها حصن كبير، ووتواليه حصون كثيرة وقرى متصلة،</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5113-2">

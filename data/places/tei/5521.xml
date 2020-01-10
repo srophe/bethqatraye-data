@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5521-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Warqū</placeName>
-          <placeName xml:id="name5521-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5521-1">ورقو</placeName>
+          <placeName xml:id="name5521-2" xml:lang="ar" srophe:tags="#headword" source="#bib5521-1">ورقو</placeName>
           
           <desc type="abstract" xml:id="abstract5521-1" xml:lang="en">An otherwise, unspecified town, likely in Iran.</desc><desc xml:lang="ar"><quote source="#bib5521-1">ومنهم محمّد شاه ابن مظفر تغلّب على يزد وكرمان وورقو</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5521</idno>

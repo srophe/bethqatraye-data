@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5215-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb Jiyād al-Akbar</placeName>
-          <placeName xml:id="name5215-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5215-1">باب جياد الأكبر</placeName>
+          <placeName xml:id="name5215-2" xml:lang="ar" srophe:tags="#headword" source="#bib5215-1">باب جياد الأكبر</placeName>
           
           <desc type="abstract" xml:id="abstract5215-1" xml:lang="en">One of the entrances to the Great Mosque in Mecca.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5215</idno>

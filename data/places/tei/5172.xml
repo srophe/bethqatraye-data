@@ -83,7 +83,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5172-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-ʿUqr</placeName>
-          <placeName xml:id="name5172-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5172-1">العقر</placeName>
+          <placeName xml:id="name5172-2" xml:lang="ar" srophe:tags="#headword" source="#bib5172-1">العقر</placeName>
           <placeName xml:id="name5172-3" xml:lang="en">al-ʿAqr</placeName>
           
           

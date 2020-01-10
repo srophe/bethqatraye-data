@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5202-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb al-Sharīʿa</placeName>
-          <placeName xml:id="name5202-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5202-1">باب الشريعة</placeName>
+          <placeName xml:id="name5202-2" xml:lang="ar" srophe:tags="#headword" source="#bib5202-1">باب الشريعة</placeName>
           
           <desc type="abstract" xml:id="abstract5202-1" xml:lang="en">One of the gates of the walls of Medina.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5202</idno>

@@ -77,7 +77,7 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5323-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jabal Ḥirāʾ</placeName>
-          <placeName xml:id="name5323-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5323-1">جبل حراء</placeName>
+          <placeName xml:id="name5323-2" xml:lang="ar" srophe:tags="#headword" source="#bib5323-1">جبل حراء</placeName>
           <placeName xml:id="name5323-3" xml:lang="en">Jabal Ḥarāʾ</placeName>
           <placeName xml:id="name5323-4" xml:lang="en">Jabal al-Nūr</placeName>
           <placeName xml:id="name5323-5" xml:lang="ar">جبل النور</placeName>

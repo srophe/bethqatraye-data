@@ -77,7 +77,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5117-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Samāwa</placeName>
-          <placeName xml:id="name5117-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5117-1">السماوة</placeName>
+          <placeName xml:id="name5117-2" xml:lang="ar" srophe:tags="#headword" source="#bib5117-1">السماوة</placeName>
           
           <desc type="abstract" xml:id="abstract5117-1" xml:lang="en" source="#bib5117-2"><quote>Al-Samāwa was the name given, in the definition of al-Bakrī ( Muʿd̲j̲am mā staʿd̲j̲am , Cairo 1364-71/1945-51, iii, 754, copied by Yāḳūt, Buldān , ed. Beirut, iii, 245), during mediaeval Islamic times to the desert and steppeland lying between al-Kūfa and Syria.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5117-3">

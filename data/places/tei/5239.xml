@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5239-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bezd</placeName>
-          <placeName xml:id="name5239-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5239-1">بزد</placeName>
+          <placeName xml:id="name5239-2" xml:lang="ar" srophe:tags="#headword" source="#bib5239-1">بزد</placeName>
           <placeName xml:id="name5239-3" xml:lang="en">Bazd</placeName>
           
           <desc type="abstract" xml:id="abstract5239-1" xml:lang="en">A village located in Khorasan Province of modern day-Iran.</desc><desc xml:lang="ar"><quote source="#bib5239-3">واشتدّت شوكته وطمحت همّته إلى تملك ما يليه من البلاد فبدأ بالأقرب منها وهي مدينة بزد، مدينة حسنة نظيفة عجيبة الأسواق ذات أنهار مطّردة وأشجار نضيرة وأهلها تجار شافعيّة المذهب فحاصرها وتغلب عليها وتحصن الأمير مظفّر شاه ابن الامير محمد شاه بن مظفر بقلعة على ستة أميال منها منيعة تحدق بها الرمال فحاصره بها.</quote></desc>

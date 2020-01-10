@@ -104,7 +104,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5284-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Ḥaḍramawt</placeName>
-          <placeName xml:id="name5284-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5284-2">حضرموت</placeName>
+          <placeName xml:id="name5284-2" xml:lang="ar" srophe:tags="#headword" source="#bib5284-2">حضرموت</placeName>
           
           <desc type="abstract" xml:id="abstract5284-1" xml:lang="en" source="#bib5284-3"><quote>The name Ḥaḍramawt is applicable in its strictest sense to the deep
             valley running parallel to the southern coast of Arabia from roughly 48° E. to 50° E.,

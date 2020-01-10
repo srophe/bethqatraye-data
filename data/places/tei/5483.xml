@@ -75,7 +75,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5483-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Syria</placeName>
-          <placeName xml:id="name5483-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5483-1">الشام</placeName>
+          <placeName xml:id="name5483-2" xml:lang="ar" srophe:tags="#headword" source="#bib5483-1">الشام</placeName>
           <placeName xml:id="name5483-3" xml:lang="en">al-Shām</placeName>
           
           <desc type="abstract" xml:id="abstract5483-1" xml:lang="en">Historical region located between Mediterranean Sea and region of ʿIrāq.</desc>

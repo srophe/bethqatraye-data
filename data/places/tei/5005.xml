@@ -94,7 +94,7 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5005-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Abū Qubays</placeName>
-          <placeName xml:id="name5005-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5005-1">أبو قبيس</placeName>
+          <placeName xml:id="name5005-2" xml:lang="ar" srophe:tags="#headword" source="#bib5005-1">أبو قبيس</placeName>
           
           <desc type="abstract" xml:id="abstract5005-1" xml:lang="en" source="#bib5005-2"><quote>[A]
               sacred hill on the eastern edge of Mecca.</quote></desc>

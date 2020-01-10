@@ -76,7 +76,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5473-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sīnāʾ</placeName>
-          <placeName xml:id="name5473-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5473-1">سيناء</placeName>
+          <placeName xml:id="name5473-2" xml:lang="ar" srophe:tags="#headword" source="#bib5473-1">سيناء</placeName>
           <placeName xml:id="name5473-3" xml:lang="en">Sinai</placeName>
           
           <desc type="abstract" xml:id="abstract5473-1" xml:lang="en">The peninsula in between the Gulf of Suez, the Red Sea, and the Gulf of ʿAqaba.</desc><desc xml:lang="ar"><quote source="#bib5473-3">الرمال: يقصد بالرمال: شبه جزيرة سيناء.</quote></desc>

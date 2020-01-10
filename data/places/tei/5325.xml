@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5325-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jahālakān</placeName>
-          <placeName xml:id="name5325-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5325-1">جهالكان</placeName>
+          <placeName xml:id="name5325-2" xml:lang="ar" srophe:tags="#headword" source="#bib5325-1">جهالكان</placeName>
           
           <desc type="abstract" xml:id="abstract5325-1" xml:lang="en">A city located in the (district) kūra of Bust.</desc>
           <desc xml:lang="ar">

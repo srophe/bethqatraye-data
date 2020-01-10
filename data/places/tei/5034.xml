@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5034-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥajar</placeName>
-          <placeName xml:id="name5034-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5034-1">الحجر</placeName>
+          <placeName xml:id="name5034-2" xml:lang="ar" srophe:tags="#headword" source="#bib5034-1">الحجر</placeName>
           
           <desc type="abstract" xml:id="abstract5034-1" xml:lang="en">A town located 55 km from al-ʿUlā in the Medina Region.</desc><desc xml:lang="ar"><quote source="#bib5034-1">وبين الحجر والعلا نصف يوم أو دونه</quote></desc>
                     <location type="gps" source="#bib5034-2">

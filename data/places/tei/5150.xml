@@ -76,7 +76,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5150-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zanqa</placeName>
-          <placeName xml:id="name5150-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5150-1">بلبونس</placeName>
+          <placeName xml:id="name5150-2" xml:lang="ar" srophe:tags="#headword" source="#bib5150-1">بلبونس</placeName>
           <placeName xml:id="name5150-3" xml:lang="en">Balbūnas</placeName>
           <placeName xml:id="name5150-4" xml:lang="en">Bīlūbūnīz</placeName>
           <placeName xml:id="name5150-5" xml:lang="en">Peloponnese</placeName>

@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5329-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jarwan</placeName>
-          <placeName xml:id="name5329-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5329-1">جرون</placeName>
+          <placeName xml:id="name5329-2" xml:lang="ar" srophe:tags="#headword" source="#bib5329-1">جرون</placeName>
           
           <desc type="abstract" xml:id="abstract5329-1" xml:lang="en">A town located on the island of Hormuz.</desc><desc xml:lang="ar"><quote source="#bib5329-3">ووصلنا إلى هرمز الجديدة، وهي جزيرة مدينتها تسمى جرون (بفتح الجيم والراء وآخرها نون)، وهي مدينة حسنة كبيرة لها أسواق حافلة، وهي مرسى الهند والسند</quote></desc><desc xml:lang="ar"><quote source="#bib5329-4">ثم سافرنا من مدينة جرون برسم لقاء رجل صالح ببلد خنج بال.</quote></desc>
                     <location type="gps" source="#bib5329-2">

@@ -76,7 +76,7 @@
       <listPlace>
         <place type="province">
           <placeName xml:id="name5282-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ghaznīn</placeName>
-          <placeName xml:id="name5282-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5282-1">غزنين</placeName>
+          <placeName xml:id="name5282-2" xml:lang="ar" srophe:tags="#headword" source="#bib5282-1">غزنين</placeName>
           
           <desc type="abstract" xml:id="abstract5282-1" xml:lang="en">A province located next to Bust province in the region of Kābulistan.</desc>
           <desc xml:lang="ar">

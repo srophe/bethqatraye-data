@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5396-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Nizwā</placeName>
-          <placeName xml:id="name5396-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5396-1">نزوا</placeName>
+          <placeName xml:id="name5396-2" xml:lang="ar" srophe:tags="#headword" source="#bib5396-1">نزوا</placeName>
           <placeName xml:id="name5396-3" xml:lang="ar">نزوى</placeName>
           
           <desc type="abstract" xml:id="abstract5396-1" xml:lang="en">A town southwest of Muscat.</desc><desc xml:lang="ar"><quote source="#bib5396-1">ووصلنا إلى قاعدة هذه البلاد وهي مدينة نزوا (وضبط اسمها بنون مفتوح وزاي مسكن وواو مفتوح)، مدينة في سفح جبل، تحف بها البساتين والأنهار.</quote></desc>

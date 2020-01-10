@@ -83,7 +83,7 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5165-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-ʿUdhayb</placeName>
-          <placeName xml:id="name5165-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5165-1">العذيب</placeName>
+          <placeName xml:id="name5165-2" xml:lang="ar" srophe:tags="#headword" source="#bib5165-1">العذيب</placeName>
           
           
           <desc type="abstract" xml:id="abstract5165-1" xml:lang="en">A valley in southern Iraq.</desc><desc xml:lang="ar"><quote source="#bib5165-1">ثم نزلنا موضعا يعرف بالعذيب، وهو واد مخصب عليه عمارة وحوله فلاة خصبة فيها مسرح للبصر.</quote></desc>

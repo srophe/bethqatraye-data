@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5033-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥadath</placeName>
-          <placeName xml:id="name5033-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5033-1">الحدث</placeName>
+          <placeName xml:id="name5033-2" xml:lang="ar" srophe:tags="#headword" source="#bib5033-1">الحدث</placeName>
           
           <desc type="abstract" xml:id="abstract5033-1" xml:lang="en" source="#bib5033-2">A town in Qenneshrin. A <quote>town, which today has disappeared, in the province of the ʿAwāṣim [q.v.], situated in a plain at an altitude of 1000 metres at the foot of the Taurus, near to the three lakes on the upper course of the Ak Su, one of the principal tributaries of the D̲j̲ayḥān.</quote></desc>
           <desc xml:lang="ar">

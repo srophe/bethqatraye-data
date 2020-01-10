@@ -77,7 +77,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5166-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-ʿUlā</placeName>
-          <placeName xml:id="name5166-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5166-1">العلا</placeName>
+          <placeName xml:id="name5166-2" xml:lang="ar" srophe:tags="#headword" source="#bib5166-1">العلا</placeName>
           
           <desc type="abstract" xml:id="abstract5166-1" xml:lang="en" source="#bib5166-2"><quote>[A] town of the Ḥid̲j̲āz in north-western Arabia, lying in what was the early Islamic Wādī ’l-Ḳurā, at the southeastern end of the Ḥarrat al-ʿUwayriḍ and below a hill called Umm Nāṣir (lat. 26° 38ʹ N., long. 37° 57ʹ E., altitude 674 m/2,210 feet).</quote></desc><desc xml:lang="ar"><quote source="#bib5166-4">ومن عادة حجاج الشام إذا وصلوا منزل تبوك، أخذوا أسلحتهم، وجرّدوا سيوفهم، وحملوا على المنزل وضربوا النخيل بسيوفهم، ويقولون: هكذا دخلها رسول الله صلى الله عليه وسلم. وينزل الركب العظيم على هذه العين فيروي منها جميعهم، ويقيمون أربعة أيام للراحة وإرواء الجمال واستعداد الماء للبرية المخوفة التي بين العلا وتبوك.</quote></desc><desc xml:lang="ar"><quote source="#bib5166-5">ثم سافرنا من المدينة الشريفة الى العلا وتبوك</quote></desc>
                     <location type="gps" source="#bib5166-3">

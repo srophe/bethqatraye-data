@@ -75,7 +75,7 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5497-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Thabīr</placeName>
-          <placeName xml:id="name5497-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5497-1">ثبير</placeName>
+          <placeName xml:id="name5497-2" xml:lang="ar" srophe:tags="#headword" source="#bib5497-1">ثبير</placeName>
           
           <desc type="abstract" xml:id="abstract5497-1" xml:lang="en" source="#bib5497-2"><quote>[A] mountain outside Mecca, on the north side of the valley of Minā [...].</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5497</idno>

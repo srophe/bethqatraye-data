@@ -116,7 +116,7 @@
       <listPlace>
         <place type="valley">
           <placeName xml:id="name5001-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">(Baṭn) ʿUrana</placeName>
-          <placeName xml:id="name5001-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5001-1">بطن عرنة</placeName>
+          <placeName xml:id="name5001-2" xml:lang="ar" srophe:tags="#headword" source="#bib5001-1">بطن عرنة</placeName>
           
           
           <desc type="abstract" xml:id="abstract5001-1" xml:lang="en">A small depression close to

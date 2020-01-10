@@ -83,7 +83,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5074-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Munīḥa</placeName>
-          <placeName xml:id="name5074-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5074-1">المنيحة</placeName>
+          <placeName xml:id="name5074-2" xml:lang="ar" srophe:tags="#headword" source="#bib5074-1">المنيحة</placeName>
           
           
           <desc type="abstract" xml:id="abstract5074-1" xml:lang="en">A village to the east of Damascus.</desc><desc xml:lang="ar"><quote source="#bib5074-1">وبقرية تعرف بالمنيحة شرقي دمشق وعلى أربعة أميال منها قبر سعد ابن عبادة</quote></desc>

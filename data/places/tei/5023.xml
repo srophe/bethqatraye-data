@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5023-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Daskara</placeName>
-          <placeName xml:id="name5023-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5023-1">الدسكرة</placeName>
+          <placeName xml:id="name5023-2" xml:lang="ar" srophe:tags="#headword" source="#bib5023-1">الدسكرة</placeName>
           
           <desc type="abstract" xml:id="abstract5023-1" xml:lang="en">A settlement in Khūzistān.</desc>
           <desc xml:lang="ar">

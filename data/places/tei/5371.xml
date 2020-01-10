@@ -75,7 +75,7 @@
       <listPlace>
         <place type="building">
           <placeName xml:id="name5371-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mashhad ʿAlī</placeName>
-          <placeName xml:id="name5371-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5371-1">مشهد علي</placeName>
+          <placeName xml:id="name5371-2" xml:lang="ar" srophe:tags="#headword" source="#bib5371-1">مشهد علي</placeName>
           
           <desc type="abstract" xml:id="abstract5371-1" xml:lang="en">A shrine named after ʿAlī b. Abī Ṭālib west of Kufa.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5371</idno>

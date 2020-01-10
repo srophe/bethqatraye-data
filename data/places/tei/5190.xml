@@ -76,7 +76,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5190-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb al-Jisr</placeName>
-          <placeName xml:id="name5190-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5190-1">باب الجسر</placeName>
+          <placeName xml:id="name5190-2" xml:lang="ar" srophe:tags="#headword" source="#bib5190-1">باب الجسر</placeName>
           
           <desc type="abstract" xml:id="abstract5190-1" xml:lang="en">Entrance to a bridge in Mosul.</desc>
                     <location type="gps" source="#bib5190-2">

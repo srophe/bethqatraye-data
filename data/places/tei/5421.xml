@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5421-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qubbat Ḥajr al-Zayt</placeName>
-          <placeName xml:id="name5421-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5421-1">قبة حجر الزيت</placeName>
+          <placeName xml:id="name5421-2" xml:lang="ar" srophe:tags="#headword" source="#bib5421-1">قبة حجر الزيت</placeName>
           
           <desc type="abstract" xml:id="abstract5421-1" xml:lang="en">Located near Medina.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5421</idno>

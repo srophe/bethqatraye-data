@@ -75,7 +75,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5508-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Umm ʿUbayda</placeName>
-          <placeName xml:id="name5508-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5508-1">أم عبيدة</placeName>
+          <placeName xml:id="name5508-2" xml:lang="ar" srophe:tags="#headword" source="#bib5508-1">أم عبيدة</placeName>
           
           <desc type="abstract" xml:id="abstract5508-1" xml:lang="en">A village in the region of al-Baṭīḥa in lower Iraq.</desc><desc xml:lang="ar"><quote source="#bib5508-2">يحكى أن الشيخ الولي أحمد الرفاعي رضي الله عنه كان مسكنه بأم عبيدة بمقربة من مدينة واسط</quote></desc><desc xml:lang="ar"><quote source="#bib5508-3">فسنح لي زيارة قبر الولي أبي العباس أحمد الرفاعي، وهو بقرية تعرف بأم عبيدة، على مسيرة يوم من واسط.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5508</idno>

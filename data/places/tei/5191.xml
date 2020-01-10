@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5191-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb al-Khashya</placeName>
-          <placeName xml:id="name5191-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5191-1">باب الخشية</placeName>
+          <placeName xml:id="name5191-2" xml:lang="ar" srophe:tags="#headword" source="#bib5191-1">باب الخشية</placeName>
           <placeName xml:id="name5191-3" xml:lang="en">Bāb al-Salām</placeName>
           <placeName xml:id="name5191-4" xml:lang="en">Bāb al-Khushūʿ</placeName>
           <placeName xml:id="name5191-5" xml:lang="ar">باب السّلام</placeName>

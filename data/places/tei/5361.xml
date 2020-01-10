@@ -77,7 +77,7 @@
       <listPlace>
         <place type="region">
           <placeName xml:id="name5361-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mahra</placeName>
-          <placeName xml:id="name5361-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5361-1">مهرة</placeName>
+          <placeName xml:id="name5361-2" xml:lang="ar" srophe:tags="#headword" source="#bib5361-1">مهرة</placeName>
           <placeName xml:id="name5361-3" xml:lang="en">al-Mahra</placeName>
           <placeName xml:id="name5361-4" xml:lang="ar">المهرة</placeName>
           

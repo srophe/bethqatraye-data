@@ -76,7 +76,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5538-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Zurʿa</placeName>
-          <placeName xml:id="name5538-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5538-1">زرعة</placeName>
+          <placeName xml:id="name5538-2" xml:lang="ar" srophe:tags="#headword" source="#bib5538-1">زرعة</placeName>
           <placeName xml:id="name5538-3" xml:lang="en">Azraʿ</placeName>
           <placeName xml:id="name5538-4" xml:lang="ar">أزرع</placeName>
           

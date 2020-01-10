@@ -75,7 +75,7 @@
       <listPlace>
         <place type="mountain">
           <placeName xml:id="name5011-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Akama</placeName>
-          <placeName xml:id="name5011-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5011-1">الأكمة</placeName>
+          <placeName xml:id="name5011-2" xml:lang="ar" srophe:tags="#headword" source="#bib5011-1">الأكمة</placeName>
           
           <desc type="abstract" xml:id="abstract5011-1" xml:lang="en">A hill opposite the Masjid ʿĀʾisha in al-Tanʿīm.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5011</idno>

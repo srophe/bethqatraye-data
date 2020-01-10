@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5210-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb Badr</placeName>
-          <placeName xml:id="name5210-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5210-1">باب بدر</placeName>
+          <placeName xml:id="name5210-2" xml:lang="ar" srophe:tags="#headword" source="#bib5210-1">باب بدر</placeName>
           
           <desc type="abstract" xml:id="abstract5210-1" xml:lang="en">One of the gates of Dār al-Khilāfa in Baghdād.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5210</idno>

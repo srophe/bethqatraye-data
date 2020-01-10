@@ -76,7 +76,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5246-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Biʾr Rūma</placeName>
-          <placeName xml:id="name5246-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5246-1">بئر رومة</placeName>
+          <placeName xml:id="name5246-2" xml:lang="ar" srophe:tags="#headword" source="#bib5246-1">بئر رومة</placeName>
           
           <desc type="abstract" xml:id="abstract5246-1" xml:lang="en">A well in Medina.</desc>
                     <location type="gps" source="#bib5246-2">

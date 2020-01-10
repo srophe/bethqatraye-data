@@ -76,7 +76,7 @@
       <listPlace>
         <place type="mosque">
           <placeName xml:id="name5378-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Masjid Rasūl Allāh</placeName>
-          <placeName xml:id="name5378-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5378-1">مسجد رسول الله</placeName>
+          <placeName xml:id="name5378-2" xml:lang="ar" srophe:tags="#headword" source="#bib5378-1">مسجد رسول الله</placeName>
           <placeName xml:id="name5378-3" xml:lang="en">al-Masjid al-Nabawī</placeName>
           <placeName xml:id="name5378-4" xml:lang="en">al-Ḥaram al-Nabawī</placeName>
           <placeName xml:id="name5378-5" xml:lang="en">Masjid al-Nabī</placeName>

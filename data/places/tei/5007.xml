@@ -76,7 +76,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5007-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Abṭaḥ</placeName>
-          <placeName xml:id="name5007-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5007-1">الأبطح</placeName>
+          <placeName xml:id="name5007-2" xml:lang="ar" srophe:tags="#headword" source="#bib5007-1">الأبطح</placeName>
           
           <desc type="abstract" xml:id="abstract5007-1" xml:lang="en">A place located between Mecca and Minā.</desc>
                     <location type="gps" subtype="representative" source="#bib5007-2">

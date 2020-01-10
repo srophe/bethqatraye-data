@@ -75,7 +75,7 @@
       <listPlace>
         <place type="building">
           <placeName xml:id="name5261-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Dār Khadīja</placeName>
-          <placeName xml:id="name5261-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5261-1">دار خديجة</placeName>
+          <placeName xml:id="name5261-2" xml:lang="ar" srophe:tags="#headword" source="#bib5261-1">دار خديجة</placeName>
           
           <desc type="abstract" xml:id="abstract5261-1" xml:lang="en">A building in Mecca.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5261</idno>

@@ -101,7 +101,7 @@
       <listPlace>
         <place type="settlement">
           <placeName xml:id="name5555-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">ʿAyn al-Raṣad</placeName>
-          <placeName xml:id="name5555-2" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword" source="#bib5555-2">عين الرصد</placeName>
+          <placeName xml:id="name5555-2" xml:lang="ar" srophe:tags="#headword" source="#bib5555-2">عين الرصد</placeName>
           <placeName xml:id="name5555-3" xml:lang="ar" source="#bib5555-1 #bib5555-2">عين
             الرصد</placeName>
           <desc type="abstract" xml:id="abstract5555-1" xml:lang="en">A village in Iraq close to

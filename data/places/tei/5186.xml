@@ -75,7 +75,7 @@
       <listPlace>
         <place type="unknown">
           <placeName xml:id="name5186-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb al-Buṣayla</placeName>
-          <placeName xml:id="name5186-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org" source="#bib5186-1">باب البصيلة</placeName>
+          <placeName xml:id="name5186-2" xml:lang="ar" srophe:tags="#headword" source="#bib5186-1">باب البصيلة</placeName>
           
           <desc type="abstract" xml:id="abstract5186-1" xml:lang="en">One of the gates of Baghdād.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5186</idno>
