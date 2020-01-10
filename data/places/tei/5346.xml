@@ -77,8 +77,8 @@
         <place type="settlement">
           <placeName xml:id="name5346-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Khanj Bāl</placeName>
           <placeName xml:id="name5346-2" xml:lang="ar" srophe:tags="#headword" source="#bib5346-1">خنج بال</placeName>
-          <placeName xml:id="name5346-3" xml:lang="en">Khonj</placeName>
-          <placeName xml:id="name5346-4" xml:lang="en">Khunj</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5346-3" xml:lang="en">Khonj</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5346-4" xml:lang="en">Khunj</placeName>
           
           <desc type="abstract" xml:id="abstract5346-1" xml:lang="en">A town in Fars Province close to Lār.</desc><desc xml:lang="ar"><quote source="#bib5346-3">ثم سافرنا من مدينة جرون برسم لقاء رجل صالح ببلد خنج بال.</quote></desc><desc xml:lang="ar"><quote source="#bib5346-4">ووصلنا إلى مدينة لار (وآخر اسمها راء)، مدينة كبيرة كثيرة العيون والمياه المطّردة والبساتين. ولها أسواق حسان، ونزلنا منها بزاوية الشيخ العابد أبي دلف محمّد وهو الذي قصدنا زيارته بخنج بال.</quote></desc><desc xml:lang="ar"><quote source="#bib5346-5">ثم سافرنا إلى مدينة خنج بال (وضبط اسمها بضمّ الخاء المعجم وقد يعوّض منه هاء واسكان النون وضم الجيم وباء معقودة والف ولام)، وبها سكنى الشيخ أبي دلف الذي قصدنا زيارته، وبزاويته نزلنا. (...) وسمعت أن بالمدينة خنج بال المذكورة زاوية فيها جملة من الصالحين المتعبّدين، فرحت إليها بالعشيّ، وسلّمت على شيخهم وعليهم </quote></desc><desc xml:lang="ar"><quote source="#bib5346-6">وسافرنا في البر إلى كورستان ثم إلى اللّار ثم إلى خنج بال</quote></desc>
                     <location type="gps" source="#bib5346-2">

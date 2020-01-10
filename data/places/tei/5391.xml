@@ -77,7 +77,7 @@
         <place type="settlement">
           <placeName xml:id="name5391-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Nablus</placeName>
           <placeName xml:id="name5391-2" xml:lang="ar" srophe:tags="#headword" source="#bib5391-1">نابلس</placeName>
-          <placeName xml:id="name5391-3" xml:lang="en">Nāblus</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5391-3" xml:lang="en">Nāblus</placeName>
           
           <desc type="abstract" xml:id="abstract5391-1" xml:lang="en">A city of Palestine located between Mt. Gerizim and Mt. Ebal.</desc>
           <desc xml:lang="ar">

@@ -138,7 +138,7 @@
             <listPlace>
                 <place xml:id="place-43" type="river">
                     <placeName xml:id="name43-1" xml:lang="en" srophe:tags="#headword" source="#bib43-1">Balikh</placeName>
-                    <placeName xml:id="name43-2" xml:lang="syr" srophe:tags="#headword">ܢܗܪ
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name43-2" xml:lang="syr" srophe:tags="#headword">ܢܗܪ
                         ܒܐܠܚ</placeName>
                     <placeName xml:id="name43-3" xml:lang="syr-Syrj" source="#bib43-2">ܢܗܰܪ
                         ܒܰܐܠܚ</placeName>

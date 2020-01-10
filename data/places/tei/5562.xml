@@ -76,7 +76,7 @@
         <place type="settlement">
           <placeName xml:id="name5562-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zubaydiyya</placeName>
           <placeName xml:id="name5562-2" xml:lang="ar" srophe:tags="#headword" source="#bib5562-1">الزبيدية</placeName>
-          <placeName xml:id="name5562-3" xml:lang="en">al-Zubaydīya</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5562-3" xml:lang="en">al-Zubaydīya</placeName>
           
           <desc type="abstract" xml:id="abstract5562-1" xml:lang="en">A campsite/place (manzil) in al-Jibāl.</desc>
           <desc xml:lang="ar">

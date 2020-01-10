@@ -76,8 +76,8 @@
         <place type="state">
           <placeName xml:id="name5013-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ankaburda</placeName>
           <placeName xml:id="name5013-2" xml:lang="ar" srophe:tags="#headword" source="#bib5013-1">الانكبردة</placeName>
-          <placeName xml:id="name5013-3" xml:lang="en">Lombards</placeName>
-          <placeName xml:id="name5013-4" xml:lang="ar">اللومبارديون</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5013-3" xml:lang="en">Lombards</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5013-4" xml:lang="ar">اللومبارديون</placeName>
           
           <desc type="abstract" xml:id="abstract5013-1" xml:lang="en">An empire in pre-modern Italy.</desc>
           <desc xml:lang="ar">

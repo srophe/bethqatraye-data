@@ -97,8 +97,8 @@
         <body>
             <listPlace>
                 <place xml:id="place-3009" type="island">
-                    <placeName xml:id="name3009-1" xml:lang="en" srophe:tags="#headword">Toduru</placeName>
-                    <placeName xml:id="name3009-2" xml:lang="ar" srophe:tags="#headword">تدورو</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3009-1" xml:lang="en" srophe:tags="#headword">Toduru</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3009-2" xml:lang="ar" srophe:tags="#headword">تدورو</placeName>
                     <placeName xml:id="name3009-3" xml:lang="syr" srophe:tags="#headword" source="#bib3009-1">ܬܕܘܪܘ</placeName>
                     <placeName xml:id="name3009-4" xml:lang="syr" source="#bib3009-1">ܬܘܕܘܪܘ</placeName>
                     <placeName xml:id="name3009-5" xml:lang="fr" source="#bib3009-1">Tȏdourou</placeName>

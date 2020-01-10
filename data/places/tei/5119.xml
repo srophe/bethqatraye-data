@@ -78,8 +78,8 @@
         <place type="mountain">
           <placeName xml:id="name5119-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sarāt</placeName>
           <placeName xml:id="name5119-2" xml:lang="ar" srophe:tags="#headword" source="#bib5119-1">السراة</placeName>
-          <placeName xml:id="name5119-3" xml:lang="en">al-Sarawāt</placeName>
-          <placeName xml:id="name5119-4" xml:lang="ar">السروات</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5119-3" xml:lang="en">al-Sarawāt</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5119-4" xml:lang="ar">السروات</placeName>
           
           <desc type="abstract" xml:id="abstract5119-1" xml:lang="en" source="#bib5119-2"><quote>[T]he collective name, not particularly widespread, of the chains of mountains which run from the Gulf of ʿAḳaba down to the Gulf of Aden [...].</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5119-3">

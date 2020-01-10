@@ -128,7 +128,7 @@
         <place type="mountain">
           <placeName xml:id="name5109-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ṣafā</placeName>
           <placeName xml:id="name5109-2" xml:lang="ar" srophe:tags="#headword" source="#bib5109-2">الصفا</placeName>
-          <placeName xml:id="name5109-3" xml:lang="ar">الصَّفَا</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5109-3" xml:lang="ar">الصَّفَا</placeName>
           
           
           

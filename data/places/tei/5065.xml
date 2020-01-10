@@ -85,7 +85,7 @@
         <place type="mountain">
           <placeName xml:id="name5065-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Marwa</placeName>
           <placeName xml:id="name5065-2" xml:lang="ar" srophe:tags="#headword" source="#bib5065-1">المروة</placeName>
-          <placeName xml:id="name5065-3" xml:lang="en">Marwa</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5065-3" xml:lang="en">Marwa</placeName>
           
           
           <desc type="abstract" xml:id="abstract5065-1" xml:lang="en">A hill in Mecca that is part of the ḥajj and ʿumra rituals.</desc>

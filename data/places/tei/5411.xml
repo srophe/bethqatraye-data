@@ -76,8 +76,8 @@
         <place type="region">
           <placeName xml:id="name5411-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qarah Aghaj</placeName>
           <placeName xml:id="name5411-2" xml:lang="ar" srophe:tags="#headword" source="#bib5411-1">قرا أغاج</placeName>
-          <placeName xml:id="name5411-3" xml:lang="en">Qarā Aghāj</placeName>
-          <placeName xml:id="name5411-4" xml:lang="ar">قره‌آغاج</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5411-3" xml:lang="en">Qarā Aghāj</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5411-4" xml:lang="ar">قره‌آغاج</placeName>
           
           <desc type="abstract" xml:id="abstract5411-1" xml:lang="en">A desert in the northeast of Iran.</desc><desc xml:lang="ar"><quote source="#bib5411-1">ولمّا وصلنا الى مدينته كان غائبا عنها فأقمنا بها أيّاما ثم قدم فأكرمنا وأركبنا وزوّدنا، وانصرفنا على طريق قرا أغاج وقرا (بفتح القاف) تفسيره أسود (وأغاج بفتح الهمزة والغين المعجم وآخره جيم) تفسيره الخشب، وهي صحراء خضرة يسكنها التركمان.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5411</idno>

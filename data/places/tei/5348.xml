@@ -85,7 +85,7 @@
         <place type="settlement">
           <placeName xml:id="name5348-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Khulayṣ</placeName>
           <placeName xml:id="name5348-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">خليص</placeName>
-          <placeName xml:id="name5348-3" xml:lang="en">Khulaiṣ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5348-3" xml:lang="en">Khulaiṣ</placeName>
           <placeName xml:id="name5348-4" xml:lang="ar" source="#bib5348-1">خليص</placeName>
           
           <desc type="abstract" xml:id="abstract5348-1" xml:lang="en">A town northwest of Mecca.</desc><desc xml:lang="ar"><quote source="#bib5348-4">وسرنا من رابغ ثلاثا إلى خليص، ومررنا بعقبة السّويق، وهي على مسافة نصف يوم من خليص (...) ثم نزلنا بركة خليص وهي في بسيط من الأرض، كثيرة حدائق النخل، لها حصن مشيد في قنّة جبل (...) ثم رحلنا إلى عسفان وهي في بسيط من الأرض، بين جبال، وبها آبار ماء معين، تنسب إحداها إلى عثمان بن عفان رضي الله عنه. والمدرّج المنسوب إلى عثمان أيضا على مسافة نصف يوم من خليص</quote></desc><desc xml:lang="ar"><quote source="#bib5348-5">وفي هذا الركب الأسواق الحافلة والمرافق العظيمة وأنواع الأطعمة والفواكه وهم يسيرون باللّيل ويوقدون المشاعل أمام القطار والمحارات، فترى الأرض تتلألأ نورا والليل قد عاد نهارا ساطعا ثم رحلنا من بطن مرّ إلى عسفان، ثم إلى خليص ثم رحلنا أربع مراحل ونزلنا وادي السمك، ثم رحلنا خمسا ونزلنا في بدر</quote></desc>

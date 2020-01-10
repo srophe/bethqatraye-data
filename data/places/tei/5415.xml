@@ -72,7 +72,7 @@
         <place type="settlement">
           <placeName xml:id="name5415-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qatar</placeName>
           <placeName xml:id="name5415-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">قَطَرُ</placeName>
-          <placeName xml:id="name5415-3" xml:lang="en">Qaṭar</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5415-3" xml:lang="en">Qaṭar</placeName>
           <placeName xml:id="name5415-4" xml:lang="ar" source="#bib5415-1">قطر</placeName>
           <desc type="abstract" xml:id="abstract5415-1" xml:lang="en">A village located in the region of al-Baḥrayn between al-ʿUqair and ʿUmān known for the production of textiles.</desc>
           <desc xml:lang="ar">

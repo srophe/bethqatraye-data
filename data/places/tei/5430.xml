@@ -78,9 +78,9 @@
         <place type="settlement">
           <placeName xml:id="name5430-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qurṭuba</placeName>
           <placeName xml:id="name5430-2" xml:lang="ar" srophe:tags="#headword" source="#bib5430-1">قرطبة</placeName>
-          <placeName xml:id="name5430-3" xml:lang="en">Córdoba</placeName>
-          <placeName xml:id="name5430-4" xml:lang="en">Cordoba</placeName>
-          <placeName xml:id="name5430-5" xml:lang="en">Cordova</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5430-3" xml:lang="en">Córdoba</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5430-4" xml:lang="en">Cordoba</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5430-5" xml:lang="en">Cordova</placeName>
           
           <desc type="abstract" xml:id="abstract5430-1" xml:lang="en" source="#bib5430-2"><quote>[A] town of southern Spain situated at 370 feet above sea-level on the right (north) bank of the central course of the Guadalquivir (from the Arabic al-Wādī al-Kabīr "the great river"), the ancient Baetis, with 1,234,000 inhabitants, is at the present day the capital of the province of the same name which lies on both sides of the river in the heart of Andalusia.</quote></desc>
           <desc xml:lang="ar">

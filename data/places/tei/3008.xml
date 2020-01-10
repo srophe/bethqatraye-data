@@ -97,8 +97,8 @@
         <body>
             <listPlace>
                 <place xml:id="place-3008" type="island">
-                    <placeName xml:id="name3008-1" xml:lang="en" srophe:tags="#headword">Arday</placeName>
-                    <placeName xml:id="name3008-2" xml:lang="ar" srophe:tags="#headword">اردي</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3008-1" xml:lang="en" srophe:tags="#headword">Arday</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3008-2" xml:lang="ar" srophe:tags="#headword">اردي</placeName>
                     <placeName xml:id="name3008-3" xml:lang="syr" srophe:tags="#headword" source="#bib3008-1">ܐܪܕܝ</placeName>
                     <placeName xml:id="name3008-4" xml:lang="fr" source="#bib3008-1">Ardai</placeName>
                     <desc type="abstract" xml:id="abstract3008-1" xml:lang="en">One of the islands in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref>

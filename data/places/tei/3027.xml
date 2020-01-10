@@ -95,9 +95,9 @@
       <body>
          <listPlace>
             <place xml:id="place-3027" type="diocese">
-               <placeName xml:id="name3027-1" xml:lang="en" srophe:tags="#headword">Arday
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3027-1" xml:lang="en" srophe:tags="#headword">Arday
                   and Toduru</placeName>
-               <placeName xml:id="name3027-2" xml:lang="ar" srophe:tags="#headword">اردي
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3027-2" xml:lang="ar" srophe:tags="#headword">اردي
                   وتدورو</placeName>
                <placeName xml:id="name3027-3" xml:lang="syr" srophe:tags="#headword" source="#bib3027-1">ܓܙܪ̈ܬܐ ܕܐܪܕܝ ܘܕܬܘܕܘܪܘ</placeName>
                <placeName xml:id="name3027-4" xml:lang="fr" source="#bib3027-1">Les Ȋles de Ardai et

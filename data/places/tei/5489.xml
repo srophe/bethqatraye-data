@@ -77,7 +77,7 @@
         <place type="settlement">
           <placeName xml:id="name5489-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Tamentfoust</placeName>
           <placeName xml:id="name5489-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">تمنتفوست</placeName>
-          <placeName xml:id="name5489-3" xml:lang="en">Rusguniae</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5489-3" xml:lang="en">Rusguniae</placeName>
           <placeName xml:id="name5489-4" xml:lang="ar" source="#bib5489-1">تامدفوست مرسى</placeName>
           <desc type="abstract" xml:id="abstract5489-1" xml:lang="en">A city located at the coastline of Northern Africa.</desc>
           <desc xml:lang="ar">

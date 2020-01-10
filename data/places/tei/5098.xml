@@ -78,11 +78,11 @@
         <place type="settlement">
           <placeName xml:id="name5098-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qulzum</placeName>
           <placeName xml:id="name5098-2" xml:lang="ar" srophe:tags="#headword" source="#bib5098-1">القلزم</placeName>
-          <placeName xml:id="name5098-3" xml:lang="en">Qulzum</placeName>
-          <placeName xml:id="name5098-4" xml:lang="en">Klysma</placeName>
-          <placeName xml:id="name5098-5" xml:lang="en">Clysma</placeName>
-          <placeName xml:id="name5098-6" xml:lang="en">Clysmo</placeName>
-          <placeName xml:id="name5098-7" xml:lang="en">Ovilia</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5098-3" xml:lang="en">Qulzum</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5098-4" xml:lang="en">Klysma</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5098-5" xml:lang="en">Clysma</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5098-6" xml:lang="en">Clysmo</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5098-7" xml:lang="en">Ovilia</placeName>
           
           <desc type="abstract" xml:id="abstract5098-1" xml:lang="en" source="#bib5098-2"><quote>[A]n ancient town and seaport on the Red Sea (A. Baḥr al-Ḳulzum [q.v.], Baḥr al-Hind or Baḥr al-Ḥabas̲h̲a), now administratively in the province (muḥāfaẓa) of al-Suways.</quote></desc>
           <desc xml:lang="ar">

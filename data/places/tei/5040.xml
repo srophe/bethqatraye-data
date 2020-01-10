@@ -77,16 +77,16 @@
         <place type="settlement">
           <placeName xml:id="name5040-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥawīzā</placeName>
           <placeName xml:id="name5040-2" xml:lang="ar" srophe:tags="#headword" source="#bib5040-1">الحويزا</placeName>
-          <placeName xml:id="name5040-3" xml:lang="en">al-Ḥawīzāʾ</placeName>
-          <placeName xml:id="name5040-4" xml:lang="en">al-Hawīza</placeName>
-          <placeName xml:id="name5040-5" xml:lang="en">Hawīza</placeName>
-          <placeName xml:id="name5040-6" xml:lang="en">Hoveyzeh</placeName>
-          <placeName xml:id="name5040-7" xml:lang="en">Hawīzeh</placeName>
-          <placeName xml:id="name5040-8" xml:lang="en">Hūzgān</placeName>
-          <placeName xml:id="name5040-9" xml:lang="en">Khūzgān</placeName>
-          <placeName xml:id="name5040-10" xml:lang="ar">الحويزاء</placeName>
-          <placeName xml:id="name5040-11" xml:lang="ar">الهويزة</placeName>
-          <placeName xml:id="name5040-12" xml:lang="ar">هویزه‎</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-3" xml:lang="en">al-Ḥawīzāʾ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-4" xml:lang="en">al-Hawīza</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-5" xml:lang="en">Hawīza</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-6" xml:lang="en">Hoveyzeh</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-7" xml:lang="en">Hawīzeh</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-8" xml:lang="en">Hūzgān</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-9" xml:lang="en">Khūzgān</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-10" xml:lang="ar">الحويزاء</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-11" xml:lang="ar">الهويزة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5040-12" xml:lang="ar">هویزه‎</placeName>
           
           <desc type="abstract" xml:id="abstract5040-1" xml:lang="en">A city located between Tustar and Baṣra in Khuzestan.</desc><desc xml:lang="ar"><quote source="#bib5040-3">والحويزا على مسيرة ثلاث أيام من البصرة</quote></desc><desc xml:lang="ar"><quote source="#bib5040-4">ثم يافرتا منها الى الحويزاء بالزاي، وهي مدينة صغيرة يسكنها العجم، بينها وبين البصرة مسيرة أربع، وبينها وبين الكوفة مسيرة خمس</quote></desc><desc xml:lang="ar"><quote source="#bib5040-5">ثم سافرت إلى ماين، ثم إلى يزدخاص، ثم إلى كليل، ثم إلى كشك زر، ثم إلى أصبهان، ثم إلى تستر، ثم إلى الحويزا، ثم إلى البصرة#</quote></desc>
                     <location type="gps" source="#bib5040-2">

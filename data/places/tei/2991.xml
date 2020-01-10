@@ -116,10 +116,10 @@
       <body>
          <listPlace>
             <place xml:id="place-2991" type="settlement">
-               <placeName xml:id="name2991-1" xml:lang="en" srophe:tags="#headword">Qumm</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2991-1" xml:lang="en" srophe:tags="#headword">Qumm</placeName>
                <placeName xml:id="name2991-2" xml:lang="ar" srophe:tags="#headword" source="#bib2991-2 #bib2991-3">قم</placeName>
                <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2991-3">Qum</placeName>
-               <placeName xml:lang="en" xml:id="name2991-4">Qom</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name2991-4">Qom</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2991-1" source="#bib2991-4"><quote>[A] city of central Iran
                   (Media in ancient times, later D̲j̲ibāl or ʿIrāḳ-i ad̲j̲am) situated in lat.
                   34°38′ N. and long. 50°58′ E., 150 km. to the south of Tehran.</quote></desc>

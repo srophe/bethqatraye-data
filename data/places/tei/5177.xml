@@ -78,14 +78,14 @@
         <place type="region">
           <placeName xml:id="name5177-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ashrūsand</placeName>
           <placeName xml:id="name5177-2" xml:lang="ar" srophe:tags="#headword" source="#bib5177-1">اشروسنة</placeName>
-          <placeName xml:id="name5177-3" xml:lang="en">Osrushana</placeName>
-          <placeName xml:id="name5177-4" xml:lang="en">Oshrūsana</placeName>
-          <placeName xml:id="name5177-5" xml:lang="en">Istarawshan</placeName>
-          <placeName xml:id="name5177-6" xml:lang="en">Sudujshana</placeName>
-          <placeName xml:id="name5177-7" xml:lang="en">Usrushana</placeName>
-          <placeName xml:id="name5177-8" xml:lang="en">Usrūshana</placeName>
-          <placeName xml:id="name5177-9" xml:lang="en">Ustrushana</placeName>
-          <placeName xml:id="name5177-10" xml:lang="en">Eastern Cao</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-3" xml:lang="en">Osrushana</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-4" xml:lang="en">Oshrūsana</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-5" xml:lang="en">Istarawshan</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-6" xml:lang="en">Sudujshana</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-7" xml:lang="en">Usrushana</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-8" xml:lang="en">Usrūshana</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-9" xml:lang="en">Ustrushana</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5177-10" xml:lang="en">Eastern Cao</placeName>
           
           <desc type="abstract" xml:id="abstract5177-1" xml:lang="en" source="#bib5177-2"><quote>[T]he name of a region lying to the west of Farg̲h̲āna [q.v.] in mediaeval Islamic Transoxania, now falling in the region where the eastern part of the Uzbekistan Republic, the northernmost part of the Tajikistan Republic and the easternmost part of the Kirghiz Republic meet.</quote></desc>
           <desc xml:lang="ar">

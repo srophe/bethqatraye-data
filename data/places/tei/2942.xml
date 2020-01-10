@@ -119,7 +119,7 @@
       <body>
          <listPlace>
             <place xml:id="place-2942" type="region">
-               <placeName xml:id="name2942-1" xml:lang="en" srophe:tags="#headword">ʿUmān</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2942-1" xml:lang="en" srophe:tags="#headword">ʿUmān</placeName>
                <placeName xml:id="name2942-2" xml:lang="ar" srophe:tags="#headword" source="#bib2942-1 #bib2942-2">عمان</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2942-1">A region in eastern <ref target="https://bqgazetteer.bethmardutho.org/place/716"><placeName ref="http://syriaca.org/place/716">Arabia</placeName></ref>
                </desc>

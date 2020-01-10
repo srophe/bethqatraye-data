@@ -152,17 +152,17 @@
                 <place xml:id="place-211" type="settlement">
                     <placeName xml:id="name211-1" xml:lang="en" srophe:tags="#headword" source="#bib211-2">Peruz Shapur</placeName>
                     <placeName xml:id="name211-2" xml:lang="en" source="#bib211-2">al-Anbār</placeName>
-                    <placeName xml:id="name211-3" xml:lang="syr" srophe:tags="#headword">ܐܢܒܐܪ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name211-3" xml:lang="syr" srophe:tags="#headword">ܐܢܒܐܪ</placeName>
                     <placeName xml:id="name211-4" xml:lang="syr-Syrj" source="#bib211-3">ܐܰܢܒܰܐܪ</placeName>
                     <placeName xml:id="name211-5" xml:lang="ar" source="#bib211-4 #bib211-10" srophe:tags="#headword">الانبار</placeName>
                     <placeName xml:id="name211-6" xml:lang="en" source="#bib211-5">al-ʾAnbar</placeName>
                     <placeName xml:id="name211-7" xml:lang="en" source="#bib211-6">Anbar</placeName>
                     <placeName xml:id="name211-8" xml:lang="ar" source="#bib211-8 #bib211-15">فيروزسابور</placeName>
                     <placeName xml:id="name211-9" xml:lang="ar" source="#bib211-8 #bib211-15">الأَنبار</placeName>
-                    <placeName xml:id="name211-10" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name211-10" xml:lang="en-x-srp1" srophe:tags="#syriaca-simplified-script">al-ʾAnbar</placeName>
                     
                     <placeName xml:lang="ar" source="#bib211-9" xml:id="name211-12">الأنبار</placeName>
-                    <placeName xml:lang="en" xml:id="name211-13">Al Anbar</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name211-13">Al Anbar</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract211-1" source="#bib211-11">A <quote>town on the left
                         bank of the <placeName>Euphrates</placeName>, 43° 43’ E, 33° 22.5’ N.</quote></desc>
                     <desc xml:id="abstract-en-211" xml:lang="en">

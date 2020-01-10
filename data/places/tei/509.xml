@@ -135,7 +135,7 @@
             <listPlace>
                 <place xml:id="place-509" type="settlement">
                     <placeName xml:id="name509-1" xml:lang="en" srophe:tags="#headword" source="#bib509-1">al-Wāsiṭ</placeName>
-                    <placeName xml:id="name509-2" xml:lang="syr" srophe:tags="#headword">ܘܐܣܛ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name509-2" xml:lang="syr" srophe:tags="#headword">ܘܐܣܛ</placeName>
                     <placeName xml:id="name509-3" xml:lang="syr-Syrj" source="#bib509-2">ܘܰܐܣܛ</placeName>
                     <placeName xml:id="name509-4" xml:lang="ar" source="#bib509-3 #bib509-5 #bib509-6 #bib509-7" srophe:tags="#headword">واسط</placeName>
                     <placeName xml:id="name509-5" xml:lang="en" source="#bib509-4">Wasit</placeName>

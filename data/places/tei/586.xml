@@ -156,18 +156,18 @@
             <listPlace>
                 <place xml:id="place-586" type="settlement">
                     <placeName xml:id="name586-1" xml:lang="en" srophe:tags="#headword" source="#bib586-1 #bib586-4 #bib586-5 #bib586-6">Constantinople</placeName>
-                    <placeName xml:id="name586-2" xml:lang="syr" srophe:tags="#headword">ܩܘܣܛܢܛܝܢܘܦܘܠܝܣ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name586-2" xml:lang="syr" srophe:tags="#headword">ܩܘܣܛܢܛܝܢܘܦܘܠܝܣ</placeName>
                     <placeName xml:id="name586-3" xml:lang="syr-Syrj" source="#bib586-2">ܩܘܣܛܰܢܛܝܢܘܦܳܘܠܝܣ</placeName>
                     <placeName xml:id="name586-4" xml:lang="ar" srophe:tags="#headword" source="#bib586-3 #bib586-9">القسطنطينية</placeName>
                     <placeName xml:id="name586-5" xml:lang="ar" source="#bib586-8 #bib586-12">قسطنطينية</placeName>
                     <placeName xml:id="name586-6" xml:lang="ar" source="#bib586-8 #bib586-12">اصطنْبُوْل</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name586-7">Byzantium</placeName>
-                    <placeName xml:lang="en" xml:id="name586-8">Constantinopolis</placeName>
-                    <placeName xml:lang="en" xml:id="name586-9">Istanbul</placeName>
-                    <placeName xml:lang="en" xml:id="name586-10">Konstantinopel</placeName>
-                    <placeName xml:lang="en" xml:id="name586-11">Βυζάντιον</placeName>
-                    <placeName xml:lang="en" xml:id="name586-12">Κωνσταντινούπολις</placeName>
-                    <placeName xml:lang="ar" xml:id="name586-13">إسطنبول</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name586-8">Constantinopolis</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name586-9">Istanbul</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name586-10">Konstantinopel</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name586-11">Βυζάντιον</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name586-12">Κωνσταντινούπολις</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="ar" xml:id="name586-13">إسطنبول</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract586-1">The capital of the
                         <placeName>Byzantine Empire</placeName>.</desc>
                     <desc xml:lang="ar">

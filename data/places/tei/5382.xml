@@ -77,8 +77,8 @@
         <place type="fortification">
           <placeName xml:id="name5382-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Masyāf</placeName>
           <placeName xml:id="name5382-2" xml:lang="ar" srophe:tags="#headword" source="#bib5382-1">مصياف</placeName>
-          <placeName xml:id="name5382-3" xml:lang="en">Masyād</placeName>
-          <placeName xml:id="name5382-4" xml:lang="ar">مصياد</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5382-3" xml:lang="en">Masyād</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5382-4" xml:lang="ar">مصياد</placeName>
           
           <desc type="abstract" xml:id="abstract5382-1" xml:lang="en">A town and former fortress in central Syria.</desc><desc xml:lang="ar"><quote source="#bib5382-1">ثم سافرت منها، فمررت بحصن القدموس، (وضبط اسمه بفتح القاف وإسكان الدال المهمل وضم الميم وآخره سين مهمل)، ثم بحصن المينقة، (وضبط اسمه بفتح الميم وإسكان الياء وفتح النون والقاف)، ثم بحصن العلّيقة، (واسمه على لفظ واحدة العلّيق)، ثم بحصن مصياف (وصاده مهملة)</quote></desc>
                     <location type="gps" source="#bib5382-2">

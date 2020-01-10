@@ -76,7 +76,7 @@
         <place type="province">
           <placeName xml:id="name5135-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Sūs</placeName>
           <placeName xml:id="name5135-2" xml:lang="ar" srophe:tags="#headword" source="#bib5135-1">السوس</placeName>
-          <placeName xml:id="name5135-3" xml:lang="en">Sous</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5135-3" xml:lang="en">Sous</placeName>
           
           <desc type="abstract" xml:id="abstract5135-1" xml:lang="en">A district (kūra) in the extremity of the Maghrib.</desc>
           <desc xml:lang="ar">

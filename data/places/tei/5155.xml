@@ -76,7 +76,7 @@
         <place type="settlement">
           <placeName xml:id="name5155-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zaydīn</placeName>
           <placeName xml:id="name5155-2" xml:lang="ar" srophe:tags="#headword" source="#bib5155-1">الزيدين</placeName>
-          <placeName xml:id="name5155-3" xml:lang="en">al-Zaydayn</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5155-3" xml:lang="en">al-Zaydayn</placeName>
           
           <desc type="abstract" xml:id="abstract5155-1" xml:lang="en">A town located in southwest Iran between Shiraz and Ahvaz.</desc><desc xml:lang="ar"><quote source="#bib5155-2">ثم سافرنا من كازرون إلى مدينة الزّيدين، (...) ثم سافرنا منها إلى الحويزاء</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5155</idno>

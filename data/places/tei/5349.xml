@@ -77,8 +77,8 @@
         <place type="settlement">
           <placeName xml:id="name5349-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Khūr Fakkān</placeName>
           <placeName xml:id="name5349-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">خور فكان</placeName>
-          <placeName xml:id="name5349-3" xml:lang="en">Khor Fakkan</placeName>
-          <placeName xml:id="name5349-4" xml:lang="en">Khawr Fakkān</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5349-3" xml:lang="en">Khor Fakkan</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5349-4" xml:lang="en">Khawr Fakkān</placeName>
           <placeName xml:id="name5349-5" xml:lang="ar" source="#bib5349-1">خورفكان</placeName>
           <desc type="abstract" xml:id="abstract5349-1" xml:lang="en">A town in the historic region of ʿUmān.</desc><desc xml:lang="ar"><quote source="#bib5349-1">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc>
                     <location type="gps" source="#bib5349-2">

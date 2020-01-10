@@ -78,10 +78,10 @@
         <place type="cemetery">
           <placeName xml:id="name5231-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Baqīʿ al-Gharqad</placeName>
           <placeName xml:id="name5231-2" xml:lang="ar" srophe:tags="#headword" source="#bib5231-1">بقيع الغرقد</placeName>
-          <placeName xml:id="name5231-3" xml:lang="en">Jannat al-Baqīʿ</placeName>
-          <placeName xml:id="name5231-4" xml:lang="en">al-Baqīʿ</placeName>
-          <placeName xml:id="name5231-5" xml:lang="ar">جنة البقيع</placeName>
-          <placeName xml:id="name5231-6" xml:lang="ar">البقيع</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5231-3" xml:lang="en">Jannat al-Baqīʿ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5231-4" xml:lang="en">al-Baqīʿ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5231-5" xml:lang="ar">جنة البقيع</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5231-6" xml:lang="ar">البقيع</placeName>
           
           <desc type="abstract" xml:id="abstract5231-1" xml:lang="en" source="#bib5231-2">Baqīʿ al-Gharqad <quote>is the oldest and the first Islamic cemetery of al-Madīna.</quote></desc>
                     <location type="gps" source="#bib5231-3">

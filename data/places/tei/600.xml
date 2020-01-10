@@ -107,13 +107,13 @@
                     <placeName xml:id="name600-1" xml:lang="en" srophe:tags="#headword" source="#bib600-1">Jordan Valley</placeName>
                     <placeName xml:id="name600-2" xml:lang="ar" source="#bib600-2">الغَوْر</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name600-3">Ghūr al-Shām</placeName>
-                    <placeName xml:lang="ar" ource="#bib600-3" srophe:tags="#headword" xml:id="name600-4">غور الشام</placeName>
-                    <placeName xml:lang="en" xml:id="name600-5">Ghawr al-Shām</placeName>
-                    <placeName xml:lang="en" xml:id="name600-6">Ghaur al-Shām</placeName>
-                    <placeName xml:lang="en" xml:id="name600-7">Ghūr al-Urdun</placeName>
-                    <placeName xml:lang="en" xml:id="name600-8">Ghaur al-Urdun</placeName>
-                    <placeName xml:lang="en" xml:id="name600-9">Ghawr al-Urdun</placeName>
-                    <placeName xml:lang="ar" xml:id="name600-10">غور الأردن</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="ar" ource="#bib600-3" srophe:tags="#headword" xml:id="name600-4">غور الشام</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name600-5">Ghawr al-Shām</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name600-6">Ghaur al-Shām</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name600-7">Ghūr al-Urdun</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name600-8">Ghaur al-Urdun</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name600-9">Ghawr al-Urdun</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="ar" xml:id="name600-10">غور الأردن</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract600-1">The valley which
                         contains the <placeName ref="http://syriaca.org/place/599">Jordan
                             River</placeName>.</desc>

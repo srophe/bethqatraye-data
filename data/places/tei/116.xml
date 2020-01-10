@@ -127,7 +127,7 @@
             <listPlace>
                 <place xml:id="place-116" type="open-water">
                     <placeName xml:id="name116-1" xml:lang="en" srophe:tags="#headword" source="#bib116-1">Lake Urmia</placeName>
-                    <placeName xml:id="name116-2" xml:lang="syr" srophe:tags="#headword">ܝܡܬܐ ܕܐܘܪܡܝܐ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name116-2" xml:lang="syr" srophe:tags="#headword">ܝܡܬܐ ܕܐܘܪܡܝܐ</placeName>
                     <placeName xml:id="name116-3" xml:lang="syr-Syrj" source="#bib116-2">ܝܰܡܬܳܐ
                         ܕܐܘܪܡܺܝܐ</placeName>
                     <placeName xml:id="name116-4" xml:lang="ar" source="#bib116-3" srophe:tags="#headword">بحيرة
@@ -138,9 +138,9 @@
                         ارمية</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name116-7">Buḥaira Kabūdhān</placeName>
                     <placeName xml:lang="ar" source="#bib116-6" xml:id="name116-8">بحيرة كبوذان</placeName>
-                    <placeName xml:lang="en" xml:id="name116-9">Riḍāʾīya</placeName>
-                    <placeName xml:lang="ar" xml:id="name116-10">أرومية</placeName>
-                    <placeName xml:lang="ar" xml:id="name116-11">رضائية</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name116-9">Riḍāʾīya</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="ar" xml:id="name116-10">أرومية</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="ar" xml:id="name116-11">رضائية</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract116-1">A lake in northern <ref target="https://bqgazetteer.bethmardutho.org/place/526"><placeName ref="http://syriaca.org/place/526">Iran</placeName></ref> west of <ref target="https://bqgazetteer.bethmardutho.org/place/308"><placeName ref="http://syriaca.org/place/308">Tabriz</placeName></ref> and southeast of
                             <placeName ref="http://syriaca.org/place/117">Lake
                         Van</placeName>.</desc>

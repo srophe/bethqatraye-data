@@ -94,7 +94,7 @@
         <place type="settlement">
           <placeName xml:id="name5115-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ṣāliḥiyya</placeName>
           <placeName xml:id="name5115-2" xml:lang="ar" srophe:tags="#headword" source="#bib5115-1">الصالحية</placeName>
-          <placeName xml:id="name5115-3" xml:lang="en">al-Ṣāliḥīya</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5115-3" xml:lang="en">al-Ṣāliḥīya</placeName>
           
           <desc type="abstract" xml:id="abstract5115-1" xml:lang="en">A town in Egypt located at the
             edge of the Sinai Peninsula.</desc>

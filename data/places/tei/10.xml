@@ -155,11 +155,11 @@
                 <place xml:id="place-10" type="settlement">
                     <placeName xml:id="name10-1" xml:lang="en" srophe:tags="#headword" source="#bib10-2 #bib10-5 #bib10-6 #bib10-7">Antioch</placeName>
                     <placeName xml:id="name10-2" xml:lang="en" source="#bib10-2">Antakya</placeName>
-                    <placeName xml:id="name10-3" xml:lang="syr" srophe:tags="#headword">ܐܢܛܝܘܟܝܐ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name10-3" xml:lang="syr" srophe:tags="#headword">ܐܢܛܝܘܟܝܐ</placeName>
                     <placeName xml:id="name10-4" xml:lang="syr-Syrj" source="#bib10-3">ܐܰܢܛܝܘܟܝܰܐ</placeName>
                     <placeName xml:id="name10-5" xml:lang="ar" srophe:tags="#headword" source="#bib10-4 #bib10-9">انطاكية</placeName>
                     <placeName xml:id="name10-6" xml:lang="ar" source="#bib10-8">أَنطاكِيَة</placeName>
-                    <placeName xml:lang="en" xml:id="name10-7">Anṭākya</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name10-7">Anṭākya</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract10-1" source="#bib10-1"><quote>City in the
                         historical region of Syria (today in Turkey).</quote></desc>
                     <desc xml:lang="en">Located three daysʼ journey from Latakia.</desc>

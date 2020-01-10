@@ -77,9 +77,9 @@
         <place type="region">
           <placeName xml:id="name5410-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qarābāgh</placeName>
           <placeName xml:id="name5410-2" xml:lang="ar" srophe:tags="#headword" source="#bib5410-1">قراباغ</placeName>
-          <placeName xml:id="name5410-3" xml:lang="en">Karabakh</placeName>
-          <placeName xml:id="name5410-4" xml:lang="en">Qarabağ</placeName>
-          <placeName xml:id="name5410-5" xml:lang="en">Ղարաբաղ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5410-3" xml:lang="en">Karabakh</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5410-4" xml:lang="en">Qarabağ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5410-5" xml:lang="en">Ղարաբաղ</placeName>
           
           <desc type="abstract" xml:id="abstract5410-1" xml:lang="en">A mountainous region between Tabrīz and al-Sulṭāniyya.</desc><desc xml:lang="ar"><quote source="#bib5410-3">ووصلوا إلى الملك محمد خدابنده سلطان العراق، وهو بموضع مصيفه المسمى قراباغ (بفتح القاف والراء والباء الموحدة والغين المعجمة)، وهو ما بين السلطانية وتبريز</quote></desc><desc xml:lang="ar"><quote source="#bib5410-4">فرجعت الرسل إلى الملك فأخبروه بما جرى في ذلك فأمر أن يؤتي بقضاة المدن الثلاث. فكان أول من أتي به منهم القاضي مجد الدين قاضي شيراز والسلطان إذ ذاك في موضع يعرف بقراباغ، وهو موضع مصيفه.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5410-2">

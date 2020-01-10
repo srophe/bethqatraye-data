@@ -78,7 +78,7 @@
         <place type="settlement">
           <placeName xml:id="name5136-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Suways</placeName>
           <placeName xml:id="name5136-2" xml:lang="ar" srophe:tags="#headword" source="#bib5136-1">السويس</placeName>
-          <placeName xml:id="name5136-3" xml:lang="en">Suez</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5136-3" xml:lang="en">Suez</placeName>
           
           <desc type="abstract" xml:id="abstract5136-1" xml:lang="en" source="#bib5136-2"><quote>[A] seaport in Egypt, located at the northern end of the Red Sea (lat. 29° 59′ N., long. 32° 33′ E.). The town centre is situated closely south to the ancient town of Ḳulzum [...] which continued the Ptolemaic settlement of Κλυσμα or Κλειυσμα at the western shore of the bay of Suways and of which only a few ruins remain, known as Kūm al-Ḳulzum.</quote></desc><desc xml:lang="ar"><quote source="#bib5136-1">يذكر أن سراج الدّين هذا أقام في خطة القضاء بالمدينة والخطابة بها نحو أربعين سنة، ثم إنه أراد الخروج بعد ذلك إلى مصر، فرأى رسول الله صلى الله عليه وسلم في النوم ثلاث مرات، في كلّ مرة ينهاه عن الخروج منها، وأخبره باقتراب أجله، فلم ينته عن ذلك، وخرج فمات بموضع يقال له: السويس، على مسيرة ثلاث من مصر، قبل أن يصل اليها، نعوذ بالله من سوء الخاتمة.</quote></desc>
                     <location type="gps" source="#bib5136-3">

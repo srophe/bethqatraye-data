@@ -130,7 +130,7 @@
                     <placeName xml:id="name567-1" xml:lang="en" srophe:tags="#headword" source="#bib567-2">al-Thaghr</placeName>
                     <placeName xml:id="name567-2" xml:lang="ar" source="#bib567-1">الثغر</placeName>
                     <placeName xml:id="name567-3" xml:lang="ar" source="#bib567-3">الثَغْر</placeName>
-                    <placeName xml:id="name567-4" xml:lang="ar" srophe:tags="#headword">الثغز</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name567-4" xml:lang="ar" srophe:tags="#headword">الثغز</placeName>
                     <placeName xml:id="name567-5" xml:lang="ar" source="#bib567-4">الثغوز</placeName>
                     <desc xml:id="abstract-en-567" xml:lang="en">The border area of northern Syria
                         and Mesopotamia between the Byzantine Empire and the caliphate.</desc>

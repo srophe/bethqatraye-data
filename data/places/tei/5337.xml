@@ -77,9 +77,9 @@
         <place type="settlement">
           <placeName xml:id="name5337-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kalbā</placeName>
           <placeName xml:id="name5337-2" xml:lang="ar" srophe:tags="#headword" source="#bib5337-1">كلبا</placeName>
-          <placeName xml:id="name5337-3" xml:lang="en">Kalbāʾ</placeName>
-          <placeName xml:id="name5337-4" xml:lang="ar">كلباء</placeName>
-          <placeName xml:id="name5337-5" xml:lang="ar">كلبة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5337-3" xml:lang="en">Kalbāʾ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5337-4" xml:lang="ar">كلباء</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5337-5" xml:lang="ar">كلبة</placeName>
           
           <desc type="abstract" xml:id="abstract5337-1" xml:lang="en">A town in the south of Fujayra previously part of the ʿUmān region.</desc><desc xml:lang="ar"><quote source="#bib5337-3">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc><desc xml:lang="ar"><quote source="#bib5337-4">ثم سافرنا إلى مرسى شبّة (وضبط اسمها بفتح الشين المعجم وفتح الباء الموحدة وتشديدها)، ثم إلى مرسى كلبة، ولفظها على لفظ مؤنتة الكلب، ثم إلى قلهات، وقد تقدم ذكرها. وهذه البلاد كلّها من عمالة هرمز، وهي محسوبة من بلاد عمان. ثم سافرنا إلى هرمز، وأقمنا بها ثلاثا.</quote></desc>
                     <location type="gps" source="#bib5337-2">

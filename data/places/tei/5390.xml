@@ -77,8 +77,8 @@
         <place type="settlement">
           <placeName xml:id="name5390-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Nābil</placeName>
           <placeName xml:id="name5390-2" xml:lang="ar" srophe:tags="#headword" source="#bib5390-1">نابل</placeName>
-          <placeName xml:id="name5390-3" xml:lang="en">Neapolis</placeName>
-          <placeName xml:id="name5390-4" xml:lang="en">Nabeul</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5390-3" xml:lang="en">Neapolis</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5390-4" xml:lang="en">Nabeul</placeName>
           
           <desc type="abstract" xml:id="abstract5390-1" xml:lang="en" source="#bib5390-2"><quote>Neapolis (modern Nabeul, Tunisia) is a coastal town on the Cap Bon peninsula that was founded by Greeks from Cyrene in the fifth century B.C.</quote></desc>
           <desc xml:lang="ar">

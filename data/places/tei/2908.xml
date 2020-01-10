@@ -115,13 +115,13 @@
       <body>
          <listPlace>
             <place xml:id="place-2908" type="building">
-               <placeName xml:id="name2908-1" xml:lang="en" srophe:tags="#headword">al-Kaʿba</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2908-1" xml:lang="en" srophe:tags="#headword">al-Kaʿba</placeName>
                <placeName xml:id="name2908-2" xml:lang="ar" srophe:tags="#headword" source="#bib2908-1">الكعبة</placeName>
                <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name2908-3">al-Kaʿba al-Sharīfa</placeName>
                <placeName xml:lang="ar" xml:id="name2908-4" source="#bib2908-2">الكعبة الشريفة</placeName>
-               <placeName xml:lang="en" xml:id="name2908-5">al-Bayt al-ʿAtīq</placeName>
-               <placeName xml:lang="en" xml:id="name2908-6">Bayt Allāh</placeName>
-               <placeName xml:lang="en" xml:id="name2908-7">Al-Bayt al-Ḥarām</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name2908-5">al-Bayt al-ʿAtīq</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name2908-6">Bayt Allāh</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name2908-7">Al-Bayt al-Ḥarām</placeName>
                <placeName xml:lang="ar" xml:id="name2908-8" source="#bib2908-2">البيت العتيق</placeName>
                <placeName xml:lang="ar" xml:id="name2908-9" source="#bib2908-2">بيت الله</placeName>
                <placeName xml:lang="ar" xml:id="name2908-10" source="#bib2908-2">البيت الحرام</placeName>

@@ -99,8 +99,8 @@
         <body>
             <listPlace>
                 <place xml:id="place-2902" type="diocese">
-                    <placeName xml:id="name2902-1" xml:lang="en" srophe:tags="#headword">Hagar and Pīṭ Ardashīr</placeName>
-                    <placeName xml:id="name2902-2" xml:lang="ar" srophe:tags="#headword">هَجَر والخطّ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2902-1" xml:lang="en" srophe:tags="#headword">Hagar and Pīṭ Ardashīr</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2902-2" xml:lang="ar" srophe:tags="#headword">هَجَر والخطّ</placeName>
                     <placeName xml:id="name2902-3" xml:lang="syr" srophe:tags="#headword" source="#bib2902-1">ܗܓܪ ܘܦܝܛܐܪܕܫܝܪ</placeName>
                     <placeName xml:id="name2902-4" xml:lang="fr" source="#bib2902-1">Hagar et
                         Pȋṭ-Ardašir</placeName>

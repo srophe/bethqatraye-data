@@ -78,7 +78,7 @@
         <place type="settlement">
           <placeName xml:id="name5477-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṣuḥār</placeName>
           <placeName xml:id="name5477-2" xml:lang="ar" srophe:tags="#headword" source="#bib5477-1">صحار</placeName>
-          <placeName xml:id="name5477-3" xml:lang="en">Sohar</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5477-3" xml:lang="en">Sohar</placeName>
           
           <desc type="abstract" xml:id="abstract5477-1" xml:lang="en" source="#bib5477-2">A town <quote>situated in the middle of the flat and sandy bay which is found on the coast of Arabia between Masḳaṭ in the south-east and the peninsula of Musandam in the north-east.</quote></desc><desc xml:lang="ar"><quote source="#bib5477-1">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc>
                     <location type="gps" source="#bib5477-3">

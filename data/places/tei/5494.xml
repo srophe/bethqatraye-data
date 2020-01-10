@@ -78,9 +78,9 @@
         <place type="natural-feature">
           <placeName xml:id="name5494-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Taymāʾ</placeName>
           <placeName xml:id="name5494-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">تيماء</placeName>
-          <placeName xml:id="name5494-3" xml:lang="en">Thaima</placeName>
-          <placeName xml:id="name5494-4" xml:lang="en">Tēma</placeName>
-          <placeName xml:id="name5494-5" xml:lang="en">'Tayma'''</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5494-3" xml:lang="en">Thaima</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5494-4" xml:lang="en">Tēma</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5494-5" xml:lang="en">'Tayma'''</placeName>
           <placeName xml:id="name5494-6" xml:lang="ar" source="#bib5494-1">تيمآء</placeName>
           <desc type="abstract" xml:id="abstract5494-1" xml:lang="en" source="#bib5494-2"><quote>[A]n ancient oasis settlement of northwestern Arabia, now in Saudi Arabia (lat. 27° 37’ N., long. 38° 30’ E.).</quote></desc>
           <desc xml:lang="ar">

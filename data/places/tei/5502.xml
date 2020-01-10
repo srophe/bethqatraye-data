@@ -77,9 +77,9 @@
         <place type="region">
           <placeName xml:id="name5502-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Trabzon</placeName>
           <placeName xml:id="name5502-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">طرابزون</placeName>
-          <placeName xml:id="name5502-3" xml:lang="en">Ṭarabzun</placeName>
-          <placeName xml:id="name5502-4" xml:lang="en">Ṭrābzun</placeName>
-          <placeName xml:id="name5502-5" xml:lang="en">Trebizond</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5502-3" xml:lang="en">Ṭarabzun</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5502-4" xml:lang="en">Ṭrābzun</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5502-5" xml:lang="en">Trebizond</placeName>
           <placeName xml:id="name5502-6" xml:lang="ar" source="#bib5502-1">اطرابيزندة</placeName>
           <desc type="abstract" xml:id="abstract5502-1" xml:lang="en">A region whose northern border touches the Black Sea.</desc>
           <desc xml:lang="ar">

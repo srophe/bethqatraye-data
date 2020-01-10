@@ -72,7 +72,7 @@
         <place type="settlement">
           <placeName xml:id="name5076-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Muraidāʾ</placeName>
           <placeName xml:id="name5076-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">المُرَيْداء</placeName>
-          <placeName xml:id="name5076-3" xml:lang="en">al-Muraydāʾ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5076-3" xml:lang="en">al-Muraydāʾ</placeName>
           <placeName xml:id="name5076-4" xml:lang="ar" source="#bib5076-1">المُريداء</placeName>
           <desc type="abstract" xml:id="abstract5076-1" xml:lang="en">A village in al-Baḥrayn.</desc>
           <desc xml:lang="ar">

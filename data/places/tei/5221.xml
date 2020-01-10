@@ -77,9 +77,9 @@
         <place type="open-water">
           <placeName xml:id="name5221-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Baḥr al-Qulzum</placeName>
           <placeName xml:id="name5221-2" xml:lang="ar" srophe:tags="#headword" source="#bib5221-1">بحر القلزم</placeName>
-          <placeName xml:id="name5221-3" xml:lang="en">Khalīj al-Suways</placeName>
-          <placeName xml:id="name5221-4" xml:lang="en">Gulf of Suez</placeName>
-          <placeName xml:id="name5221-5" xml:lang="ar">خليج السويس</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5221-3" xml:lang="en">Khalīj al-Suways</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5221-4" xml:lang="en">Gulf of Suez</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5221-5" xml:lang="ar">خليج السويس</placeName>
           
           <desc type="abstract" xml:id="abstract5221-1" xml:lang="en">A gulf west of the Sinai Peninsula demarcating the north end of the Red Sea.</desc>
                     <location type="gps" subtype="representative" source="#bib5221-2">

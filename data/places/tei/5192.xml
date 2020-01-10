@@ -76,7 +76,7 @@
         <place type="unknown">
           <placeName xml:id="name5192-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bāb al-Makhzūm</placeName>
           <placeName xml:id="name5192-2" xml:lang="ar" srophe:tags="#headword" source="#bib5192-1">باب بني مخزوم</placeName>
-          <placeName xml:id="name5192-3" xml:lang="en">Bāb al-Ṣafā</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5192-3" xml:lang="en">Bāb al-Ṣafā</placeName>
           <placeName xml:id="name5192-4" xml:lang="ar" source="#bib5192-1">باب الصفا</placeName>
           
           

@@ -77,12 +77,12 @@
         <place type="mosque">
           <placeName xml:id="name5378-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Masjid Rasūl Allāh</placeName>
           <placeName xml:id="name5378-2" xml:lang="ar" srophe:tags="#headword" source="#bib5378-1">مسجد رسول الله</placeName>
-          <placeName xml:id="name5378-3" xml:lang="en">al-Masjid al-Nabawī</placeName>
-          <placeName xml:id="name5378-4" xml:lang="en">al-Ḥaram al-Nabawī</placeName>
-          <placeName xml:id="name5378-5" xml:lang="en">Masjid al-Nabī</placeName>
-          <placeName xml:id="name5378-6" xml:lang="ar">المسجد النبوي</placeName>
-          <placeName xml:id="name5378-7" xml:lang="ar">الحرم النبوي</placeName>
-          <placeName xml:id="name5378-8" xml:lang="ar">مسجد النبي</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5378-3" xml:lang="en">al-Masjid al-Nabawī</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5378-4" xml:lang="en">al-Ḥaram al-Nabawī</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5378-5" xml:lang="en">Masjid al-Nabī</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5378-6" xml:lang="ar">المسجد النبوي</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5378-7" xml:lang="ar">الحرم النبوي</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5378-8" xml:lang="ar">مسجد النبي</placeName>
           
           <desc type="abstract" xml:id="abstract5378-1" xml:lang="en">One of the largest mosques in the world located in Mecca.</desc>
                     <location type="gps" source="#bib5378-2">

@@ -84,7 +84,7 @@
         <place type="region">
           <placeName xml:id="name5503-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṭukhāristān</placeName>
           <placeName xml:id="name5503-2" xml:lang="ar" srophe:tags="#headword" source="#bib5503-2">طخارستان</placeName>
-          <placeName xml:id="name5503-3" xml:lang="en">Tocharistan</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5503-3" xml:lang="en">Tocharistan</placeName>
           <placeName xml:id="name5503-4" xml:lang="ar" source="#bib5503-1">طخيرستان</placeName>
           
           <desc type="abstract" xml:id="abstract5503-1" xml:lang="en" source="#bib5503-3">[<quote>T]he name found in earlier mediaeval Islamic sources for the region along the southern banks of the middle and upper Oxus river, in the wider sense of the term (see below), with the ancient of the Balk̲h̲ as the centre of its western part and such towns as Ṭālaḳān, Andarāb and Walwālīd̲j̲ [q.vv.] as its centres in the narrower acceptation of the term, sc. the eastern part.</quote></desc>

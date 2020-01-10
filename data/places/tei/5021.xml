@@ -76,8 +76,8 @@
         <place type="region">
           <placeName xml:id="name5021-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Buja</placeName>
           <placeName xml:id="name5021-2" xml:lang="ar" srophe:tags="#headword" source="#bib5021-1">البجة</placeName>
-          <placeName xml:id="name5021-3" xml:lang="en">Beja</placeName>
-          <placeName xml:id="name5021-4" xml:lang="ar">البجا</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5021-3" xml:lang="en">Beja</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5021-4" xml:lang="ar">البجا</placeName>
           
           <desc type="abstract" xml:id="abstract5021-1" xml:lang="en">A region along the Nile east of the Red Sea stretching over parts of modern-day Egypt, Eritrea, and Sudan.</desc>
           <desc xml:lang="ar">

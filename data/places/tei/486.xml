@@ -173,14 +173,14 @@
             <listPlace>
                 <place xml:id="place-486" type="region">
                     <placeName xml:id="name486-1" xml:lang="en" srophe:tags="#headword" source="#bib486-3 #bib486-4 #bib486-5">Syria</placeName>
-                    <placeName xml:id="name486-2" xml:lang="syr" srophe:tags="#headword">ܣܘܪܝܐ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name486-2" xml:lang="syr" srophe:tags="#headword">ܣܘܪܝܐ</placeName>
                     <placeName xml:id="name486-3" xml:lang="syr-Syrj" source="#bib486-1">ܣܽܘܪܺܝܰܐ</placeName>
                     <placeName xml:id="name486-4" xml:lang="ar" source="#bib486-2">ارض
                         الشام</placeName>
                     <placeName xml:id="name486-5" xml:lang="ar" source="#bib486-6">الشَأم</placeName>
                     <placeName xml:id="name486-6" xml:lang="ar" srophe:tags="#headword" source="#bib486-8">الشأم</placeName>
                     <placeName xml:id="name486-7" xml:lang="ar" source="#bib486-7 #bib486-11">الشام</placeName>
-                    <placeName xml:lang="en" xml:id="name486-8">al-Shām</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name486-8">al-Shām</placeName>
                     <desc type="abstract" xml:id="abstract-en-486" xml:lang="en">A historical region bounded on the
                         north by the <placeName ref="http://syriaca.org/place/82">Euphrates
                             River</placeName> and the Taurus Mountains, on the west by the

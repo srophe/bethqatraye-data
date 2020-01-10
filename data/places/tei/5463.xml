@@ -78,7 +78,7 @@
         <place type="settlement">
           <placeName xml:id="name5463-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Sharshāl</placeName>
           <placeName xml:id="name5463-2" xml:lang="ar" srophe:tags="#headword" source="#bib5463-1">شرشال</placeName>
-          <placeName xml:id="name5463-3" xml:lang="en">Cherchell</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5463-3" xml:lang="en">Cherchell</placeName>
           
           <desc type="abstract" xml:id="abstract5463-1" xml:lang="en" source="#bib5463-2"><quote>[C]onventional French form Cherchell, a town of Algeria, the chef-lieu of an arrondissement in the department of al-Aṣnām (formerly Orléansville). It is situated on the edge of the Miliana massif, 95 km/60 miles to the west of Algiers, in long. 2° 29′ E., lat. 36° 37′ N.</quote></desc>
           <desc xml:lang="ar">

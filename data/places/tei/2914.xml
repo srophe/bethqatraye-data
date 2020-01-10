@@ -99,7 +99,7 @@
       <body>
          <listPlace>
             <place xml:id="place-2914" type="mountain">
-               <placeName xml:id="name2914-1" xml:lang="en" srophe:tags="#headword">Jabal
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2914-1" xml:lang="en" srophe:tags="#headword">Jabal
                   al-Manẓar</placeName>
                <placeName xml:id="name2914-2" xml:lang="ar" srophe:tags="#headword" source="#bib2914-1">جبل المنظر</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2914-1">A mountain near <ref target="https://bqgazetteer.bethmardutho.org/place/2906"><placeName ref="http://syriaca.org/place/2906">Mecca</placeName></ref>

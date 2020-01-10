@@ -77,10 +77,10 @@
         <place type="region">
           <placeName xml:id="name5182-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Aveh</placeName>
           <placeName xml:id="name5182-2" xml:lang="ar" srophe:tags="#headword" source="#bib5182-1">آوة</placeName>
-          <placeName xml:id="name5182-3" xml:lang="en">Āveh</placeName>
-          <placeName xml:id="name5182-4" xml:lang="en">Haveh</placeName>
-          <placeName xml:id="name5182-5" xml:lang="en">Āvah</placeName>
-          <placeName xml:id="name5182-6" xml:lang="en">Āwa</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5182-3" xml:lang="en">Āveh</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5182-4" xml:lang="en">Haveh</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5182-5" xml:lang="en">Āvah</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5182-6" xml:lang="en">Āwa</placeName>
           
           <desc type="abstract" xml:id="abstract5182-1" xml:lang="en">Probably a region around the town of Āwa located southwest of Qazwīn.</desc><desc xml:lang="ar"><quote source="#bib5182-3">نسبئ الى بلده آوه من عراق العجم، أهلها رافضة</quote></desc><desc xml:lang="ar"><quote source="#bib5182-4">ولو جرى مثل هذا بمشهد الحسين، أو بالحلة، أو بالبحرين، أو قم، أو قاشان، أو ساوة، أو آوة، أو طوس، لهلك فاعله، لأنهم رافضة غالية.</quote></desc><desc xml:lang="ar"><quote source="#bib5182-5">وبها من التجار المسلمين جماعة، كبيرهم علاء الدين الآوجي من أهل آوه، من بلاد العراق.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5182-2">

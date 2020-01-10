@@ -78,15 +78,15 @@
         <place type="open-water">
           <placeName xml:id="name5272-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Dead Sea</placeName>
           <placeName xml:id="name5272-2" xml:lang="ar" srophe:tags="#headword" source="#bib5272-1">بحيرة زغر</placeName>
-          <placeName xml:id="name5272-3" xml:lang="en">Buḥaira Zughar</placeName>
-          <placeName xml:id="name5272-4" xml:lang="en">Baḥr Lūṭ</placeName>
-          <placeName xml:id="name5272-5" xml:lang="en">al-Buḥaira al-Muntina</placeName>
-          <placeName xml:id="name5272-6" xml:lang="en">al-Buḥaira al-Mayyita</placeName>
-          <placeName xml:id="name5272-7" xml:lang="en">al-Buḥaira al-Maqlūba</placeName>
-          <placeName xml:id="name5272-8" xml:lang="ar">بحر لوط</placeName>
-          <placeName xml:id="name5272-9" xml:lang="ar">البحيرة المنتنة</placeName>
-          <placeName xml:id="name5272-10" xml:lang="ar">البحيرة الميتة</placeName>
-          <placeName xml:id="name5272-11" xml:lang="ar">البحيرة المقلوبة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-3" xml:lang="en">Buḥaira Zughar</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-4" xml:lang="en">Baḥr Lūṭ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-5" xml:lang="en">al-Buḥaira al-Muntina</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-6" xml:lang="en">al-Buḥaira al-Mayyita</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-7" xml:lang="en">al-Buḥaira al-Maqlūba</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-8" xml:lang="ar">بحر لوط</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-9" xml:lang="ar">البحيرة المنتنة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-10" xml:lang="ar">البحيرة الميتة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5272-11" xml:lang="ar">البحيرة المقلوبة</placeName>
           
           <desc type="abstract" xml:id="abstract5272-1" xml:lang="en" source="#bib5272-2"><quote>Between the steep and barren slopes of the "desert of Judah" and the mountainous land of Moab lies the Dead Sea, like a blue mirror 1150 feet below sea-level from north to south. Its length is about 50 miles, its midbreadth 8 miles and it has no exit.</quote></desc>
           <desc xml:lang="ar">

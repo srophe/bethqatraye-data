@@ -72,8 +72,8 @@
         <place type="island">
           <placeName xml:id="name5449-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Samaheej</placeName>
           <placeName xml:id="name5449-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">سَمَاهيج</placeName>
-          <placeName xml:id="name5449-3" xml:lang="en">Mayshamhag</placeName>
-          <placeName xml:id="name5449-4" xml:lang="en">Samāhīj</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5449-3" xml:lang="en">Mayshamhag</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5449-4" xml:lang="en">Samāhīj</placeName>
           <placeName xml:id="name5449-5" xml:lang="ar" source="#bib5449-1">سماهيج</placeName>
           <desc type="abstract" xml:id="abstract5449-1" xml:lang="en">An island in the middle of the sea between ʿUmān and al-Baḥrayn.</desc>
           <desc xml:lang="ar">

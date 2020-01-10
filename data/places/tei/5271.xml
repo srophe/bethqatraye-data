@@ -78,8 +78,8 @@
         <place type="settlement">
           <placeName xml:id="name5271-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ِDarʿā</placeName>
           <placeName xml:id="name5271-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">أذرعات</placeName>
-          <placeName xml:id="name5271-3" xml:lang="en">Adhriʿāt</placeName>
-          <placeName xml:id="name5271-4" xml:lang="ar">درعا</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5271-3" xml:lang="en">Adhriʿāt</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5271-4" xml:lang="ar">درعا</placeName>
           <placeName xml:id="name5271-5" xml:lang="ar" source="#bib5271-1">اذرعات</placeName>
           <desc type="abstract" xml:id="abstract5271-1" xml:lang="en" source="#bib5271-2"><quote>[T]he Edrei of the Bible, to-day Derʿa, chief town of Ḥawrān, 106 km. south of Damascus. Situated on the borderline between a basaltic region and the desert, the town, formerly renowned for its wine and oil, was always a great market for cereals and an important centre of trade routes.</quote></desc>
           <desc xml:lang="ar">

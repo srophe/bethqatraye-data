@@ -170,7 +170,7 @@
             <listPlace>
                 <place xml:id="place-129" type="settlement">
                     <placeName xml:id="name129-1" xml:lang="en" srophe:tags="#headword" source="#bib129-1 #bib129-4">Maragha</placeName>
-                    <placeName xml:id="name129-2" xml:lang="syr" srophe:tags="#headword">ܡܪܐܓܗ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name129-2" xml:lang="syr" srophe:tags="#headword">ܡܪܐܓܗ</placeName>
                     <placeName xml:id="name129-3" xml:lang="syr-Syrj" source="#bib129-2">ܡܰܪܰܐܓܰܗ</placeName>
                     <placeName xml:id="name129-4" xml:lang="ar" source="#bib129-3">مراغة</placeName>
                     <placeName xml:id="name129-5" xml:lang="en" source="#bib129-5">Marāghā</placeName>
@@ -178,9 +178,9 @@
                     <placeName xml:id="name129-7" xml:lang="ar" srophe:tags="#headword" source="#bib129-7">المراغة</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name129-8">Dimashq al-Ṣaghīra</placeName>
                     <placeName xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org" xml:id="name129-9">دمشق الصغيرة</placeName>
-                    <placeName xml:lang="en" xml:id="name129-10">Marāgheh</placeName>
-                    <placeName xml:lang="en" xml:id="name129-11">Maragheh</placeName>
-                    <placeName xml:lang="en" xml:id="name129-12">Marāgha</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name129-10">Marāgheh</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name129-11">Maragheh</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name129-12">Marāgha</placeName>
                     <placeName xml:lang="ar" xml:id="name129-13" source="#bib129-9">دمشق
                         الصغيرة</placeName>
                     <desc type="abstract" xml:id="abstract-en-129" xml:lang="en">A city south of

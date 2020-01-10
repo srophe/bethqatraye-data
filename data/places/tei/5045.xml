@@ -76,12 +76,12 @@
         <place type="cemetery">
           <placeName xml:id="name5045-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Jabbāna</placeName>
           <placeName xml:id="name5045-2" xml:lang="ar" srophe:tags="#headword" source="#bib5045-1">الجبانة</placeName>
-          <placeName xml:id="name5045-3" xml:lang="en">Maqbarat al-Maʿlāt</placeName>
-          <placeName xml:id="name5045-4" xml:lang="en">al-Ḥajūn</placeName>
-          <placeName xml:id="name5045-5" xml:lang="en">Kadāʾ</placeName>
-          <placeName xml:id="name5045-6" xml:lang="ar">مقبرة المعلاة</placeName>
-          <placeName xml:id="name5045-7" xml:lang="ar">الحجون</placeName>
-          <placeName xml:id="name5045-8" xml:lang="ar">كداء</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5045-3" xml:lang="en">Maqbarat al-Maʿlāt</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5045-4" xml:lang="en">al-Ḥajūn</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5045-5" xml:lang="en">Kadāʾ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5045-6" xml:lang="ar">مقبرة المعلاة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5045-7" xml:lang="ar">الحجون</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5045-8" xml:lang="ar">كداء</placeName>
           
           <desc type="abstract" xml:id="abstract5045-1" xml:lang="en">A cemetery in Mecca.</desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5045</idno>

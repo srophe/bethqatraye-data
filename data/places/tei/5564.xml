@@ -73,7 +73,7 @@
         <place type="diocese">
           <placeName xml:id="name5564-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Fars</placeName>
           <placeName xml:id="name5564-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">فارس</placeName>
-          <placeName xml:id="name5564-3" xml:lang="en">Fārs</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5564-3" xml:lang="en">Fārs</placeName>
           <placeName xml:id="name5564-4" xml:lang="syr" source="#bib5564-4">ܦܪܣ</placeName>
           <placeName xml:id="name5564-5" xml:lang="syr" source="#bib5564-2">ܒܝܬ ܦܪ̈ܣܝܐ</placeName>
           <placeName xml:id="name5564-6" xml:lang="la" source="#bib5564-5">Fars</placeName>

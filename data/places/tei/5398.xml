@@ -77,7 +77,7 @@
         <place type="settlement">
           <placeName xml:id="name5398-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Nūqān</placeName>
           <placeName xml:id="name5398-2" xml:lang="ar" srophe:tags="#headword" source="#bib5398-1">نوقان</placeName>
-          <placeName xml:id="name5398-3" xml:lang="en">Nawqān</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5398-3" xml:lang="en">Nawqān</placeName>
           
           <desc type="abstract" xml:id="abstract5398-1" xml:lang="en">A city (madīna) in the district of Ṭūs close to the modern city of Mashhad.</desc>
           <desc xml:lang="ar">

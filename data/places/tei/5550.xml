@@ -85,7 +85,7 @@
         <place type="settlement">
           <placeName xml:id="name5550-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿAsfān</placeName>
           <placeName xml:id="name5550-2" xml:lang="ar" srophe:tags="#headword" source="#bib5550-1">عسفان</placeName>
-          <placeName xml:id="name5550-3" xml:lang="en">Asfan</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5550-3" xml:lang="en">Asfan</placeName>
           
           
           <desc type="abstract" xml:id="abstract5550-1" xml:lang="en">A town northwest of Mecca.</desc><desc xml:lang="ar"><quote source="#bib5550-4"> ثم رحلنا إلى عسفان وهي في بسيط من الأرض، بين جبال، وبها آبار ماء معين، تنسب إحداها إلى عثمان بن عفان رضي الله عنه. والمدرّج المنسوب إلى عثمان أيضا على مسافة نصف يوم من خليص</quote></desc><desc xml:lang="ar"><quote source="#bib5550-5">وفي هذا الركب الأسواق الحافلة والمرافق العظيمة وأنواع الأطعمة والفواكه وهم يسيرون باللّيل ويوقدون المشاعل أمام القطار والمحارات، فترى الأرض تتلألأ نورا والليل قد عاد نهارا ساطعا ثم رحلنا من بطن مرّ إلى عسفان، ثم إلى خليص ثم رحلنا أربع مراحل ونزلنا وادي السمك، ثم رحلنا خمسا ونزلنا في بدر</quote></desc>

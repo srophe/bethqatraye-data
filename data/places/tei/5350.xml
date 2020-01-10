@@ -78,10 +78,10 @@
         <place type="region">
           <placeName xml:id="name5350-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Khwārazm</placeName>
           <placeName xml:id="name5350-2" xml:lang="ar" srophe:tags="#headword" source="#bib5350-1">خوارزم</placeName>
-          <placeName xml:id="name5350-3" xml:lang="en">Khwarezm</placeName>
-          <placeName xml:id="name5350-4" xml:lang="en">Chorasmia</placeName>
-          <placeName xml:id="name5350-5" xml:lang="en">Xvârazm</placeName>
-          <placeName xml:id="name5350-6" xml:lang="en">Khiva</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5350-3" xml:lang="en">Khwarezm</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5350-4" xml:lang="en">Chorasmia</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5350-5" xml:lang="en">Xvârazm</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5350-6" xml:lang="en">Khiva</placeName>
           
           <desc type="abstract" xml:id="abstract5350-1" xml:lang="en" source="#bib5350-2"><quote>[I]n post-Mongol times increasingly known as K̲h̲īwa, the province lying along the lower course of the Amū Daryā [q.v.] or Oxus, classical Chorasmia. In the early Islamic period, the southern boundary of K̲h̲wārazm was considered to be at Ṭāhiriyya, five days’ journey downstream from Āmul-i S̲h̲aṭṭ (modern Čārd̲j̲ūy), the crossing-place of the K̲h̲urāsān-Buk̲h̲ārā caravan route. Ṭāhiriyya lay just to the south of the gorge of the "lion’s mouth", Dahān-i S̲h̲īr, where the river narrows at modern Düldül Atlag̲h̲ān near Pitnyak.</quote></desc>
           <desc xml:lang="ar">

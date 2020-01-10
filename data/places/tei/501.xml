@@ -119,8 +119,8 @@
         <body>
             <listPlace>
                 <place xml:id="place-501" type="settlement">
-                    <placeName xml:id="name501-1" xml:lang="en" srophe:tags="#headword">Māksīn</placeName>
-                    <placeName xml:id="name501-2" xml:lang="syr" srophe:tags="#headword">ܡܐܟܣܝܢ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name501-1" xml:lang="en" srophe:tags="#headword">Māksīn</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name501-2" xml:lang="syr" srophe:tags="#headword">ܡܐܟܣܝܢ</placeName>
                     <placeName xml:id="name501-3" xml:lang="syr-Syrj" source="#bib501-1">ܡܰܐܟܣܝܢ</placeName>
                     <placeName xml:id="name501-4" xml:lang="ar" source="#bib501-2 #bib501-5" srophe:tags="#headword">ماكسين</placeName>
                     <placeName xml:id="name501-5" xml:lang="en" source="#bib501-3">Macine</placeName>

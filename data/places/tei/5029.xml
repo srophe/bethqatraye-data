@@ -76,8 +76,8 @@
         <place type="settlement">
           <placeName xml:id="name5029-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Fayyūm</placeName>
           <placeName xml:id="name5029-2" xml:lang="ar" srophe:tags="#headword" source="#bib5029-1">الفيوم</placeName>
-          <placeName xml:id="name5029-3" xml:lang="en">Krokodilopolis</placeName>
-          <placeName xml:id="name5029-4" xml:lang="en">Ptolemais Euergetis</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5029-3" xml:lang="en">Krokodilopolis</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5029-4" xml:lang="en">Ptolemais Euergetis</placeName>
           
           <desc type="abstract" xml:id="abstract5029-1" xml:lang="en">A city in middle Egypt.</desc>
           <desc xml:lang="ar">

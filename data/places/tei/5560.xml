@@ -76,7 +76,7 @@
         <place type="region">
           <placeName xml:id="name5560-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ʿUmān</placeName>
           <placeName xml:id="name5560-2" xml:lang="ar" srophe:tags="#headword" source="#bib5560-1">عُمان</placeName>
-          <placeName xml:id="name5560-3" xml:lang="en">Oman</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5560-3" xml:lang="en">Oman</placeName>
           
           <desc type="abstract" xml:id="abstract5560-1" xml:lang="en">A region located in the southeast of the Arabian Peninsula.</desc><desc xml:lang="ar"><quote source="#bib5560-2">ومن مدن عمان مدينة زكي لم أدخلها، وهي على ما ذكر لي، مدينة عظيمة منها القريات وشبا وكلبا وخورفكان وصحار، وكلها ذات أنهار وحدائق وأشجار ونخل، وأكثر هذه البلاد في عمالة هرمز.</quote></desc><desc xml:lang="ar"><quote source="#bib5560-3">فيأخذ الجوهر في دينه أو ما وجب له منه، ثم سافرنا من سيراف إلى مدينة البحرين، وهي مدينة كبيرة حسنة ذات بساتين وأشجار وأنهار، وماؤها قريب المؤونة يحفر عليه بالأيدي فيوجد، وبها حدائق النخل والرمان والأترج، يزرع بها القطن وهي شديدة الحر كثيرة الرمال وربما غلب الرمل على بعض منازلها وكان فيما بينها وبين عمان طريق استولت عليه الرمال وانقطع"</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5560</idno>

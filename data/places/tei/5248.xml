@@ -78,7 +78,7 @@
         <place type="settlement">
           <placeName xml:id="name5248-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Bukhārā</placeName>
           <placeName xml:id="name5248-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">بخارى</placeName>
-          <placeName xml:id="name5248-3" xml:lang="en">Bukhara</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5248-3" xml:lang="en">Bukhara</placeName>
           <placeName xml:id="name5248-4" xml:lang="ar" source="#bib5248-1">بخارا</placeName>
           <desc type="abstract" xml:id="abstract5248-1" xml:lang="en" source="#bib5248-2"><quote>A city in a large oasis in present day Uzbekistān on the lower course of the Zarafs̲h̲ān River.</quote></desc>
           <desc xml:lang="ar">

@@ -200,16 +200,16 @@
                     <placeName xml:id="name139-6" xml:lang="en" source="#bib139-1">Ardashir</placeName>
                     <placeName xml:id="name139-7" xml:lang="ar" source="#bib139-8">المَوصِل</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name139-8">al-Mauṣil</placeName>
-                    <placeName xml:lang="en" xml:id="name139-9">Mespila</placeName>
-                    <placeName xml:lang="en" xml:id="name139-10">Mūṣul</placeName>
-                    <placeName xml:lang="en" xml:id="name139-11">Muṣul</placeName>
-                    <placeName xml:lang="en" xml:id="name139-12">Musul</placeName>
-                    <placeName xml:lang="en" xml:id="name139-13">al-Mawşil</placeName>
-                    <placeName xml:lang="en" xml:id="name139-14">Mossul</placeName>
-                    <placeName xml:lang="en" xml:id="name139-15">al-Mauşil</placeName>
-                    <placeName xml:lang="en" xml:id="name139-16">al-Mausil</placeName>
-                    <placeName xml:lang="en" xml:id="name139-17">al-Mawsil</placeName>
-                    <placeName xml:lang="en" xml:id="name139-18">el-Mausil</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-9">Mespila</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-10">Mūṣul</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-11">Muṣul</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-12">Musul</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-13">al-Mawşil</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-14">Mossul</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-15">al-Mauşil</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-16">al-Mausil</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-17">al-Mawsil</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name139-18">el-Mausil</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name139-19">al-Mawṣil</placeName>
                     <desc type="abstract" xml:id="abstract-en-139" xml:lang="en">
                         <quote source="#bib139-1">City in the north of <placeName>Iraq</placeName>,

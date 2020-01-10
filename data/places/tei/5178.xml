@@ -78,11 +78,11 @@
         <place type="settlement">
           <placeName xml:id="name5178-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Astar Abad</placeName>
           <placeName xml:id="name5178-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">استر أباد</placeName>
-          <placeName xml:id="name5178-3" xml:lang="en">Astarābād</placeName>
-          <placeName xml:id="name5178-4" xml:lang="en">Asterabad</placeName>
-          <placeName xml:id="name5178-5" xml:lang="en">Esterabad</placeName>
-          <placeName xml:id="name5178-6" xml:lang="en">Alēstan (?)</placeName>
-          <placeName xml:id="name5178-7" xml:lang="ar">ألستان (?)</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5178-3" xml:lang="en">Astarābād</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5178-4" xml:lang="en">Asterabad</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5178-5" xml:lang="en">Esterabad</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5178-6" xml:lang="en">Alēstan (?)</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5178-7" xml:lang="ar">ألستان (?)</placeName>
           <placeName xml:id="name5178-8" xml:lang="ar" source="#bib5178-1">استراباذ</placeName>
           <desc type="abstract" xml:id="abstract5178-1" xml:lang="en" source="#bib5178-2"><quote>Astarābādh (modern Gurgan), historically a province as well as a town, is located in what the ancient Greeks called Hyrcania, adjacent to the Persian province of Māzandarān. The city, some thirty kilometres east of the Caspian Sea, has origins going back to Achaemenid times (550–330 B.C.E.).</quote></desc>
           <desc xml:lang="ar">

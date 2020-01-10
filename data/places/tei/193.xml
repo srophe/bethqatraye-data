@@ -169,13 +169,13 @@
                     <placeName xml:id="name193-1" xml:lang="en" srophe:tags="#headword" source="#bib193-2 #bib193-6">Tagrit</placeName>
                     <placeName xml:id="name193-2" xml:lang="en" source="#bib193-2">Tikrit</placeName>
                     <placeName xml:id="name193-3" xml:lang="en" source="#bib193-2 #bib193-5">Takrit</placeName>
-                    <placeName xml:id="name193-4" xml:lang="syr" srophe:tags="#headword">ܬܓܪܝܬ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name193-4" xml:lang="syr" srophe:tags="#headword">ܬܓܪܝܬ</placeName>
                     <placeName xml:id="name193-5" xml:lang="syr-Syrj" source="#bib193-3">ܬܰܓܪܝܬ</placeName>
                     <placeName xml:id="name193-6" xml:lang="ar" source="#bib193-4 #bib193-9 #bib193-10 #bib193-11" srophe:tags="#headword">تكريت</placeName>
                     <placeName xml:id="name193-7" xml:lang="en" source="#bib193-7">Tagrīt</placeName>
                     <placeName xml:id="name193-8" xml:lang="ar" source="#bib193-8">تَكريت</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name193-9">Takrīt</placeName>
-                    <placeName xml:lang="en" xml:id="name193-10">Tikrīt</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name193-10">Tikrīt</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract193-1" source="#bib193-12"><quote>[A] town of <placeName>ʿIrāḳ</placeName> on
                         the right bank of the <placeName>Tigris</placeName> to the north of <placeName>Sāmarrāʾ</placeName> 100 miles from
                         <placeName>Bag̲h̲dād</placeName> divertly, and 143 by river, and at the foot of the range of the

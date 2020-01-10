@@ -77,10 +77,10 @@
         <place type="settlement">
           <placeName xml:id="name5031-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Fusṭāṭ</placeName>
           <placeName xml:id="name5031-2" xml:lang="ar" srophe:tags="#headword" source="#bib5031-1">الفسطاط</placeName>
-          <placeName xml:id="name5031-3" xml:lang="en">Fusṭāṭ</placeName>
-          <placeName xml:id="name5031-4" xml:lang="en">Babylon</placeName>
-          <placeName xml:id="name5031-5" xml:lang="en">Cairo</placeName>
-          <placeName xml:id="name5031-6" xml:lang="ar">القاهرة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5031-3" xml:lang="en">Fusṭāṭ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5031-4" xml:lang="en">Babylon</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5031-5" xml:lang="en">Cairo</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5031-6" xml:lang="ar">القاهرة</placeName>
           
           <desc type="abstract" xml:id="abstract5031-1" xml:lang="en">A city situated to the south of the Nile delta.</desc>
           <desc xml:lang="ar">

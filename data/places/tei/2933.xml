@@ -99,7 +99,7 @@
       <body>
          <listPlace>
             <place xml:id="place-2933" type="open-water">
-               <placeName xml:id="name2933-1" xml:lang="en" srophe:tags="#headword">Red
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2933-1" xml:lang="en" srophe:tags="#headword">Red
                   Sea</placeName>
                <placeName xml:id="name2933-2" xml:lang="ar" srophe:tags="#headword" source="#bib2933-2">البحر الأخير</placeName>
                <placeName xml:id="name2933-3" xml:lang="ar" source="#bib2933-2">خليج

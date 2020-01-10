@@ -77,7 +77,7 @@
         <place type="settlement">
           <placeName xml:id="name5277-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Farbar</placeName>
           <placeName xml:id="name5277-2" xml:lang="ar" srophe:tags="#headword" source="#bib5277-1">فربر</placeName>
-          <placeName xml:id="name5277-3" xml:lang="en">Farap</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5277-3" xml:lang="en">Farap</placeName>
           
           <desc type="abstract" xml:id="abstract5277-1" xml:lang="en">A city located at the Amu Darya (Jayhūn) located in current-day Turkmenistan.</desc>
           <desc xml:lang="ar">

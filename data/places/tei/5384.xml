@@ -77,9 +77,9 @@
         <place type="settlement">
           <placeName xml:id="name5384-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mayman</placeName>
           <placeName xml:id="name5384-2" xml:lang="ar" srophe:tags="#headword" source="#bib5384-1">ميمن</placeName>
-          <placeName xml:id="name5384-3" xml:lang="en">Maymand</placeName>
-          <placeName xml:id="name5384-4" xml:lang="en">Meymand</placeName>
-          <placeName xml:id="name5384-5" xml:lang="ar">میمند</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5384-3" xml:lang="en">Maymand</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5384-4" xml:lang="en">Meymand</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5384-5" xml:lang="ar">میمند</placeName>
           
           <desc type="abstract" xml:id="abstract5384-1" xml:lang="en">A town south of Shīrāz.</desc><desc xml:lang="ar"><quote source="#bib5384-3">ومن قراه العظيمة التي تضاهي المدن قرية ميمن، وهي للقاضي المذكور. ومن عجائب هذا الموضع المعروف بجمكان أن نصفه مما يلي شيراز وذلك مسافة اثني عشر فرسخاً شديد البرد وينزل فيه الثلج وأكثر شجره الجوز، والجزء الآخر مما يلي بلاد هنج وبال وبلاد اللار في طريق هرمز شديد الحر وفيه شجر النخيل.</quote></desc><desc xml:lang="ar"><quote source="#bib5384-4">ثم سافرنا إلى كارزي، وضبط اسمها بفتح الكاف وسكون الراء وكسر الزاي، وأقمنا بها ثلاثا ثم سافرنا إلى جمكان، وضبط اسمها بفتح الجيم والميم والكاف وآخره نون، ثم سافرنا منها إلى ميمن، وضبط اسمها بفتح الميم وبينهما ياء آخر الحروف مسكنة وآخره نون، ثم سافرنا إلى بسّا ، وضبط اسمها بفتح الباء الموحدة والسين المهملة مع تشديدها، ثم إلى مدينة شيراز فوجدنا سلطانها أبا اسحاق على ملكه إلا أنه كان غائبا عنها، ولقيت بها شيخنا الصالح العالم مجد الدين قاضي القضاة وهو قد كف بصره نفعه الله ونفع به. </quote></desc>
                     <location type="gps" source="#bib5384-2">

@@ -99,7 +99,7 @@
       <body>
          <listPlace>
             <place xml:id="place-2929" type="open-water">
-               <placeName xml:id="name2929-1" xml:lang="en" srophe:tags="#headword">Indian
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2929-1" xml:lang="en" srophe:tags="#headword">Indian
                   Ocean</placeName>
                <placeName xml:id="name2929-2" xml:lang="ar" srophe:tags="#headword" source="#bib2929-2">بحر الهند وفارس والصين</placeName>
                <desc type="abstract" xml:lang="en" xml:id="abstract2929-1">The ocean bordering <placeName>East

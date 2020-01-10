@@ -77,7 +77,7 @@
         <place type="settlement">
           <placeName xml:id="name5471-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Ṣiffīn</placeName>
           <placeName xml:id="name5471-2" xml:lang="ar" srophe:tags="#headword" source="#bib5471-1">صفين</placeName>
-          <placeName xml:id="name5471-3" xml:lang="en">Siffin</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5471-3" xml:lang="en">Siffin</placeName>
           
           <desc type="abstract" xml:id="abstract5471-1" xml:lang="en">A town located at the Euphrates in the east of Syria and known for the historic Battle of Siffin.</desc><desc xml:lang="ar"><quote source="#bib5471-3"> قال ابن جزي: ويقال: إن أويساً قتل بصفّين مع علي عليه السلام</quote></desc>
                     <location type="gps" source="#bib5471-2">

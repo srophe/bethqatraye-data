@@ -78,10 +78,10 @@
         <place type="region">
           <placeName xml:id="name5468-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Shirwān</placeName>
           <placeName xml:id="name5468-2" xml:lang="ar" srophe:tags="#headword" source="#bib5468-1">شروان</placeName>
-          <placeName xml:id="name5468-3" xml:lang="en">Sharwān</placeName>
-          <placeName xml:id="name5468-4" xml:lang="en">Shīrwān</placeName>
-          <placeName xml:id="name5468-5" xml:lang="en">Shirvan</placeName>
-          <placeName xml:id="name5468-6" xml:lang="ar">شيروان</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5468-3" xml:lang="en">Sharwān</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5468-4" xml:lang="en">Shīrwān</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5468-5" xml:lang="en">Shirvan</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5468-6" xml:lang="ar">شيروان</placeName>
           
           <desc type="abstract" xml:id="abstract5468-1" xml:lang="en" source="#bib5468-2"><quote>A region of eastern Caucasia, known by this name in both mediaeval Islamic and modern times.</quote></desc>
           <desc xml:lang="ar">

@@ -77,10 +77,10 @@
         <place type="settlement">
           <placeName xml:id="name5310-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Hormuz</placeName>
           <placeName xml:id="name5310-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">هرمز</placeName>
-          <placeName xml:id="name5310-3" xml:lang="en">Hurmuz</placeName>
-          <placeName xml:id="name5310-4" xml:lang="en">Ormus</placeName>
-          <placeName xml:id="name5310-5" xml:lang="en">Mugh Astān</placeName>
-          <placeName xml:id="name5310-6" xml:lang="ar">موغ استان</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5310-3" xml:lang="en">Hurmuz</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5310-4" xml:lang="en">Ormus</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5310-5" xml:lang="en">Mugh Astān</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5310-6" xml:lang="ar">موغ استان</placeName>
           <placeName xml:id="name5310-7" xml:lang="ar" source="#bib5310-1">هرمز (موغ استان)</placeName>
           <desc type="abstract" xml:id="abstract5310-1" xml:lang="en">An town located on Hormuz Island.</desc><desc xml:lang="ar"><quote source="#bib5310-3">ورکبوا بحر فارس من الأبلة الى هومز</quote></desc><desc xml:lang="ar"><quote source="#bib5310-4">قصدته من هرمز متبركا بلقائه</quote></desc><desc xml:lang="ar"><quote source="#bib5310-5">ثم سافرنا إلى مرسى شبّة (وضبط اسمها بفتح الشين المعجم وفتح الباء الموحدة وتشديدها)، ثم إلى مرسى كلبة، ولفظها على لفظ مؤنتة الكلب، ثم إلى قلهات، وقد تقدم ذكرها. وهذه البلاد كلّها من عمالة هرمز، وهي محسوبة من بلاد عمان. ثم سافرنا إلى هرمز، وأقمنا بها ثلاثا.</quote></desc>
                     <location type="gps" source="#bib5310-2">

@@ -180,8 +180,8 @@
                     <placeName xml:id="name4155-6" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Hajar</placeName>
                     <placeName xml:id="name4155-7" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">al-Aḥsāʾ</placeName>
                     <placeName xml:id="name4155-8" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org">الأحْسَاءُ</placeName>
-                    <placeName xml:id="name4155-9" xml:lang="en">al-Ahsa</placeName>
-                    <placeName xml:id="name4155-10" xml:lang="en">al-Ḥasāʾ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4155-9" xml:lang="en">al-Ahsa</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4155-10" xml:lang="en">al-Ḥasāʾ</placeName>
                     <placeName xml:id="name4155-11" xml:lang="ar" source="#bib4155-2 #bib4155-14 #bib4155-16 #bib4155-17 #bib4155-19">الأحساء</placeName>
                     <placeName xml:id="name5009-12" xml:lang="ar" source="#bib4155-15">لهسا</placeName>
                     <desc type="abstract" xml:id="abstract4155-1" xml:lang="en" source="#bib4155-10">The capital city of the province of

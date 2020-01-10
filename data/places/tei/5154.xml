@@ -78,11 +78,11 @@
         <place type="settlement">
           <placeName xml:id="name5154-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Zāwa</placeName>
           <placeName xml:id="name5154-2" xml:lang="ar" srophe:tags="#headword" source="#bib5154-1">الزاوة</placeName>
-          <placeName xml:id="name5154-3" xml:lang="en">Zāwa</placeName>
-          <placeName xml:id="name5154-4" xml:lang="en">Turbat-i Ḥaydarī</placeName>
-          <placeName xml:id="name5154-5" xml:lang="en">Ḥaydariyya</placeName>
-          <placeName xml:id="name5154-6" xml:lang="en">Torbat-e Heydarieh</placeName>
-          <placeName xml:id="name5154-7" xml:lang="ar">تربت حیدریه</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5154-3" xml:lang="en">Zāwa</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5154-4" xml:lang="en">Turbat-i Ḥaydarī</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5154-5" xml:lang="en">Ḥaydariyya</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5154-6" xml:lang="en">Torbat-e Heydarieh</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5154-7" xml:lang="ar">تربت حیدریه</placeName>
           
           <desc type="abstract" xml:id="abstract5154-1" xml:lang="en" source="#bib5154-2"><quote>[A] district and town of K̲h̲urāsān. The town (modern Turbat-i Ḥaydarī or Ḥaydariyya, see below) is some 140 km/88 miles south of Mas̲h̲had on the road to Gunābād and lies at an altitude of approximately 1,280/4,200 feet (lat. 35° 16’ N., long. 59° 08’ E.).</quote></desc><desc xml:lang="ar"><quote source="#bib5154-4">ثم غزاهم طغيتمور بنفسه في خمسين ألفاً من التجر فهزموه، وملكوا البلاد، وتغلبوا على سرخس والزاوة وطوس، وهي من أعظم بلاد خراسان.</quote></desc><desc xml:lang="ar"><quote source="#bib5154-5">ثم سافرنا منها الى مدينة زاوة، وهي مدينة الشيخ الصالح قطب الدين حيدر</quote></desc>
                     <location type="gps" source="#bib5154-3">

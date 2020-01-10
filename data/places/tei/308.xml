@@ -141,7 +141,7 @@
             <listPlace>
                 <place xml:id="place-308" type="settlement">
                     <placeName xml:id="name308-1" xml:lang="en" srophe:tags="#headword" source="#bib308-1 #bib308-4">Tabriz</placeName>
-                    <placeName xml:id="name308-2" xml:lang="syr" srophe:tags="#headword">ܬܒܪܝܙ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name308-2" xml:lang="syr" srophe:tags="#headword">ܬܒܪܝܙ</placeName>
                     <placeName xml:id="name308-3" xml:lang="syr-Syrj" source="#bib308-2">ܬܰܒܪܺܝܙ</placeName>
                     <placeName xml:id="name308-4" xml:lang="ar" source="#bib308-3 #bib308-7" srophe:tags="#headword">تبريز</placeName>
                     <placeName xml:id="name308-5" xml:lang="ar" source="#bib308-3">توريز</placeName>

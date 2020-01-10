@@ -76,7 +76,7 @@
         <place type="region">
           <placeName xml:id="name5351-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kīj</placeName>
           <placeName xml:id="name5351-2" xml:lang="ar" srophe:tags="#headword" source="#bib5351-1">كيج</placeName>
-          <placeName xml:id="name5351-3" xml:lang="ar">کیچ</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5351-3" xml:lang="ar">کیچ</placeName>
           
           <desc type="abstract" xml:id="abstract5351-1" xml:lang="en">A valley or coastal strip spanning over Balochistan, Pakistan, and Iran.</desc><desc xml:lang="ar"><quote source="#bib5351-2">ومنهم ملك دينار تغلّب على بلاد مكران وبلاد كبج [sic! كيج]</quote></desc><desc xml:lang="ar"><quote source="#bib5351-3">ونفي عن بلاد الهند والسند، فسلك طريق كيج ومكران، وأهل البلاد يكرمونه ويضيفونه ويهادونه، ووصل إلى شيراز، فأكرمه سلطانها أبو إسحاق، وأجرى له كفايته.</quote></desc>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5351</idno>

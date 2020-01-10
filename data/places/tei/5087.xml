@@ -85,7 +85,7 @@
         <place type="settlement">
           <placeName xml:id="name5087-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Qādisīya</placeName>
           <placeName xml:id="name5087-2" xml:lang="ar" srophe:tags="#headword" source="#bib5087-1">القادسية</placeName>
-          <placeName xml:id="name5087-3" xml:lang="en">al-Qādisiyya</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5087-3" xml:lang="en">al-Qādisiyya</placeName>
           
           
           <desc type="abstract" xml:id="abstract5087-1" xml:lang="en">A city in southern Mesopotamia southwest of al-Ḥilla.</desc><desc xml:lang="ar"><quote source="#bib5087-1">ثم نزلنا القادسية حيث كانت الوقعة الشهيرة على الفرس التي أظهر الله فيها دين الإسلام وأذل المجوس عبدة النار فلم تقم لهم بعدها قائمة واستأصل الله شأفتهم، وكان أمير المسلمين يومئذ سعد بن أبي وقاص رضي الله عنه. وكانت القادسية مدينة عظيمة افتتحها سعد رضي الله عنه، وخربت فلم يبق منها الآن إلا مقدار قرية كبيرة، وفيها حدائق النخل وبها مشارع من ماء الفرات.</quote></desc>

@@ -86,8 +86,8 @@
         <place type="settlement">
           <placeName xml:id="name5331-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Jeddah</placeName>
           <placeName xml:id="name5331-2" xml:lang="ar" srophe:tags="#headword" source="#bib5331-1">جدة</placeName>
-          <placeName xml:id="name5331-3" xml:lang="en">Jidda</placeName>
-          <placeName xml:id="name5331-4" xml:lang="en">Judda</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5331-3" xml:lang="en">Jidda</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5331-4" xml:lang="en">Judda</placeName>
           
           
           <desc type="abstract" xml:id="abstract5331-1" xml:lang="en" source="#bib5331-3"><quote>A Saudi Arabian port on the Red Sea at 21° 29′ N., 39° 11′ E.</quote></desc><desc xml:lang="ar"><quote source="#bib5331-5">دخلت إلى هذا الشريف متبركا برؤيته والسلام عليه، فسألني عن قصدي، فأخبرته أني أريد (حج؟) البيت الحرام على طريق جدة</quote></desc><desc xml:lang="ar"><quote source="#bib5331-6">ولمكة من الأبواب ثلاث: باب المعلى بأعلاها، وباب الشّبيكة من أسفلها، ويعرف أيضا بباب العمرة، وهو إلى جهة المغرب، وعليه طريق المدينة الشريفة، ومصر والشام وجدة.</quote></desc><desc xml:lang="ar"><quote source="#bib5331-7">فخرجت تلك الأيام من مكة قاصداً بلاد اليمن فوصلت إلى حده،(بالحاء المهمل المفتوح) وهي نصف الطريق بين مكة وجدة (بالجيم المضمومة) ثم وصلت إلى جدة وهي بلدة قديمة على ساحل البحر</quote></desc><desc xml:lang="ar"><quote source="#bib5331-8">ومن غريب ما اتفق لي بجدة أنه وقف على بابي سائل أعمى يطلب الماء يقوده غلام، فسلم علي وسماني باسمي وأخذ بيدي، ولم أكن عرفته قط، ولا عرفني</quote></desc><desc xml:lang="ar"><quote source="#bib5331-9">وسلطانها عامر بن ذؤيب من بني كنانة، وهو من الفضلاء الأدباء الشعراء. صحبته من مكة الى جدة، وكان قد حج في سنة ثلاثين.</quote></desc><desc xml:lang="ar"><quote source="#bib5331-10">وأقمت بجدة نحو أربعين يوماً</quote></desc><desc xml:lang="ar"><quote source="#bib5331-11">وركبت منها البحر، فوصلت الى جدة. ثم سافرت منها الى مكة</quote></desc>

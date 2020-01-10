@@ -77,9 +77,9 @@
         <place type="settlement">
           <placeName xml:id="name5413-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Qarṭājana</placeName>
           <placeName xml:id="name5413-2" xml:lang="ar" srophe:tags="#headword" source="#bib5413-1">قرطاجنة</placeName>
-          <placeName xml:id="name5413-3" xml:lang="en">Ziqua</placeName>
-          <placeName xml:id="name5413-4" xml:lang="en">Carthago</placeName>
-          <placeName xml:id="name5413-5" xml:lang="en">Carthage</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5413-3" xml:lang="en">Ziqua</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5413-4" xml:lang="en">Carthago</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5413-5" xml:lang="en">Carthage</placeName>
           
           <desc type="abstract" xml:id="abstract5413-1" xml:lang="en">A city in modern Tunisia.</desc>
           <desc xml:lang="ar">

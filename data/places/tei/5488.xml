@@ -77,8 +77,8 @@
         <place type="mountain">
           <placeName xml:id="name5488-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Tall al-Tawba</placeName>
           <placeName xml:id="name5488-2" xml:lang="ar" srophe:tags="#headword" source="#bib5488-1">تل التوبة</placeName>
-          <placeName xml:id="name5488-3" xml:lang="en">Tall al-Nabī Yūsuf</placeName>
-          <placeName xml:id="name5488-4" xml:lang="ar">تل النبي يونس</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5488-3" xml:lang="en">Tall al-Nabī Yūsuf</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5488-4" xml:lang="ar">تل النبي يونس</placeName>
           
           <desc type="abstract" xml:id="abstract5488-1" xml:lang="en">A hill in Mosul.</desc>
                     <location type="gps" source="#bib5488-2">

@@ -107,11 +107,11 @@
         <body>
             <listPlace>
                 <place xml:id="place-874" type="settlement">
-                    <placeName xml:id="name874-1" xml:lang="en" srophe:tags="#headword">Sulṭāniyya</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name874-1" xml:lang="en" srophe:tags="#headword">Sulṭāniyya</placeName>
                     <placeName xml:id="name874-2" xml:lang="en" source="#bib874-1">Sultaniyyeh</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name874-3">al-Sulṭānīya</placeName>
                     <placeName xml:lang="ar" srophe:tags="#headword" source="#bib874-2" xml:id="name874-4">السلطانية</placeName>
-                    <placeName xml:lang="en" xml:id="name874-5">Soltaniyeh</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name874-5">Soltaniyeh</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract874-1">A town in the <placeName>Zanjān</placeName>
                         province in northwest <placeName>Iran</placeName>.</desc><desc xml:lang="ar"><quote source="#bib874-4"> ووصلوا إلى الملك محمد خدابنده سلطان العراق، وهو بموضع مصيفه المسمى قراباغ (بفتح القاف والراء والباء الموحدة والغين المعجمة)، وهو ما بين السلطانية وتبريز</quote></desc><desc xml:lang="ar"><quote source="#bib874-5">ذكر المتغلّبين على الملك بعد موت السلطان أبي سعيد (...) ومنهم حسن خواجه بن الدّمرطاش بن الجوبان، تغلب على تبريز والسلطانيّة وهمدان، وقمّ وقاشان والريّ ورامين وفرغان والكرج</quote></desc>
                     <location type="gps" source="#bib874-3">

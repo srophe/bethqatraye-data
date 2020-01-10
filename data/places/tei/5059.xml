@@ -78,7 +78,7 @@
         <place type="region">
           <placeName xml:id="name5059-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Lūr</placeName>
           <placeName xml:id="name5059-2" xml:lang="ar" srophe:tags="#headword" source="#bib5059-1">اللور</placeName>
-          <placeName xml:id="name5059-3" xml:lang="en">Luristan</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5059-3" xml:lang="en">Luristan</placeName>
           
           <desc type="abstract" xml:id="abstract5059-1" xml:lang="en" source="#bib5059-2">A region in the southwest of Iran. <quote>In the Mongol period the terms <quote>Great Lur</quote> and <quote>Little Lur</quote> roughly covered all the lands inhabited by Lur tribes.</quote></desc><desc xml:lang="ar"><quote source="#bib5059-4">وتوفّى في بعض تلك الأيام ولد السلطان، فلم يزيدوا على بكاء الرحمة، كما يفعله أهل مصر والشام، خلافا لما قدّمناه من فعل أهل اللّور حين مات ولد سلطانهم</quote></desc><desc xml:lang="ar"><quote source="#bib5059-5">وكان السلطان حسن غائبا عن بغداد في هذه المدة، متوجّها لقتال السلطان أتابك أفراسياب، صاحب بلاد اللور.</quote></desc>
                     <location type="gps" subtype="representative" source="#bib5059-3">

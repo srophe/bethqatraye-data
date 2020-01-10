@@ -77,7 +77,7 @@
         <place type="settlement">
           <placeName xml:id="name5118-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ṣanamayn</placeName>
           <placeName xml:id="name5118-2" xml:lang="ar" srophe:tags="#headword" source="#bib5118-1">الصنمين</placeName>
-          <placeName xml:id="name5118-3" xml:lang="en">Sanamen</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5118-3" xml:lang="en">Sanamen</placeName>
           
           <desc type="abstract" xml:id="abstract5118-1" xml:lang="en">A town in the south of Syria between Damascus and Darʿā.</desc><desc xml:lang="ar"><quote source="#bib5118-3">ذكر ياقوت في معجم البلان أن أسمها: الزراعة، وأن موقعها بين حران وقلعة جعبر، وتعرف اليوم باسم أزرع، وهي جنوبي الصنمين تبعد عنها 15 ميلا.</quote></desc>
                     <location type="gps" source="#bib5118-2">

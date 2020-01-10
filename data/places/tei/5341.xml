@@ -77,8 +77,8 @@
         <place type="settlement">
           <placeName xml:id="name5341-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Kārzī</placeName>
           <placeName xml:id="name5341-2" xml:lang="ar" srophe:tags="#headword" source="#bib5341-1">كارزي</placeName>
-          <placeName xml:id="name5341-3" xml:lang="en">Kārzīn</placeName>
-          <placeName xml:id="name5341-4" xml:lang="ar">كارزين</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5341-3" xml:lang="en">Kārzīn</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5341-4" xml:lang="ar">كارزين</placeName>
           
           <desc type="abstract" xml:id="abstract5341-1" xml:lang="en">A town south of Shīrāz in Fārs Province in Iran.</desc><desc xml:lang="ar"><quote source="#bib5341-1">ثم سافرنا إلى كارزي (وضبط اسمها بفتح الكاف وسكون الراء وكسر الزاي)، وأقمنا بها ثلاثا. ثم سافرنا إلى جمكان</quote></desc>
                     <location type="gps" source="#bib5341-2">

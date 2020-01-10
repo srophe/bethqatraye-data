@@ -77,11 +77,11 @@
         <place type="settlement">
           <placeName xml:id="name5464-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ٍShawankāra</placeName>
           <placeName xml:id="name5464-2" xml:lang="ar" srophe:tags="#headword" source="#bib5464-1">شونكارة</placeName>
-          <placeName xml:id="name5464-3" xml:lang="en">Shawānkāra</placeName>
-          <placeName xml:id="name5464-4" xml:lang="en">Shabānkāra</placeName>
-          <placeName xml:id="name5464-5" xml:lang="en">Shabankareh</placeName>
-          <placeName xml:id="name5464-6" xml:lang="ar">شوانكارة</placeName>
-          <placeName xml:id="name5464-7" xml:lang="ar">شبانكارة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5464-3" xml:lang="en">Shawānkāra</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5464-4" xml:lang="en">Shabānkāra</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5464-5" xml:lang="en">Shabankareh</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5464-6" xml:lang="ar">شوانكارة</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5464-7" xml:lang="ar">شبانكارة</placeName>
           
           <desc type="abstract" xml:id="abstract5464-1" xml:lang="en">A town in Fars province.</desc><desc xml:lang="ar"><quote source="#bib5464-3">فطلب إرث أخيه، وادّعى الملك، وبايعته العساكر، وقصد بلاد فارس، ونزل بمدينة شونكارة التي بها الإمام عضد الدين الذي تقدم ذكره آنفاً. فلما نزل بخارجها تأخر شيوخها عن الخروج إليه ساعة، ثم خرجوا. فقال لهم: ما منعكم عن تعجيل الخروج إلى مبايعتنا؟ فاعتذروا له. فلم يقبل منهم، وقال لأهل سلاحه: قلنج تجار (جقار) معناه جردوا السيوف. فجردوها، وضربوا أعناقهم، وكانوا جماعة كبيرة. فسمع من يجاور هذه المدينة من الأمراء بما فعله، فغضبوا لذلك، وكتبوا إلى شمس الدين السّمناني، وهو من الأمراء الفقهاء الكبار، فأعلموه بما جرى على أهل شونكارة. #</quote></desc>
                     <location type="gps" source="#bib5464-2">

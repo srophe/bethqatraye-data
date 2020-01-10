@@ -75,8 +75,8 @@
         <place type="island">
           <placeName xml:id="name4160-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Khārik</placeName>
           <placeName xml:id="name4160-2" xml:lang="ar" srophe:tags="#headword" source="#bib4160-1">خارك</placeName>
-          <placeName xml:id="name4160-3" xml:lang="en" srophe:tags="#headword">Kharg</placeName>
-          <placeName xml:id="name4160-4" xml:lang="en">Khark</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4160-3" xml:lang="en" srophe:tags="#headword">Kharg</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4160-4" xml:lang="en">Khark</placeName>
           
           <placeName xml:id="name4160-6" xml:lang="en" source="#bib4160-4">Black Island</placeName>
           <placeName xml:id="name4160-7" xml:lang="syr" source="#bib4160-3">​ܓܳܙܰܪܬܐ ܐܘܟܳܡܬܐ</placeName>

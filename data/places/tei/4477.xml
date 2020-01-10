@@ -100,14 +100,14 @@
             <listPlace>
                 <place xml:id="place-4477" type="diocese">
                     <placeName xml:id="name4477-1" xml:lang="en" srophe:tags="#headword" source="#bib4477-1">Mazun</placeName>
-                    <placeName xml:id="name4477-2" xml:lang="ar">مَزون</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4477-2" xml:lang="ar">مَزون</placeName>
                     <placeName xml:id="name4477-3" xml:lang="syr" srophe:tags="#headword" source="#bib4477-2">ܡܙܘܢ</placeName>
                     <placeName xml:id="name4477-4" xml:lang="fr" source="#bib4477-2">Mazȏn</placeName>
-                    <placeName xml:id="name4477-5" xml:lang="en">Beth Mazunaye</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4477-5" xml:lang="en">Beth Mazunaye</placeName>
                     <placeName xml:id="name4477-6" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">مازون</placeName>
-                    <placeName xml:id="name4477-7" xml:lang="en">Māzūn</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4477-7" xml:lang="en">Māzūn</placeName>
                     <placeName xml:id="name4477-8" xml:lang="la" source="#bib4477-4">Mazun</placeName>
-                    <placeName xml:id="name4477-9" xml:lang="syr">ܡܪܘܢ</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4477-9" xml:lang="syr">ܡܪܘܢ</placeName>
                     <desc xml:id="abstract-en-4477" xml:lang="en">A diocese of the southeastern
                             <placeName ref="http://syriaca.org/place/716">Arabian
                             Peninsula</placeName> on the shores of the <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">Persian Gulf</placeName></ref>.</desc>

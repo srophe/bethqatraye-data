@@ -105,7 +105,7 @@
       <body>
          <listPlace>
             <place xml:id="place-3018" type="settlement">
-               <placeName xml:id="name3018-1" xml:lang="en" srophe:tags="#headword">al-Sābūr</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3018-1" xml:lang="en" srophe:tags="#headword">al-Sābūr</placeName>
                <placeName xml:id="name3018-2" xml:lang="ar" srophe:tags="#headword" source="#bib3018-2">السابور</placeName>
                <placeName xml:id="name3018-3" xml:lang="ar" source="#bib3018-1">سابون</placeName>
                <placeName xml:id="name3018-4" xml:lang="ar" source="#bib3018-1">السابون</placeName>

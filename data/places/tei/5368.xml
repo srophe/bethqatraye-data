@@ -77,8 +77,8 @@
         <place type="settlement">
           <placeName xml:id="name5368-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Mashhad al-Riḍā</placeName>
           <placeName xml:id="name5368-2" xml:lang="ar" srophe:tags="#headword" source="#bib5368-1">مشهد الرضا</placeName>
-          <placeName xml:id="name5368-3" xml:lang="en">Mashhad</placeName>
-          <placeName xml:id="name5368-4" xml:lang="ar">مشهد</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5368-3" xml:lang="en">Mashhad</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5368-4" xml:lang="ar">مشهد</placeName>
           
           <desc type="abstract" xml:id="abstract5368-1" xml:lang="en">A town in northeast Iran.</desc><desc xml:lang="ar"><quote source="#bib5368-1">ورحلنا منها إلى مدينة مشهد الرضا، وهو علي بن موسى الكاظم بن جعفر الصادق بن محمد الباقر بن علي زين العابدين بن الحسين الشهيد ابن أمير المؤمنين علي بن أبي طالب رضي الله عنهم.</quote></desc>
                     <location type="gps" source="#bib5368-2">

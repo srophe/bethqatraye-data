@@ -169,7 +169,7 @@
                     <placeName xml:id="name142-8" xml:lang="en" source="#bib142-7">Ṣōbā</placeName>
                     <placeName xml:id="name142-9" xml:lang="ar" source="#bib142-8">نَصِيبين</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name142-10">Nuṣaybīn</placeName>
-                    <placeName xml:lang="en" xml:id="name142-12">Antiochia</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name142-12">Antiochia</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract142-1">
                         <quote source="#bib142-1">City in <placeName>Mesopotamia</placeName> and important center of early
                             Syriac Christianity.</quote>

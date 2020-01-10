@@ -143,7 +143,7 @@
                <placeName xml:id="name4150-5" xml:lang="fr" source="#bib4150-2">Deirȋn</placeName>
                <placeName xml:id="name4150-6" xml:lang="ar" source="#bib4150-3">الدارين</placeName>
                <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name4150-7">Tarout</placeName>
-               <placeName xml:lang="en" xml:id="name4150-8">Tarūt</placeName>
+               <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name4150-8">Tarūt</placeName>
                <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name4150-9">Darin</placeName>
                <placeName xml:id="name4150-10" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Dārīn</placeName>
                <placeName xml:id="name4150-11" xml:lang="ar" resp="https://bqgazetteer.bethmardutho.org">دارِين</placeName>

@@ -111,9 +111,9 @@
                     <placeName xml:id="name2879-4" xml:lang="syr" source="#bib2879-2">ܡܝܫܡܗܓ</placeName>
                     <placeName xml:id="name2879-5" xml:lang="fr" source="#bib2879-2">Mâšmâhȋg</placeName>
                     <placeName xml:id="name2879-6" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">Samaheej</placeName>
-                    <placeName xml:id="name2879-7" xml:lang="en">Mayshamhag</placeName>
-                    <placeName xml:id="name2879-8" xml:lang="en">Mashmahīg</placeName>
-                    <placeName xml:id="name2879-9" xml:lang="en">Samāhīj</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2879-7" xml:lang="en">Mayshamhag</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2879-8" xml:lang="en">Mashmahīg</placeName>
+                    <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2879-9" xml:lang="en">Samāhīj</placeName>
                     <desc xml:id="abstract-en-2879" xml:lang="en">An episcopal see on an island in the
                             <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> region.
                     </desc>

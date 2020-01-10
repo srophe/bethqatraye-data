@@ -104,10 +104,10 @@
         <place type="settlement">
           <placeName xml:id="name5307-1" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" srophe:tags="#headword">Hīt</placeName>
           <placeName xml:id="name5307-2" xml:lang="ar" srophe:tags="#headword" source="#bib5307-2">هيت</placeName>
-          <placeName xml:id="name5307-3" xml:lang="en">Idu</placeName>
-          <placeName xml:id="name5307-4" xml:lang="en">Diacira</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5307-3" xml:lang="en">Idu</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5307-4" xml:lang="en">Diacira</placeName>
           
-          <placeName xml:lang="en" xml:id="name5307-6">Hit</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name5307-6">Hit</placeName>
           <desc type="abstract" xml:id="abstract5307-1" xml:lang="en" source="#bib5307-3">A <quote>town in ʿIrāḳ situated in
             about 33° 35′ N. and 42° 48′ E. on the right bank of the Euphrates, on a hill which may
             be man-made.</quote></desc>

@@ -73,8 +73,8 @@
         <place type="island">
           <placeName xml:id="name5015-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Baḥrain</placeName>
           <placeName xml:id="name5015-2" xml:lang="ar" srophe:tags="#headword" source="#bib5015-1">البحرين</placeName>
-          <placeName xml:id="name5015-3" xml:lang="en">al-Baḥrayn</placeName>
-          <placeName xml:id="name5015-4" xml:lang="en">Bahrain</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5015-3" xml:lang="en">al-Baḥrayn</placeName>
+          <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5015-4" xml:lang="en">Bahrain</placeName>
           
           <desc type="abstract" xml:id="abstract5015-1" xml:lang="en">An island located off the coast of the Arabian/Persian Gulf.</desc>
                     <location type="gps" source="#bib5015-2">
