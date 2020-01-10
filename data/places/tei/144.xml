@@ -151,8 +151,7 @@
                     <desc type="abstract" xml:lang="en" xml:id="abstract144-1">
                         <quote source="#bib144-1">A very ancient city in northern <placeName>Iraq</placeName> located on
                             the eastern side of the <placeName>Tigris River</placeName>, directly across from the medieval
-                            and modern city of <placeName>Mosul</placeName>.</quote>
-                    </desc>
+                            and modern city of <placeName>Mosul</placeName>.</quote></desc>
                     <desc xml:lang="ar"><quote source="#bib144-8">يقال إنه موضع المدينة المعروفة بنينوى مدينة يونس عليه السلام</quote></desc>
                     <location type="gps" source="#bib144-10" subtype="alternate">
                         <geo>36.366841 43.155403</geo>

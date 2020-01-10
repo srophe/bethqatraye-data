@@ -164,8 +164,7 @@
                     <desc xml:id="abstract-en-472" xml:lang="en">
                         <quote source="#bib472-1">It remains uncertain when [Syriac-speaking]
                             Christians first reached the main, historically Chinese-speaking (Han),
-                            part of China.</quote>
-                    </desc>
+                            part of China.</quote></desc>
                     <event type="attestation" xml:id="attestation472-1" notBefore="1224" notAfter="1228" srophe:computed-start="1224-01-01" srophe:computed-end="1228-01-01" source="#bib472-8">
                         <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الصِين</foreign>
                             in the <title xml:lang="en" level="m">Muʿjam al-buldān</title> of

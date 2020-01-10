@@ -156,8 +156,7 @@
                     <desc xml:lang="ar">
                         <quote source="#bib410-6">ثم سرنا منها إلى مدينة سرمين. وهي حسنة كثيرة البساتين، وأكثر شجرها الزيتون. وبها يصنع الصابون الأجري</quote></desc>
                     <desc xml:lang="en">
-                        <quote source="#bib410-3">a small town in the province of <placeName>Aleppo</placeName>.</quote>
-                    </desc>
+                        <quote source="#bib410-3">a small town in the province of <placeName>Aleppo</placeName>.</quote></desc>
                     <location type="gps" source="#bib410-7" subtype="alternate">
                         <geo>35.90403 36.72501</geo>
                     </location>
