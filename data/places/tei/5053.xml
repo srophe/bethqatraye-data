@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="a" xml:lang="en">al-Khaṭṭa [?] - <foreign xml:lang="ar">الخط</foreign>
+        <title level="a" xml:lang="en">al-Khaṭṭa - <foreign xml:lang="ar">الخط</foreign>
         </title>
         <title level="m" xml:lang="en">The Beth Qaṭraye Gazetteer</title>
         <sponsor>Beth Mardutho: The Syriac Institute</sponsor>         <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>         <funder>Qatar National Research Foundation</funder>
@@ -73,11 +73,14 @@
           <placeName xml:id="name5053-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Khaṭṭa [?]</placeName>
           <placeName xml:id="name5053-2" xml:lang="ar" srophe:tags="#headword" source="#bib5053-1">الخط</placeName>
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5053-3" xml:lang="en">al-Khaṭṭu</placeName>
-          
           <desc type="abstract" xml:id="abstract5053-1" xml:lang="en">A region stretching along the coastline of Oman and Baḥrayn.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5053-1">الخط : بفتح أوله، وتشديد الطاء، في كتاب العين : الخط أرض تنسب إليها الرماح الخطية، فإذا جعلت النسبة اسما لازما قلت خطية ولم تذكر الرماح، وهو خط عمان، وقال أبو منصور : وذلك السيف كله يسمى الخط، ومن قرى الخط القطيف والعقير وقطر؛ قلت أنا : وجميع هذا في سيف البحرين وعمان، وهي مواضع كانت تجلب إليها الرماح القنا من الهند فتقوم فيه وتباع على العرب؛ وينسب إليها عيسى بن فاتك الخطي أحد بني تيم الله بن ثعلبة، كان من الخوارج الذين كانوا مع أبي بلاد سرداس بن أدية</quote>
-          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          </desc>
+          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
+            <geo>26.6 49.9</geo>
+          </location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5053</idno>
           <idno type="URI">http://syriaca.org/place/5053</idno>
           <bibl xml:id="bib5053-1">
