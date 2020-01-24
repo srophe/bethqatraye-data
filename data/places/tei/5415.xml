@@ -77,7 +77,11 @@
           <desc type="abstract" xml:id="abstract5415-1" xml:lang="en">A village located in the region of al-Baḥrayn between al-ʿUqair and ʿUmān known for the production of textiles.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5415-1">قال أبو منصور : في أعراض البحرين على سيف الخط بين عمان والعقير قرية يقال لها قطر وأحسب الثياب القطرية تنسب إليها</quote>
-          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          </desc>
+          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
+            <geo>25.4 53.1</geo>
+          </location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5415</idno>
           <idno type="URI">http://syriaca.org/place/5415</idno>
           <bibl xml:id="bib5415-1">
