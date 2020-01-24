@@ -126,7 +126,11 @@
                      يقال له العين وهو يجري إلى جانب مدينة محمد بن الغمر، ولذلك قال يزيد بن المفرغ
                      يهجو المنذر بن الجارود وكان قد أجاره فحقد عبيد الله بن زياد جواره وأخذه منه
                      فنكل به ونسب المشقر إلى عبد القيس وهم أهل البحرين</quote>
-               </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+               </desc>
+               <location type="gps" resp="https://bqgazetteer.bethmardutho.org">
+                  <geo>25.429444 49.621944</geo>
+               </location>
+               <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                <event type="attestation" xml:id="attestation3020-1" notBefore="0846" notAfter="0885" source="#bib3020-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">المشقر</foreign> in
                      the <title xml:lang="en" level="m">Kitāb al-masālik wa-l-mamālik</title> of
