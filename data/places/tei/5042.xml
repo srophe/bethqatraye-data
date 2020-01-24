@@ -72,8 +72,11 @@
         <place type="mountain">
           <placeName xml:id="name5042-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Ḥāzim</placeName>
           <placeName xml:id="name5042-2" xml:lang="ar" srophe:tags="#headword" source="#bib5042-1">الحازم</placeName>
-          
-          <desc type="abstract" xml:id="abstract5042-1" xml:lang="en">A black mountain in the middle of the sea and close to Uwāl famous with pearl divers.</desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <desc type="abstract" xml:id="abstract5042-1" xml:lang="en">A black mountain in the middle of the sea and close to Uwāl famous with pearl divers.</desc>
+          <location type="gps" subtype="representative">
+            <geo>26.490278 50.518889</geo>
+          </location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5042</idno>
           <idno type="URI">http://syriaca.org/place/5042</idno>
           <bibl xml:id="bib5042-1">
