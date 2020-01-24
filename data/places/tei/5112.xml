@@ -76,7 +76,11 @@
           <desc type="abstract" xml:id="abstract5112-1" xml:lang="en">The capital city of Hagar.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5112-1">وقال ابن الفقيه : الصفا قصبة هجر</quote>
-          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          </desc>
+          <location type="gps" resp="https://bqgazetteer.bethmardutho.org" subtype="representative">
+            <geo>25.429444 49.621944</geo>
+          </location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5112</idno>
           <idno type="URI">http://syriaca.org/place/5112</idno>
           <bibl xml:id="bib5112-1">
