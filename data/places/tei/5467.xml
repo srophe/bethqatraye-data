@@ -88,7 +88,7 @@
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5467-3" xml:lang="en">Shīrāz</placeName>
           
           
-          <desc type="abstract" xml:id="abstract5467-1" xml:lang="en">A city of Fārs located east of the Persian/Arabian Gulf.</desc>
+          <desc type="abstract" xml:id="abstract5467-1" xml:lang="en">A city of Fārs located east of <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">The Gulf</placeName></ref>.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5467-1">ومثل قولنا في شيراز لا مقدار لاهل الطيالسة بها وذلك انه لباس الشريف والوضيع والعالم والجاهل</quote>
           </desc>
