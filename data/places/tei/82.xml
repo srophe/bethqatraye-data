@@ -164,7 +164,7 @@
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name82-9">Firat</placeName>
                     <desc type="abstract" xml:lang="en" xml:id="abstract82-1">The western major
                         river of <placeName>Mesopotamia</placeName>, flowing from eastern
-                        <placeName>Turkey</placeName> to <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">The Gulf</placeName></ref>.</desc>
+                        <placeName>Turkey</placeName> to <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">the gulf</placeName></ref>.</desc>
                     <location type="gps" subtype="representative" source="#bib82-9">
                         <geo>34.7141123794017 41.14435946777027</geo>
                     </location>

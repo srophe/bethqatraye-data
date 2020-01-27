@@ -103,7 +103,7 @@
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5385-9" xml:lang="syr">ܡܪܘܢ</placeName>
                     <desc type="abstract" xml:id="abstract5385-1" xml:lang="en">A region of the
                         southeastern <placeName ref="http://syriaca.org/place/716">Arabian
-                            Peninsula</placeName> on the shores of <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">The Gulf</placeName></ref>.</desc>
+                            Peninsula</placeName> on the shores of <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">the gulf</placeName></ref>.</desc>
                     <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
                         <geo>24.342 56.729889</geo>
                     </location>

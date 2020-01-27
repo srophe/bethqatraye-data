@@ -76,7 +76,7 @@
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5015-3" xml:lang="en">al-Baḥrayn</placeName>
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name5015-4" xml:lang="en">Bahrain</placeName>
           
-          <desc type="abstract" xml:id="abstract5015-1" xml:lang="en">An island located off the coast of <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">The Gulf</placeName></ref>.</desc>
+          <desc type="abstract" xml:id="abstract5015-1" xml:lang="en">An island located off the coast of <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">the gulf</placeName></ref>.</desc>
                     <location type="gps" source="#bib5015-2">
                         <geo>26.03333 50.55</geo>
                     </location><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>

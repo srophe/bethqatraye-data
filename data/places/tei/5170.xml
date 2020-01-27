@@ -73,7 +73,7 @@
           <placeName xml:id="name5170-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-ʿUqaira</placeName>
           <placeName xml:id="name5170-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">العُقَيْرة</placeName>
           <placeName xml:id="name5170-3" xml:lang="ar" source="#bib5170-1">العقيرة</placeName>
-          <desc type="abstract" xml:id="abstract5170-1" xml:lang="en">A city on the coast of <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">The Gulf</placeName></ref> about one night-journey from Hagar.</desc>
+          <desc type="abstract" xml:id="abstract5170-1" xml:lang="en">A city on the coast of <ref target="https://bqgazetteer.bethmardutho.org/place/156"><placeName ref="http://syriaca.org/place/156">the gulf</placeName></ref> about one night-journey from Hagar.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5170-1">العقيرة : [...] قرية بينها وبين أقر نصف يوم [...] وقال الحازمي : العقيرة مدينة على البحر بينها وبين هجر ليلة.</quote>
           </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
