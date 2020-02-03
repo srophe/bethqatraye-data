@@ -187,7 +187,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-603" type="region">
+                <place  type="region">
                     <placeName xml:id="name603-1" xml:lang="en" srophe:tags="#headword" source="#bib603-1 #bib603-4">Khurasan</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name603-2" xml:lang="syr" srophe:tags="#headword">ܟܘܪܐܣܐܢ</placeName>
                     <placeName xml:id="name603-3" xml:lang="syr-Syrj" source="#bib603-2">ܟܘܽܪܐܣܰܐܢ</placeName>

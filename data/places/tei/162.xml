@@ -171,7 +171,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-162" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name162-1" xml:lang="en" srophe:tags="#headword" source="#bib162-1">Qenneshrin</placeName>
                     <placeName xml:id="name162-2" xml:lang="en" source="#bib162-1 #bib162-4">Chalcis</placeName>
                     <placeName xml:id="name162-3" xml:lang="ar" source="#bib162-2 #bib162-6 #bib162-7 #bib162-8 #bib162-9" srophe:tags="#headword">قنسرين</placeName>

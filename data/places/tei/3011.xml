@@ -93,7 +93,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-3011" type="island">
+            <place  type="island">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3011-1" xml:lang="en" srophe:tags="#headword">Ruḥa</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3011-2" xml:lang="ar" srophe:tags="#headword">روحا</placeName>
                <placeName xml:id="name3011-3" xml:lang="syr" srophe:tags="#headword" source="#bib3011-1">ܪܘܚܐ</placeName>

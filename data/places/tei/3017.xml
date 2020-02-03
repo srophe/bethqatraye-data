@@ -113,7 +113,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-3017" type="fortification">
+            <place  type="fortification">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3017-1" xml:lang="en" srophe:tags="#headword">Juwāthāʾ</placeName>
                <placeName xml:id="name3017-2" xml:lang="ar" srophe:tags="#headword" source="#bib3017-1 #bib3017-2">جواثا</placeName>
                <placeName xml:lang="ar" xml:id="name3017-3" source="#bib3017-3">جواثاء</placeName>

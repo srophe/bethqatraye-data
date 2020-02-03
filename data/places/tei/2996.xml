@@ -130,7 +130,7 @@
   <text>
     <body>
       <listPlace>
-        <place xml:id="place-2996" type="settlement">
+        <place  type="settlement">
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2996-1" xml:lang="en" srophe:tags="#headword">Naysābūr</placeName>
           <placeName xml:id="name2996-2" xml:lang="ar" srophe:tags="#headword" source="#bib2996-2 #bib2996-3 #bib2996-4">نيسابور</placeName>
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name2996-3">Nishapur</placeName>

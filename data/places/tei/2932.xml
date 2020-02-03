@@ -114,7 +114,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2932" type="open-water">
+            <place  type="open-water">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2932-1" xml:lang="en" srophe:tags="#headword">Gulf of
                   Aden</placeName>
                <placeName xml:id="name2932-2" xml:lang="ar" srophe:tags="#headword" source="#bib2932-2">الخليج البربري</placeName>

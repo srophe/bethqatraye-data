@@ -104,7 +104,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-672" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name672-1" xml:lang="en" srophe:tags="#headword" source="#bib672-1">Arragan</placeName>
                     <placeName xml:id="name672-2" xml:lang="ar" source="#bib672-3">أَرّجان</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name672-3">Arjān</placeName>

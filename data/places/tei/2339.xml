@@ -97,7 +97,7 @@
   <text>
     <body>
       <listPlace>
-        <place xml:id="place-2339" type="diocese">
+        <place  type="diocese">
           <placeName xml:id="name2339-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">Maishan</placeName>
           <placeName xml:id="name2339-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">ميسان</placeName>
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2339-3" xml:lang="en">Maysān</placeName>

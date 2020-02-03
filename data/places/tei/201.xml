@@ -133,7 +133,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-201" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name201-1" xml:lang="en" srophe:tags="#headword" source="#bib201-1">Tiberias</placeName>
                     <placeName xml:id="name201-2" xml:lang="ar" source="#bib201-2 #bib201-3 #bib201-4 #bib201-5" srophe:tags="#headword">طبرية</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name201-3">Ṭabarīya</placeName>

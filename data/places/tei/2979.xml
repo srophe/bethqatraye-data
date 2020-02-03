@@ -114,7 +114,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2979" type="settlement">
+            <place  type="settlement">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2979-1" xml:lang="en" srophe:tags="#headword">Khāniqīn</placeName>
                <placeName xml:id="name2979-2" xml:lang="ar" srophe:tags="#headword" source="#bib2979-1 #bib2979-2">خانقين</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name2979-3">Khānaqīn</placeName>

@@ -134,7 +134,7 @@
   <text>
     <body>
       <listPlace>
-        <place xml:id="place-2909" type="mosque">
+        <place  type="mosque">
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2909-1" xml:lang="en" srophe:tags="#headword">al-Masjid
             al-Ḥarām</placeName>
           <placeName xml:id="name2909-2" xml:lang="ar" srophe:tags="#headword" source="#bib2909-1 #bib2909-2 #bib2909-3">المسجد الحرام</placeName>

@@ -154,7 +154,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-61" type="open-water">
+                <place  type="open-water">
                     <placeName xml:id="name61-1" xml:lang="en" srophe:tags="#headword" source="#bib61-1 #bib61-4">Caspian Sea</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name61-2" xml:lang="syr" srophe:tags="#headword">ܝܡܐ
                         ܕܩܙܒܝܢ</placeName>

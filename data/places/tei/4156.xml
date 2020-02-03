@@ -164,7 +164,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-4156" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name4156-1" xml:lang="en" srophe:tags="#headword" source="#bib4156-1">Ḥaṭṭa</placeName>
                     <placeName xml:id="name4156-2" xml:lang="ar" srophe:tags="#headword" source="#bib4156-2 #bib4156-3 #bib4156-4 #bib4156-9">الخط</placeName>
                     <placeName xml:id="name4156-3" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">al-Khaṭṭ</placeName>

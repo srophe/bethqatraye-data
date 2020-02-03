@@ -114,7 +114,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2961" type="region">
+            <place  type="region">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2961-1" xml:lang="en" srophe:tags="#headword">al-Sind</placeName>
                <placeName xml:id="name2961-2" xml:lang="ar" srophe:tags="#headword" source="#bib2961-1 #bib2961-2">السند</placeName>
                <desc>The region between India

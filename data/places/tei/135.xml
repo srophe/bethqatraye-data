@@ -138,7 +138,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-135" type="open-water">
+                <place  type="open-water">
                     <placeName xml:id="name135-1" xml:lang="en" srophe:tags="#headword" source="#bib135-1">Mediterranean Sea</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name135-2" xml:lang="syr" srophe:tags="#headword">ܝܡܐ ܡܨܥܝܐ</placeName>
                     <placeName xml:id="name135-3" xml:lang="syr-Syrj" source="#bib135-2">ܝܰܡܳܐ

@@ -102,7 +102,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2881" type="diocese">
+            <place  type="diocese">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2881-1" xml:lang="en" srophe:tags="#headword">Gazrata</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2881-2" xml:lang="ar" srophe:tags="#headword">الجزر</placeName>
                <placeName xml:id="name2881-3" xml:lang="syr" srophe:tags="#headword" source="#bib2881-1">ܓܙܪ̈ܬܐ</placeName>

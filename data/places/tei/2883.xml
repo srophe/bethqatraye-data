@@ -93,7 +93,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2883" type="settlement">
+            <place  type="settlement">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2883-1" xml:lang="en" srophe:tags="#headword">Dhu
                   ʾl-Nār</placeName>
                <placeName xml:id="name2883-2" xml:lang="ar" srophe:tags="#headword" source="#bib2883-1">ذو النار</placeName>

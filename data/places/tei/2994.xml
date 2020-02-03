@@ -114,7 +114,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2994" type="region">
+            <place  type="region">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2994-1" xml:lang="en" srophe:tags="#headword">Qūmis</placeName>
                <placeName xml:id="name2994-2" xml:lang="ar" srophe:tags="#headword" source="#bib2994-2 #bib2994-3">قومس</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name2994-3">Komisene</placeName>

@@ -114,7 +114,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-3000" type="settlement">
+            <place  type="settlement">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3000-1" xml:lang="en" srophe:tags="#headword">al-Ṭālaqān</placeName>
                <placeName xml:id="name3000-2" xml:lang="ar" srophe:tags="#headword" source="#bib3000-1 #bib3000-2">الطالقان</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="en" xml:id="name3000-3">Tāleqān</placeName>

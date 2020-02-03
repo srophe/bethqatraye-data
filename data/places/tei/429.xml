@@ -156,7 +156,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-429" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name429-1" xml:lang="en" srophe:tags="#headword" source="#bib429-3">ʿĀnah</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name429-2" xml:lang="syr" srophe:tags="#headword">ܥܐܢܐ</placeName>
                     <placeName xml:id="name429-3" xml:lang="syr-Syrj" source="#bib429-1">ܥܰܐܢܰܐ</placeName>

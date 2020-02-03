@@ -104,7 +104,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-85" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name85-1" xml:lang="en" srophe:tags="#headword" source="#bib85-1">Gabala</placeName>
                     <placeName xml:id="name85-2" xml:lang="ar" source="#bib85-2 #bib85-3">جبلة</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name85-3">Jabala</placeName>

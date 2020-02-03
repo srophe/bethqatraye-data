@@ -131,7 +131,7 @@
   <text>
     <body>
       <listPlace>
-        <place xml:id="place-2918" type="settlement">
+        <place  type="settlement">
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2918-1" xml:lang="en" srophe:tags="#headword">al-Ṭāʾif</placeName>
           <placeName xml:id="name2918-2" xml:lang="ar" srophe:tags="#headword" source="#bib2918-1 #bib2918-2 #bib2918-3">الطائف</placeName>
           <desc type="abstract" xml:lang="en" xml:id="abstract2918-1" source="#bib2918-4"><quote>[A] town in <placeName>Arabia</placeName> to the

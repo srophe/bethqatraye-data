@@ -104,7 +104,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-169" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name169-1" xml:lang="en" srophe:tags="#headword" source="#bib169-1 #bib169-2">Ram Hormizd</placeName>
                     <placeName xml:id="name169-2" xml:lang="ar" source="#bib169-3" srophe:tags="#headword">رامهرمز</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name169-3">Rāmz</placeName>

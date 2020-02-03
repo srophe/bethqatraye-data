@@ -135,7 +135,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-4150" type="island">
+            <place  type="island">
                <placeName xml:id="name4150-1" xml:lang="en" srophe:tags="#headword" source="#bib4150-1">Dayrin</placeName>
                <placeName xml:id="name4150-2" xml:lang="ar" srophe:tags="#headword" source="#bib4150-3 #bib4150-4 #bib4150-5">دارين</placeName>
                <placeName xml:id="name4150-3" xml:lang="en" source="#bib4150-1">Dirin</placeName>

@@ -115,7 +115,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-187" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name187-1" xml:lang="en" srophe:tags="#headword" source="#bib187-1 #bib187-2">Sidon</placeName>
                     <placeName xml:id="name187-2" xml:lang="ar" source="#bib187-3">صَيْداء</placeName>
                     <placeName xml:id="name187-3" xml:lang="ar" srophe:tags="#headword" source="#bib187-4">صيدان</placeName>

@@ -137,7 +137,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-823" type="settlement">
+                <place  type="settlement">
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name823-1" xml:lang="en" srophe:tags="#headword">Hamadān</placeName>
                     <placeName xml:id="name823-2" xml:lang="en" source="#bib823-1">Hamaḏān</placeName>
                     <placeName xml:id="name823-3" xml:lang="ar" source="#bib823-3">هَمَذَان</placeName>

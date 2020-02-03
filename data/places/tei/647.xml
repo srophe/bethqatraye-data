@@ -115,7 +115,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-647" type="region">
+                <place  type="region">
                     <placeName xml:id="name647-1" xml:lang="en" srophe:tags="#headword" source="#bib647-1">Turkestan</placeName>
                     <placeName xml:id="name647-2" xml:lang="ar" srophe:tags="#headword" source="#bib647-2 #bib647-3">تركستان</placeName>
                     <placeName xml:id="name647-3" xml:lang="ar" source="#bib647-3">الترك</placeName>

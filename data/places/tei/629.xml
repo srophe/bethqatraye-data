@@ -116,7 +116,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-629" type="river">
+                <place  type="river">
                     <placeName xml:id="name629-1" xml:lang="en" srophe:tags="#headword" source="#bib629-1">Nile</placeName>
                     <placeName xml:id="name629-2" xml:lang="ar" source="#bib629-3">النِّيل</placeName>
                     <placeName xml:id="name629-3" xml:lang="ar" srophe:tags="#headword" source="#bib629-4">النيل</placeName>

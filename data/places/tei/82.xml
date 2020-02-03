@@ -152,7 +152,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-82" type="river">
+                <place  type="river">
                     <placeName xml:id="name82-1" xml:lang="en" srophe:tags="#headword" source="#bib82-1 #bib82-4 #bib82-5">Euphrates</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name82-2" xml:lang="syr" srophe:tags="#headword">ܦܪܬ</placeName>
                     <placeName xml:id="name82-3" xml:lang="syr-Syrj" source="#bib82-2">ܦܪܰܬ</placeName>

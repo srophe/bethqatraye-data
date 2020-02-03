@@ -106,7 +106,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-874" type="settlement">
+                <place  type="settlement">
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name874-1" xml:lang="en" srophe:tags="#headword">Sulṭāniyya</placeName>
                     <placeName xml:id="name874-2" xml:lang="en" source="#bib874-1">Sultaniyyeh</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name874-3">al-Sulṭānīya</placeName>

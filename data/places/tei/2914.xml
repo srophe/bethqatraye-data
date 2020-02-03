@@ -98,7 +98,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2914" type="mountain">
+            <place  type="mountain">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2914-1" xml:lang="en" srophe:tags="#headword">Jabal
                   al-Manẓar</placeName>
                <placeName xml:id="name2914-2" xml:lang="ar" srophe:tags="#headword" source="#bib2914-1">جبل المنظر</placeName>

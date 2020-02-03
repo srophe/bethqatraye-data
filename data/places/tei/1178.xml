@@ -115,7 +115,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-1178" type="region">
+                <place  type="region">
                     <placeName xml:id="name1178-1" xml:lang="en" srophe:tags="#headword" source="#bib1178-1">North Africa</placeName>
                     <placeName xml:id="name1178-2" xml:lang="ar" source="#bib1178-2">إِفريقية</placeName>
                     <placeName xml:id="name1178-3" xml:lang="ar" srophe:tags="#headword" source="#bib1178-3">افريقية</placeName>

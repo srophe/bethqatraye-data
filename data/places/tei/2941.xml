@@ -150,7 +150,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-2941" type="region">
+                <place  type="region">
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2941-1" xml:lang="en" srophe:tags="#headword">al-Baḥrayn</placeName>
                     <placeName xml:id="name2941-2" xml:lang="en" resp="https://bqgazetteer.bethmardutho.org">al-Baḥrain</placeName>
                     <placeName xml:id="name2941-3" xml:lang="ar" srophe:tags="#headword" source="#bib2941-1 #bib2941-2 #bib2941-3 #bib2941-4 #bib2941-5 #bib2941-6 #bib2941-12 #bib2941-13 #bib2941-14">البحرين</placeName>

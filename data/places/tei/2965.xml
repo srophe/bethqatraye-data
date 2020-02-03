@@ -113,7 +113,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-2965" type="region">
+            <place  type="region">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2965-1" xml:lang="en" srophe:tags="#headword">al-Maghrib</placeName>
                <placeName xml:id="name2965-2" xml:lang="ar" srophe:tags="#headword" source="#bib2965-1 #bib2965-2">المغرب</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2965-3" xml:lang="en">The West</placeName>

@@ -98,7 +98,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-4477" type="diocese">
+                <place  type="diocese">
                     <placeName xml:id="name4477-1" xml:lang="en" srophe:tags="#headword" source="#bib4477-1">Mazun</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name4477-2" xml:lang="ar">مَزون</placeName>
                     <placeName xml:id="name4477-3" xml:lang="syr" srophe:tags="#headword" source="#bib4477-2">ܡܙܘܢ</placeName>

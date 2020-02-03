@@ -150,7 +150,7 @@
   <text>
     <body>
       <listPlace>
-        <place xml:id="place-2907" type="settlement">
+        <place  type="settlement">
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2907-1" xml:lang="en" srophe:tags="#headword">Medina</placeName>
           <placeName xml:id="name2907-2" xml:lang="ar" srophe:tags="#headword" source="#bib2907-2 #bib2907-4">المدينة</placeName>
           <placeName xml:id="name2907-3" xml:lang="en" source="#bib2907-1">Yathrib</placeName>

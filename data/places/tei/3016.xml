@@ -123,7 +123,7 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-3016" type="settlement">
+            <place  type="settlement">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3016-1" xml:lang="en" srophe:tags="#headword">al-Zāra</placeName>
                <placeName xml:id="name3016-2" xml:lang="ar" srophe:tags="#headword" source="#bib3016-1 #bib3016-2">الزارة</placeName>
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:lang="ar" xml:id="name3016-3">الزَّارَة</placeName>

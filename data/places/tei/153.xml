@@ -118,7 +118,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-153" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name153-1" xml:lang="en" srophe:tags="#headword" source="#bib153-1 #bib153-2">Palmyra</placeName>
                     <placeName xml:id="name153-2" xml:lang="ar" source="#bib153-3">تَدْمُر</placeName>
                     <placeName xml:lang="en" resp="https://bqgazetteer.bethmardutho.org" xml:id="name153-3">Tadmur</placeName>

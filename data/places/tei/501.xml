@@ -118,7 +118,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-501" type="settlement">
+                <place  type="settlement">
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name501-1" xml:lang="en" srophe:tags="#headword">Māksīn</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name501-2" xml:lang="syr" srophe:tags="#headword">ܡܐܟܣܝܢ</placeName>
                     <placeName xml:id="name501-3" xml:lang="syr-Syrj" source="#bib501-1">ܡܰܐܟܣܝܢ</placeName>

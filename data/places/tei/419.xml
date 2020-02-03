@@ -138,7 +138,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-419" type="settlement">
+                <place  type="settlement">
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name419-1" xml:lang="en" srophe:tags="#headword">al-Ṣāliḥiyya</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name419-2" xml:lang="syr" srophe:tags="#headword">ܨܐܠܚܝܗ </placeName>
                     <placeName xml:id="name419-3" xml:lang="syr-Syrj" source="#bib419-1">ܨܰܐܠܚܝܗ </placeName>

@@ -124,7 +124,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-499" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name499-1" xml:lang="en" srophe:tags="#headword" source="#bib499-1 #bib499-4">Maʿarrat al-Nuʿmān</placeName>
                     <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name499-2" xml:lang="syr" srophe:tags="#headword">ܡܥܪܝܐ ܢܥܡܢ</placeName>
                     <placeName xml:id="name499-3" xml:lang="syr-Syrj" source="#bib499-2">ܡܥܪܝܐ

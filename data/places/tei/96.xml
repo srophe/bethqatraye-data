@@ -117,7 +117,7 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="place-96" type="settlement">
+                <place  type="settlement">
                     <placeName xml:id="name96-1" xml:lang="en" srophe:tags="#headword" source="#bib96-1 #bib96-2">Hormizd Ardashir</placeName>
                     <placeName xml:id="name96-2" xml:lang="en" source="#bib96-3">Ahwaz</placeName>
                     <placeName xml:id="name96-3" xml:lang="ar" srophe:tags="#headword" source="#bib96-4">الاهواز</placeName>
