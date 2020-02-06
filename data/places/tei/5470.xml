@@ -116,6 +116,9 @@
               أهلها بنو عامر بن الحارث ابن أنمار بن عمرو بن وديعة بن لكيز بن أفصى بن عبد
               القيس.</quote>
           </desc>
+          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
+            <geo>25.65511 50.74015</geo>
+          </location>
           <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5470</idno>
           <idno type="URI">http://syriaca.org/place/5470</idno>

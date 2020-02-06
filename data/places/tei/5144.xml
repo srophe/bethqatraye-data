@@ -73,7 +73,11 @@
           <placeName xml:id="name5144-1" xml:lang="en" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">al-Yamāma</placeName>
           <placeName xml:id="name5144-2" xml:lang="ar" srophe:tags="#headword" source="#bib5144-1">اليمامة</placeName>
           
-          <desc type="abstract" xml:id="abstract5144-1" xml:lang="en" source="#bib5144-2"><quote>In early Islamic times al-Yamāma was a region of Nad̲j̲d [q.v.] with its centre Ḥad̲j̲r [...].</quote></desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          <desc type="abstract" xml:id="abstract5144-1" xml:lang="en" source="#bib5144-2"><quote>In early Islamic times al-Yamāma was a region of Nad̲j̲d [q.v.] with its centre Ḥad̲j̲r [...].</quote></desc>
+          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
+            <geo>24.17257 48.44725</geo>
+          </location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5144</idno>
           <idno type="URI">http://syriaca.org/place/5144</idno>
           <bibl xml:id="bib5144-1">

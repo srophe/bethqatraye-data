@@ -111,7 +111,10 @@
                     <desc type="abstract" xml:id="abstract3007-1" xml:lang="en">One of the islands in <ref target="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></ref> in the
                         vicinity of <ref target="https://bqgazetteer.bethmardutho.org/place/3010"><placeName ref="http://syriaca.org/place/3010">Talun</placeName></ref>
                         and <ref target="https://bqgazetteer.bethmardutho.org/place/3011"><placeName ref="http://syriaca.org/place/3011">Rūḥa</placeName></ref>.</desc>
-                   <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
+                    <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
+                        <geo>25.67673 50.81154</geo>
+                    </location>
+                    <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
                       <region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region>
                    </location>
                    <event type="attestation" xml:id="attestation3007-1" when="0585" source="#bib3007-1">

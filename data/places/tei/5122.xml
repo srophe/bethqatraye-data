@@ -76,7 +76,11 @@
           <desc type="abstract" xml:id="abstract5122-1" xml:lang="en">ِA ruined city located on the island of Uwāl/Awāl.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5122-1">قال : والشبا أيضا مدينة خربة بأوال يعني بأرض هجر والبحرين.</quote>
-          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          </desc>
+          <location type="gps" resp="https://bqgazetteer.bethmardutho.org">
+            <geo>25.91296 50.56898</geo>
+          </location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5122</idno>
           <idno type="URI">http://syriaca.org/place/5122</idno>
           <bibl xml:id="bib5122-1">
