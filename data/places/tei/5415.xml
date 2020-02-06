@@ -78,8 +78,8 @@
           <desc xml:lang="ar">
             <quote source="#bib5415-1">قال أبو منصور : في أعراض البحرين على سيف الخط بين عمان والعقير قرية يقال لها قطر وأحسب الثياب القطرية تنسب إليها</quote>
           </desc>
-          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
-            <geo>25.4 53.1</geo>
+          <location type="gps" resp="https://bqgazetteer.bethmardutho.org">
+            <geo>25.59291 50.84189</geo>
           </location>
           <location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5415</idno>
