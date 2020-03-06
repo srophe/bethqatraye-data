@@ -1,4 +1,6 @@
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,10 +14,15 @@
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#aabu-husayn">Abdulrahim Abu-Husayn</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#achamseddine">Abdul Rahman Chamseddine</editor>
         <editor role="general" ref="http://syriaca.org/documentation/editors.xml#mkozah">Mario Kozah</editor>
-        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor><editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
+        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
+        <editor role="contributing" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
         <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor><respStmt><resp>Data correction and integration from Ibn Battuta, al-Bakri, al-Tabari, Nasir Khusraw, Ibn Jubayr, Isho’yahb III, Al-Muqaddasī, Ibn Ḥawqal, Al-Masūdī, Yāqūt b. ʿAbdallāh al-Ḥamawī by</resp><name ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</name></respStmt>          
+        <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</editor>
+        <respStmt>
+          <resp>Data correction and integration from Ibn Battuta, al-Bakri, al-Tabari, Nasir Khusraw, Ibn Jubayr, Isho’yahb III, Al-Muqaddasī, Ibn Ḥawqal, Al-Masūdī, Yāqūt b. ʿAbdallāh al-Ḥamawī by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#tscheunchen">Tobias Scheunchen</name>
+        </respStmt>          
         <respStmt>
           <resp>Yaqūt b. ʿAbdallah al-Ḥamawī data collection by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#sal-murikhi">Saif Al-Murikhi</name>
@@ -23,7 +30,11 @@
         <respStmt>
           <resp>Data merging and XML by</resp>
           <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L. Potter</name>
-        </respStmt><respStmt><resp>Data merging and XML by</resp><name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name></respStmt>            
+        </respStmt>
+        <respStmt>
+          <resp>Data merging and XML by</resp>
+          <name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
+        </respStmt>            
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
@@ -63,7 +74,10 @@
       </langUsage>
     </profileDesc>
     <revisionDesc status="published">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-06-06:00">ADDED: Location coordinates.</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
+      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -76,12 +90,23 @@
           <desc type="abstract" xml:id="abstract5484-1" xml:lang="en">A village in al-Baḥrayn known for the production of dates.</desc>
           <desc xml:lang="ar">
             <quote source="#bib5484-1">وطاب : قرية بالبحرين لعلها سميت بهذا التمر أو هي تنسب إليه.</quote>
-          </desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
+          </desc>
+          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
+            <geo>25.98548 50.50704</geo>
+          </location>
+          <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
+            <region ref="https://bqgazetteer.bethmardutho.org/place/37">
+              <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>
+            </region>
+          </location>
           <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5484</idno>
           <idno type="URI">http://syriaca.org/place/5484</idno>
           <bibl xml:id="bib5484-1">
-            <title xml:lang="en" level="m">Muʿjam al-buldān</title><author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author><ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
-            <citedRange unit="vol">4</citedRange><citedRange unit="pp">3</citedRange>
+            <title xml:lang="en" level="m">Muʿjam al-buldān</title>
+            <author>Shihāb al-Dīn Abū ʿAbdallāh al-Rūmī Yāqūt al-Ḥamawī</author>
+            <ptr target="http://syriaca.org/bibl/ZQCZ554T"/>
+            <citedRange unit="vol">4</citedRange>
+            <citedRange unit="pp">3</citedRange>
           </bibl>
         </place>
       </listPlace>
