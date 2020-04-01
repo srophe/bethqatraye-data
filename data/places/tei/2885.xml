@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/schemaPlaceDraftData/out/syriacaPlacesTEI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:srophe="https://srophe.app" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,11 +28,7 @@
                <resp>Data merging and XML by</resp>
                <name ref="http://syriaca.org/documentation/editors.xml#wpotter">William L.
                   Potter</name>
-            </respStmt>
-        <respStmt>
-          <resp>Data merging and XML by</resp>
-          <name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
-        </respStmt>            
+            </respStmt><respStmt><resp>Data merging and XML by</resp><name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name></respStmt>            
             <respStmt>
                <resp>Data merging, Wikipedia linking, and XML by</resp>
                <name ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A.
@@ -90,10 +84,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="published">
-         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-06-06:00">ADDED: Location coordinates.</change>
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2885-1">Merged in data from [duplicate record with same URI].</change>
+         <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change><change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-15-06:00" xml:id="change2885-1">Merged in data from [duplicate record with same URI].</change>
          <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00">CREATED: place [duplicate record with same URI]</change>
          <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">ADDED: Ibn al-Faqīh citation and attestation</change>
          <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2017-08-09-05:00">CREATED: place</change>
@@ -102,20 +93,10 @@
    <text>
       <body>
          <listPlace>
-            <place type="settlement">
+            <place  type="settlement">
                <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name2885-1" xml:lang="en" srophe:tags="#headword">al-Dharāʾib</placeName>
                <placeName xml:id="name2885-2" xml:lang="ar" srophe:tags="#headword" source="#bib2885-1">الذرائب</placeName>
-               <desc type="abstract" xml:lang="en" xml:id="abstract2885-1">A village of <ref target="https://bqgazetteer.bethmardutho.org/place/2941">
-              <placeName ref="http://syriaca.org/place/2941">al-Baḥrayn</placeName>
-            </ref>.</desc>
-          <location type="gps" subtype="representative" resp="https://bqgazetteer.bethmardutho.org">
-            <geo>25.98548 50.59296</geo>
-          </location>
-          <location type="nested" resp="https://bqgazetteer.bethmardutho.org">
-            <region ref="https://bqgazetteer.bethmardutho.org/place/37">
-              <placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName>
-            </region>
-          </location>
+               <desc type="abstract" xml:lang="en" xml:id="abstract2885-1">A village of <ref target="https://bqgazetteer.bethmardutho.org/place/2941"><placeName ref="http://syriaca.org/place/2941">al-Baḥrayn</placeName></ref>.</desc><location type="nested" resp="https://bqgazetteer.bethmardutho.org"><region ref="https://bqgazetteer.bethmardutho.org/place/37"><placeName ref="http://syriaca.org/place/37">Beth Qaṭraye</placeName></region></location>
                <event type="attestation" xml:id="attestation2885-1" notBefore="0902" notAfter="0908" source="#bib2885-1">
                   <p xml:lang="en">Attestation of name <foreign xml:lang="ar">الذرائب</foreign> in
                      the <title xml:lang="en" level="m">Kitāb al-buldān</title> of <persName>Aḥmad
