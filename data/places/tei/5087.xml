@@ -109,7 +109,7 @@
             <citedRange unit="pp">207e, 210</citedRange>
           </bibl>
                     <bibl xml:id="bib5087-3">
-                        <title level="a">http://pleiades.stoa.org/places/912923</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/912923"/>
+                        <title level="a">http://pleiades.stoa.org/places/912923</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/912923"/>
                     </bibl>
         </place>
       </listPlace>

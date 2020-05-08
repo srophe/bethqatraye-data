@@ -169,7 +169,7 @@
                     </bibl>
                     <bibl xml:id="bib642-5">
                         <title level="a">https://pleiades.stoa.org/places/39338</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                        <ptr target="https://pleiades.stoa.org/places/39338"/>
+                        <ref target="https://pleiades.stoa.org/places/39338"/>
                     </bibl>
                 </place>
             </listPlace>

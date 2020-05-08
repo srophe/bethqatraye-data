@@ -112,7 +112,7 @@
           <bibl xml:id="bib5234-2">
             <title xml:lang="en" level="m">Encyclopaedia of Islam, First Edition</title>
             <editor>M. Th.Houtsma</editor>
-            <ptr target="http://dx.doi.org/10.1163/2214-871X_ei1_COM_0036"/>
+            <ref target="http://dx.doi.org/10.1163/2214-871X_ei1_COM_0036"/>
           </bibl>
         </place>
       </listPlace>

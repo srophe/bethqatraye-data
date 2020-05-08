@@ -323,7 +323,7 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second
                             Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
                     </bibl>
                     <bibl xml:id="bib4155-12">
                         <title xml:lang="en" level="m">Murūj al-Dhahab</title>
@@ -370,7 +370,7 @@
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second
                             Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0271"/>
                     </bibl>
                     <bibl xml:id="bib4155-19">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>

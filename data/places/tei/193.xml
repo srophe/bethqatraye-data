@@ -313,10 +313,10 @@
                     <bibl xml:id="bib193-12">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7346"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7346"/>
                     </bibl>
                     <bibl xml:id="bib193-13">
-                        <title level="a">http://pleiades.stoa.org/places/894099</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/894099"/>
+                        <title level="a">http://pleiades.stoa.org/places/894099</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/894099"/>
                     </bibl>
                     <bibl xml:id="bib193-14">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

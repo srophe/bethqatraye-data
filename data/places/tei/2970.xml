@@ -147,7 +147,7 @@
                <idno type="URI">https://dbpedia.org/resource/Rey,_Iran</idno>
                <bibl xml:id="bib2970-1">
                   <title level="a">https://pleiades.stoa.org/places/903104</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                  <ptr target="https://pleiades.stoa.org/places/903104"/>
+                  <ref target="https://pleiades.stoa.org/places/903104"/>
                </bibl>
                <bibl xml:id="bib2970-2">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>
@@ -165,10 +165,10 @@
                     <bibl xml:id="bib2970-4">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0916"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0916"/>
                     </bibl>
                     <bibl xml:id="bib2970-5">
-                        <title level="a">http://pleiades.stoa.org/places/903104</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/903104"/>
+                        <title level="a">http://pleiades.stoa.org/places/903104</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/903104"/>
                     </bibl><bibl xml:id="bib2970-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">240</citedRange></bibl>
             </place>
          </listPlace>

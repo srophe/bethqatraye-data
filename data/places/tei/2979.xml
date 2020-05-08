@@ -153,7 +153,7 @@
                   <citedRange unit="pp">25</citedRange>
                </bibl>
                     <bibl xml:id="bib2979-3">
-                        <title level="a">http://sws.geonames.org/94591</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/94591"/>
+                        <title level="a">http://sws.geonames.org/94591</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://sws.geonames.org/94591"/>
                     </bibl>
             </place>
          </listPlace>

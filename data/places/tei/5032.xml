@@ -98,7 +98,7 @@
                     <bibl xml:id="bib5032-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2525"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2525"/>
                     </bibl>
         </place>
       </listPlace>

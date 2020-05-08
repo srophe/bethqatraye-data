@@ -116,10 +116,10 @@
           <bibl xml:id="bib5218-2">
             <title xml:lang="en" level="m">Encyclopaedia of Islam, Third Edition</title>
             <editor>Kate Fleet</editor>
-            <ptr target="http://dx.doi.org/10.1163/1573-3912_ei3_COM_23471"/>
+            <ref target="http://dx.doi.org/10.1163/1573-3912_ei3_COM_23471"/>
           </bibl>
                     <bibl xml:id="bib5218-3">
-                        <title level="a">http://sws.geonames.org/1147707</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/1147707"/>
+                        <title level="a">http://sws.geonames.org/1147707</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://sws.geonames.org/1147707"/>
                     </bibl>
         </place>
       </listPlace>

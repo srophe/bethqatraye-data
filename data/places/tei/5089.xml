@@ -129,7 +129,7 @@
             <citedRange unit="pp">47, 238</citedRange>
           </bibl>
                     <bibl xml:id="bib5089-5">
-                        <title level="a">http://www.geonames.org/2473449/kairouan.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/2473449/kairouan.html"/>
+                        <title level="a">http://www.geonames.org/2473449/kairouan.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://www.geonames.org/2473449/kairouan.html"/>
                     </bibl>
         </place>
       </listPlace>

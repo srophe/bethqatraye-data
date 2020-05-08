@@ -103,10 +103,10 @@
                     <bibl xml:id="bib5178-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_ei3_COM_24998"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_ei3_COM_24998"/>
                     </bibl>
                     <bibl xml:id="bib5178-3">
-                        <title level="a">http://www.geonames.org/144233/alestan.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/144233/alestan.html"/>
+                        <title level="a">http://www.geonames.org/144233/alestan.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://www.geonames.org/144233/alestan.html"/>
                     </bibl>
         </place>
       </listPlace>

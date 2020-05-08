@@ -154,7 +154,7 @@
                <idno type="URI">http://pleiades.stoa.org/places/942287</idno>
                <bibl xml:id="bib2994-1">
                   <title level="a">https://pleiades.stoa.org/places/942287</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                  <ptr target="https://pleiades.stoa.org/places/942287"/>
+                  <ref target="https://pleiades.stoa.org/places/942287"/>
                </bibl>
                <bibl xml:id="bib2994-2">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>
@@ -171,10 +171,10 @@
                <bibl xml:id="bib2994-4">
                   <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                   <editor>P. Bearman</editor>
-                  <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4511"/>
+                  <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4511"/>
                </bibl>
                     <bibl xml:id="bib2994-5">
-                        <title level="a">http://pleiades.stoa.org/places/942287</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/942287"/>
+                        <title level="a">http://pleiades.stoa.org/places/942287</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/942287"/>
                     </bibl>
             </place>
          </listPlace>

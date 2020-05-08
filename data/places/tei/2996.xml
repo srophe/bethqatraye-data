@@ -164,7 +164,7 @@
           <idno type="URI">http://pleiades.stoa.org/places/952092</idno>
           <bibl xml:id="bib2996-1">
             <title level="a">https://pleiades.stoa.org/places/952092</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-            <ptr target="https://pleiades.stoa.org/places/952092"/>
+            <ref target="https://pleiades.stoa.org/places/952092"/>
           </bibl>
           <bibl xml:id="bib2996-2">
             <title xml:lang="en" level="m">Kitāb al-buldān</title>
@@ -186,7 +186,7 @@
             <citedRange unit="pp">311, 388, 389, 394, 395</citedRange>
           </bibl>
                     <bibl xml:id="bib2996-5">
-                        <title level="a">http://pleiades.stoa.org/places/952092</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/952092"/>
+                        <title level="a">http://pleiades.stoa.org/places/952092</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/952092"/>
                     </bibl>
         </place>
       </listPlace>

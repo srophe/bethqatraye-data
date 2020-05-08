@@ -100,10 +100,10 @@
                     <bibl xml:id="bib5174-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0869"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0869"/>
                     </bibl>
                     <bibl xml:id="bib5174-3">
-                        <title level="a">http://www.geonames.org/2381516/aoudaghost.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/2381516/aoudaghost.html"/>
+                        <title level="a">http://www.geonames.org/2381516/aoudaghost.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://www.geonames.org/2381516/aoudaghost.html"/>
                     </bibl>
         </place>
       </listPlace>

@@ -98,10 +98,10 @@
                     <bibl xml:id="bib5064-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4943"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4943"/>
                     </bibl>
                     <bibl xml:id="bib5064-3">
-                        <title level="a">http://sws.geonames.org/360761</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/360761"/>
+                        <title level="a">http://sws.geonames.org/360761</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://sws.geonames.org/360761"/>
                     </bibl>
         </place>
       </listPlace>

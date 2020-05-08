@@ -197,7 +197,7 @@
                     </bibl>
                     <bibl xml:id="bib410-4">
                         <title level="a">http://pleiades.stoa.org/places/668366</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ptr target="http://pleiades.stoa.org/places/668366"/>
+                        <ref target="http://pleiades.stoa.org/places/668366"/>
                     </bibl>
                     <bibl xml:id="bib410-5">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
@@ -214,7 +214,7 @@
                         <citedRange unit="pp">85</citedRange>
                     </bibl>
                     <bibl xml:id="bib410-7">
-                        <title level="a">http://sws.geonames.org/164782</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/164782"/>
+                        <title level="a">http://sws.geonames.org/164782</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://sws.geonames.org/164782"/>
                     </bibl>
                 </place>
             </listPlace>

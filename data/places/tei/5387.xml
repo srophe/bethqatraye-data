@@ -111,10 +111,10 @@
                     <bibl xml:id="bib5387-3">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/2214-871X_ei1_SIM_4676"/>
+                        <ref target="http://dx.doi.org/10.1163/2214-871X_ei1_SIM_4676"/>
                     </bibl>
                     <bibl xml:id="bib5387-4">
-                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark</title><author>GeoHack</author> <ref target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=منى&amp;params=21.413333333333_N_39.893333333333_E_globe:earth_type:landmark"/>
                     </bibl>
         </place>
       </listPlace>

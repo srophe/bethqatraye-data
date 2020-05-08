@@ -123,7 +123,7 @@
                <idno type="URI">https://dbpedia.org/resource/Ain_Shams</idno>
                <bibl xml:id="bib2924-1">
                   <title level="a">https://pleiades.stoa.org/places/727117</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                  <ptr target="https://pleiades.stoa.org/places/727117"/>
+                  <ref target="https://pleiades.stoa.org/places/727117"/>
                </bibl>
                <bibl xml:id="bib2924-2">
                   <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>

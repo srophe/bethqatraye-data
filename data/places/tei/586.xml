@@ -248,7 +248,7 @@
                     </bibl>
                     <bibl xml:id="bib586-7">
                         <title level="a">http://pleiades.stoa.org/places/520998</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ptr target="http://pleiades.stoa.org/places/520998"/>
+                        <ref target="http://pleiades.stoa.org/places/520998"/>
                     </bibl>
                     <bibl xml:id="bib586-8">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
@@ -269,7 +269,7 @@
                         <citedRange unit="pp">133</citedRange>
                     </bibl>
                     <bibl xml:id="bib586-11">
-                        <title level="a">http://pleiades.stoa.org/places/520985</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/520985"/>
+                        <title level="a">http://pleiades.stoa.org/places/520985</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/520985"/>
                     </bibl>
                     <bibl xml:id="bib586-12">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>

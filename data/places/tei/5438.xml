@@ -96,7 +96,7 @@
             <citedRange unit="pp">7</citedRange>
           </bibl>
                     <bibl xml:id="bib5438-2">
-                        <title level="a">http://www.geonames.org/293768/ramla.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/293768/ramla.html"/>
+                        <title level="a">http://www.geonames.org/293768/ramla.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://www.geonames.org/293768/ramla.html"/>
                     </bibl>
         </place>
       </listPlace>
