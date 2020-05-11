@@ -199,7 +199,7 @@
                     </bibl>
                     <bibl xml:id="bib135-5">
                         <title level="a">http://pleiades.stoa.org/places/1043</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ptr target="http://pleiades.stoa.org/places/1043"/>
+                        <ref target="http://pleiades.stoa.org/places/1043"/>
                     </bibl>
                     <bibl xml:id="bib135-6">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>

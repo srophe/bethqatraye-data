@@ -96,10 +96,10 @@
                     <bibl xml:id="bib5060-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4725"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4725"/>
                     </bibl>
                     <bibl xml:id="bib5060-3">
-                        <title level="a">http://gazetteer.dainst.org/place/2345186</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2345186"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2345186</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="http://gazetteer.dainst.org/place/2345186"/>
                     </bibl>
         </place>
       </listPlace>

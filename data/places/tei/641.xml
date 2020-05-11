@@ -238,7 +238,7 @@
                     </bibl>
                     <bibl xml:id="bib641-7">
                         <title level="a">http://pleiades.stoa.org/places/423025</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ptr target="http://pleiades.stoa.org/places/423025"/>
+                        <ref target="http://pleiades.stoa.org/places/423025"/>
                     </bibl>
                     <bibl xml:id="bib641-8">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>

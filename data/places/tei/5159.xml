@@ -92,7 +92,7 @@
             <citedRange unit="pp">141</citedRange>
           </bibl>
                     <bibl xml:id="bib5159-2">
-                        <title level="a">https://www.google.com/maps/place/وادي+العقيق%E2%80%AD/@24.3659544,39.4187537,11z/data=!3m1!4b1!4m5!3m4!1s0x15bdbc66c3c2b927:0x85b5ca83fc6e4fe0!8m2!3d24.3670012!4d39.5514464</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://www.google.com/maps/place/وادي+العقيق%E2%80%AD/@24.3659544,39.4187537,11z/data=!3m1!4b1!4m5!3m4!1s0x15bdbc66c3c2b927:0x85b5ca83fc6e4fe0!8m2!3d24.3670012!4d39.5514464"/>
+                        <title level="a">https://www.google.com/maps/place/وادي+العقيق%E2%80%AD/@24.3659544,39.4187537,11z/data=!3m1!4b1!4m5!3m4!1s0x15bdbc66c3c2b927:0x85b5ca83fc6e4fe0!8m2!3d24.3670012!4d39.5514464</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ref target="https://www.google.com/maps/place/وادي+العقيق%E2%80%AD/@24.3659544,39.4187537,11z/data=!3m1!4b1!4m5!3m4!1s0x15bdbc66c3c2b927:0x85b5ca83fc6e4fe0!8m2!3d24.3670012!4d39.5514464"/>
                     </bibl>
         </place>
       </listPlace>

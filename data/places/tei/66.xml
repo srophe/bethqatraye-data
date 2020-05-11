@@ -296,7 +296,7 @@
                         <citedRange unit="pp">13, 16, 17, 19, 258-298</citedRange>
                     </bibl>
                     <bibl xml:id="bib66-12">
-                        <title level="a">http://pleiades.stoa.org/places/678106</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/678106"/>
+                        <title level="a">http://pleiades.stoa.org/places/678106</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/678106"/>
                     </bibl>
                 </place>
             </listPlace>

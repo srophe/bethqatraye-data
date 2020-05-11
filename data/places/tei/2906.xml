@@ -214,7 +214,7 @@
           </bibl>
           <bibl xml:id="bib2906-2">
             <title level="a">https://pleiades.stoa.org/places/29652</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-            <ptr target="https://pleiades.stoa.org/places/29652"/>
+            <ref target="https://pleiades.stoa.org/places/29652"/>
           </bibl>
           <bibl xml:id="bib2906-3">
             <title xml:lang="en" level="m">Kitāb al-buldān</title>
@@ -251,7 +251,7 @@
             <citedRange unit="pp">3, 14, 23, 30, 56, 59, 80-182, 205, 208</citedRange>
           </bibl>
                     <bibl xml:id="bib2906-8">
-                        <title level="a">http://gazetteer.dainst.org/place/2283160</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2283160"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2283160</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="http://gazetteer.dainst.org/place/2283160"/>
                     </bibl>
         </place>
       </listPlace>

@@ -95,7 +95,7 @@
             <citedRange unit="pp">88</citedRange>
           </bibl>
                     <bibl xml:id="bib5393-2">
-                        <title level="a">http://www.geonames.org/103628/mintaqat-najran.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/103628/mintaqat-najran.html"/>
+                        <title level="a">http://www.geonames.org/103628/mintaqat-najran.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://www.geonames.org/103628/mintaqat-najran.html"/>
                     </bibl>
         </place>
       </listPlace>

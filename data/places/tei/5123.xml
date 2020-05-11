@@ -99,10 +99,10 @@
                     <bibl xml:id="bib5123-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0305"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0305"/>
                     </bibl>
                     <bibl xml:id="bib5123-3">
-                        <title level="a">https://pleiades.stoa.org/places/869702586</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="https://pleiades.stoa.org/places/869702586"/>
+                        <title level="a">https://pleiades.stoa.org/places/869702586</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="https://pleiades.stoa.org/places/869702586"/>
                     </bibl>
         </place>
       </listPlace>

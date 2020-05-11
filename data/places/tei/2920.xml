@@ -193,7 +193,7 @@
                <bibl xml:id="bib2920-5">
                   <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                   <editor>P. Bearman</editor>
-                  <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7976"/>
+                  <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7976"/>
                </bibl>
                <bibl xml:id="bib2920-6">
                   <title xml:lang="en" level="m">Safar Nāma</title><author>Nāṣir Khusraw</author><ptr target="http://syriaca.org/bibl/NATHCE76"/>

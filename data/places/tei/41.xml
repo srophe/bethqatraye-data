@@ -314,7 +314,7 @@
                             686</citedRange>
                     </bibl>
                     <bibl xml:id="bib41-13">
-                        <title level="a">http://pleiades.stoa.org/places/893952</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/893952"/>
+                        <title level="a">http://pleiades.stoa.org/places/893952</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/893952"/>
                     </bibl>
                 </place>
             </listPlace>

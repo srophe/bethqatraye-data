@@ -94,7 +94,7 @@
             <citedRange unit="pp">243</citedRange>
           </bibl>
                     <bibl xml:id="bib5051-2">
-                        <title level="a">http://gazetteer.dainst.org/place/2280350</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2280350"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2280350</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="http://gazetteer.dainst.org/place/2280350"/>
                     </bibl>
         </place>
       </listPlace>

@@ -96,7 +96,7 @@
                       <title level="a">https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia</title>
                       <author>National Geospatial-Intelligence Agency</author>
                       <title level="m">Geographical Names</title>
-                      <ptr target="https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia"/>
+                      <ref target="https://geographic.org/geographic_names/name.php?uni=-4357257&amp;fid=5599&amp;c=saudi_arabia"/>
           </bibl>
         </place>
       </listPlace>

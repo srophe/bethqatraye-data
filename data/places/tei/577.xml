@@ -154,7 +154,7 @@
                     </bibl>
                     <bibl xml:id="bib577-2">
                         <title level="a">http://pleiades.stoa.org/places/678179</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ptr target="http://pleiades.stoa.org/places/678179"/>
+                        <ref target="http://pleiades.stoa.org/places/678179"/>
                     </bibl>
                     <bibl xml:id="bib577-3">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>

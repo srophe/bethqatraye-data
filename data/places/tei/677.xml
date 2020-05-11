@@ -141,7 +141,7 @@
                     </bibl>
                     <bibl xml:id="bib677-3">
                         <title level="a">http://pleiades.stoa.org/places/579885</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ptr target="http://pleiades.stoa.org/places/579885"/>
+                        <ref target="http://pleiades.stoa.org/places/579885"/>
                     </bibl>
                     <bibl xml:id="bib677-4">
                         <title xml:lang="en" level="m">Kitāb al-masālik wa

@@ -96,10 +96,10 @@
                     <bibl xml:id="bib5059-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0588"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0588"/>
                     </bibl>
                     <bibl xml:id="bib5059-3">
-                        <title level="a">https://gazetteer.dainst.org/app/#!/show/2390659</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="https://gazetteer.dainst.org/app/#!/show/2390659"/>
+                        <title level="a">https://gazetteer.dainst.org/app/#!/show/2390659</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="https://gazetteer.dainst.org/app/#!/show/2390659"/>
                     </bibl><bibl xml:id="bib5059-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">295</citedRange></bibl><bibl xml:id="bib5059-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">663</citedRange></bibl>
         </place>
       </listPlace>

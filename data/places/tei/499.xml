@@ -199,10 +199,10 @@
                     <bibl xml:id="bib499-7">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0598"/>
+                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0598"/>
                     </bibl>
                     <bibl xml:id="bib499-8">
-                        <title level="a">http://gazetteer.dainst.org/place/2043139</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2043139"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2043139</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="http://gazetteer.dainst.org/place/2043139"/>
                     </bibl>
                 </place>
             </listPlace>

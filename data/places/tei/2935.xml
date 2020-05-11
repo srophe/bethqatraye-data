@@ -121,7 +121,7 @@
                <idno type="URI">https://dbpedia.org/resource/Sri_Lanka</idno>
                <bibl xml:id="bib2935-1">
                   <title level="a">https://pleiades.stoa.org/places/50298</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                  <ptr target="https://pleiades.stoa.org/places/50298"/>
+                  <ref target="https://pleiades.stoa.org/places/50298"/>
                </bibl>
                <bibl xml:id="bib2935-2">
                   <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>

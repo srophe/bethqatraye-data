@@ -92,7 +92,7 @@
             <citedRange unit="pp">125</citedRange>
           </bibl>
                     <bibl xml:id="bib5056-2">
-                        <title level="a">http://sws.geonames.org/173598</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/173598"/>
+                        <title level="a">http://sws.geonames.org/173598</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://sws.geonames.org/173598"/>
                     </bibl>
         </place>
       </listPlace>

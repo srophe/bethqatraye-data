@@ -86,7 +86,7 @@
           <bibl xml:id="bib5181-1">
             <title xml:lang="en" level="m">Kitāb al-masālik wa al-mamālik</title><author>Abū al-Qāsim Muḥammad Ibn Ḥawqal</author><ptr target="http://syriaca.org/bibl/GZIUD38F"/>
             <citedRange unit="pp">287</citedRange>
-          </bibl><bibl xml:id="bib5181-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0848"/></bibl>
+          </bibl><bibl xml:id="bib5181-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0848"/></bibl>
         </place>
       </listPlace>
     </body>
