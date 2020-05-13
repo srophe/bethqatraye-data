@@ -52,7 +52,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Beth Mardutho: The Syriac Institute</authority>
-        <idno type="URI" change="#change5470-1">https://bqgazetteer.bethmardutho.org/place/5470/tei</idno>
+        <idno type="URI">https://bqgazetteer.bethmardutho.org/place/5470/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -92,11 +92,7 @@
     </profileDesc>
     <revisionDesc status="published">
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2019-12-16-06:00">CHANGED: Marked place as part of Beth Qatraye</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-13-06:00" xml:id="change5470-1">Merged in data from
-        [https://bqgazetteer.bethmardutho.org/place/5469].</change>
       <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place</change>
-      <change who="http://syriaca.org/documentation/editors.xml#wpotter" when="2019-11-01-05:00">CREATED: place [https://bqgazetteer.bethmardutho.org/place/5469]</change>
     </revisionDesc>
   </teiHeader>
   <text>
