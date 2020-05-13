@@ -99,7 +99,7 @@
             <title xml:lang="en" level="m">Chronicle of Seert</title>
             <author>A. Scher</author>
             <ptr target="http://syriaca.org/bibl/1345"/>
-            <citedRange unit="volume">5.2</citedRange>
+            <citedRange unit="vol">5.2</citedRange>
             <citedRange unit="pp">217-344</citedRange>
           </bibl>
           <bibl xml:id="bib4471-2">
