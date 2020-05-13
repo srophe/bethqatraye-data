@@ -99,9 +99,9 @@
           <placeName xml:id="name3010-2" xml:lang="ar" srophe:tags="#headword" resp="https://bqgazetteer.bethmardutho.org">تَلون</placeName>
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3010-3" xml:lang="en">Tālūn</placeName>
           <placeName resp="https://bqgazetteer.bethmardutho.org" xml:id="name3010-4" xml:lang="ar">تالون</placeName>
-          <placeName xml:id="name3010-3" xml:lang="syr" srophe:tags="#headword" source="#bib3010-2">ܬܐܠܘܢ</placeName>
+          <placeName xml:id="name3010-5" xml:lang="syr" srophe:tags="#headword" source="#bib3010-2">ܬܐܠܘܢ</placeName>
           <placeName xml:id="name3010-6" xml:lang="la" source="#bib3010-3">Talon</placeName>
-          <placeName xml:id="name3010-4" xml:lang="fr" source="#bib3010-2">Tâlwân</placeName>
+          <placeName xml:id="name3010-7" xml:lang="fr" source="#bib3010-2">Tâlwân</placeName>
           <desc type="abstract" xml:id="abstract3010-1" xml:lang="en">One of the islands of
             Beth Qaṭraye in the vicinity of <ref target="https://bqgazetteer.bethmardutho.org/place/3007"><placeName ref="http://syriaca.org/place/3007">Daray</placeName></ref>.</desc>
           <desc xml:lang="syr">
