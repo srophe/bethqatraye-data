@@ -211,7 +211,7 @@
                         <citedRange unit="pp">189</citedRange>
                     </bibl>
                     <bibl xml:id="bib196-8">
-                        <title level="a">http://pleiades.stoa.org/places/648789</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/648789"/>
+                        <title level="a">http://pleiades.stoa.org/places/648789</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/648789"/>
                     </bibl>
                 </place>
             </listPlace>

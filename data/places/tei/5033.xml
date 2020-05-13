@@ -86,7 +86,7 @@
           <bibl xml:id="bib5033-1">
             <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title><author>Muḥammad ibn Aḥmad Maqdisī</author><ptr target="http://syriaca.org/bibl/Q7SV98GA"/>
             <citedRange unit="pp">25</citedRange>
-          </bibl><bibl xml:id="bib5033-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2585"/></bibl>
+          </bibl><bibl xml:id="bib5033-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_2585"/></bibl>
         </place>
       </listPlace>
     </body>

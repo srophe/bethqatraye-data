@@ -100,10 +100,10 @@
                     <bibl xml:id="bib5154-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_8129"/>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_8129"/>
                     </bibl>
                     <bibl xml:id="bib5154-3">
-                        <title level="a">http://sws.geonames.org/112646</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://sws.geonames.org/112646"/>
+                        <title level="a">http://sws.geonames.org/112646</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/112646"/>
                     </bibl><bibl xml:id="bib5154-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">390</citedRange></bibl><bibl xml:id="bib5154-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">394</citedRange></bibl>
         </place>
       </listPlace>

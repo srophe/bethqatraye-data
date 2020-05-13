@@ -237,7 +237,7 @@
                         <citedRange unit="pp">236</citedRange>
                     </bibl>
                     <bibl xml:id="bib144-10">
-                        <title level="a">http://pleiades.stoa.org/places/874621</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/874621"/>
+                        <title level="a">http://pleiades.stoa.org/places/874621</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/874621"/>
                     </bibl>
                 </place>
             </listPlace>

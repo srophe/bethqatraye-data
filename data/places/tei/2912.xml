@@ -150,7 +150,7 @@
                   <citedRange unit="pp">159, 177, 178</citedRange>
                </bibl>
                     <bibl xml:id="bib2912-3">
-                        <title level="a">https://goo.gl/maps/QY55HCSUc83jwNT27</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ref target="https://goo.gl/maps/QY55HCSUc83jwNT27"/>
+                        <title level="a">https://goo.gl/maps/QY55HCSUc83jwNT27</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://goo.gl/maps/QY55HCSUc83jwNT27"/>
                     </bibl>
             </place>
          </listPlace>

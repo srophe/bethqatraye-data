@@ -93,7 +93,7 @@
             <citedRange unit="pp">210</citedRange>
           </bibl>
                     <bibl xml:id="bib5280-2">
-                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Firuzan&amp;params=34_16_43_N_48_14_24_E_region:IR_type:city</title><author>GeoHack</author> <ref target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Firuzan&amp;params=34_16_43_N_48_14_24_E_region:IR_type:city"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Firuzan&amp;params=34_16_43_N_48_14_24_E_region:IR_type:city</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Firuzan&amp;params=34_16_43_N_48_14_24_E_region:IR_type:city"/>
                     </bibl>
         </place>
       </listPlace>

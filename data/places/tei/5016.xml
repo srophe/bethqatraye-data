@@ -105,7 +105,7 @@
             <citedRange unit="pp">287</citedRange>
           </bibl>
                     <bibl xml:id="bib5016-3">
-                        <title level="a">https://gazetteer.dainst.org/app/#!/show/2043228</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="https://gazetteer.dainst.org/app/#!/show/2043228"/>
+                        <title level="a">https://gazetteer.dainst.org/app/#!/show/2043228</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="https://gazetteer.dainst.org/app/#!/show/2043228"/>
                     </bibl><bibl xml:id="bib5016-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">287</citedRange></bibl>
         </place>
       </listPlace>

@@ -156,7 +156,7 @@
                   <citedRange unit="pp">26</citedRange>
                </bibl>
                     <bibl xml:id="bib3000-3">
-                        <title level="a">http://www.geonames.org/1123004/taloqan.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://www.geonames.org/1123004/taloqan.html"/>
+                        <title level="a">http://www.geonames.org/1123004/taloqan.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/1123004/taloqan.html"/>
                     </bibl>
             </place>
          </listPlace>

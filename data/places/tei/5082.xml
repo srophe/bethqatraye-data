@@ -108,7 +108,7 @@
             <citedRange unit="pp">169, 171, 172, 177</citedRange>
           </bibl>
                     <bibl xml:id="bib5082-3">
-                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Muzdalifah&amp;params=21_23_10_N_39_54_44_E_type:landmark</title><author>GeoHack</author> <ref target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Muzdalifah&amp;params=21_23_10_N_39_54_44_E_type:landmark"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Muzdalifah&amp;params=21_23_10_N_39_54_44_E_type:landmark</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Muzdalifah&amp;params=21_23_10_N_39_54_44_E_type:landmark"/>
                     </bibl><bibl xml:id="bib5082-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">145</citedRange></bibl><bibl xml:id="bib5082-5"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">181</citedRange></bibl><bibl xml:id="bib5082-6"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">183</citedRange></bibl>
         </place>
       </listPlace>

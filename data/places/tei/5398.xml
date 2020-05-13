@@ -96,7 +96,7 @@
             <citedRange unit="pp">25</citedRange>
           </bibl>
                     <bibl xml:id="bib5398-2">
-                        <title level="a">http://tools.wmflabs.org/geohack/geohack.php?pagename=Nawqan&amp;params=36_17_40.6_N_59_37_20.7_E_</title><author>GeoHack</author> <ref target="http://tools.wmflabs.org/geohack/geohack.php?pagename=Nawqan&amp;params=36_17_40.6_N_59_37_20.7_E_"/>
+                        <title level="a">http://tools.wmflabs.org/geohack/geohack.php?pagename=Nawqan&amp;params=36_17_40.6_N_59_37_20.7_E_</title><author>GeoHack</author> <ptr target="http://tools.wmflabs.org/geohack/geohack.php?pagename=Nawqan&amp;params=36_17_40.6_N_59_37_20.7_E_"/>
                     </bibl>
         </place>
       </listPlace>

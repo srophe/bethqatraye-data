@@ -122,7 +122,7 @@
                <idno type="URI">https://dbpedia.org/resource/Jalawla</idno>
                <bibl xml:id="bib2978-1">
                   <title level="a">https://pleiades.stoa.org/places/894013</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                  <ref target="https://pleiades.stoa.org/places/894013"/>
+                  <ptr target="https://pleiades.stoa.org/places/894013"/>
                </bibl>
                <bibl xml:id="bib2978-2">
                   <title xml:lang="en" level="m">Kitāb al-buldān</title>

@@ -170,7 +170,7 @@
           <bibl xml:id="bib5109-4">
             <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
             <editor>P. Bearman</editor>
-            <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6434"/>
+            <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6434"/>
           </bibl>
         </place>
       </listPlace>

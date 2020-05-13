@@ -98,7 +98,7 @@
             <citedRange unit="vol">1</citedRange><citedRange unit="pp">371-372</citedRange>
           </bibl>
                     <bibl xml:id="bib4160-2">
-                        <title level="a">http://pleiades.stoa.org/places/912881</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ref target="http://pleiades.stoa.org/places/912881"/>
+                        <title level="a">http://pleiades.stoa.org/places/912881</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor> <ptr target="http://pleiades.stoa.org/places/912881"/>
                     </bibl>
           <bibl xml:id="bib4160-3">
             <title xml:lang="en" level="m">Acta martyrum et sanctorum</title>

@@ -92,7 +92,7 @@
             <citedRange unit="pp">249</citedRange>
           </bibl>
                     <bibl xml:id="bib5537-2">
-                        <title level="a">https://www.google.com/maps/place/Zurud+Saudi+Arabia/@27.8250703,43.1836937,14z/data=!3m1!4b1!4m5!3m4!1s0x15797fdb1f7334b9:0xe51e851f1dc279c7!8m2!3d27.8288483!4d43.1989273</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ref target="https://www.google.com/maps/place/Zurud+Saudi+Arabia/@27.8250703,43.1836937,14z/data=!3m1!4b1!4m5!3m4!1s0x15797fdb1f7334b9:0xe51e851f1dc279c7!8m2!3d27.8288483!4d43.1989273"/>
+                        <title level="a">https://www.google.com/maps/place/Zurud+Saudi+Arabia/@27.8250703,43.1836937,14z/data=!3m1!4b1!4m5!3m4!1s0x15797fdb1f7334b9:0xe51e851f1dc279c7!8m2!3d27.8288483!4d43.1989273</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://www.google.com/maps/place/Zurud+Saudi+Arabia/@27.8250703,43.1836937,14z/data=!3m1!4b1!4m5!3m4!1s0x15797fdb1f7334b9:0xe51e851f1dc279c7!8m2!3d27.8288483!4d43.1989273"/>
                     </bibl>
         </place>
       </listPlace>

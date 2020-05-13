@@ -206,7 +206,7 @@
                     </bibl>
                     <bibl xml:id="bib299-4">
                         <title level="a">http://pleiades.stoa.org/places/668208</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ref target="http://pleiades.stoa.org/places/668208"/>
+                        <ptr target="http://pleiades.stoa.org/places/668208"/>
                     </bibl>
                     <bibl xml:id="bib299-5">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
@@ -224,7 +224,7 @@
                     <bibl xml:id="bib299-7">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1147"/>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_1147"/>
                     </bibl>
                 </place>
             </listPlace>

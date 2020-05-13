@@ -107,7 +107,7 @@
                <idno type="URI">http://syriaca.org/place/5572</idno>
                <bibl xml:id="bib5572-1">
                   <title level="a">https://pleiades.stoa.org/places/942281</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                  <ref target="https://pleiades.stoa.org/places/942281"/>
+                  <ptr target="https://pleiades.stoa.org/places/942281"/>
                </bibl>
                <bibl xml:id="bib5572-2">
                   <title xml:lang="en" level="m">Aḥsan al-taqāsīm fī maʿrifat al-aqālīm</title>

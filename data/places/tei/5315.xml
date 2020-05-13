@@ -95,7 +95,7 @@
             <citedRange unit="pp">47</citedRange>
           </bibl>
                     <bibl xml:id="bib5315-2">
-                        <title level="a">http://www.geonames.org/1160939/iranshahr.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://www.geonames.org/1160939/iranshahr.html"/>
+                        <title level="a">http://www.geonames.org/1160939/iranshahr.html</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://www.geonames.org/1160939/iranshahr.html"/>
                     </bibl>
         </place>
       </listPlace>

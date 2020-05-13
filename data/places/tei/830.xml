@@ -197,7 +197,7 @@
                     </bibl>
                     <bibl xml:id="bib830-2">
                         <title level="a">http://pleiades.stoa.org/places/902990</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ref target="http://pleiades.stoa.org/places/902990"/>
+                        <ptr target="http://pleiades.stoa.org/places/902990"/>
                     </bibl>
                     <bibl xml:id="bib830-3">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
@@ -233,7 +233,7 @@
                             662</citedRange>
                     </bibl>
                     <bibl xml:id="bib830-8">
-                        <title level="a">http://gazetteer.dainst.org/place/2089954</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="http://gazetteer.dainst.org/place/2089954"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2089954</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2089954"/>
                     </bibl>
                 </place>
             </listPlace>

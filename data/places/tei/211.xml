@@ -241,7 +241,7 @@
                     </bibl>
                     <bibl xml:id="bib211-7">
                         <title level="a">http://pleiades.stoa.org/places/894043</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ref target="http://pleiades.stoa.org/places/894043"/>
+                        <ptr target="http://pleiades.stoa.org/places/894043"/>
                     </bibl>
                     <bibl xml:id="bib211-8">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
@@ -268,10 +268,10 @@
                     <bibl xml:id="bib211-11">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0659"/>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_0659"/>
                     </bibl>
                     <bibl xml:id="bib211-12">
-                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Anbar_(town)&amp;params=33_22.5_N_43_43_E_region:IQ_type:city</title><author>GeoHack</author> <ref target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Anbar_(town)&amp;params=33_22.5_N_43_43_E_region:IQ_type:city"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?pagename=Anbar_(town)&amp;params=33_22.5_N_43_43_E_region:IQ_type:city</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?pagename=Anbar_(town)&amp;params=33_22.5_N_43_43_E_region:IQ_type:city"/>
                     </bibl>
                     <bibl xml:id="bib211-13">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī

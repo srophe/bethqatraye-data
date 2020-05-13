@@ -101,10 +101,10 @@
                     <bibl xml:id="bib5145-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7976"/>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_7976"/>
                     </bibl>
                     <bibl xml:id="bib5145-3">
-                        <title level="a">https://goo.gl/maps/G9meAo9ZXmvdNrQCA</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ref target="https://goo.gl/maps/G9meAo9ZXmvdNrQCA"/>
+                        <title level="a">https://goo.gl/maps/G9meAo9ZXmvdNrQCA</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://goo.gl/maps/G9meAo9ZXmvdNrQCA"/>
                     </bibl>
         </place>
       </listPlace>

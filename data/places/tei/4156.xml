@@ -308,7 +308,7 @@
                         <editor>Tom Elliott</editor>
                         <editor>Lindsay Holman</editor>
                         <editor>et al.</editor>
-                        <ref target="https://pleiades.stoa.org/places/932479"/>
+                        <ptr target="https://pleiades.stoa.org/places/932479"/>
                     </bibl>
                     <bibl xml:id="bib4156-11">
                         <title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār

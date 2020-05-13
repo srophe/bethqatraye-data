@@ -83,7 +83,7 @@
           <bibl xml:id="bib5499-1">
             <title xml:lang="en" level="m">Riḥlat Ibn Jubayr</title><author>Ibn Jubayr</author><editor>M.J. de Goeje</editor><ptr target="http://syriaca.org/bibl/WDUISTPU"/> 
             <citedRange unit="pp">203</citedRange>
-          </bibl><bibl xml:id="bib5499-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ref target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1219"/></bibl>
+          </bibl><bibl xml:id="bib5499-2"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_1219"/></bibl>
         </place>
       </listPlace>
     </body>

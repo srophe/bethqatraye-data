@@ -141,10 +141,10 @@
                     <bibl xml:id="bib5480-3">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6573"/>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_6573"/>
                     </bibl>
                     <bibl xml:id="bib5480-4">
-                        <title level="a">http://gazetteer.dainst.org/place/2283182</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ref target="http://gazetteer.dainst.org/place/2283182"/>
+                        <title level="a">http://gazetteer.dainst.org/place/2283182</title><title level="m">iDAI.gazetteer</title> <author>Deutsches Archäologisches Institute</author> <ptr target="http://gazetteer.dainst.org/place/2283182"/>
                     </bibl>
         </place>
       </listPlace>

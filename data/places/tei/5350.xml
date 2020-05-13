@@ -102,10 +102,10 @@
                     <bibl xml:id="bib5350-2">
                         <title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title>
                         <editor>P. Bearman</editor>
-                        <ref target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4205"/>
+                        <ptr target="http://dx.doi.org/10.1163/1573-3912_islam_SIM_4205"/>
                     </bibl>
                     <bibl xml:id="bib5350-3">
-                        <title level="a">http://sws.geonames.org/1484843</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ref target="http://sws.geonames.org/1484843"/>
+                        <title level="a">http://sws.geonames.org/1484843</title><title level="m">GeoNames</title> <editor>Marc Wick</editor> <ptr target="http://sws.geonames.org/1484843"/>
                     </bibl>
         </place>
       </listPlace>

@@ -93,7 +93,7 @@
             <citedRange unit="pp">198</citedRange>
           </bibl>
                     <bibl xml:id="bib5246-2">
-                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=بئر_رومة&amp;params=24.49288611_N_39.577475_E_globe:earth_type:landmark</title><author>GeoHack</author> <ref target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=بئر_رومة&amp;params=24.49288611_N_39.577475_E_globe:earth_type:landmark"/>
+                        <title level="a">https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=بئر_رومة&amp;params=24.49288611_N_39.577475_E_globe:earth_type:landmark</title><author>GeoHack</author> <ptr target="https://tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=بئر_رومة&amp;params=24.49288611_N_39.577475_E_globe:earth_type:landmark"/>
                     </bibl>
         </place>
       </listPlace>

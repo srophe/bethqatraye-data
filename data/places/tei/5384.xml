@@ -95,7 +95,7 @@
             <citedRange unit="pp">217, 661</citedRange>
           </bibl>
                     <bibl xml:id="bib5384-2">
-                        <title level="a">https://goo.gl/maps/MJbvWG4nnzzooCBL9</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ref target="https://goo.gl/maps/MJbvWG4nnzzooCBL9"/>
+                        <title level="a">https://goo.gl/maps/MJbvWG4nnzzooCBL9</title><title level="m">Google Maps</title> <editor>Andrew Lookingbill</editor> <editor>Ethan Russell</editor> <ptr target="https://goo.gl/maps/MJbvWG4nnzzooCBL9"/>
                     </bibl><bibl xml:id="bib5384-3"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">217</citedRange></bibl><bibl xml:id="bib5384-4"><title xml:lang="en" level="m">Riḥlat Ibn Baṭṭūta. Tuḥfat al-nuẓẓār fī gharāʾib al-amṣār wa-ʿajāʾib al-asfār</title><author>Ibn Baṭṭūta</author><ptr target="http://syriaca.org/bibl/QVIUC5ZC"/><citedRange unit="pp">661</citedRange></bibl>
         </place>
       </listPlace>

@@ -122,7 +122,7 @@
                <idno type="URI">https://dbpedia.org/resource/Indus_River</idno>
                <bibl xml:id="bib2950-1">
                   <title level="a">https://pleiades.stoa.org/places/59851</title><title level="m">Pleiades: A Gazetteer of Past Places</title><editor>Roger Bagnall</editor><editor>Richard Talbert</editor><editor>Tom Elliott</editor><editor>Lindsay Holman</editor><editor>et al.</editor>
-                  <ref target="https://pleiades.stoa.org/places/59851"/>
+                  <ptr target="https://pleiades.stoa.org/places/59851"/>
                </bibl>
                <bibl xml:id="bib2950-2">
                   <title xml:lang="en" level="m">Kitāb al-aʿlāq al-nafīsa</title>

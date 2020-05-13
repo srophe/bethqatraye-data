@@ -182,7 +182,7 @@
             <author>Ibn Baṭṭūta</author>
             <ptr target="http://syriaca.org/bibl/QVIUC5ZC"/>
             <citedRange unit="pp">661</citedRange>
-          </bibl><bibl xml:id="bib2943-4"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ref target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0700"/></bibl>
+          </bibl><bibl xml:id="bib2943-4"><title xml:lang="en" level="m">Encyclopaedia of Islam, Second Edition</title><editor>P. Bearman</editor><ptr target="http://dx.doi.org/10.1163/1573-3912_islam_COM_0700"/></bibl>
         </place>
       </listPlace>
     </body>

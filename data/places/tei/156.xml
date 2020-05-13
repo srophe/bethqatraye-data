@@ -169,7 +169,7 @@
                     </bibl>
                     <bibl xml:id="bib156-3">
                         <title level="a">http://pleiades.stoa.org/places/29713</title><title level="m">Pleiades: A Gazetteer of Past Places</title> <editor>Roger Bagnall</editor> <editor>Richard Talbert</editor> <editor>Tom Elliott</editor> <editor>Lindsay Holman</editor> <editor>et al.</editor>
-                        <ref target="http://pleiades.stoa.org/places/29713"/>
+                        <ptr target="http://pleiades.stoa.org/places/29713"/>
                     </bibl>
                     <bibl xml:id="bib156-4">
                         <title xml:lang="en" level="m">Muʿjam al-buldān</title>
