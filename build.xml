@@ -2,7 +2,7 @@
 <project default="xar" name="bethqatraye-data">
     <xmlproperty file="expath-pkg.xml"/>
     <property name="project.version" value="${package(version)}"/>
-    <property name="project.app" value="bethqatraye-data"/>
+    <property name="project.app" value="zbethqatraye-data"/>
     <property name="build.dir" value="build"/>
     <target name="xar">
         <mkdir dir="${build.dir}"/>
