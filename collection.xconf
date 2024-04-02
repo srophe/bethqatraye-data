@@ -28,6 +28,7 @@
             <create qname="@syriaca-computed-start" type="xs:date"/>
             <create qname="@syriaca-computed-end" type="xs:date"/>
             <create qname="@type" type="xs:string"/>
+            <create qname="@subtype" type="xs:string"/>
             <create qname="@ana" type="xs:string"/>
             <create qname="@syriaca-tags" type="xs:string"/>
             <create qname="@when" type="xs:string"/>
